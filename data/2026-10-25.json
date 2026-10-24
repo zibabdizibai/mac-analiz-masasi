@@ -1,0 +1,238 @@
+{
+ "day": "2026-10-25",
+ "updatedAt": 1792876426589,
+ "analyses": {},
+ "futbol": {
+  "matches": [
+   {
+    "id": "futbol-2026-10-25-konyaspor-genclerbirligi",
+    "league": "Süper Lig",
+    "time": "16:00",
+    "home": "Konyaspor",
+    "away": "Gençlerbirliği",
+    "venue": "Medaş Konya Büyükşehir Stadyumu",
+    "note": "9. haftada orta sıradaki Konyaspor, iç sahada ankaralı rakibine karşı puan arıyor."
+   },
+   {
+    "id": "futbol-2026-10-25-goztepe-corum-fk",
+    "league": "Süper Lig",
+    "time": "19:00",
+    "home": "Göztepe",
+    "away": "Çorum FK",
+    "venue": "Gürsel Aksel Stadyumu",
+    "note": "İzmir'de üst sıraları hedefleyen Göztepe, sezonun sürpriz takımlarından Çorum FK'yı ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-10-25-manchester-united-bournemouth",
+    "league": "Premier Lig",
+    "time": "17:00",
+    "home": "Manchester United",
+    "away": "Bournemouth",
+    "venue": "Old Trafford",
+    "note": "United, Old Trafford'da tempolu oyunuyla bilinen Bournemouth'u konuk ediyor."
+   },
+   {
+    "id": "futbol-2026-10-25-liverpool-brighton",
+    "league": "Premier Lig",
+    "time": "17:00",
+    "home": "Liverpool",
+    "away": "Brighton",
+    "venue": "Anfield",
+    "note": "Liverpool, Anfield'da her zaman zorlayıcı rakip Brighton'la karşılaşıyor."
+   },
+   {
+    "id": "futbol-2026-10-25-crystal-palace-newcastle",
+    "league": "Premier Lig",
+    "time": "17:00",
+    "home": "Crystal Palace",
+    "away": "Newcastle",
+    "venue": "Selhurst Park",
+    "note": "Newcastle, Londra'da fiziksel oyunuyla bilinen Crystal Palace'a konuk."
+   },
+   {
+    "id": "futbol-2026-10-25-athletic-bilbao-getafe",
+    "league": "La Liga",
+    "time": "16:00",
+    "home": "Athletic Bilbao",
+    "away": "Getafe",
+    "venue": "San Mamés",
+    "note": "Athletic, savunma ağırlıklı Getafe karşısında San Mamés'te üç puan peşinde."
+   },
+   {
+    "id": "futbol-2026-10-25-real-sociedad-levante",
+    "league": "La Liga",
+    "time": "20:30",
+    "home": "Real Sociedad",
+    "away": "Levante",
+    "venue": "Reale Arena",
+    "note": "Real Sociedad, hafta içi Athletic'i yenen Levante'yi ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-10-25-barcelona-real-madrid",
+    "league": "La Liga",
+    "time": "23:00",
+    "home": "Barcelona",
+    "away": "Real Madrid",
+    "venue": "Spotify Camp Nou",
+    "note": "Sezonun ilk El Clásico'su: Barcelona, Real Madrid'i Camp Nou'da ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-10-25-inter-fiorentina",
+    "league": "Serie A",
+    "time": "14:30",
+    "home": "Inter",
+    "away": "Fiorentina",
+    "venue": "San Siro",
+    "note": "Lider Inter, Şampiyonlar Ligi sonrası öğle maçında Fiorentina'yı ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-10-25-lecce-juventus",
+    "league": "Serie A",
+    "time": "20:00",
+    "home": "Lecce",
+    "away": "Juventus",
+    "venue": "Stadio Via del Mare",
+    "note": "Juventus, Avrupa Ligi maçının ardından zorlu Lecce deplasmanında."
+   },
+   {
+    "id": "futbol-2026-10-25-udinese-milan",
+    "league": "Serie A",
+    "time": "22:45",
+    "home": "Udinese",
+    "away": "Milan",
+    "venue": "Bluenergy Stadium",
+    "note": "Milan, Avrupa Ligi dönüşü Udine'de; derbi öncesi kritik sınav."
+   },
+   {
+    "id": "futbol-2026-10-25-hoffenheim-bayer-leverkusen",
+    "league": "Bundesliga",
+    "time": "17:30",
+    "home": "Hoffenheim",
+    "away": "Bayer Leverkusen",
+    "venue": "PreZero Arena",
+    "note": "Hoffenheim ile Leverkusen, Bundesliga'nın 7. haftasında Sinsheim'da karşı karşıya."
+   },
+   {
+    "id": "futbol-2026-10-25-freiburg-bayern-munih",
+    "league": "Bundesliga",
+    "time": "19:30",
+    "home": "Freiburg",
+    "away": "Bayern Münih",
+    "venue": "Europa-Park Stadion",
+    "note": "Bayern, Avrupa haftası sonrası zorlu Freiburg deplasmanında."
+   },
+   {
+    "id": "futbol-2026-10-25-monaco-lille",
+    "league": "Ligue 1",
+    "time": "17:00",
+    "home": "Monaco",
+    "away": "Lille",
+    "venue": "Stade Louis II",
+    "note": "Zirve ortaklarından Monaco ile Lille arasında üst sıra düellosu."
+   }
+  ]
+ },
+ "basketbol": {
+  "matches": [
+   {
+    "id": "basketbol-2026-10-25-anadolu-efes-biotekno-korfez-basket",
+    "league": "Basketbol Süper Ligi",
+    "time": "13:00",
+    "home": "Anadolu Efes",
+    "away": "Biotekno Körfez Basket",
+    "venue": "Turkcell Basketbol Gelişim Merkezi",
+    "note": "Ligdeki ilk yenilgisini alan Efes, Körfez karşısında toparlanmak istiyor."
+   },
+   {
+    "id": "basketbol-2026-10-25-karsiyaka-fenerbahce-tarfin",
+    "league": "Basketbol Süper Ligi",
+    "time": "15:30",
+    "home": "Karşıyaka",
+    "away": "Fenerbahçe Tarfin",
+    "venue": "Mustafa Kemal Atatürk Karşıyaka Spor Salonu",
+    "note": "Fenerbahçe Tarfin, EuroLeague temposu arasında İzmir'de Karşıyaka deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-10-25-tofas-aliaga-petkimspor",
+    "league": "Basketbol Süper Ligi",
+    "time": "18:00",
+    "home": "TOFAŞ",
+    "away": "Aliağa Petkimspor",
+    "venue": "TOFAŞ Nilüfer Spor Salonu",
+    "note": "Fenerbahçe'yi deplasmanda yenen Petkimspor, Bursa'da TOFAŞ'a konuk."
+   },
+   {
+    "id": "basketbol-2026-10-25-galatasaray-mct-technic-pizzabulls-bord",
+    "league": "Basketbol Süper Ligi",
+    "time": "20:30",
+    "home": "Galatasaray MCT Technic",
+    "away": "Pizzabulls Bordo Bandırma",
+    "venue": "Sinan Erdem Spor Salonu",
+    "note": "Kötü başlangıç yapan Galatasaray, Bandırma karşısında çıkış arıyor."
+   },
+   {
+    "id": "basketbol-2026-10-25-philadelphia-76ers-milwaukee-bucks",
+    "league": "NBA",
+    "time": "02:30",
+    "home": "Philadelphia 76ers",
+    "away": "Milwaukee Bucks",
+    "venue": "Xfinity Mobile Arena",
+    "note": "NBA TV çift maçının açılışı: 76ers ile Bucks Doğu'nun erken sınavında."
+   },
+   {
+    "id": "basketbol-2026-10-25-dallas-mavericks-san-antonio-spurs",
+    "league": "NBA",
+    "time": "03:00",
+    "home": "Dallas Mavericks",
+    "away": "San Antonio Spurs",
+    "venue": "American Airlines Center",
+    "note": "Teksas derbisi: Mavericks iç saha açılışında 0-2 başlayan Spurs'ü ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-10-25-phoenix-suns-golden-state-warriors",
+    "league": "NBA",
+    "time": "05:00",
+    "home": "Phoenix Suns",
+    "away": "Golden State Warriors",
+    "venue": "Mortgage Matchup Center",
+    "note": "Curry ile Booker'ın karşılaştığı Batı Konferansı maçı."
+   },
+   {
+    "id": "basketbol-2026-10-25-valencia-basket-kosner-baskonia",
+    "league": "ACB",
+    "time": "19:00",
+    "home": "Valencia Basket",
+    "away": "Kosner Baskonia",
+    "venue": "Roig Arena",
+    "note": "EuroLeague ekipleri Valencia ve Baskonia, Liga Endesa'nın 5. haftasında karşı karşıya."
+   },
+   {
+    "id": "basketbol-2026-10-25-rio-breogan-unicaja",
+    "league": "ACB",
+    "time": "20:00",
+    "home": "Río Breogán",
+    "away": "Unicaja",
+    "venue": "Pazo dos Deportes de Lugo",
+    "note": "Unicaja, Lugo'da sert atmosferde Breogán deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-10-25-ilerna-lleida-real-madrid",
+    "league": "ACB",
+    "time": "21:00",
+    "home": "iLERNA Lleida",
+    "away": "Real Madrid",
+    "venue": "Pavelló Barris Nord",
+    "note": "Real Madrid, EuroLeague temposu arasında Lleida deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-10-25-armani-olimpia-milano-virtus-bologna",
+    "league": "LBA",
+    "time": "18:00",
+    "home": "Armani Olimpia Milano",
+    "away": "Virtus Bologna",
+    "venue": "Unipol Forum",
+    "note": "İtalya'nın 'Derby d'Italia'sı: iki EuroLeague takımı sezonun üçüncü kez karşı karşıya."
+   }
+  ]
+ }
+}
