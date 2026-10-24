@@ -84,6 +84,24 @@ a{color:var(--accent)}
 .src{font-size:12.5px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 12px}
 .src a{overflow-wrap:anywhere}
 .foot{font-size:12.5px;color:var(--muted);margin-top:16px}
+.karne{margin-top:16px;display:flex;flex-direction:column;gap:12px}
+.karne-head{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:baseline;justify-content:space-between}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
+.stat{border:1px solid var(--line);border-radius:8px;padding:10px 12px;background:var(--soft)}
+.stat .k{font-family:var(--display);font-weight:700;text-transform:uppercase;letter-spacing:.06em;font-size:12.5px;color:var(--muted)}
+.stat .v{font-family:var(--display);font-weight:800;font-size:28px;line-height:1.1;font-variant-numeric:tabular-nums}
+.stat .s{font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.stat.main{border-color:var(--accent)}
+.karne ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:4px}
+.score{font-family:var(--mono);font-size:12px;font-weight:500;font-variant-numeric:tabular-nums;white-space:nowrap}
+.res{align-self:flex-start;font-family:var(--mono);font-size:11px;font-weight:500;padding:1px 8px;border-radius:999px}
+.res.tuttu{background:var(--good);color:var(--panel)}
+.res.tutmadı{background:var(--bad);color:var(--panel)}
+.res.iade,.res.belirsiz{border:1px solid var(--muted);color:var(--muted)}
+.pick.r-tuttu{border-color:var(--good)}
+.pick.r-tutmadı{opacity:.8}
+.final{font-family:var(--display);font-weight:800;font-size:20px;letter-spacing:.03em}
+.final small{font-family:var(--mono);font-weight:400;font-size:12px;color:var(--muted);letter-spacing:0}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
@@ -108,6 +126,8 @@ a{color:var(--accent)}
     </div>
   </div>
 
+  <section class="panel karne" id="karne" hidden aria-labelledby="kh"></section>
+
   <div class="grid">
     <section class="panel" aria-labelledby="lh">
       <p class="label" id="lh">Günün maçları</p>
@@ -128,7 +148,7 @@ a{color:var(--accent)}
 <script>
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-let sport="futbol", data=null, current=null;
+let sport="futbol", data=null, current=null, karne=null;
 
 const fmtDay=d=>new Date(d+"T12:00:00").toLocaleDateString("tr-TR",{day:"numeric",month:"long",weekday:"short"});
 
@@ -149,7 +169,26 @@ async function loadDay(d){
   current=null;showEmpty();$("listStatus").textContent="Yükleniyor…";$("fx").innerHTML="";
   try{data=await getJSON(`data/${d}.json`)}catch(e){data=null;$("listStatus").textContent="Bu günün verisi bulunamadı.";return}
   $("upd").textContent=data.updatedAt?"Son güncelleme: "+new Date(data.updatedAt).toLocaleString("tr-TR",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}):"";
-  renderList();
+  try{karne=await getJSON(`data/karne/${d}.json`)}catch(e){karne=null}
+  renderKarne();renderList();
+}
+const pct=(t,n)=>n?Math.round(100*t/n)+"%":"–";
+function statBox(k,b,main){const n=b.tuttu+b["tutmadı"];return `<div class="stat${main?" main":""}"><div class="k">${esc(k)}</div><div class="v">${pct(b.tuttu,n)}</div><div class="s">${b.tuttu}/${n} tuttu${b.iade?` · ${b.iade} iade`:""}</div></div>`}
+function renderKarne(){
+  const el=$("karne");
+  if(!karne||!karne.summary){el.hidden=true;el.innerHTML="";return}
+  const s=karne.summary, z={tuttu:0,"tutmadı":0,iade:0,belirsiz:0};
+  const add=(a,b)=>{const o={...z};for(const k in o)o[k]=(a[k]||0)+(b[k]||0);return o};
+  const oy=add(s.risk["orta"]||z,s.risk["yüksek"]||z);
+  const v=s.verdict||{tuttu:0,toplam:0};
+  el.hidden=false;
+  el.innerHTML=`<div class="karne-head"><p class="label" id="kh" style="margin:0">Günün karnesi · ${esc(fmtDay(karne.day))}</p><span class="meta">${Object.keys(karne.matches||{}).length} maç değerlendirildi</span></div>
+   <div class="stats">${statBox("Tüm öneriler",s.genel,true)}
+     <div class="stat"><div class="k">Maç kararı</div><div class="v">${pct(v.tuttu,v.toplam)}</div><div class="s">${v.tuttu}/${v.toplam} maçta tuttu</div></div>
+     ${statBox("Orta + yüksek risk",oy)}
+     ${["düşük","orta","yüksek"].filter(r=>s.risk[r]).map(r=>statBox(r[0].toUpperCase()+r.slice(1)+" risk",s.risk[r])).join("")}
+     ${["futbol","basketbol"].filter(x=>s.spor[x]).map(x=>statBox(x==="futbol"?"Futbol":"Basketbol",s.spor[x])).join("")}</div>
+   ${(karne.notes||[]).length?`<ul>${karne.notes.map(n=>`<li>${esc(n)}</li>`).join("")}</ul>`:""}`;
 }
 $("day").onchange=e=>{history.replaceState(null,"","#"+e.target.value);loadDay(e.target.value)};
 document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{
@@ -169,7 +208,9 @@ function renderList(){
     if(m.league!==lg){lg=m.league;const h=document.createElement("li");h.className="lg";h.textContent=lg||"Diğer";ul.append(h)}
     const li=document.createElement("li"),b=document.createElement("button");
     b.className="m";b.type="button";b.setAttribute("aria-current",current&&current.id===m.id?"true":"false");
-    b.innerHTML=`<span class="t">${esc(m.time||"--:--")}</span><span class="teams"><b>${esc(m.home)}</b><b>${esc(m.away)}</b></span>${an[m.id]?'<span class="chip">Analiz var</span>':""}`;
+    const kg=karne&&karne.matches&&karne.matches[m.id];
+    const right=kg&&kg.score?`<span class="score">${esc(kg.score)}</span>`:an[m.id]?'<span class="chip">Analiz var</span>':"";
+    b.innerHTML=`<span class="t">${esc(m.time||"--:--")}</span><span class="teams"><b>${esc(m.home)}</b><b>${esc(m.away)}</b></span>${right}`;
     b.onclick=()=>openMatch(m);li.append(b);ul.append(li);
   });
 }
@@ -182,17 +223,21 @@ function openMatch(m){
   current=m;renderList();$("empty").hidden=true;const d=$("desk");d.hidden=false;
   const a=(data.analyses||{})[m.id];
   const head=`<div><p class="label">${esc(m.league)} · ${esc(fmtDay(data.day))} ${esc(m.time)}</p><h2>${esc(m.home)} – ${esc(m.away)}</h2>${m.venue?`<div class="meta">${esc(m.venue)}</div>`:""}</div>`;
-  if(!a){d.innerHTML=head+(m.note?`<p>${esc(m.note)}</p>`:"")+`<p class="status">Bu maç için analiz hazırlanmadı. Her gün öne çıkan 10 maç analiz edilir.</p>`;return}
+  if(!a){d.innerHTML=head+(m.note?`<p>${esc(m.note)}</p>`:"")+`<p class="status">Bu maç için analiz hazırlanmadı.</p>`;return}
   const r=a.result||{};
-  const picks=(r.picks||[]).map(p=>`<div class="pick"><span class="lvl ${lvl(p.risk)}">${esc(p.risk||"orta")} risk</span><div class="mkt">${esc(p.market)}</div>
-    <div class="conf"><span>Güven</span><span class="meter"><i style="width:${Math.max(0,Math.min(100,+p.confidence||0))}%"></i></span><span>${Math.round(+p.confidence||0)}</span></div><div>${esc(p.reason)}</div></div>`).join("");
+  const kg=karne&&karne.matches&&karne.matches[m.id];
+  const resLbl={tuttu:"Tuttu","tutmadı":"Tutmadı",iade:"İade",belirsiz:"Belirsiz"};
+  const finalHTML=kg?`<div class="final">Sonuç: ${esc(kg.score||"–")} ${kg.detail?`<small>${esc(kg.detail)}</small>`:""} <span class="res ${kg.verdictHit?"tuttu":"tutmadı"}">Karar ${kg.verdictHit?"tuttu":"tutmadı"}</span></div>${kg.note?`<p class="meta">${esc(kg.note)}</p>`:""}`:"";
+  const picks=(r.picks||[]).map((p,i)=>{const pr=kg&&kg.picks&&kg.picks[i]?kg.picks[i].result:null;
+    return `<div class="pick${pr?" r-"+pr:""}">${pr?`<span class="res ${pr}">${resLbl[pr]||pr}</span>`:""}<span class="lvl ${lvl(p.risk)}">${esc(p.risk||"orta")} risk</span><div class="mkt">${esc(p.market)}</div>
+    <div class="conf"><span>Güven</span><span class="meter"><i style="width:${Math.max(0,Math.min(100,+p.confidence||0))}%"></i></span><span>${Math.round(+p.confidence||0)}</span></div><div>${esc(p.reason)}</div></div>`}).join("");
   const news=(r.news||[]).map(n=>`<li><span class="tag imp-${n.impact==="yüksek"?"high":n.impact==="düşük"?"low":"mid"}">${esc(n.impact||"orta")}</span><span>${esc(n.text)} ${n.url?linkify(n.url,"kaynak"):""}</span></li>`).join("")||'<li><span class="status">Son 48 saatte önemli bir kadro haberi bulunamadı.</span></li>';
   const fac=(r.factors||[]).map(f=>`<li>${sideTag(f.side,m)}<span>${esc(f.text)}</span></li>`).join("");
   const cmp=r.comparisons||[];const ag=x=>x==="evet"?["yes","Aynı"]:x==="hayır"?["no","Farklı"]:["part","Kısmen"];
   const cmpHTML=cmp.length?`<div class="tbl"><table><thead><tr><th>Kaynak</th><th>Tahmin</th><th>Bizimle</th></tr></thead><tbody>${cmp.map(c=>`<tr><td>${c.url?linkify(c.url,c.site):esc(c.site)}</td><td>${esc(c.prediction)}</td><td class="ag ${ag(c.agree)[0]}">${ag(c.agree)[1]}</td></tr>`).join("")}</tbody></table></div>${r.consensus?`<p>${esc(r.consensus)}</p>`:""}`:'<p class="status">Bu maç için yayımlanmış bir site tahmini bulunamadı.</p>';
   const risks=(r.risks||[]).map(x=>`<li><span class="tag imp-mid">!</span><span>${esc(x)}</span></li>`).join("");
   const srcs=(r.sources||[]).slice(0,10).map(s=>linkify(s.url,s.title)).join("");
-  d.innerHTML=head+`<div class="verdict">${esc(r.verdict)}</div><p>${esc(r.summary)}</p>
+  d.innerHTML=head+finalHTML+`<div class="verdict">${esc(r.verdict)}</div><p>${esc(r.summary)}</p>
     <div><p class="label">Oynanabilecek seçenekler</p><div class="picks">${picks}</div></div>
     <div class="cols"><div><p class="label">Kadro ve sakatlık haberleri</p><ul class="plain">${news}</ul></div><div><p class="label">Etkenler</p><ul class="plain">${fac}</ul></div></div>
     <div><p class="label">Diğer sitelerin tahminleri</p>${cmpHTML}</div>

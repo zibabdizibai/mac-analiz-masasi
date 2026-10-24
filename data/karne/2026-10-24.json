@@ -1,0 +1,321 @@
+{
+ "day": "2026-10-24",
+ "updatedAt": 1792875287992,
+ "summary": {
+  "genel": {
+   "tuttu": 19,
+   "tutmadı": 12,
+   "iade": 0,
+   "belirsiz": 1
+  },
+  "risk": {
+   "düşük": {
+    "tuttu": 8,
+    "tutmadı": 2,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "orta": {
+    "tuttu": 9,
+    "tutmadı": 6,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "yüksek": {
+    "tuttu": 2,
+    "tutmadı": 4,
+    "iade": 0,
+    "belirsiz": 1
+   }
+  },
+  "spor": {
+   "futbol": {
+    "tuttu": 12,
+    "tutmadı": 8,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "basketbol": {
+    "tuttu": 7,
+    "tutmadı": 4,
+    "iade": 0,
+    "belirsiz": 1
+   }
+  },
+  "verdict": {
+   "tuttu": 7,
+   "toplam": 8
+  }
+ },
+ "matches": {
+  "futbol-2026-10-24-samsunspor-amed-sf": {
+   "score": "1-2",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Çifte Şans X2",
+     "risk": "düşük",
+     "confidence": 68,
+     "result": "tuttu"
+    },
+    {
+     "market": "MS 2",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu"
+    },
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu"
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "basketbol-2026-10-24-bahcesehir-koleji-besiktas": {
+   "score": "100-96",
+   "detail": "1. periyot 31-24",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "MS 1",
+     "risk": "düşük",
+     "confidence": 64,
+     "result": "tuttu"
+    },
+    {
+     "market": "Ev -2.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu"
+    },
+    {
+     "market": "1. Periyot Ev Sahibi",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu"
+    },
+    {
+     "market": "Ev -7.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-24-valencia-villarreal": {
+   "score": "1-2",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Çifte Şans X2",
+     "risk": "düşük",
+     "confidence": 64,
+     "result": "tuttu"
+    },
+    {
+     "market": "3.5 Alt",
+     "risk": "düşük",
+     "confidence": 70,
+     "result": "tuttu"
+    },
+    {
+     "market": "MS X",
+     "risk": "yüksek",
+     "confidence": 33,
+     "result": "tutmadı"
+    },
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "futbol-2026-10-24-napoli-roma": {
+   "score": "3-3",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "düşük",
+     "confidence": 62,
+     "result": "tuttu"
+    },
+    {
+     "market": "Çifte Şans 1X",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu"
+    },
+    {
+     "market": "MS X",
+     "risk": "yüksek",
+     "confidence": 32,
+     "result": "tuttu"
+    },
+    {
+     "market": "3.5 Alt",
+     "risk": "düşük",
+     "confidence": 66,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "basketbol-2026-10-24-ucam-murcia-leyma-coruna": {
+   "score": "88-81",
+   "detail": "Coruña devreyi önde kapattı",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "MS 1",
+     "risk": "düşük",
+     "confidence": 64,
+     "result": "tuttu"
+    },
+    {
+     "market": "Ev -5.5 Handikap",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tuttu"
+    },
+    {
+     "market": "1. Yarı Ev Sahibi",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Toplam 170.5 Üst",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-24-borussia-dortmund-eintracht-frankfurt": {
+   "score": "1-0",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Çifte Şans 1X",
+     "risk": "düşük",
+     "confidence": 72,
+     "result": "tuttu"
+    },
+    {
+     "market": "MS 1",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tuttu"
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Ev Sahibi 1.5 Üst Gol",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "basketbol-2026-10-24-igokea-m-tel-crvena-zvezda": {
+   "score": "80-81",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "1. periyot skoru henüz doğrulanamadı.",
+   "picks": [
+    {
+     "market": "MS 2",
+     "risk": "düşük",
+     "confidence": 70,
+     "result": "tuttu"
+    },
+    {
+     "market": "Deplasman -6.5 Handikap",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Toplam 174.5 Alt",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu"
+    },
+    {
+     "market": "1. Periyot Igokea +3.5",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "belirsiz"
+    }
+   ]
+  },
+  "futbol-2026-10-24-chelsea-tottenham": {
+   "score": "0-2",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Cole Palmer kırmızı kart gördü; Tottenham 10 kişilik Chelsea'yi yendi.",
+   "picks": [
+    {
+     "market": "Çifte Şans 1X",
+     "risk": "düşük",
+     "confidence": 70,
+     "result": "tutmadı"
+    },
+    {
+     "market": "MS 1",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı"
+    },
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tutmadı"
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı"
+    }
+   ]
+  }
+ },
+ "notes": [
+  "Ara karne: 8 maç değerlendirildi; Atlético – Deportivo, Barça – Zaragoza, Lazio – Parma, Lens – Paris FC, Varese – Roma, Ludwigsburg – Bonn ve Nanterre – Cholet sonuçlanınca eklenecek.",
+  "Nerede yanıldık: Chelsea – Tottenham'da Palmer'ın kırmızı kartıyla 4 öneri de yattı; gol alt/üst çizgilerinde ilk yarıların 0-0 bittiği maçlarda tempo yanlış okundu; -6.5 ve -7.5 gibi büyük handikaplar tutmadı.",
+  "İyi giden: Napoli – Roma'da yüksek riskli beraberlik tuttu, Samsunspor – Amed'de 4'te 4 yapıldı."
+ ]
+}

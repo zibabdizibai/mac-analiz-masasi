@@ -1,6 +1,6 @@
 {
  "day": "2026-10-24",
- "updatedAt": 1792860341503,
+ "updatedAt": 1792875273687,
  "analyses": {
   "basketbol-2026-10-24-bahcesehir-koleji-besiktas": {
    "result": {
@@ -387,6 +387,116 @@
     "verdict": "Bonn kadro ve oran olarak hafif favori, fakat deplasman formu zayıf; yakın bir maç bekleniyor."
    },
    "createdAt": 1792858348657
+  },
+  "basketbol-2026-10-24-nanterre-92-cholet-basket": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Nanterre -6.5",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/basketball/nanterre-vs-cholet-prediction-odds-2026-10-24"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Cholet 84-80 (%52), toplam ~166.6",
+      "site": "Forebet",
+      "url": "https://www.forebet.com/en/basketball/matches/lnb/nanterre-cholet/303777"
+     }
+    ],
+    "consensus": "Kaynaklar ikiye bölünmüş: Sportsgambler net bir Nanterre galibiyeti, Forebet ise kıl payı Cholet galibiyeti bekliyor; ortak payda yakın ve tempolu bir maç.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Nanterre bu sezon iç sahada 3'te 3 yaptı."
+     },
+     {
+      "side": "away",
+      "text": "Cholet son karşılaşmayı 79-66 kazandı ve son 8 maçta 5-3 önde."
+     },
+     {
+      "side": "home",
+      "text": "Cholet bu sezon evinde 3 maçın 2'sini kaybetti, ikinci yarı düşüşleri yaşıyor."
+     },
+     {
+      "side": "away",
+      "text": "Nanterre son maçta %33 isabet ve 6/25 üçlükle şut krizi yaşadı."
+     },
+     {
+      "side": "neutral",
+      "text": "Gençlerin düellosu: Hugo Yimga-Moukouri ile 17 yaşındaki oyun kurucu Aaron Towo-Nansi."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Nanterre BCL'de Rytas'ı 93-65 yendikten sonra ligde Nancy'ye 80-65 kaybetti; Mitchell Saxen 12 sayı 12 ribaund ile tek parlayan isim oldu.",
+      "url": "https://lnb.fr/fr/news/betclic-elite-la-preview-de-la-5e-journee"
+     },
+     {
+      "impact": "düşük",
+      "text": "Cholet, Chalon'a 77-86 yenildi; Digué Diawara 19 sayı, Mohamed Diarra 12 sayı 9 ribaund ile öne çıktı.",
+      "url": "https://www.cholet-basket.com/news/nanterre-vs-cholet-basket-un-duel-pour-rebondir-en-championnat"
+     },
+     {
+      "impact": "düşük",
+      "text": "Cholet üst üste iki deplasmana çıkıyor: önce Nanterre, ardından Strasbourg.",
+      "url": "https://lemans.maville.com/sport/detail_-nanterre-92-cholet-basket-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-de-la-5e-journee-d-elite_54135-7542419_actu.Htm"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 60,
+      "market": "MS 1",
+      "reason": "Nanterre evinde yenilgisiz ve oranlar ev sahibini açık favori görüyor (1.34).",
+      "risk": "düşük"
+     },
+     {
+      "confidence": 55,
+      "market": "Deplasman +6.5 Handikap",
+      "reason": "Cholet son karşılaşmayı kazandı ve Forebet yakın bir maç bekliyor; ev sahibinin çift haneli fark açması zor görünüyor.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 50,
+      "market": "Toplam 163.5 Üst",
+      "reason": "Forebet toplamı 166.6 bekliyor; Nanterre evinde 93 ve 101 sayılık maçlar oynadı.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 45,
+      "market": "Ev -6.5 Handikap",
+      "reason": "Sportsgambler bunu öneriyor, ancak Nanterre'nin son maçtaki şut krizi riski artırıyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Nanterre'nin dış atış isabetsizliğinin sürmesi",
+     "BCL temposu nedeniyle Nanterre'de rotasyon ve yorgunluk",
+     "Cholet'in ikinci yarı düşüşlerinin tersine dönmesi"
+    ],
+    "sources": [
+     {
+      "title": "LNB – 5. hafta önizlemesi",
+      "url": "https://lnb.fr/fr/news/betclic-elite-la-preview-de-la-5e-journee"
+     },
+     {
+      "title": "Cholet Basket – maç önü",
+      "url": "https://www.cholet-basket.com/news/nanterre-vs-cholet-basket-un-duel-pour-rebondir-en-championnat"
+     },
+     {
+      "title": "Ouest-France / maville",
+      "url": "https://lemans.maville.com/sport/detail_-nanterre-92-cholet-basket-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-de-la-5e-journee-d-elite_54135-7542419_actu.Htm"
+     },
+     {
+      "title": "Forebet",
+      "url": "https://www.forebet.com/en/basketball/matches/lnb/nanterre-cholet/303777"
+     }
+    ],
+    "summary": "İki takım da Betclic Élite'te 2-2; Nanterre 9., Cholet 8. sırada. Nanterre bu sezon kendi salonunda 3'te 3 yaptı ama son lig maçında Nancy'de %33 isabet ve 6/25 üçlükle 80-65 kaybetti. Cholet evinde Chalon'a 77-86 yenildi; ilk yarıyı 9 sayı önde kapatmıştı. Cholet son karşılaşmayı 79-66 kazandı ve son 8 maçta 5-3 önde.",
+    "verdict": "Evinde 3'te 3 yapan Nanterre hafif favori, ama son karşılaşmayı kazanan Cholet yakın bir maç çıkarabilir."
+   },
+   "createdAt": 1792861277454
   },
   "basketbol-2026-10-24-openjobmetis-varese-bc-roma": {
    "result": {
@@ -1023,6 +1133,137 @@
     "verdict": "Yenilgisiz ve ikinci sıradaki Lazio, son sıralardaki Parma karşısında net favori."
    },
    "createdAt": 1792858348657
+  },
+  "futbol-2026-10-24-lens-paris-fc": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Lens 2-1, 2.5 Üst",
+      "site": "TopMercato",
+      "url": "https://www.topmercato.com/2150524-pronostic-lens-vs-paris-fc-24-10-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Lens 2-1, 2.5 Üst",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/lens-vs-paris-fc-prediction-24-10-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Lens 2-2 Paris FC (beraberlik, 2.5 Üst)",
+      "site": "Sportskeeda",
+      "url": "https://www.sportskeeda.com/football/lens-vs-paris-fc-prediction-betting-tips-october-24th-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Lens %40 / Paris FC %37, KG Yok",
+      "site": "Le Figaro Paris Sportifs (SportSight)",
+      "url": "https://paris-sportifs.lefigaro.fr/pronostics/lens-paris-fc-24-10-2026"
+     }
+    ],
+    "consensus": "Kaynakların çoğu gollü bir maç ve hafif Lens üstünlüğü bekliyor; Sportskeeda beraberliğe, Le Figaro ise golsüz bir tarafa yatkın.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Lens Paris FC'ye karşı Mart 2019'dan beri resmi maçta yenilmedi; son maç deplasmanda 5-0."
+     },
+     {
+      "side": "home",
+      "text": "Thauvin ligde Lens'in 14 golünün 9'una katkı verdi (3 gol, 6 asist)."
+     },
+     {
+      "side": "away",
+      "text": "Paris FC 7 maçta yalnızca 1 kez kaybetti ve sezon boyunca sadece 22 dakika geride kaldı."
+     },
+     {
+      "side": "away",
+      "text": "Lens Avrupa'da iki maçtır gol atamadı ve Brugge deplasmanından üç gün sonra sahada."
+     },
+     {
+      "side": "home",
+      "text": "Paris FC deplasmanda 3 maçın yalnızca birinde gol buldu ve ligde en çok penaltı veren takım."
+     },
+     {
+      "side": "neutral",
+      "text": "Hakem Mathieu Vernice maç başı 4.2 sarı kartla ortalamanın üstünde."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Lens'te Maik Nawrocki (çapraz bağ), Abdallah Sima ve Jhoanner Chávez (uyluk) yok; Ganiou ve Gradit dönüşe yakın ama belirsiz, Aguilar ayak bileği nedeniyle takipte.",
+      "url": "https://www.topmercato.com/2150524-pronostic-lens-vs-paris-fc-24-10-2026"
+     },
+     {
+      "impact": "orta",
+      "text": "Paris FC'de Jonathan Ikoné ve Nhoa Sangui uyluk sakatlıkları nedeniyle forma giyemeyecek.",
+      "url": "https://www.topmercato.com/2150524-pronostic-lens-vs-paris-fc-24-10-2026"
+     },
+     {
+      "impact": "orta",
+      "text": "Lens Şampiyonlar Ligi'nde Sporting'e 2-0 ve Brugge'e 3-0 yenildi; maça üç günlük dinlenmeyle çıkıyor.",
+      "url": "https://www.sportskeeda.com/football/lens-vs-paris-fc-prediction-betting-tips-october-24th-2026"
+     },
+     {
+      "impact": "düşük",
+      "text": "Lens'te Yannick Cahuzac, Eylül ortasında Dino Toppmöller'in ayrılmasının ardından göreve geldi.",
+      "url": "https://www.topmercato.com/2150524-pronostic-lens-vs-paris-fc-24-10-2026"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 60,
+      "market": "2.5 Üst",
+      "reason": "Lens'in son 5 lig maçının 4'ü 2.5 üstü bitti; Lens hiçbir maçı gol yemeden bitiremedi.",
+      "risk": "düşük"
+     },
+     {
+      "confidence": 62,
+      "market": "Çifte Şans 1X",
+      "reason": "Lens 2019'dan beri Paris FC'ye kaybetmedi ve Bollaert'te 3 maçın 2'sini kazandı.",
+      "risk": "düşük"
+     },
+     {
+      "confidence": 58,
+      "market": "KG Var",
+      "reason": "Lens savunması her maçta gol yiyor; Sinayoko 7 maçta 9 gole katkı verdi.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 45,
+      "market": "MS 1",
+      "reason": "H2H ve iç saha avantajı Lens'te ama Avrupa yorgunluğu ve rakibin formu riski artırıyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Avrupa maçı sonrası Lens'in yorgunluğu ve rotasyon",
+     "Lens savunmasındaki eksiklere karşı Sinayoko'nun etkisi",
+     "Kart eğilimi yüksek hakemle kırmızı kart veya penaltı ihtimali"
+    ],
+    "sources": [
+     {
+      "title": "TopMercato – Pronostic Lens Paris FC",
+      "url": "https://www.topmercato.com/2150524-pronostic-lens-vs-paris-fc-24-10-2026"
+     },
+     {
+      "title": "Sportskeeda – Lens vs Paris FC",
+      "url": "https://www.sportskeeda.com/football/lens-vs-paris-fc-prediction-betting-tips-october-24th-2026"
+     },
+     {
+      "title": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/lens-vs-paris-fc-prediction-24-10-2026"
+     },
+     {
+      "title": "FotMob – maç önü",
+      "url": "https://www.fotmob.com/matches/paris-fc-vs-lens/1up0fk"
+     }
+    ],
+    "summary": "Lens 7 maçta 10 puanla 8. sırada; ligde son iki maçı kazandı (Lyon 2-1, Troyes 3-1) ama Çarşamba günü Şampiyonlar Ligi'nde Brugge'e 3-0 yenildi ve sadece üç gün dinlendi. Paris FC 14 puanla 3. sırada, tek yenilgisi Lorient'e; son maçında Rennes'i 97. dakika penaltısıyla 4-3 yendi. Lens bu rakibe karşı 2019'dan beri resmi maçta kaybetmiyor ve son karşılaşmayı deplasmanda 5-0 kazandı. Lens'te Nawrocki, Sima ve Chávez; Paris FC'de Ikoné ve Sangui yok.",
+    "verdict": "Lens'in H2H üstünlüğü ile Paris FC'nin istikrarı karşı karşıya; gollü ve dengeli bir maç bekleniyor, ev sahibi hafif önde."
+   },
+   "createdAt": 1792861277454
   },
   "futbol-2026-10-24-napoli-roma": {
    "result": {
