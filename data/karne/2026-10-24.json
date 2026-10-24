@@ -1,92 +1,59 @@
 {
  "day": "2026-10-24",
- "updatedAt": 1792875287992,
+ "updatedAt": 1792881675524,
  "summary": {
   "genel": {
-   "tuttu": 19,
-   "tutmadı": 12,
+   "tuttu": 34,
+   "tutmadı": 25,
    "iade": 0,
    "belirsiz": 1
   },
   "risk": {
    "düşük": {
-    "tuttu": 8,
-    "tutmadı": 2,
+    "tuttu": 15,
+    "tutmadı": 4,
     "iade": 0,
     "belirsiz": 0
    },
    "orta": {
-    "tuttu": 9,
-    "tutmadı": 6,
+    "tuttu": 12,
+    "tutmadı": 16,
     "iade": 0,
     "belirsiz": 0
    },
    "yüksek": {
-    "tuttu": 2,
-    "tutmadı": 4,
+    "tuttu": 7,
+    "tutmadı": 5,
     "iade": 0,
     "belirsiz": 1
    }
   },
   "spor": {
-   "futbol": {
-    "tuttu": 12,
-    "tutmadı": 8,
-    "iade": 0,
-    "belirsiz": 0
-   },
    "basketbol": {
-    "tuttu": 7,
-    "tutmadı": 4,
+    "tuttu": 16,
+    "tutmadı": 11,
     "iade": 0,
     "belirsiz": 1
+   },
+   "futbol": {
+    "tuttu": 18,
+    "tutmadı": 14,
+    "iade": 0,
+    "belirsiz": 0
    }
   },
   "verdict": {
-   "tuttu": 7,
-   "toplam": 8
+   "tuttu": 10,
+   "toplam": 15
   }
  },
  "matches": {
-  "futbol-2026-10-24-samsunspor-amed-sf": {
-   "score": "1-2",
-   "detail": "",
-   "status": "bitti",
-   "verdictHit": true,
-   "note": "",
-   "picks": [
-    {
-     "market": "Çifte Şans X2",
-     "risk": "düşük",
-     "confidence": 68,
-     "result": "tuttu"
-    },
-    {
-     "market": "MS 2",
-     "risk": "orta",
-     "confidence": 52,
-     "result": "tuttu"
-    },
-    {
-     "market": "KG Var",
-     "risk": "orta",
-     "confidence": 55,
-     "result": "tuttu"
-    },
-    {
-     "market": "2.5 Üst",
-     "risk": "yüksek",
-     "confidence": 48,
-     "result": "tuttu"
-    }
-   ]
-  },
   "basketbol-2026-10-24-bahcesehir-koleji-besiktas": {
    "score": "100-96",
-   "detail": "1. periyot 31-24",
+   "detail": "1. periyot 31-24, devre 52-50, 3. periyot sonu 71-71",
    "status": "bitti",
    "verdictHit": true,
-   "note": "",
+   "note": "Bahçeşehir 5'te 5 yaptı; maç son saniyelere kadar başa baş gitti.",
    "picks": [
     {
      "market": "MS 1",
@@ -114,78 +81,177 @@
     }
    ]
   },
-  "futbol-2026-10-24-valencia-villarreal": {
-   "score": "1-2",
-   "detail": "İY 0-0",
+  "basketbol-2026-10-24-barca-casademont-zaragoza": {
+   "score": "99-81",
+   "detail": "Devre 48-40",
    "status": "bitti",
-   "verdictHit": true,
-   "note": "",
+   "verdictHit": false,
+   "note": "Juan Núñez kariyer rekoru 23 sayı attı; Barça farkı 18'e açtı.",
    "picks": [
     {
-     "market": "Çifte Şans X2",
+     "market": "MS 1",
      "risk": "düşük",
-     "confidence": 64,
+     "confidence": 66,
      "result": "tuttu"
     },
     {
-     "market": "3.5 Alt",
+     "market": "Deplasman +9.5 Handikap",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Toplam 165.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu"
+    },
+    {
+     "market": "Ev -6.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "basketbol-2026-10-24-igokea-m-tel-crvena-zvezda": {
+   "score": "80-81",
+   "detail": "1. periyot 36-20, devre 50-33",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Zvezda devreyi 17 geride kapattı, son anda Moneke ile 1 sayı farkla döndü.",
+   "picks": [
+    {
+     "market": "MS 2",
      "risk": "düşük",
      "confidence": 70,
      "result": "tuttu"
     },
     {
-     "market": "MS X",
-     "risk": "yüksek",
-     "confidence": 33,
+     "market": "Deplasman -6.5 Handikap",
+     "risk": "orta",
+     "confidence": 54,
      "result": "tutmadı"
     },
     {
-     "market": "KG Var",
+     "market": "Toplam 174.5 Alt",
      "risk": "orta",
-     "confidence": 52,
+     "confidence": 50,
+     "result": "tuttu"
+    },
+    {
+     "market": "1. Periyot Igokea +3.5",
+     "risk": "yüksek",
+     "confidence": 45,
      "result": "tuttu"
     }
    ]
   },
-  "futbol-2026-10-24-napoli-roma": {
-   "score": "3-3",
-   "detail": "İY 0-0",
+  "basketbol-2026-10-24-mhp-riesen-ludwigsburg-telekom-baskets-": {
+   "score": "84-68",
+   "detail": "Periyotlar 17-14, 26-15, 19-25, 22-14",
    "status": "bitti",
-   "verdictHit": true,
-   "note": "",
+   "verdictHit": false,
+   "note": "Ludwigsburg evinde Bonn'u 16 farkla geçti; maç düşük skorlu kaldı.",
    "picks": [
     {
-     "market": "KG Var",
+     "market": "Deplasman +4.5 Handikap",
      "risk": "düşük",
-     "confidence": 62,
+     "confidence": 60,
+     "result": "tutmadı"
+    },
+    {
+     "market": "MS 2",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Toplam 164.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Ev Sahibi +1.5 1. Periyot",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "basketbol-2026-10-24-nanterre-92-cholet-basket": {
+   "score": "86-69",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Nanterre beklenen yakın maç yerine 17 farklı net galibiyet aldı.",
+   "picks": [
+    {
+     "market": "MS 1",
+     "risk": "düşük",
+     "confidence": 60,
      "result": "tuttu"
     },
     {
-     "market": "Çifte Şans 1X",
+     "market": "Deplasman +6.5 Handikap",
      "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Toplam 163.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Ev -6.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "basketbol-2026-10-24-openjobmetis-varese-bc-roma": {
+   "score": "110-103",
+   "detail": "Periyot skorları bulunamadı",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Skor tek kaynaktan (be-basketball) doğrulandı; uzatma olup olmadığı teyit edilemedi.",
+   "picks": [
+    {
+     "market": "Toplam 175.5 Üst",
+     "risk": "düşük",
      "confidence": 58,
      "result": "tuttu"
     },
     {
-     "market": "MS X",
-     "risk": "yüksek",
-     "confidence": 32,
+     "market": "MS 1",
+     "risk": "orta",
+     "confidence": 52,
      "result": "tuttu"
     },
     {
-     "market": "3.5 Alt",
-     "risk": "düşük",
-     "confidence": 66,
+     "market": "Deplasman +4.5 Handikap",
+     "risk": "orta",
+     "confidence": 54,
      "result": "tutmadı"
+    },
+    {
+     "market": "1. Periyot Toplam 44.5 Üst",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "belirsiz"
     }
    ]
   },
   "basketbol-2026-10-24-ucam-murcia-leyma-coruna": {
    "score": "88-81",
-   "detail": "Coruña devreyi önde kapattı",
+   "detail": "1. çeyrek 18-17, devre 37-40 (Coruña önde)",
    "status": "bitti",
    "verdictHit": true,
-   "note": "",
+   "note": "Murcia ikinci yarıda geri döndü; toplam 169 ile çizginin 1.5 altında kaldı.",
    "picks": [
     {
      "market": "MS 1",
@@ -213,12 +279,45 @@
     }
    ]
   },
-  "futbol-2026-10-24-borussia-dortmund-eintracht-frankfurt": {
+  "futbol-2026-10-24-atletico-madrid-deportivo-la-coruna": {
    "score": "1-0",
-   "detail": "İY 0-0",
+   "detail": "",
    "status": "bitti",
    "verdictHit": true,
-   "note": "",
+   "note": "Tek golü Julián Álvarez attı.",
+   "picks": [
+    {
+     "market": "MS 1",
+     "risk": "düşük",
+     "confidence": 70,
+     "result": "tuttu"
+    },
+    {
+     "market": "1.5 Üst",
+     "risk": "düşük",
+     "confidence": 72,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Ev -1 Handikap (Atlético 2+ farkla)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı"
+    },
+    {
+     "market": "KG Var",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-24-borussia-dortmund-eintracht-frankfurt": {
+   "score": "1-0",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Galibiyet golü Maximilian Beier'den geç dakikalarda geldi; Frankfurt direği de buldu.",
    "picks": [
     {
      "market": "Çifte Şans 1X",
@@ -246,45 +345,12 @@
     }
    ]
   },
-  "basketbol-2026-10-24-igokea-m-tel-crvena-zvezda": {
-   "score": "80-81",
-   "detail": "",
-   "status": "bitti",
-   "verdictHit": true,
-   "note": "1. periyot skoru henüz doğrulanamadı.",
-   "picks": [
-    {
-     "market": "MS 2",
-     "risk": "düşük",
-     "confidence": 70,
-     "result": "tuttu"
-    },
-    {
-     "market": "Deplasman -6.5 Handikap",
-     "risk": "orta",
-     "confidence": 54,
-     "result": "tutmadı"
-    },
-    {
-     "market": "Toplam 174.5 Alt",
-     "risk": "orta",
-     "confidence": 50,
-     "result": "tuttu"
-    },
-    {
-     "market": "1. Periyot Igokea +3.5",
-     "risk": "yüksek",
-     "confidence": 45,
-     "result": "belirsiz"
-    }
-   ]
-  },
   "futbol-2026-10-24-chelsea-tottenham": {
    "score": "0-2",
    "detail": "İY 0-0",
    "status": "bitti",
    "verdictHit": false,
-   "note": "Cole Palmer kırmızı kart gördü; Tottenham 10 kişilik Chelsea'yi yendi.",
+   "note": "77'de Penders kendi kalesine attı, 80'de Palmer ikinci sarıdan atıldı, 87'de Tel skoru belirledi.",
    "picks": [
     {
      "market": "Çifte Şans 1X",
@@ -311,11 +377,177 @@
      "result": "tutmadı"
     }
    ]
+  },
+  "futbol-2026-10-24-lazio-parma": {
+   "score": "2-1",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Goller 50' Taylor, 58' Diego Carlos (kendi kalesine); Parma'nın golü 90+5'te geldi.",
+   "picks": [
+    {
+     "market": "MS 1",
+     "risk": "düşük",
+     "confidence": 70,
+     "result": "tuttu"
+    },
+    {
+     "market": "İY 1",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Ev -1 Handikap (Lazio 2+ farkla)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı"
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-24-lens-paris-fc": {
+   "score": "2-1",
+   "detail": "İY 0-1",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Paris FC 45+2'de Koleosho ile öne geçti, Lens geri dönüp 83'te Hazard'la kazandı.",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "düşük",
+     "confidence": 60,
+     "result": "tuttu"
+    },
+    {
+     "market": "Çifte Şans 1X",
+     "risk": "düşük",
+     "confidence": 62,
+     "result": "tuttu"
+    },
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu"
+    },
+    {
+     "market": "MS 1",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "futbol-2026-10-24-napoli-roma": {
+   "score": "3-3",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Beraberlik tahmini tuttu ama maç beklenenden çok daha gollü geçti.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "düşük",
+     "confidence": 62,
+     "result": "tuttu"
+    },
+    {
+     "market": "Çifte Şans 1X",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu"
+    },
+    {
+     "market": "MS X",
+     "risk": "yüksek",
+     "confidence": 32,
+     "result": "tuttu"
+    },
+    {
+     "market": "3.5 Alt",
+     "risk": "düşük",
+     "confidence": 66,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-24-samsunspor-amed-sf": {
+   "score": "1-2",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Samsunspor 21'de öne geçti; Amed 73' Orban (pen.) ve 83' Dia Saba ile döndü.",
+   "picks": [
+    {
+     "market": "Çifte Şans X2",
+     "risk": "düşük",
+     "confidence": 68,
+     "result": "tuttu"
+    },
+    {
+     "market": "MS 2",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu"
+    },
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu"
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "futbol-2026-10-24-valencia-villarreal": {
+   "score": "1-2",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Pepelu penaltısıyla öne geçen Valencia, Freeman ve 93'te Mikautadze'nin golleriyle kaybetti; maçta iki kırmızı kart çıktı.",
+   "picks": [
+    {
+     "market": "Çifte Şans X2",
+     "risk": "düşük",
+     "confidence": 64,
+     "result": "tuttu"
+    },
+    {
+     "market": "3.5 Alt",
+     "risk": "düşük",
+     "confidence": 70,
+     "result": "tuttu"
+    },
+    {
+     "market": "MS X",
+     "risk": "yüksek",
+     "confidence": 33,
+     "result": "tutmadı"
+    },
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu"
+    }
+   ]
   }
  },
  "notes": [
-  "Ara karne: 8 maç değerlendirildi; Atlético – Deportivo, Barça – Zaragoza, Lazio – Parma, Lens – Paris FC, Varese – Roma, Ludwigsburg – Bonn ve Nanterre – Cholet sonuçlanınca eklenecek.",
-  "Nerede yanıldık: Chelsea – Tottenham'da Palmer'ın kırmızı kartıyla 4 öneri de yattı; gol alt/üst çizgilerinde ilk yarıların 0-0 bittiği maçlarda tempo yanlış okundu; -6.5 ve -7.5 gibi büyük handikaplar tutmadı.",
-  "İyi giden: Napoli – Roma'da yüksek riskli beraberlik tuttu, Samsunspor – Amed'de 4'te 4 yapıldı."
+  "Nerede yanıldık: 'Yakın maç' dediğimiz basketbol maçlarının çoğu (Barça, Nanterre, Ludwigsburg) çift haneli farkla bitti; deplasman + handikapları üst üste yattı.",
+  "Nerede yanıldık: Chelsea-Tottenham'da H2H serisine fazla güvendik; kaleci krizi ve sonradan çıkan kırmızı kart tüm önerileri boşa çıkardı.",
+  "İyi giden: Samsunspor-Amed ve Lens-Paris FC'de 4 önerinin 4'ü tuttu; düşük riskli MS/çifte şans seçimleri genelde sağlam çıktı.",
+  "Yarın için ders: Futbolda 2+ fark handikapları ve 'ev sahibi 1.5 üst gol' gibi gol beklentisi yüksek pazarlar bu gün tutmadı; favorilerin tek farkla kazanma ihtimalini daha çok hesaba katmalıyız."
  ]
 }
