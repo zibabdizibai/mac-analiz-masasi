@@ -1,0 +1,835 @@
+{
+ "day": "2026-10-25",
+ "updatedAt": 1792967773642,
+ "summary": {
+  "genel": {
+   "tuttu": 41,
+   "tutmadı": 52,
+   "iade": 0,
+   "belirsiz": 0
+  },
+  "risk": {
+   "orta": {
+    "tuttu": 25,
+    "tutmadı": 27,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "yüksek": {
+    "tuttu": 16,
+    "tutmadı": 25,
+    "iade": 0,
+    "belirsiz": 0
+   }
+  },
+  "spor": {
+   "futbol": {
+    "tuttu": 21,
+    "tutmadı": 35,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "basketbol": {
+    "tuttu": 20,
+    "tutmadı": 17,
+    "iade": 0,
+    "belirsiz": 0
+   }
+  },
+  "verdict": {
+   "tuttu": 14,
+   "toplam": 25
+  }
+ },
+ "matches": {
+  "futbol-2026-10-25-konyaspor-genclerbirligi": {
+   "score": "2-0",
+   "detail": "İY 1-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "İki golü de Awaziem attı (43', 56').",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tuttu"
+    },
+    {
+     "market": "İlk Yarı 0.5 Alt / İlk yarı beraberlik",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı"
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu"
+    },
+    {
+     "market": "MS 1 / Beraberlik (İY/MS 0/1 benzeri sürpriz değil, MS X)",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-goztepe-corum-fk": {
+   "score": "2-0",
+   "detail": "İY 2-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Göztepe gollerini 3. ve 38. dakikada buldu, ikinci yarı gol çıkmadı.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tutmadı"
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Göztepe MS",
+     "risk": "orta",
+     "confidence": 46,
+     "result": "tuttu"
+    },
+    {
+     "market": "İY/MS Beraberlik/Göztepe",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-manchester-united-bournemouth": {
+   "score": "0-3",
+   "detail": "İY 0-2",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Bournemouth Old Trafford'da Rayan, Tavernier ve Evanilson'la rahat kazandı.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tutmadı"
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu"
+    },
+    {
+     "market": "İlk Yarı Beraberlik",
+     "risk": "orta",
+     "confidence": 44,
+     "result": "tutmadı"
+    },
+    {
+     "market": "MS Beraberlik",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-liverpool-brighton": {
+   "score": "2-0",
+   "detail": "İY 2-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Liverpool 21 dakikada 2-0 öne geçti (Groß kendi kalesine, Isak).",
+   "picks": [
+    {
+     "market": "Brighton Çifte Şans (X2)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı"
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Brighton MS",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı"
+    },
+    {
+     "market": "İlk Yarı KG Var",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-crystal-palace-newcastle": {
+   "score": "0-2",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Newcastle gollerini ikinci yarının başında buldu (47', 58').",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tutmadı"
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Crystal Palace MS",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı"
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-athletic-bilbao-getafe": {
+   "score": "4-0",
+   "detail": "İY 2-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Getafe 86. dakikada Mario Martín'in kırmızı kartıyla 10 kişi kaldı.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tutmadı"
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tuttu"
+    },
+    {
+     "market": "Athletic MS & 3.5 Alt",
+     "risk": "orta",
+     "confidence": 46,
+     "result": "tutmadı"
+    },
+    {
+     "market": "İlk Yarı Beraberlik",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-real-sociedad-levante": {
+   "score": "2-1",
+   "detail": "İY 2-1",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Üç gol de ilk 27 dakikada geldi (Óskarsson, Nacho Pérez, Turrientes).",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu"
+    },
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu"
+    },
+    {
+     "market": "İY/MS 1/1",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu"
+    },
+    {
+     "market": "Real Sociedad MS & KG Var",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "futbol-2026-10-25-barcelona-real-madrid": {
+   "score": "1-2",
+   "detail": "İY 0-1",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Mbappé iki gol attı (41', 87'), Barcelona ligdeki ilk yenilgisini aldı.",
+   "picks": [
+    {
+     "market": "3.5 Üst",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Real Madrid 1.5 Üst Gol",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu"
+    },
+    {
+     "market": "Barcelona -1 Asya Handikap",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tutmadı"
+    },
+    {
+     "market": "4.5 Üst",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-inter-fiorentina": {
+   "score": "2-1",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "0-1 geriye düşen Inter, Thuram (90') ve Zielinski'nin penaltısıyla (90+7') döndü.",
+   "picks": [
+    {
+     "market": "Inter -1.5 handikap (Inter 2+ farkla kazanır)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı"
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı"
+    },
+    {
+     "market": "İY/MS 1/1",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı"
+    },
+    {
+     "market": "KG Var",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "futbol-2026-10-25-lecce-juventus": {
+   "score": "0-2",
+   "detail": "İY 0-2",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "McKennie (29') ve Douglas Luiz (41') attı; Lecce son dakikalarda 10 kişi kaldı.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu"
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu"
+    },
+    {
+     "market": "Juventus MS",
+     "risk": "orta",
+     "confidence": 47,
+     "result": "tuttu"
+    },
+    {
+     "market": "İlk yarı X",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-udinese-milan": {
+   "score": "0-2",
+   "detail": "İY Milan önde (Pulisic 6')",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Pulisic ve Hutchinson'ın golleriyle Milan kazandı; Udinese'nin 6. yenilgisi üst üste.",
+   "picks": [
+    {
+     "market": "Milan MS",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu"
+    },
+    {
+     "market": "İY/MS 2/2",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu"
+    },
+    {
+     "market": "KG Var",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı"
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-hoffenheim-bayer-leverkusen": {
+   "score": "3-0",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Hoffenheim'ın tüm golleri 79. dakikadan sonra geldi (Kramarić pen., Prass, Moerstedt).",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Leverkusen MS",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı"
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Leverkusen MS & KG Var",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-freiburg-bayern-munih": {
+   "score": "1-3",
+   "detail": "İY 0-2",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Freiburg'un golü Bischof'un kendi kalesine attığı goldü (80'); Olise sonu getirdi.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tuttu"
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tuttu"
+    },
+    {
+     "market": "Bayern -1 handikap (Bayern 2+ farkla kazanır)",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu"
+    },
+    {
+     "market": "İY/MS X/2",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "futbol-2026-10-25-monaco-lille": {
+   "score": "1-1",
+   "detail": "İY 0-1",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu"
+    },
+    {
+     "market": "İlk Yarı Beraberlik",
+     "risk": "orta",
+     "confidence": 47,
+     "result": "tutmadı"
+    },
+    {
+     "market": "KG Yok",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Lille Çifte Şans (X2)",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-anadolu-efes-biotekno-korfez-basket": {
+   "score": "93-77",
+   "detail": "1. periyot 24-14, devre 49-32",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Anadolu Efes -7.5 handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu"
+    },
+    {
+     "market": "Toplam 162.5 Üst",
+     "risk": "orta",
+     "confidence": 47,
+     "result": "tuttu"
+    },
+    {
+     "market": "İlk yarı Anadolu Efes -4.5",
+     "risk": "orta",
+     "confidence": 45,
+     "result": "tuttu"
+    },
+    {
+     "market": "Anadolu Efes -12.5 handikap",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-karsiyaka-fenerbahce-tarfin": {
+   "score": "72-97",
+   "detail": "1. periyot 16-25, devre 36-49",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Yorgunluk beklentisine rağmen Fenerbahçe her periyotta önde bitirdi.",
+   "picks": [
+    {
+     "market": "Karşıyaka +8.5 handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Toplam 160.5 Alt",
+     "risk": "orta",
+     "confidence": 44,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Karşıyaka İlk Yarı +4.5",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Karşıyaka MS",
+     "risk": "yüksek",
+     "confidence": 37,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-tofas-aliaga-petkimspor": {
+   "score": "72-74",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Düşük skorlu (146) bir maçta Petkimspor 2 sayıyla kazandı.",
+   "picks": [
+    {
+     "market": "Aliağa Petkimspor +5.5 handikap",
+     "risk": "orta",
+     "confidence": 51,
+     "result": "tuttu"
+    },
+    {
+     "market": "Toplam 165.5 Üst",
+     "risk": "orta",
+     "confidence": 47,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Aliağa Petkimspor MS",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-galatasaray-mct-technic-pizzabulls-bord": {
+   "score": "102-68",
+   "detail": "1. periyot 21-19, devre 38-34",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Galatasaray 3. periyodu 30-11 alarak maçı kopardı.",
+   "picks": [
+    {
+     "market": "Ev -4.5 handikap",
+     "risk": "orta",
+     "confidence": 45,
+     "result": "tuttu"
+    },
+    {
+     "market": "155.5 Üst",
+     "risk": "orta",
+     "confidence": 45,
+     "result": "tuttu"
+    },
+    {
+     "market": "Bandırma +9.5 handikap",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Galatasaray ilk yarı önde",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-philadelphia-76ers-milwaukee-bucks": {
+   "score": "127-116",
+   "detail": "Devre 64-60",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Embiid triple-double yaptı; 76ers kazandı ama handikapları kapatamadı.",
+   "picks": [
+    {
+     "market": "76ers ilk yarı -6.5 handikap",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı"
+    },
+    {
+     "market": "76ers -12.5 handikap",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Toplam 234.5 Alt",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-dallas-mavericks-san-antonio-spurs": {
+   "score": "106-122",
+   "detail": "Devre 60-68 (Spurs önde)",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Spurs son periyoda 17-5'lik seriyle başlayıp farkı açtı.",
+   "picks": [
+    {
+     "market": "Toplam 230.5 Alt",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu"
+    },
+    {
+     "market": "Spurs ilk yarı -6.5 handikap",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tuttu"
+    },
+    {
+     "market": "Mavericks +12.5 handikap",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-phoenix-suns-golden-state-warriors": {
+   "score": "131-122",
+   "detail": "Devre 57-54",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Booker 43 sayı attı; maç beklenenden çok skorlu geçti (253).",
+   "picks": [
+    {
+     "market": "Suns -9.5 handikap",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Toplam 219.5 Alt",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Suns ilk yarı -5.5 handikap",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-valencia-basket-kosner-baskonia": {
+   "score": "84-75",
+   "detail": "1. periyot 27-19, devre 41-35",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Baskonia sakatlıklar yüzünden 8 oyuncuyla oynadı.",
+   "picks": [
+    {
+     "market": "Toplam 183.5 Üst",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Valencia -7.5 handikap",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "tuttu"
+    },
+    {
+     "market": "Valencia ilk yarı -3.5 handikap",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-rio-breogan-unicaja": {
+   "score": "90-103",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "",
+   "picks": [
+    {
+     "market": "Breogán +3.5 handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Toplam Üst (piyasa çizgisi ~180 civarı)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu"
+    },
+    {
+     "market": "Breogán MS",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-ilerna-lleida-real-madrid": {
+   "score": "86-122",
+   "detail": "1. periyot 21-31, devre 40-54",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Real Madrid 24 üçlükle Liga Endesa rekoru kırdı.",
+   "picks": [
+    {
+     "market": "Toplam 182.5 Üst",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu"
+    },
+    {
+     "market": "Real Madrid -10.5 handikap",
+     "risk": "orta",
+     "confidence": 51,
+     "result": "tuttu"
+    },
+    {
+     "market": "Real Madrid ilk yarı -5.5 handikap",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tuttu"
+    }
+   ]
+  },
+  "basketbol-2026-10-25-armani-olimpia-milano-virtus-bologna": {
+   "score": "94-98",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Virtus Bologna +3.5 handikap",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu"
+    },
+    {
+     "market": "Toplam sayı 160.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu"
+    },
+    {
+     "market": "Milano MS 1",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı"
+    },
+    {
+     "market": "Virtus Bologna MS 2 (sürpriz taraf)",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu"
+    }
+   ]
+  }
+ },
+ "notes": [
+  "Nerede yanıldık: 'KG Var / gollü maç' beklediğimiz Premier Lig ve Bundesliga maçlarında (Palace-Newcastle, Liverpool-Brighton, Hoffenheim-Leverkusen, Man Utd-Bournemouth) tek taraf gol attı; bu dört maçta 16 öneriden yalnızca 1'i tuttu.",
+  "Nerede yanıldık: Form ve yorgunluk anlatısıyla favoriye karşı oynadığımız maçlar ters döndü (Karşıyaka +8.5, Bandırma +9.5, Brighton X2); Fenerbahçe ve Galatasaray 25 ve 34 farkla kazandı.",
+  "İyi giden: Basketbolda net favorilerin handikapları (Efes -7.5/-12.5, Real Madrid -10.5, Valencia -7.5) ve Petkimspor, Virtus gibi handikaplı underdog seçimleri tuttu.",
+  "Yarın için ders: NBA'de alt seçimleri (234.5, 219.5) tutmadı; back-to-back ve eksik kadro, maçı düşük skorlu yapmaya yetmiyor. İY/MS ve ilk yarı beraberlik pazarlarında 10 öneriden yalnızca 2'si tuttu."
+ ]
+}
