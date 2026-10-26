@@ -1,0 +1,455 @@
+{
+ "day": "2026-10-27",
+ "generatedAt": 1793047426559,
+ "source": "football-data.org",
+ "statsWindow": "son 10 resmi maç (tüm kulvarlar)",
+ "matches": [
+  {
+   "league": "Serie A",
+   "fixtureId": 558556,
+   "kickoff": "2026-10-27T20:30:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 471,
+    "name": "Sassuolo",
+    "fullName": "US Sassuolo Calcio",
+    "table": {
+     "total": {
+      "position": 14,
+      "playedGames": 8,
+      "won": 2,
+      "draw": 2,
+      "lost": 4,
+      "points": 8,
+      "goalsFor": 12,
+      "goalsAgainst": 16
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DWLDLL",
+     "sample": {
+      "home": 3,
+      "away": 5,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 2.0,
+      "away": 1.2,
+      "total": 1.5
+     },
+     "goalsAgainstAvg": {
+      "home": 1.33,
+      "away": 2.4,
+      "total": 2.0
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 20,
+      "total": 12
+     },
+     "over25Pct": {
+      "home": 67,
+      "away": 80,
+      "total": 75
+     },
+     "bttsPct": {
+      "home": 100,
+      "away": 80,
+      "total": 88
+     }
+    }
+   },
+   "away": {
+    "id": 110,
+    "name": "Lazio",
+    "fullName": "SS Lazio",
+    "table": {
+     "total": {
+      "position": 2,
+      "playedGames": 8,
+      "won": 7,
+      "draw": 1,
+      "lost": 0,
+      "points": 22,
+      "goalsFor": 16,
+      "goalsAgainst": 5
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WDWWWW",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 2.0,
+      "away": 2.0,
+      "total": 2.0
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 0.25,
+      "total": 0.62
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 75,
+      "total": 50
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 75,
+      "away": 50,
+      "total": 62
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 25,
+      "total": 50
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-03-09",
+     "home": "Lazio",
+     "away": "Sassuolo",
+     "score": "2-1"
+    },
+    {
+     "date": "2025-09-14",
+     "home": "Sassuolo",
+     "away": "Lazio",
+     "score": "1-0"
+    },
+    {
+     "date": "2024-05-26",
+     "home": "Lazio",
+     "away": "Sassuolo",
+     "score": "1-1"
+    },
+    {
+     "date": "2023-10-21",
+     "home": "Sassuolo",
+     "away": "Lazio",
+     "score": "0-2"
+    },
+    {
+     "date": "2023-05-03",
+     "home": "Lazio",
+     "away": "Sassuolo",
+     "score": "2-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558555,
+   "kickoff": "2026-10-27T22:45:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 100,
+    "name": "Roma",
+    "fullName": "AS Roma",
+    "table": {
+     "total": {
+      "position": 3,
+      "playedGames": 8,
+      "won": 5,
+      "draw": 3,
+      "lost": 0,
+      "points": 18,
+      "goalsFor": 19,
+      "goalsAgainst": 6
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DDLWWD",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.6,
+      "away": 2.0,
+      "total": 2.3
+     },
+     "goalsAgainstAvg": {
+      "home": 1.4,
+      "away": 0.8,
+      "total": 1.1
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 60,
+      "total": 50
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 20,
+      "total": 10
+     },
+     "over25Pct": {
+      "home": 80,
+      "away": 40,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 40,
+      "total": 50
+     }
+    }
+   },
+   "away": {
+    "id": 104,
+    "name": "Cagliari",
+    "fullName": "Cagliari Calcio",
+    "table": {
+     "total": {
+      "position": 9,
+      "playedGames": 8,
+      "won": 4,
+      "draw": 1,
+      "lost": 3,
+      "points": 13,
+      "goalsFor": 6,
+      "goalsAgainst": 9
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WWWDLL",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 0.5,
+      "away": 1.0,
+      "total": 0.75
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 1.25,
+      "total": 1.12
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 50,
+      "total": 38
+     },
+     "failedToScorePct": {
+      "home": 50,
+      "away": 25,
+      "total": 38
+     },
+     "over25Pct": {
+      "home": 0,
+      "away": 50,
+      "total": 25
+     },
+     "bttsPct": {
+      "home": 25,
+      "away": 25,
+      "total": 25
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-02-09",
+     "home": "Roma",
+     "away": "Cagliari",
+     "score": "2-0"
+    },
+    {
+     "date": "2025-12-07",
+     "home": "Cagliari",
+     "away": "Roma",
+     "score": "1-0"
+    },
+    {
+     "date": "2025-03-16",
+     "home": "Roma",
+     "away": "Cagliari",
+     "score": "1-0"
+    },
+    {
+     "date": "2024-08-18",
+     "home": "Cagliari",
+     "away": "Roma",
+     "score": "0-0"
+    },
+    {
+     "date": "2024-02-05",
+     "home": "Roma",
+     "away": "Cagliari",
+     "score": "4-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558557,
+   "kickoff": "2026-10-27T22:45:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 586,
+    "name": "Torino",
+    "fullName": "Torino FC",
+    "table": {
+     "total": {
+      "position": 8,
+      "playedGames": 8,
+      "won": 4,
+      "draw": 1,
+      "lost": 3,
+      "points": 13,
+      "goalsFor": 13,
+      "goalsAgainst": 11
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WLDWWW",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 1.5,
+      "away": 1.75,
+      "total": 1.62
+     },
+     "goalsAgainstAvg": {
+      "home": 1.75,
+      "away": 1.0,
+      "total": 1.38
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 25,
+      "total": 12
+     },
+     "failedToScorePct": {
+      "home": 25,
+      "away": 0,
+      "total": 12
+     },
+     "over25Pct": {
+      "home": 75,
+      "away": 75,
+      "total": 75
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 75,
+      "total": 75
+     }
+    }
+   },
+   "away": {
+    "id": 7397,
+    "name": "Como 1907",
+    "fullName": "Como 1907",
+    "table": {
+     "total": {
+      "position": 5,
+      "playedGames": 8,
+      "won": 5,
+      "draw": 2,
+      "lost": 1,
+      "points": 17,
+      "goalsFor": 14,
+      "goalsAgainst": 7
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LDLWWW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.4,
+      "away": 2.2,
+      "total": 2.3
+     },
+     "goalsAgainstAvg": {
+      "home": 0.6,
+      "away": 1.6,
+      "total": 1.1
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 0,
+      "total": 20
+     },
+     "failedToScorePct": {
+      "home": 20,
+      "away": 20,
+      "total": 20
+     },
+     "over25Pct": {
+      "home": 60,
+      "away": 80,
+      "total": 70
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 80,
+      "total": 70
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-01-24",
+     "home": "Como 1907",
+     "away": "Torino",
+     "score": "6-0"
+    },
+    {
+     "date": "2025-11-24",
+     "home": "Torino",
+     "away": "Como 1907",
+     "score": "1-5"
+    },
+    {
+     "date": "2025-04-13",
+     "home": "Como 1907",
+     "away": "Torino",
+     "score": "1-0"
+    },
+    {
+     "date": "2024-10-25",
+     "home": "Torino",
+     "away": "Como 1907",
+     "score": "1-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  }
+ ]
+}
