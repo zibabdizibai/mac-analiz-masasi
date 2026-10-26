@@ -1,0 +1,34 @@
+name: Oran takibi
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: odds
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Oranları çek
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python3 scripts/odds_watch.py
+      - name: Değişiklik varsa gönder
+        run: |
+          git add data/odds
+          if git diff --cached --quiet; then echo "değişiklik yok"; exit 0; fi
+          git -c user.name="odds-bot" -c user.email="odds-bot@users.noreply.github.com" commit -m "Oran güncellemesi [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1

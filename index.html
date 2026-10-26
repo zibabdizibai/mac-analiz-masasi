@@ -92,6 +92,33 @@ a{color:var(--accent)}
 .stat .v{font-family:var(--display);font-weight:800;font-size:28px;line-height:1.1;font-variant-numeric:tabular-nums}
 .stat .s{font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
 .stat.main{border-color:var(--accent)}
+.odds-head{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;justify-content:space-between;margin-top:16px}
+.odds-help{margin:10px 2px;max-width:90ch;font-family:var(--body);font-size:13px}
+@media (max-width:520px){.tabs{width:100%}.tabs button{flex:1 1 0;padding:8px 6px;font-size:15px;line-height:1.15}}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chipbtn{font:inherit;font-size:13px;background:var(--soft);color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:4px 12px;cursor:pointer}
+.chipbtn[aria-pressed="true"]{background:var(--ink);color:var(--panel);border-color:var(--ink)}
+.odds-list{display:flex;flex-direction:column;gap:12px}
+.ev{display:flex;flex-direction:column;gap:12px}
+.ev-head{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:flex-start;justify-content:space-between}
+.ev h3{font-family:var(--display);font-weight:800;font-size:22px;text-transform:uppercase;letter-spacing:.02em;margin:2px 0 0}
+.sig{font-family:var(--mono);font-size:12px;padding:2px 10px;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.sig.sig3{background:var(--bad);color:var(--panel);border-color:var(--bad)}
+.sig.sig2{background:var(--warn);color:var(--panel);border-color:var(--warn)}
+.sig.sig1{border-color:var(--warn);color:var(--warn)}
+.ocs{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+.oc{border:1px solid var(--line);border-radius:8px;padding:10px 12px;background:var(--soft);display:flex;flex-direction:column;gap:3px;min-width:0}
+.oc.sig3{border-color:var(--bad)}.oc.sig2{border-color:var(--warn)}
+.oc-k{font-family:var(--display);font-weight:800;font-size:18px}
+.oc-n{font-family:var(--body);font-weight:500;font-size:13px;color:var(--muted)}
+.oc-v{font-family:var(--mono);font-size:14px;font-variant-numeric:tabular-nums}
+.oc-v .op{color:var(--muted)}
+.mv{font-size:12px}.mv.dn{color:var(--bad)}.mv.up{color:var(--good)}
+.oc-s{font-size:12.5px;color:var(--muted);overflow-wrap:anywhere}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td.num small{display:block;font-size:11px;color:var(--muted)}
+td.num.dn{color:var(--bad)}td.num.up{color:var(--good)}
+details summary{cursor:pointer;font-family:var(--display);font-weight:700;text-transform:uppercase;letter-spacing:.06em;font-size:13px;color:var(--muted)}
 .go-karne{font:inherit;font-family:var(--display);font-weight:800;font-size:15px;letter-spacing:.06em;text-transform:uppercase;background:var(--accent);color:var(--accent-ink);border:0;border-radius:6px;padding:6px 14px;cursor:pointer}
 .karne ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:4px}
 .score{font-family:var(--mono);font-size:12px;font-weight:500;font-variant-numeric:tabular-nums;white-space:nowrap}
@@ -120,8 +147,9 @@ a{color:var(--accent)}
     <div class="tabs" role="tablist" aria-label="Spor">
       <button role="tab" aria-selected="true" data-sport="futbol">Futbol</button>
       <button role="tab" aria-selected="false" data-sport="basketbol">Basketbol</button>
+      <button role="tab" aria-selected="false" data-sport="oran">Oran düşüşleri</button>
     </div>
-    <div class="datebox">
+    <div class="datebox" id="datebox">
       <label for="day" class="label" style="margin:0">Tarih</label>
       <select id="day"></select>
     </div>
@@ -129,7 +157,17 @@ a{color:var(--accent)}
 
   <section class="panel karne" id="karne" hidden aria-labelledby="kh"></section>
 
-  <div class="grid">
+  <section id="odds" hidden aria-labelledby="oh">
+    <div class="panel odds-head">
+      <div><p class="label" id="oh" style="margin:0">Oran düşüşleri · maç sonucu (1X2)</p>
+        <p class="meta" id="oddsMeta" style="margin:4px 0 0">Yükleniyor…</p></div>
+      <div class="chips" id="oddsLeagues"></div>
+    </div>
+    <p class="meta odds-help">Bir oran, açılışına göre ima ettiği ihtimal en az 3 puan arttıysa "düştü" sayılır. <b>Güçlü</b>: sitelerin yarısından fazlasında düştü ve Pinnacle ya da bir borsa da düşenler arasında. <b>Orta</b>: sitelerin dörtte birinde ya da Pinnacle/borsada düştü. <b>Zayıf</b>: birkaç sitede. <b>Uç değer</b>: piyasa ortalamasının %6 üstünde oran veren site.</p>
+    <div id="oddsList" class="odds-list"></div>
+  </section>
+
+  <div class="grid" id="mainGrid">
     <section class="panel" aria-labelledby="lh">
       <p class="label" id="lh">Günün maçları</p>
       <p class="status" id="listStatus">Yükleniyor…</p>
@@ -210,8 +248,46 @@ function renderKarne(){
 $("day").onchange=e=>{history.replaceState(null,"","#"+e.target.value);loadDay(e.target.value)};
 document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{
   sport=b.dataset.sport;document.querySelectorAll(".tabs button").forEach(x=>x.setAttribute("aria-selected",x===b));
+  const o=sport==="oran";
+  $("odds").hidden=!o;$("mainGrid").hidden=o;$("datebox").hidden=o;
+  if(o){$("karne").hidden=true;loadOdds();return}
+  renderKarne();if(!karne)showLatestKarne($("day").value);
   current=null;showEmpty();renderList();
 });
+
+/* ---------- oran düşüşleri ---------- */
+let odds=null, oddsLeague="Tümü";
+const fmtTime=s=>new Date(s).toLocaleString("tr-TR",{weekday:"short",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+const ago=ms=>{const m=Math.round((Date.now()-ms)/60000);return m<1?"az önce":m<60?`${m} dk önce`:m<1440?`${Math.round(m/60)} saat önce`:`${Math.round(m/1440)} gün önce`};
+const f2=x=>x==null?"–":Number(x).toFixed(2);
+async function loadOdds(){
+  try{odds=await getJSON("data/odds/drops.json")}catch(e){odds=null}
+  if(!odds){$("oddsMeta").textContent="Oran takibi henüz başlamadı. İlk veriler, API anahtarı eklendikten sonra 15 dakika içinde gelir.";$("oddsList").innerHTML="";$("oddsLeagues").innerHTML="";return}
+  $("oddsMeta").textContent=`Son kontrol ${ago(odds.updatedAt)} · ${odds.events.length} maç izleniyor`+(odds.credits!=null?` · kalan kredi ${odds.credits}`:"")+(odds.status&&odds.status!=="ok"?` · uyarı: ${odds.status}`:"");
+  const lgs=["Tümü",...(odds.leagues||[])];
+  $("oddsLeagues").innerHTML=lgs.map(l=>`<button type="button" class="chipbtn" aria-pressed="${l===oddsLeague}">${esc(l)}</button>`).join("");
+  $("oddsLeagues").querySelectorAll("button").forEach((b,i)=>b.onclick=()=>{oddsLeague=lgs[i];loadOdds()});
+  renderOdds();
+}
+function renderOdds(){
+  const evs=odds.events.filter(e=>oddsLeague==="Tümü"||e.league===oddsLeague);
+  if(!evs.length){$("oddsList").innerHTML=`<p class="status">Önümüzdeki 48 saatte bu lig için izlenen maç yok.</p>`;return}
+  const lvlCls={"güçlü":"sig3","orta":"sig2","zayıf":"sig1"};
+  $("oddsList").innerHTML=evs.map((e,i)=>{
+    const oc=e.outcomes.map(o=>{const moved=o.deltaPts>=1?"dn":o.deltaPts<=-1?"up":"";
+      return `<div class="oc ${o.level?lvlCls[o.level]:""}"><div class="oc-k">${esc(o.pick)} <span class="oc-n">${esc(o.pick==="X"?"Beraberlik":o.name)}</span></div>
+        <div class="oc-v"><span class="op">${f2(o.consOpen)}</span> → <b>${f2(o.consNow)}</b> <span class="mv ${moved}">${o.deltaPts>0?"+":""}${o.deltaPts} puan</span></div>
+        <div class="oc-s">${o.dropped}/${o.books} sitede düştü${o.level?` · <b>${esc(o.level)}</b>`:""}${o.firstMover?` · ilk: ${esc(o.firstMover)}`:""}</div>
+        <div class="oc-s">Pinnacle ${o.pinnacle?`${f2(o.pinnacle.open)} → ${f2(o.pinnacle.now)}`:"yok"} · en iyi ${o.best?`${f2(o.best.price)} (${esc(o.best.book)})`:"–"}</div>
+        ${o.outliers&&o.outliers.length?`<div class="oc-s">Uç değer: ${o.outliers.map(esc).join(", ")}</div>`:""}</div>`}).join("");
+    const picks=["1","X","2"];
+    const rows=e.table.map(b=>`<tr><td>${esc(b.title)}${b.sharp?' <span class="tag t-neutral">keskin</span>':b.exchange?' <span class="tag t-neutral">borsa</span>':""}</td>${picks.map(p=>{const c=b.odds[p];if(!c)return"<td>–</td>";const d=c.now<c.open?"dn":c.now>c.open?"up":"";return `<td class="num ${d}">${f2(c.now)}${d?`<small>${f2(c.open)}</small>`:""}</td>`}).join("")}</tr>`).join("");
+    return `<article class="panel ev">
+      <div class="ev-head"><div><p class="label" style="margin:0">${esc(e.league)} · ${esc(fmtTime(e.commence))}</p><h3>${esc(e.home)} – ${esc(e.away)}</h3></div>${e.signal?`<span class="sig ${lvlCls[e.signal]}">${esc(e.signal)} sinyal</span>`:'<span class="sig">hareket yok</span>'}</div>
+      <div class="ocs">${oc}</div>
+      <details><summary>Bütün siteler (${e.table.length})</summary><div class="tbl"><table><thead><tr><th>Site</th><th>1</th><th>X</th><th>2</th></tr></thead><tbody>${rows}</tbody></table></div><p class="meta">Altta küçük yazan oran açılış oranıdır.</p></details>
+    </article>`}).join("");
+}
 
 function renderList(){
   const ul=$("fx");ul.innerHTML="";
