@@ -1,0 +1,304 @@
+{
+ "day": "2026-10-26",
+ "generatedAt": 1793001245716,
+ "source": "football-data.org",
+ "statsWindow": "son 10 resmi maç (tüm kulvarlar)",
+ "matches": [
+  {
+   "league": "La Liga",
+   "fixtureId": 564721,
+   "kickoff": "2026-10-26T23:00:00+03:00",
+   "matchday": 10,
+   "home": {
+    "id": 559,
+    "name": "Sevilla FC",
+    "fullName": "Sevilla FC",
+    "table": {
+     "total": {
+      "position": 6,
+      "playedGames": 9,
+      "won": 4,
+      "draw": 2,
+      "lost": 3,
+      "points": 14,
+      "goalsFor": 14,
+      "goalsAgainst": 16
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DWWLDL",
+     "sample": {
+      "home": 4,
+      "away": 5,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 1.25,
+      "away": 1.8,
+      "total": 1.56
+     },
+     "goalsAgainstAvg": {
+      "home": 1.75,
+      "away": 1.8,
+      "total": 1.78
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 20,
+      "total": 22
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 75,
+      "away": 60,
+      "total": 67
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 80,
+      "total": 78
+     }
+    }
+   },
+   "away": {
+    "id": 79,
+    "name": "Osasuna",
+    "fullName": "CA Osasuna",
+    "table": {
+     "total": {
+      "position": 12,
+      "playedGames": 9,
+      "won": 3,
+      "draw": 2,
+      "lost": 4,
+      "points": 11,
+      "goalsFor": 10,
+      "goalsAgainst": 18
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LLLDLW",
+     "sample": {
+      "home": 5,
+      "away": 4,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 0.8,
+      "away": 1.5,
+      "total": 1.11
+     },
+     "goalsAgainstAvg": {
+      "home": 0.6,
+      "away": 3.75,
+      "total": 2.0
+     },
+     "cleanSheetPct": {
+      "home": 60,
+      "away": 0,
+      "total": 33
+     },
+     "failedToScorePct": {
+      "home": 40,
+      "away": 25,
+      "total": 33
+     },
+     "over25Pct": {
+      "home": 0,
+      "away": 100,
+      "total": 44
+     },
+     "bttsPct": {
+      "home": 20,
+      "away": 75,
+      "total": 44
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-04-26",
+     "home": "Osasuna",
+     "away": "Sevilla FC",
+     "score": "2-1"
+    },
+    {
+     "date": "2025-11-08",
+     "home": "Sevilla FC",
+     "away": "Osasuna",
+     "score": "1-0"
+    },
+    {
+     "date": "2025-04-24",
+     "home": "Osasuna",
+     "away": "Sevilla FC",
+     "score": "1-0"
+    },
+    {
+     "date": "2024-12-02",
+     "home": "Sevilla FC",
+     "away": "Osasuna",
+     "score": "1-1"
+    },
+    {
+     "date": "2024-01-28",
+     "home": "Sevilla FC",
+     "away": "Osasuna",
+     "score": "1-1"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Ligue 1",
+   "fixtureId": 559648,
+   "kickoff": "2026-10-26T22:30:00+03:00",
+   "matchday": 8,
+   "home": {
+    "id": 524,
+    "name": "PSG",
+    "fullName": "Paris Saint-Germain FC",
+    "table": {
+     "total": {
+      "position": 5,
+      "playedGames": 7,
+      "won": 4,
+      "draw": 2,
+      "lost": 1,
+      "points": 14,
+      "goalsFor": 14,
+      "goalsAgainst": 9
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WWWWWW",
+     "sample": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 3.5,
+      "away": 2.33,
+      "total": 2.8
+     },
+     "goalsAgainstAvg": {
+      "home": 1.5,
+      "away": 1.33,
+      "total": 1.4
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 17,
+      "total": 10
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 83,
+      "total": 90
+     },
+     "bttsPct": {
+      "home": 100,
+      "away": 83,
+      "total": 90
+     }
+    }
+   },
+   "away": {
+    "id": 523,
+    "name": "Olympique Lyon",
+    "fullName": "Olympique Lyonnais",
+    "table": {
+     "total": {
+      "position": 4,
+      "playedGames": 7,
+      "won": 4,
+      "draw": 2,
+      "lost": 1,
+      "points": 14,
+      "goalsFor": 13,
+      "goalsAgainst": 5
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DWDWLW",
+     "sample": {
+      "home": 4,
+      "away": 3,
+      "total": 7
+     },
+     "goalsForAvg": {
+      "home": 2.5,
+      "away": 1.0,
+      "total": 1.86
+     },
+     "goalsAgainstAvg": {
+      "home": 0.75,
+      "away": 0.67,
+      "total": 0.71
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 67,
+      "total": 43
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 33,
+      "total": 14
+     },
+     "over25Pct": {
+      "home": 75,
+      "away": 33,
+      "total": 57
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 33,
+      "total": 57
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-04-19",
+     "home": "PSG",
+     "away": "Olympique Lyon",
+     "score": "1-2"
+    },
+    {
+     "date": "2025-11-09",
+     "home": "Olympique Lyon",
+     "away": "PSG",
+     "score": "2-3"
+    },
+    {
+     "date": "2025-02-23",
+     "home": "Olympique Lyon",
+     "away": "PSG",
+     "score": "2-3"
+    },
+    {
+     "date": "2024-12-15",
+     "home": "PSG",
+     "away": "Olympique Lyon",
+     "score": "3-1"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  }
+ ]
+}

@@ -1,17 +1,17 @@
 {
- "at": 1793000839769,
+ "at": 1793001245716,
  "day": "2026-10-26",
- "season": 2026,
- "matches": 0,
- "calls": 4,
- "plan": "Free",
- "requests": {
-  "current": 0,
-  "limit_day": 100
+ "source": "football-data.org",
+ "matches": 2,
+ "perLeague": {
+  "Premier Lig": 0,
+  "Eredivisie": 0,
+  "La Liga": 1,
+  "Serie A": 0,
+  "Bundesliga": 0,
+  "Ligue 1": 1,
+  "Şampiyonlar Ligi": 0
  },
- "errors": [
-  "/fixtures {\"plan\": \"Free plans do not have access to this season, try from 2022 to 2024.\"}",
-  "/fixtures {\"plan\": \"Free plans do not have access to this season, try from 2022 to 2024.\"}",
-  "/fixtures {\"plan\": \"Free plans do not have access to this season, try from 2022 to 2024.\"}"
- ]
+ "calls": 15,
+ "errors": []
 }
