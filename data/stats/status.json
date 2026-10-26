@@ -1,0 +1,17 @@
+{
+ "at": 1793000839769,
+ "day": "2026-10-26",
+ "season": 2026,
+ "matches": 0,
+ "calls": 4,
+ "plan": "Free",
+ "requests": {
+  "current": 0,
+  "limit_day": 100
+ },
+ "errors": [
+  "/fixtures {\"plan\": \"Free plans do not have access to this season, try from 2022 to 2024.\"}",
+  "/fixtures {\"plan\": \"Free plans do not have access to this season, try from 2022 to 2024.\"}",
+  "/fixtures {\"plan\": \"Free plans do not have access to this season, try from 2022 to 2024.\"}"
+ ]
+}
