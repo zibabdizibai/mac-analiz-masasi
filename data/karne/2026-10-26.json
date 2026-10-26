@@ -1,0 +1,528 @@
+{
+ "day": "2026-10-26",
+ "updatedAt": 1793054055674,
+ "summary": {
+  "genel": {
+   "tuttu": 14,
+   "tutmadı": 15,
+   "iade": 0,
+   "belirsiz": 0
+  },
+  "risk": {
+   "orta": {
+    "tuttu": 11,
+    "tutmadı": 7,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "yüksek": {
+    "tuttu": 3,
+    "tutmadı": 8,
+    "iade": 0,
+    "belirsiz": 0
+   }
+  },
+  "spor": {
+   "basketbol": {
+    "tuttu": 6,
+    "tutmadı": 6,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "futbol": {
+    "tuttu": 8,
+    "tutmadı": 9,
+    "iade": 0,
+    "belirsiz": 0
+   }
+  },
+  "verdict": {
+   "tuttu": 4,
+   "toplam": 9
+  },
+  "roi": {
+   "tümü": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "değerli": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "orta": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "yüksek": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "düşük": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "futbol": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "basketbol": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   }
+  },
+  "clv": {
+   "n": 0,
+   "avg": null,
+   "beatPct": null
+  },
+  "calib": {
+   "n": 0,
+   "avgProb": null,
+   "hitRate": null
+  }
+ },
+ "matches": {
+  "basketbol-2026-10-26-minnesota-timberwolves-toronto-raptors": {
+   "score": "117-94",
+   "detail": "Toplam 211 sayı",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Başa baş beklenen maçı Timberwolves 23 farkla kazandı; toplam 230.5'in çok altında kaldı.",
+   "picks": [
+    {
+     "market": "Timberwolves MS",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "230.5 Üst",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Raptors +1.5 handikap",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-26-new-york-knicks-orlando-magic": {
+   "score": "102-111",
+   "detail": "İlk yarı Knicks 52-48 önde; 3. çeyrek sonu 75-71 Knicks; 4. çeyrek Magic 40-27",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Franz Wagner son çeyrekte 21 sayı attı; Banchero'suz Magic deplasmanda kazandı, Knicks 0-3.",
+   "picks": [
+    {
+     "market": "Knicks -7.5 handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "224.5 Alt",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Knicks İlk Yarı -4.5",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-26-oklahoma-city-thunder-la-clippers": {
+   "score": "108-101",
+   "detail": "İlk yarı Clippers 46-43 önde (OKC 23-20, LAC 20-26)",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Thunder sadece 7 farkla kazandı; Jalen Williams maçta ağır sakatlandı.",
+   "picks": [
+    {
+     "market": "Thunder İlk Yarı -8.5",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "221.5 Alt",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Thunder -15.5 handikap",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-26-philadelphia-76ers-detroit-pistons": {
+   "score": "93-106",
+   "detail": "İlk yarı Pistons 56-44 önde (1. çeyrek 34-22)",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Pistons ilk çeyrekte 12 fark açtı ve önde götürdü; toplam 199 sayı.",
+   "picks": [
+    {
+     "market": "Pistons MS",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Pistons -1.5 handikap",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "227.5 Alt",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-26-besiktas-basaksehir": {
+   "score": "2-0",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Goller 76' Oh Hyeon-Gyu ve 89' Olaitan; Başakşehir gol bulamadı.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Beşiktaş MS & KG Var",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-26-caykur-rizespor-trabzonspor": {
+   "score": "3-4",
+   "detail": "İY 2-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Rizespor ilk yarıyı Borrelli'nin iki golüyle 2-0 önde kapattı, Trabzonspor ikinci yarıda 4 gol attı; Recep Uçar 90'da kırmızı kart gördü.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Trabzonspor MS",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Beraberlik",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-26-galatasaray-fenerbahce": {
+   "score": "2-1",
+   "detail": "İY 2-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Osimhen 29' ve 44' gol attı, İrfan Can 62'de farkı bire indirdi; maç sonu arbede, Abdülkerim ve Archie Brown kırmızı kart gördü.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Galatasaray MS",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Beraberlik",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-26-mardin-1969-spor-manisa-fk": {
+   "score": "2-1",
+   "detail": "İY 2-1",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Tüm goller ilk yarıda geldi (kaynak: Transfermarkt).",
+   "picks": [
+    {
+     "market": "Mardin 1969 Spor MS",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-26-sevilla-osasuna": {
+   "score": "2-0",
+   "detail": "İY 1-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Goller 24' Isaac Romero ve 82' Félix Correia; Osasuna gol atamadı.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Sevilla 0 (Beraberlikte iade)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Beraberlik",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tutmadı",
+     "prob": null,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  }
+ },
+ "notes": [
+  "Nerede yanıldık: KG Var/Üst ağırlıklı futbol okumaları Beşiktaş ve Sevilla'da çöktü; iki maçta da deplasman takımı gol atamadı, Rize-Trabzon'da ise 'az gollü' beklenen maç 7 golle bitti.",
+  "Nerede yanıldık: NBA'de geniş handikap ve ilk yarı çizgileri (Knicks -7.5, Thunder -15.5, Thunder İY -8.5, Knicks İY -4.5) hep kaybetti; eksik kadrolu rakipler beklenenden dirençli çıktı.",
+  "İyi giden: NBA alt tercihleri 3/3 tuttu (Knicks-Magic, Thunder-Clippers, Sixers-Pistons); Pistons maçı ve derbi okuması (KG Var, Üst, GS MS) tam isabet.",
+  "Yarın için ders: Rakip yıldız eksikliğinde bile NBA'de 7.5+ handikap yerine MS veya toplam alt tercih edilmeli; futbolda 'deplasman gol bulur' varsayımı xG/deplasman formuyla ayrıca doğrulanmalı."
+ ]
+}
