@@ -1,0 +1,56 @@
+{
+ "day": "2026-10-26",
+ "matches": {
+  "futbol-2026-10-26-besiktas-basaksehir": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "54ecd2cf77168d62e84f2fd5ccc54a82",
+   "apiHome": "Besiktas JK",
+   "apiAway": "Basaksehir",
+   "open": [
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-26-caykur-rizespor-trabzonspor": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "e1c9aa56abe5e911eb57403d78376270",
+   "apiHome": "Çaykur Rizespor",
+   "apiAway": "Trabzonspor",
+   "open": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-26-galatasaray-fenerbahce": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "a05d15a5f230d25da72b18dc92084f8f",
+   "apiHome": "Galatasaray",
+   "apiAway": "Fenerbahce",
+   "open": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-26-sevilla-osasuna": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "85e464708d03287f24590e1478aeca31",
+   "apiHome": "Sevilla",
+   "apiAway": "CA Osasuna",
+   "open": [
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  }
+ },
+ "updatedAt": 1793004664731
+}
