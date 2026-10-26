@@ -1,0 +1,40 @@
+name: Öneri oranları
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/2*.json"
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pickodds
+  cancel-in-progress: false
+
+jobs:
+  snap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Oranları kaydet
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then python3 scripts/pick_odds.py close; fi
+          python3 scripts/pick_odds.py open
+      - name: Gönder
+        run: |
+          git add data/odds_picks
+          if git diff --cached --quiet; then echo "değişiklik yok"; exit 0; fi
+          git -c user.name="odds-bot" -c user.email="odds-bot@users.noreply.github.com" commit -m "Öneri oranları"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
