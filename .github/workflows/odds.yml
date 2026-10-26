@@ -26,7 +26,7 @@ jobs:
         run: |
           git add data/odds
           if git diff --cached --quiet; then echo "değişiklik yok"; exit 0; fi
-          git -c user.name="odds-bot" -c user.email="odds-bot@users.noreply.github.com" commit -m "Oran güncellemesi [skip ci]"
+          git -c user.name="odds-bot" -c user.email="odds-bot@users.noreply.github.com" commit -m "Oran güncellemesi"
           for i in 1 2 3; do
             git pull --rebase origin main && git push && exit 0
             sleep 5

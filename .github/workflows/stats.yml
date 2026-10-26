@@ -1,0 +1,39 @@
+name: Maç istatistikleri
+
+on:
+  schedule:
+    - cron: "15 20 * * *"   # 23:15 İstanbul -> ertesi günün maçları
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/stats_fetch.py
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: İstatistikleri çek
+        env:
+          APIFOOTBALL_KEY: ${{ secrets.APIFOOTBALL_KEY }}
+        run: python3 scripts/stats_fetch.py
+      - name: Gönder
+        run: |
+          git add data/stats
+          if git diff --cached --quiet; then echo "değişiklik yok"; exit 0; fi
+          git -c user.name="stats-bot" -c user.email="stats-bot@users.noreply.github.com" commit -m "Maç istatistikleri"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
