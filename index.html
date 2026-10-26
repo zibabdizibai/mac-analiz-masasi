@@ -92,6 +92,7 @@ a{color:var(--accent)}
 .stat .v{font-family:var(--display);font-weight:800;font-size:28px;line-height:1.1;font-variant-numeric:tabular-nums}
 .stat .s{font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
 .stat.main{border-color:var(--accent)}
+.go-karne{font:inherit;font-family:var(--display);font-weight:800;font-size:15px;letter-spacing:.06em;text-transform:uppercase;background:var(--accent);color:var(--accent-ink);border:0;border-radius:6px;padding:6px 14px;cursor:pointer}
 .karne ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:4px}
 .score{font-family:var(--mono);font-size:12px;font-weight:500;font-variant-numeric:tabular-nums;white-space:nowrap}
 .res{align-self:flex-start;font-family:var(--mono);font-size:11px;font-weight:500;padding:1px 8px;border-radius:999px}
@@ -171,6 +172,22 @@ async function loadDay(d){
   $("upd").textContent=data.updatedAt?"Son güncelleme: "+new Date(data.updatedAt).toLocaleString("tr-TR",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}):"";
   try{karne=await getJSON(`data/karne/${d}.json`)}catch(e){karne=null}
   renderKarne();renderList();
+  if(!karne)showLatestKarne(d);
+}
+async function showLatestKarne(d){
+  const days=[...$("day").options].map(o=>o.value).filter(x=>x<d);
+  for(const p of days){
+    let k;try{k=await getJSON(`data/karne/${p}.json`)}catch(e){continue}
+    if($("day").value!==d||!k||!k.summary)return;
+    const g=k.summary.genel,n=g.tuttu+g["tutmadı"],v=k.summary.verdict||{tuttu:0,toplam:0};
+    const el=$("karne");el.hidden=false;
+    el.innerHTML=`<div class="karne-head"><p class="label" style="margin:0">Son karne · ${esc(fmtDay(p))}</p><button class="go-karne" type="button">Karneyi aç</button></div>
+      <div class="stats"><div class="stat main"><div class="k">Tüm öneriler</div><div class="v">${pct(g.tuttu,n)}</div><div class="s">${g.tuttu}/${n} tuttu</div></div>
+      <div class="stat"><div class="k">Maç kararı</div><div class="v">${pct(v.tuttu,v.toplam)}</div><div class="s">${v.tuttu}/${v.toplam} maçta tuttu</div></div></div>
+      <p class="meta" style="margin:0">Bu günün maçları henüz bitmedi; karnesi gece 01:30'da eklenir.</p>`;
+    el.querySelector(".go-karne").onclick=()=>{$("day").value=p;history.replaceState(null,"","#"+p);loadDay(p);el.scrollIntoView({behavior:"smooth"})};
+    return;
+  }
 }
 const pct=(t,n)=>n?Math.round(100*t/n)+"%":"–";
 function statBox(k,b,main){const n=b.tuttu+b["tutmadı"];return `<div class="stat${main?" main":""}"><div class="k">${esc(k)}</div><div class="v">${pct(b.tuttu,n)}</div><div class="s">${b.tuttu}/${n} tuttu${b.iade?` · ${b.iade} iade`:""}</div></div>`}
