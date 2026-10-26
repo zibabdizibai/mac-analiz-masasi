@@ -11,7 +11,12 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    null,
+    null,
+    null
+   ]
   },
   "futbol-2026-10-26-caykur-rizespor-trabzonspor": {
    "sportKey": "soccer_turkey_super_league",
@@ -24,7 +29,13 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    null,
+    null,
+    null,
+    null
+   ]
   },
   "futbol-2026-10-26-galatasaray-fenerbahce": {
    "sportKey": "soccer_turkey_super_league",
@@ -52,5 +63,5 @@
    "pass": false
   }
  },
- "updatedAt": 1793004664731
+ "updatedAt": 1793029740357
 }
