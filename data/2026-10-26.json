@@ -1,0 +1,983 @@
+{
+ "day": "2026-10-26",
+ "updatedAt": 1792989025705,
+ "analyses": {
+  "basketbol-2026-10-26-minnesota-timberwolves-toronto-raptors": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Wolves -1.5, toplam 232.5",
+      "site": "FanDuel Research",
+      "url": "https://www.fanduel.com/research/timberwolves-vs-raptors-prediction-nba-odds-spread-best-bets-for-10-25-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Wolves %55.5 kazanma olasılığı",
+      "site": "Pickswise",
+      "url": "https://www.pickswise.com/nba/games/minnesota-timberwolves-toronto-raptors-nba-2026-10-25-1900"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Wolves -1.5, toplam 230.5",
+      "site": "USA Today Sportsbook Wire",
+      "url": "https://sportsbookwire.usatoday.com/story/sports/nba/2026/10/25/raptors-at-timberwolves-odds-picks-and-predictions/92429630007"
+     }
+    ],
+    "consensus": "Piyasa ve modeller hafif Wolves avantajı görüyor; net bir favori yok.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Geçen sezon iki karşılaşmayı da Wolves kazandı."
+     },
+     {
+      "side": "home",
+      "text": "Rudy Gobert ribauntta etkili (maç başı 15)."
+     },
+     {
+      "side": "away",
+      "text": "Raptors da 2-0 ve piyasa açılıştan bu yana Toronto'ya kaydı."
+     },
+     {
+      "side": "home",
+      "text": "Wolves Cuma günü Magic'i 115-93 yendi."
+     },
+     {
+      "side": "neutral",
+      "text": "Toplam 230+ olarak yüksek açıldı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Timberwolves'ta Donte DiVincenzo sağ Aşil sakatlığı nedeniyle Nisan'a kadar yok.",
+      "url": "https://www.pickswise.com/nba/games/minnesota-timberwolves-toronto-raptors-nba-2026-10-25-1900"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 50,
+      "market": "Timberwolves MS",
+      "reason": "İç saha avantajı ve geçen sezonki 2-0 üstünlük; Pickswise Wolves'a %55.5 kazanma olasılığı veriyor. Oran 1.90 civarında.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 46,
+      "market": "230.5 Üst",
+      "reason": "İki takım da sezona hücumda iyi başladı; geçen sezonki Toronto maçı 254 sayıyla bitti.",
+      "risk": "yüksek"
+     },
+     {
+      "confidence": 42,
+      "market": "Raptors +1.5 handikap",
+      "reason": "Piyasa Raptors'a doğru kaydı; başa baş maçta 1.5 sayı yastığı değerli olabilir.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Çizgilerin dar olması nedeniyle sonuç son posesyonlara kalabilir",
+     "Yüksek toplam çizgisi savunma ağırlıklı bir gecede kolayca altta kalır",
+     "Erken sezon rotasyon belirsizliği"
+    ],
+    "sources": [
+     {
+      "title": "TheSpread",
+      "url": "https://www.thespread.com/nba-articles/raptors-vs-timberwolves-prediction-october-25-2026/"
+     },
+     {
+      "title": "FanDuel Research",
+      "url": "https://www.fanduel.com/research/timberwolves-vs-raptors-prediction-nba-odds-spread-best-bets-for-10-25-2026"
+     }
+    ],
+    "summary": "Raptors da Timberwolves da sezona 2-0 başladı. Piyasa açılıştan bu yana ciddi hareket etti; şimdi Wolves -1.5, toplam 230.5-232.5. Wolves'ta DiVincenzo Aşil sakatlığıyla uzun süre yok. Geçen sezon iki maçı da Minnesota kazandı (128-126 ve 115-107).",
+    "verdict": "Başa baş maç; hücum gücü yüksek iki takım nedeniyle toplam sayı üst tarafı öne çıkıyor."
+   },
+   "createdAt": 1792962979010
+  },
+  "basketbol-2026-10-26-new-york-knicks-orlando-magic": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Knicks kazanır (%73.3)",
+      "site": "FanDuel / numberFire",
+      "url": "https://www.fanduel.com/research/knicks-vs-magic-prediction-nba-odds-spread-best-bets-for-10-25-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Knicks 115-105, 224.5 Alt",
+      "site": "iHeart (bilgisayar modeli)",
+      "url": "https://953wdae.iheart.com/content/2026-10-25-magic-vs-knicks-predictions-odds-stats-oct-25"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Knicks daha iyi takım; MS'de değer yok",
+      "site": "USA Today Sportsbook Wire",
+      "url": "https://www.coloradoan.com/story/sports/nba/2026/10/25/magic-at-knicks-odds-picks-and-predictions/92426503007"
+     }
+    ],
+    "consensus": "Kaynaklar Knicks galibiyetinde birleşiyor; model toplam altını işaret ediyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Banchero 4-6 hafta yok."
+     },
+     {
+      "side": "home",
+      "text": "Knicks maç başı 106.5 sayı yiyor; Magic 123.5 sayı yiyor."
+     },
+     {
+      "side": "away",
+      "text": "Knicks de 0-2 ve hücumda ritim arıyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Geçen sezon seri 2-2 bitti."
+     },
+     {
+      "side": "home",
+      "text": "Knicks geçen sezon 7.5+ favori olduğu maçlarda handikabı 17-12 geçti."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Paolo Banchero yüksek ayak bileği burkulması nedeniyle 4-6 hafta sahalardan uzak (Shams Charania).",
+      "url": "https://www.foxsports.com/nba/orlando-magic-vs-new-york-knicks-oct-25-2026-game-boxscore-106571"
+     },
+     {
+      "impact": "orta",
+      "text": "Magic'te Anthony Black (ayak bileği) şüpheli.",
+      "url": "https://www.coloradoan.com/story/sports/nba/2026/10/25/magic-at-knicks-odds-picks-and-predictions/92426503007"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 52,
+      "market": "Knicks -7.5 handikap",
+      "reason": "Banchero yokluğunda Magic'in hücum yaratıcılığı ciddi düşüyor; numberFire Knicks galibiyetine %73 veriyor, model 115-105 öngörüyor.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 50,
+      "market": "224.5 Alt",
+      "reason": "Knicks savunması maç başı 106.5 sayı veriyor; iHeart modeli toplamı 220.3 hesaplıyor.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 45,
+      "market": "Knicks İlk Yarı -4.5",
+      "reason": "Kendi sahasında ilk galibiyet arayan Knicks'in maça hızlı başlaması bekleniyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Knicks'in hücum sıkıntısının sürmesi",
+     "Magic'in Banchero'suz oyun planıyla savunmada direnmesi",
+     "-7.5 çizgisinin son dakikalarda kıl payı kaçması"
+    ],
+    "sources": [
+     {
+      "title": "USA Today / Coloradoan",
+      "url": "https://www.coloradoan.com/story/sports/nba/2026/10/25/magic-at-knicks-odds-picks-and-predictions/92426503007"
+     },
+     {
+      "title": "FOX Sports",
+      "url": "https://www.foxsports.com/nba/orlando-magic-vs-new-york-knicks-oct-25-2026-game-boxscore-106571"
+     }
+    ],
+    "summary": "İki takım da 0-2 başladı. Magic, Cuma günü Minnesota'ya 115-93 kaybetti ve Paolo Banchero yüksek ayak bileği burkulmasıyla 4-6 hafta yok; Anthony Black şüpheli. Knicks maç başı 106.5 sayı yiyerek savunmada iyi; Magic ise 123.5 sayı yiyor. Piyasa Knicks'i -7.5 favori, toplamı 223.5-224.5 görüyor.",
+    "verdict": "Banchero'suz Magic karşısında Knicks sezonun ilk galibiyetine yakın; handikap ve toplam alt değerli."
+   },
+   "createdAt": 1792962979010
+  },
+  "basketbol-2026-10-26-oklahoma-city-thunder-la-clippers": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "OKC -15.5, toplam 220.5",
+      "site": "FanDuel Research",
+      "url": "https://www.fanduel.com/research/thunder-vs-clippers-prediction-nba-odds-spread-best-bets-for-10-25-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "OKC kazanma olasılığı %88",
+      "site": "FOX Sports",
+      "url": "https://www.foxsports.com/nba/la-clippers-vs-oklahoma-city-thunder-oct-25-2026-game-boxscore-106570?tab=odds"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "OKC -14.5, toplam 221.5",
+      "site": "DraftKings Network",
+      "url": "https://dknetwork.draftkings.com/2026/10/25/los-angeles-clippers-vs-oklahoma-city-thunder-prediction-pick-for-sunday-10-25-26/"
+     }
+    ],
+    "consensus": "Thunder'ın kazanacağında herkes hemfikir; tartışma farkın boyutu üzerinde.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Thunder 2-0 ve kadrosu tam."
+     },
+     {
+      "side": "home",
+      "text": "Clippers'ta iki ana skorer eksik."
+     },
+     {
+      "side": "home",
+      "text": "Geçen sezonki son karşılaşmayı OKC 128-110 kazandı."
+     },
+     {
+      "side": "away",
+      "text": "Büyük handikaplarda son çeyrek rotasyonu kapanışı zorlaştırır."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Clippers'ta Bradley Beal (diz) ve Brandon Ingram (topuk) yok; Konan Niederhauser ve Jordan Miller da dışarıda.",
+      "url": "https://www.si.com/betting/clippers-vs-thunder-prediction-odds-and-best-nba-prop-bets-for-sunday-oct-25-2026"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 52,
+      "market": "Thunder İlk Yarı -8.5",
+      "reason": "Thunder sağlıklı ve iç sahada; Clippers'ın iki ana skorer eksikliği ilk yarıda farkı açtırabilir. İkinci yarıdaki rotasyon riski devre dışı kalır.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 52,
+      "market": "221.5 Alt",
+      "reason": "Clippers'ta Ingram ve Beal yok; OKC'nin savunması rakibi düşük skorda tutuyor. Fark açılınca son çeyrek tempo düşer.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 45,
+      "market": "Thunder -15.5 handikap",
+      "reason": "Bahislerin %82'si ve paranın %93'ü OKC'de; eksik Clippers'a karşı farklı galibiyet mümkün ama garbage time riski var.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Fark açılınca OKC'nin yıldızlarını erken dinlendirmesi",
+     "Clippers'ın 3'lük isabetinde sürpriz bir gece",
+     "Hızlı tempoda toplamın 221.5'i aşması"
+    ],
+    "sources": [
+     {
+      "title": "SI Betting",
+      "url": "https://www.si.com/betting/clippers-vs-thunder-prediction-odds-and-best-nba-prop-bets-for-sunday-oct-25-2026"
+     },
+     {
+      "title": "iHeart Sports",
+      "url": "https://sports.iheart.com/content/2026-10-25-clippers-vs-thunder-predictions-odds-stats-oct-25/"
+     },
+     {
+      "title": "TheSpread",
+      "url": "https://www.thespread.com/nba-articles/clippers-vs-thunder-prediction-october-25-2026/"
+     }
+    ],
+    "summary": "Thunder 2-0 ve sağlıklı kadroyla sezona dominant başladı. Clippers 1-1; Brandon Ingram (topuk) ve Bradley Beal (diz) yok, Konan Niederhauser ve Jordan Miller da dışarıda. Piyasa OKC'yi -14.5/-16 favori görüyor, toplam 220.5-224.5 arasında. Bu eksiklerle Clippers hücumunun düşük kalması bekleniyor.",
+    "verdict": "Thunder rahat kazanır ama -15.5 çizgisi geniş; değer toplam sayı ve ilk yarı marketlerinde."
+   },
+   "createdAt": 1792962979010
+  },
+  "basketbol-2026-10-26-philadelphia-76ers-detroit-pistons": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Embiid'in yokluğu Detroit için büyük avantaj",
+      "site": "Covers",
+      "url": "https://www.covers.com/sport/basketball/nba/matchup/388603/picks"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Açılışta Sixers -2.5, kazanma olasılığı 35-65 Sixers lehine",
+      "site": "Statsbench",
+      "url": "https://blog.statsbench.com/pistons-vs-76ers-prediction-props-2026-10-25"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Pistons -1.5, toplam 227.5",
+      "site": "SI Betting",
+      "url": "https://www.si.com/betting/pistons-vs-76ers-prediction-odds-and-best-nba-prop-bets-for-sunday-oct-25-2026"
+     }
+    ],
+    "consensus": "Embiid haberi sonrası piyasa Pistons'a döndü; uzmanlar Detroit'in avantajlı olduğunu düşünüyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Sixers back-to-back'in ikinci maçında."
+     },
+     {
+      "side": "away",
+      "text": "Embiid Cumartesi triple-double yaptıktan sonra dinlendiriliyor."
+     },
+     {
+      "side": "home",
+      "text": "Sixers 3-0 ve iç sahada oynuyor."
+     },
+     {
+      "side": "home",
+      "text": "Pistons'ta Jalen Duren yok; Paul Reed'in rolü artıyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Covers konsensüsünde handikap seçimleri %44 Pistons - %56 Sixers."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Sixers'ta Joel Embiid (yük yönetimi), Dominick Barlow ve Ariel Hukporti oynamayacak.",
+      "url": "https://www.freep.com/story/sports/nba/pistons/2026/10/25/pistons-game-injury-report-tv-channel-76ers-where-to-stream/92404340007"
+     },
+     {
+      "impact": "orta",
+      "text": "Pistons'ta Jalen Duren (sağ hamstring) yok, Ausar Thompson (ayak bileği) şüpheli.",
+      "url": "https://www.nba.com/sixers/news/sixers-vs-pistons-game-preview-injury-report-and-how-to-watch-10-25-2026"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 52,
+      "market": "Pistons MS",
+      "reason": "Embiid yok ve Sixers yorgun; Duren'in yokluğuna rağmen Pistons dinlenmiş geliyor. Oran 1.85 civarında.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 48,
+      "market": "Pistons -1.5 handikap",
+      "reason": "Back-to-back yorgunluğu genelde ikinci yarıda belirginleşir; galibiyet halinde 2+ fark olası.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 45,
+      "market": "227.5 Alt",
+      "reason": "İki takımın da ana uzunu (Embiid, Duren) yok ve Sixers'ın yorgun bacakları tempoyu düşürebilir.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Sixers'ın 3-0'lık özgüveni ve iç saha desteği",
+     "Ausar Thompson'ın da oynamaması Pistons savunmasını zayıflatır",
+     "Son dakika kadro değişiklikleri"
+    ],
+    "sources": [
+     {
+      "title": "Detroit Free Press",
+      "url": "https://www.freep.com/story/sports/nba/pistons/2026/10/25/pistons-game-injury-report-tv-channel-76ers-where-to-stream/92404340007"
+     },
+     {
+      "title": "NBA.com Sixers önizleme",
+      "url": "https://www.nba.com/sixers/news/sixers-vs-pistons-game-preview-injury-report-and-how-to-watch-10-25-2026"
+     },
+     {
+      "title": "Covers",
+      "url": "https://www.covers.com/sport/basketball/nba/matchup/388603/picks"
+     }
+    ],
+    "summary": "Sixers 3-0 ile Doğu'nun lideri ama Cumartesi oynadıktan sonra back-to-back'in ikinci gecesinde ve Joel Embiid yük yönetimi nedeniyle dışarıda. Pistons 2-0; Jalen Duren (hamstring) yok, Ausar Thompson şüpheli. Piyasa çizgisi Embiid haberleriyle Pistons -1.5'e döndü; toplam 226.5-227.5.",
+    "verdict": "Embiid'siz ve back-to-back oynayan Sixers karşısında Pistons değerli görünüyor."
+   },
+   "createdAt": 1792962979010
+  },
+  "futbol-2026-10-26-besiktas-basaksehir": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "MS1 %74",
+      "site": "Birebin (kullanıcı oylaması)",
+      "url": "https://www.birebin.com/spor-toto-tahminleri"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Beşiktaş zar zor kazanır",
+      "site": "Ahmet Çakar (Beyaz TV)",
+      "url": "https://habersarikirmizi.com/ahmet-cakardan-galatasaray-fenerbahce-derbisi-tahmini-fenerbahce-asla"
+     }
+    ],
+    "consensus": "Kaynaklar Beşiktaş galibiyetinde birleşiyor ama farklı skor beklentisi yok; dar ve gollü bir maç öne çıkıyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Beşiktaş maç başı 16.6 şut ve %67 topla oynama ortalamasına sahip."
+     },
+     {
+      "side": "home",
+      "text": "Son iki karşılaşmada Başakşehir'i yendi."
+     },
+     {
+      "side": "away",
+      "text": "Beşiktaş'ın Perşembe Avrupa maçı sonrası 3 gün dinlenmesi var; rakip hafta içi maç oynamadı."
+     },
+     {
+      "side": "neutral",
+      "text": "Beşiktaş son 6 maçının tamamında en az bir gol yedi."
+     },
+     {
+      "side": "away",
+      "text": "Başakşehir deplasmanda istikrarsız; 8 maçta 8 gol atıp 9 yedi."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Beşiktaş, UEFA Avrupa Ligi 3. haftada Crystal Palace ile 2-2 berabere kaldı; Ümit Akdağ 77. dakikada direkt kırmızı kart gördü.",
+      "url": "https://beinsports.com.tr/haber/besiktas-kritik-macta-10-kisi-kaldi"
+     },
+     {
+      "impact": "orta",
+      "text": "Italiano, Miretti ve Orkun Kökçü'nün sakatlık durumu ve dönüş süreci hakkında açıklama yaptı.",
+      "url": "https://www.ahaber.com.tr/spor/besiktas/2026/10/23/besiktasta-italianodan-mirettinin-sakatligina-dair-sozler-basaksehir-macinda-oynayacak-mi"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 56,
+      "market": "KG Var",
+      "reason": "Beşiktaş son 6 maçta hep gol yedi; Başakşehir'de Umut Bozok isabetli şutta takımın lideri ve takım maç başı ~1.5 gol atıyor.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 54,
+      "market": "2.5 Üst",
+      "reason": "Beşiktaş maç başı 2.0 gol atıp 1.3 yiyor; Avrupa yorgunluğu savunmada boşluk bırakabilir.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 38,
+      "market": "Beşiktaş MS & KG Var",
+      "reason": "Birebin oylamasında %74 Beşiktaş eğilimi var; gol yeme alışkanlığıyla birleşince değerli kombine.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Kadro rotasyonu nedeniyle Beşiktaş'ın hücum gücünün düşmesi",
+     "Başakşehir'in kapanıp düşük tempolu bir maç oynatması",
+     "Erken gol sonrası Beşiktaş'ın tempoyu düşürmesi"
+    ],
+    "sources": [
+     {
+      "title": "Mynet maç önü analiz",
+      "url": "https://www.mynet.com/besiktas-istanbul-basaksehir-2026-10-26-maci-oncesi-analiz-525105-myspor"
+     },
+     {
+      "title": "FotMob önizleme",
+      "url": "https://www.fotmob.com/tr/matches/basaksehir-vs-besiktas/17qnqq"
+     },
+     {
+      "title": "FOX Sports istatistik",
+      "url": "https://www.foxsports.com/soccer/turkish-super-lig-besiktas-vs-basaksehir-oct-26-2026-game-boxscore-925497"
+     }
+    ],
+    "summary": "Beşiktaş 8 maçta 15 puanla 6. sırada (16 attı, 10 yedi); Başakşehir 11 puanla 12. sırada. Siyah-beyazlılar Perşembe günü Avrupa Ligi'nde Crystal Palace ile 2-2 berabere kaldı ve Ümit Akdağ kırmızı kart gördü; yoğun takvim yorgunluğu söz konusu. Beşiktaş son iki karşılaşmayı kazandı ancak son 6 maçında hep gol yedi. Favoriye MS oranı düşük olduğundan değer gol marketlerinde.",
+    "verdict": "Beşiktaş favori ama Başakşehir'in gol bulabileceği, gollü bir maç bekleniyor."
+   },
+   "createdAt": 1792962979010
+  },
+  "futbol-2026-10-26-caykur-rizespor-trabzonspor": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Trabzonspor 1-2",
+      "site": "Forebet",
+      "url": "https://www.forebet.com/en/football/matches/rizespor-trabzonspor-2494937"
+     },
+     {
+      "agree": "evet",
+      "prediction": "MS2 %62",
+      "site": "Birebin (kullanıcı oylaması)",
+      "url": "https://www.birebin.com/spor-toto-tahminleri"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Rizespor yenilmez",
+      "site": "Ahmet Çakar (Beyaz TV)",
+      "url": "https://habersarikirmizi.com/ahmet-cakardan-galatasaray-fenerbahce-derbisi-tahmini-fenerbahce-asla"
+     }
+    ],
+    "consensus": "Çoğunluk Trabzonspor galibiyetini bekliyor; skor beklentileri düşük-orta seviyede.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Trabzonspor son 5 maçta 11 gol atıp 3 gol yedi."
+     },
+     {
+      "side": "away",
+      "text": "Son 5 karşılaşmada 4 Trabzonspor galibiyeti var."
+     },
+     {
+      "side": "home",
+      "text": "Rizespor iç saha avantajı ve derbi motivasyonuyla oynayacak."
+     },
+     {
+      "side": "home",
+      "text": "Trabzonspor'da Onuachu, Malinovskyi ve Batagov eksik."
+     },
+     {
+      "side": "away",
+      "text": "Rizespor'da dört oyuncu sakat; hücum hattı zayıfladı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Rizespor'da Khusniddin Alikulov ve Ahmed Kutucu'nun sakatlıkları nedeniyle forma giymesi beklenmiyor.",
+      "url": "https://www.haber61.net/trabzonspor/trabzonspor-un-rakibi-rizespor-da-iki-futbolcu-forma-giyemeyecek/647190"
+     },
+     {
+      "impact": "düşük",
+      "text": "Recep Uçar: 'Pazartesi iç sahada iyi sonuçların başlangıcını yapmak istiyoruz.'",
+      "url": "https://www.canligaste.com/rizespor-da-ucar-dan-trabzonspor-maci-oncesi-flas-sozler/933216/"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Trabzonspor'da Paul Onuachu kas sakatlığı nedeniyle Kasım başına kadar yok.",
+      "url": "https://sakat-ve-cezali.com/turkiye-super-lig.php"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 55,
+      "market": "2.5 Alt",
+      "reason": "Trabzonspor son 5 maçta 3 gol yedi; Rizespor'un iki hücum oyuncusu (Kutucu, Bozdoğan) eksik ve Trabzonspor'da da Onuachu yok.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 48,
+      "market": "Trabzonspor MS",
+      "reason": "Forebet 1-2 deplasman galibiyeti öngörüyor; birebin oylamasında %62 Trabzonspor. Oran 1.90 civarında beklenir.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 50,
+      "market": "KG Yok",
+      "reason": "Trabzonspor son 5 maçın sadece 1'inde iki takımın da gol attığı skora sahne oldu.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 35,
+      "market": "Beraberlik",
+      "reason": "Ahmet Çakar 'Rizespor yenilmez' dedi; derbi havası ve Trabzonspor'un golcü eksikliği beraberliğe kapı aralıyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Derbi gerginliğinde erken kırmızı kart ya da penaltı",
+     "Trabzonspor'un golcü eksikliğinde gol bulamaması",
+     "Rizespor'un duran toplardan sürpriz gol bulması"
+    ],
+    "sources": [
+     {
+      "title": "Mynet maç önü analiz",
+      "url": "https://www.mynet.com/caykur-rizespor-trabzonspor-2026-10-26-maci-oncesi-analiz-525102-myspor"
+     },
+     {
+      "title": "Goal.com önizleme",
+      "url": "https://www.goal.com/en-my/match/rizespor-vs-trabzonspor/19bOv7UKyFL72JSAofMwf"
+     },
+     {
+      "title": "ESPN",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401888267/trabzonspor-caykur-rizespor"
+     }
+    ],
+    "summary": "Trabzonspor 16 puanla üst sıralarda, son 5 maçta 11 atıp yalnızca 3 gol yedi. Rizespor 10 puanda (3G-1B-4M) ve iç sahada istediği sonuçları alamadı; Kutucu, Alikulov, Mocsi ve Bozdoğan eksik. Trabzonspor'da Onuachu, Malinovskyi ve Batagov sakat. Son 5 karşılaşmanın 4'ünü Trabzonspor kazandı.",
+    "verdict": "Trabzonspor hafif favori; az gollü, kontrollü bir deplasman maçı bekleniyor."
+   },
+   "createdAt": 1792962979010
+  },
+  "futbol-2026-10-26-galatasaray-fenerbahce": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Galatasaray 2-1",
+      "site": "Tips.GG",
+      "url": "https://tips.gg/article/galatasaray-vs-fenerbahce-26-10-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Galatasaray kazanır (2.23)",
+      "site": "MightyTips",
+      "url": "https://www.mightytips.com/football-predictions/galatasaray-vs-fenerbahce-prediction-26-10-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "1: %46, X: %29, 2: %24",
+      "site": "Birebin (kullanıcı oylaması)",
+      "url": "https://www.birebin.com/spor-toto-tahminleri"
+     }
+    ],
+    "consensus": "Kaynaklar dar bir Galatasaray galibiyetine eğilimli; 2-1 gibi iki takımın da gol attığı skorlar öne çıkıyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "RAMS Park'ta 39 maçlık yenilmezlik serisi."
+     },
+     {
+      "side": "home",
+      "text": "Lider ve 3 puan önde; beraberlik bile işine yarar."
+     },
+     {
+      "side": "away",
+      "text": "Fenerbahçe son 3 haftada 14 gol attı; Muric 7 golle gol yarışında önde."
+     },
+     {
+      "side": "home",
+      "text": "Fenerbahçe'de Asensio, Aké, Oosterwolde ve Mert Müldür eksik."
+     },
+     {
+      "side": "neutral",
+      "text": "İki takım da hafta içi Şampiyonlar Ligi maçından geliyor."
+     },
+     {
+      "side": "away",
+      "text": "Volkan Demirel: Fenerbahçe baskısını 60-70 dakikaya yayabilirse kazanabilir; Fenerbahçe koşu mesafesinde son sırada."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Fenerbahçe'de Kante ve Skriniar için derbi öncesi antrenman yükünü düşüren özel program uygulandı.",
+      "url": "https://www.elipshaber.com/fenerbahcede-derbi-oncesi-kante-ve-skriniar-gelismesi"
+     },
+     {
+      "impact": "orta",
+      "text": "Galatasaray RAMS Park'ta 39 maçtır kaybetmiyor; evinde en son Fenerbahçe'ye yenildi.",
+      "url": "https://www.sondakika.com/spor/haber-galatasaray-fenerbahce-karsisinda-39-maclik-yenilm-20363601"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Fenerbahçe'de Asensio (diz) ve Aké (kas) sakat listesinde.",
+      "url": "https://sakat-ve-cezali.com/turkiye-super-lig.php"
+     },
+     {
+      "impact": "orta",
+      "text": "Galatasaray'da Rafael Leão kasık sakatlığıyla listede; Barış Alper Yılmaz şüpheli.",
+      "url": "https://sakat-ve-cezali.com/turkiye-super-lig.php"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 57,
+      "market": "KG Var",
+      "reason": "Fenerbahçe son 3 haftada 14 gol attı, Osimhen (6) ve Muric (7) formda; Fenerbahçe savunmasında Aké ve Oosterwolde yok.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 52,
+      "market": "2.5 Üst",
+      "reason": "İki hücum hattı da üretken; Fenerbahçe'nin savunma eksikleri ve iki takımın da Avrupa yorgunluğu gol beklentisini artırıyor.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 42,
+      "market": "Galatasaray MS",
+      "reason": "RAMS Park'ta 39 maçlık yenilmezlik serisi; Tips.GG ve MightyTips ev sahibi galibiyeti öngörüyor, oran 2.20 civarında.",
+      "risk": "yüksek"
+     },
+     {
+      "confidence": 35,
+      "market": "Beraberlik",
+      "reason": "Derbilerde favori olmaz; birebin oylamasında %29 beraberlik var, oran 3.40 üzeri olabilir.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Derbi gerginliği ve kırmızı kartlar oyunu kilitleyebilir",
+     "Leão ve Barış Alper'in durumu Galatasaray hücumunu etkileyebilir",
+     "Temkinli başlangıç düşük skorlu bir maça yol açabilir"
+    ],
+    "sources": [
+     {
+      "title": "Gazete Pencere - puan durumu",
+      "url": "https://www.gazetepencere.com/spor/galatasaray-fenerbahce-derbisi-icin-surpriz-skor-tahmini-chatgpt-gemini-ve-claude-skor-verdi-720746h"
+     },
+     {
+      "title": "Son Dakika - gol düellosu",
+      "url": "https://www.sondakika.com/spor/haber-galatasaray-ile-fenerbahce-26-ekim-de-osimhen-ve-m-20363755"
+     },
+     {
+      "title": "Gazete Oksijen - Volkan Demirel",
+      "url": "https://gazeteoksijen.com/spor/volkan-demirelden-derbi-yorumu-her-sey-ismail-kartala-bagli-293785"
+     },
+     {
+      "title": "Canlı Gaste",
+      "url": "https://www.canligaste.com/fenerbahce-derbide-yarin-galatasaray-a-konuk-olacak/935132/"
+     }
+    ],
+    "summary": "Galatasaray 8 maçta 19 puanla lider, Fenerbahçe 16 puanla 3. sırada; Fenerbahçe ligin en golcü takımlarından (22 gol) ve son 3 haftada 14 gol attı. Galatasaray RAMS Park'ta 39 maçtır yenilmiyor; evinde en son 2023-24'te Fenerbahçe'ye kaybetti. Fenerbahçe'de Asensio, Aké, Oosterwolde, Mert Müldür ve Diouf eksik; Galatasaray'da Rafael Leão'nun kasık sorunu ve Barış Alper Yılmaz'ın durumu belirsiz. İki takım da hafta içi Şampiyonlar Ligi'nde oynadı.",
+    "verdict": "Galatasaray ev sahibi olarak hafif favori; iki takımın da gol bulduğu bir derbi en olası senaryo."
+   },
+   "createdAt": 1792962979010
+  },
+  "futbol-2026-10-26-mardin-1969-spor-manisa-fk": {
+   "result": {
+    "comparisons": [],
+    "consensus": "Bu maç için güvenilir bir maç önü tahmin yayını bulunamadı; değerlendirme istatistiklere dayanıyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Mardin 6. sırada, play-off hattında."
+     },
+     {
+      "side": "home",
+      "text": "Manisa FK 11 maçta 20 gol yedi."
+     },
+     {
+      "side": "away",
+      "text": "Manisa hücumda üretken: 11 maçta 18 gol."
+     },
+     {
+      "side": "away",
+      "text": "Mardin son haftalarda iki tek farklı yenilgi aldı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "düşük",
+      "text": "Manisa FK, Muğlaspor'a 4-3 yenildikten sonra Mardin deplasmanı için galibiyet hedefiyle hazırlıklara başladı.",
+      "url": "https://www.sondakika.com/spor/haber-manisa-fk-mardin-1969-spor-deplasmaninda-galibiyet-20348507/"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 48,
+      "market": "Mardin 1969 Spor MS",
+      "reason": "Sıralama ve iç saha avantajı Mardin'de; Manisa savunması 11 maçta 20 gol yedi.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 52,
+      "market": "KG Var",
+      "reason": "Manisa 11 maçta 18 gol attı ve son maçta 3 gol buldu; ama savunması zayıf.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 45,
+      "market": "2.5 Üst",
+      "reason": "Manisa maçları gollü geçiyor (son maç 4-3); Mardin'in maçları ise daha kontrollü, bu yüzden risk yüksek.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Kadro ve sakatlık bilgisi eksik",
+     "1. Lig maçlarında sürpriz oranının yüksekliği",
+     "Mardin'in az gollü oyun tarzı"
+    ],
+    "sources": [
+     {
+      "title": "Mackolik maç sayfası",
+      "url": "https://www.mackolik.com/mac/mardin-1969-spor-vs-manisa-fk/d1qfsuavf998btuhx54iy3bbo"
+     },
+     {
+      "title": "Mackolik puan durumu",
+      "url": "https://www.mackolik.com/puan-durumu/t%C3%BCrkiye-trendyol-1-lig/2o9svokc5s7diish3ycrzk7jm"
+     },
+     {
+      "title": "Goal.com önizleme",
+      "url": "https://www.goal.com/en-om/match/mardin-1969-spor-vs-manisa-futbol-kulubu/0NxMwHup3pRvXetBhEx2T"
+     }
+    ],
+    "summary": "Mardin 1969 Spor 11 maçta 18 puanla 6. sırada (14 attı, 10 yedi). Manisa FK 10 puanla 16. sırada (18 attı, 20 yedi) ve son maçında evinde Muğlaspor'a 4-3 yenildi. Mardin son haftalarda Kayserispor ve Iğdır'a tek golle kaybetti ama iç sahada Bodrum'u yendi. Kadro haberlerine dair güncel bilgi bulunamadı.",
+    "verdict": "Mardin iç sahada favori; Manisa'nın son maçlarda çok gol yemesi gollü bir maç işaret ediyor."
+   },
+   "createdAt": 1792962979010
+  },
+  "futbol-2026-10-26-sevilla-osasuna": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Sevilla 1-1 Osasuna",
+      "site": "Eurosport",
+      "url": "https://www.eurosport.es/apuestas/pronosticos/sevilla-vs-osasuna-pronostico-consejos-y-cuotas-laliga/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Sevilla 1-0 (Ev -0.5)",
+      "site": "Betimate",
+      "url": "https://betimate.com/en/news/previews/sevilla-vs-osasuna-prediction-odds-betting-tips-10262026-2955041"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Önizleme: Osasuna deplasmanda çok gol yiyor, Arrasate Sevilla'ya karşı yenilmez",
+      "site": "Sports Mole",
+      "url": "https://www.sportsmole.co.uk/football/sevilla/preview/sevilla-vs-osasuna-prediction-team-news-lineups_607645.html"
+     }
+    ],
+    "consensus": "Görüşler dar bir Sevilla galibiyeti ile beraberlik arasında bölünmüş.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Osasuna son üç deplasmanında en az dörder gol yedi."
+     },
+     {
+      "side": "away",
+      "text": "Sevilla üç maçtır kazanamıyor."
+     },
+     {
+      "side": "away",
+      "text": "Arrasate'nin dönüşüyle Osasuna'da moral yükseldi; Racing galibiyeti alındı."
+     },
+     {
+      "side": "away",
+      "text": "Budimir 7 golle ligin en golcü isimlerinden."
+     },
+     {
+      "side": "home",
+      "text": "Sánchez-Pizjuán desteği ve García Plaza'nın 4-2-3-1 düzeni."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Osasuna'da Del Castillo, Herrando ve Aimar Oroz'un Sevilla maçına yetişmesi beklenmiyor.",
+      "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/castillo-herrando-aimar-oroz-bajas-osasuna-tres-20261023144218-nts.html"
+     },
+     {
+      "impact": "orta",
+      "text": "Sevilla'da Miguel Sierra ve Marcão kesin eksik.",
+      "url": "https://www.diariodesevilla.es/sevillafc/alineacion-probable-sevilla-fc-recibir-osasuna_0_2008336895.html"
+     }
+    ],
+    "picks": [
+     {
+      "confidence": 55,
+      "market": "KG Var",
+      "reason": "Budimir 9 haftada 7 gol attı; Osasuna ise son 3 deplasmanında hep 4+ gol yedi. İki taraf da gol bulmaya yatkın.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 50,
+      "market": "Sevilla 0 (Beraberlikte iade)",
+      "reason": "Sevilla evinde ve rakip deplasmanda çok gol yiyor; beraberlik riskine karşı iade korumalı seçenek.",
+      "risk": "orta"
+     },
+     {
+      "confidence": 35,
+      "market": "Beraberlik",
+      "reason": "Eurosport 1-1 öngörüyor; Arrasate'nin Sevilla'ya karşı kişisel rekoru yenilmez.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Sevilla'nın form düşüklüğünün sürmesi",
+     "Osasuna'nın teknik direktör değişikliği sonrası savunmayı sıkılaştırması",
+     "Düşük tempolu 1-0'lık bir maç KG Var'ı bozabilir"
+    ],
+    "sources": [
+     {
+      "title": "Eurosport",
+      "url": "https://www.eurosport.es/apuestas/pronosticos/sevilla-vs-osasuna-pronostico-consejos-y-cuotas-laliga/"
+     },
+     {
+      "title": "Estadio Deportivo",
+      "url": "https://www.estadiodeportivo.com/futbol/primera-division/alineaciones-sevilla-osasuna-alineacion-probable-sevilla-osasuna-jornada-laliga-20261025-549288.html"
+     },
+     {
+      "title": "365Scores",
+      "url": "https://www.365scores.com/football/match/laliga-11/osasuna-sevilla-135-143-11"
+     }
+    ],
+    "summary": "Sevilla üç maçtır kazanamıyor (Levante'yle beraberlik, Real Madrid'e 4-1 yenilgi). Osasuna 9 maçta 11 puanla 11. sırada (10 attı, 18 yedi) ve son üç deplasmanında en az dörder gol yedi, ancak Arrasate'nin dönüşüyle Racing'i yendi. Budimir 7 golle Osasuna'nın lokomotifi. Sevilla'da Marcão ve Miguel Sierra, Osasuna'da Herrando, Del Castillo ve Aimar Oroz yok.",
+    "verdict": "Sevilla hafif favori ama form düşüklüğü nedeniyle beraberlik ve az gollü senaryolar değerli."
+   },
+   "createdAt": 1792962979010
+  }
+ },
+ "futbol": {
+  "matches": [
+   {
+    "id": "futbol-2026-10-26-besiktas-basaksehir",
+    "league": "Trendyol Süper Lig",
+    "time": "19:00",
+    "home": "Beşiktaş",
+    "away": "Başakşehir",
+    "venue": "Tüpraş Stadyumu",
+    "note": "Avrupa Ligi'nde Crystal Palace ile 2-2 berabere kalan Beşiktaş, zirve yarışında kalmak için kazanmak zorunda."
+   },
+   {
+    "id": "futbol-2026-10-26-caykur-rizespor-trabzonspor",
+    "league": "Trendyol Süper Lig",
+    "time": "19:00",
+    "home": "Çaykur Rizespor",
+    "away": "Trabzonspor",
+    "venue": "Çaykur Didi Stadyumu",
+    "note": "Karadeniz derbisi: Formdaki Trabzonspor, iç sahada kötü giden Rizespor'a konuk."
+   },
+   {
+    "id": "futbol-2026-10-26-galatasaray-fenerbahce",
+    "league": "Trendyol Süper Lig",
+    "time": "21:30",
+    "home": "Galatasaray",
+    "away": "Fenerbahçe",
+    "venue": "RAMS Park",
+    "note": "Sezonun ilk derbisi: Lider Galatasaray (19) ile 3. Fenerbahçe (16) arasında 3 puan fark var."
+   },
+   {
+    "id": "futbol-2026-10-26-sevilla-osasuna",
+    "league": "La Liga",
+    "time": "23:00",
+    "home": "Sevilla",
+    "away": "Osasuna",
+    "venue": "Ramón Sánchez-Pizjuán",
+    "note": "Üç maçtır kazanamayan Sevilla, Arrasate'nin dönüşüyle toparlanan Osasuna'yı ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-10-26-mardin-1969-spor-manisa-fk",
+    "league": "Trendyol 1. Lig",
+    "time": "20:00",
+    "home": "Mardin 1969 Spor",
+    "away": "Manisa FK",
+    "venue": "Mardin 21 Kasım Stadyumu",
+    "note": "Play-off hattındaki Mardin, düşme hattına yakın Manisa FK'yı konuk ediyor."
+   }
+  ]
+ },
+ "basketbol": {
+  "matches": [
+   {
+    "id": "basketbol-2026-10-26-oklahoma-city-thunder-la-clippers",
+    "league": "NBA",
+    "time": "02:00",
+    "home": "Oklahoma City Thunder",
+    "away": "LA Clippers",
+    "venue": "Paycom Center",
+    "note": "Son şampiyonluk adaylarından OKC, Ingram ve Beal'siz Clippers karşısında 3-0 peşinde."
+   },
+   {
+    "id": "basketbol-2026-10-26-new-york-knicks-orlando-magic",
+    "league": "NBA",
+    "time": "02:00",
+    "home": "New York Knicks",
+    "away": "Orlando Magic",
+    "venue": "Madison Square Garden",
+    "note": "İki takım da 0-2; Banchero'nun 4-6 hafta yokluğu Magic için büyük darbe."
+   },
+   {
+    "id": "basketbol-2026-10-26-minnesota-timberwolves-toronto-raptors",
+    "league": "NBA",
+    "time": "02:00",
+    "home": "Minnesota Timberwolves",
+    "away": "Toronto Raptors",
+    "venue": "Target Center",
+    "note": "İki yenilmez takım (2-0) karşı karşıya; piyasa neredeyse başa baş."
+   },
+   {
+    "id": "basketbol-2026-10-26-philadelphia-76ers-detroit-pistons",
+    "league": "NBA",
+    "time": "02:30",
+    "home": "Philadelphia 76ers",
+    "away": "Detroit Pistons",
+    "venue": "Xfinity Mobile Arena",
+    "note": "Doğu'nun iki yenilmezi: 3-0 Sixers back-to-back'in ikinci gecesinde, Embiid dinlendiriliyor."
+   }
+  ]
+ }
+}
