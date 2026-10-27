@@ -388,7 +388,19 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    null,
+    {
+     "median": 1.815,
+     "best": 1.91,
+     "bestBook": "1xBet",
+     "pinnacle": 1.85,
+     "books": 12,
+     "at": 1793131280866
+    }
+   ]
   },
   "basketbol-2026-10-27-dubai-basketball-paris-basketball": {
    "sportKey": "basketball_euroleague",
@@ -585,8 +597,14 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    null,
+    null,
+    null
+   ]
   }
  },
- "updatedAt": 1793129177476
+ "updatedAt": 1793131280866
 }
