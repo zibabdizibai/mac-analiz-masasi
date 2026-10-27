@@ -91,7 +91,19 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.86,
+     "best": 1.96,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.93,
+     "books": 17,
+     "at": 1793129177476
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-10-27-torino-como": {
    "sportKey": "soccer_italy_serie_a",
@@ -124,7 +136,27 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.65,
+     "best": 1.75,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 13,
+     "at": 1793129177476
+    },
+    null,
+    {
+     "median": 1.73,
+     "best": 1.82,
+     "bestBook": "1xBet",
+     "pinnacle": 1.74,
+     "books": 23,
+     "at": 1793129177476
+    },
+    null
+   ]
   },
   "futbol-2026-10-27-hamburger-sv-eintracht-frankfurt": {
    "sportKey": "soccer_germany_dfb_pokal",
@@ -227,7 +259,12 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    null,
+    null,
+    null
+   ]
   },
   "futbol-2026-10-27-koln-union-berlin": {
    "sportKey": "soccer_germany_dfb_pokal",
@@ -269,7 +306,33 @@
      "value": true
     }
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 2.25,
+     "best": 2.35,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 5,
+     "at": 1793129177476
+    },
+    {
+     "median": 1.975,
+     "best": 2.129,
+     "bestBook": "Pinnacle",
+     "pinnacle": 2.129,
+     "books": 13,
+     "at": 1793129177476
+    },
+    {
+     "median": 3.9,
+     "best": 4.1,
+     "bestBook": "Tipico",
+     "pinnacle": 3.98,
+     "books": 13,
+     "at": 1793129177476
+    }
+   ]
   },
   "futbol-2026-10-27-borussia-monchengladbach-karlsruher-sc": {
    "sportKey": "soccer_germany_dfb_pokal",
@@ -291,7 +354,19 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.745,
+     "best": 1.85,
+     "bestBook": "Pinnacle",
+     "pinnacle": 1.85,
+     "books": 8,
+     "at": 1793129177476
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-10-27-fleetwood-town-arsenal": {
    "sportKey": "soccer_england_efl_cup",
@@ -433,7 +508,27 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.74,
+     "best": 1.74,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793129177476
+    },
+    {
+     "median": 1.9,
+     "best": 1.9,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793129177476
+    },
+    null,
+    null
+   ]
   },
   "basketbol-2026-10-27-valencia-basket-fenerbahce-beko": {
    "sportKey": "basketball_euroleague",
@@ -455,7 +550,19 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.98,
+     "best": 2.1,
+     "bestBook": "LeoVegas (SE)",
+     "pinnacle": 2.04,
+     "books": 21,
+     "at": 1793129177476
+    },
+    null,
+    null
+   ]
   },
   "basketbol-2026-10-27-baskonia-real-madrid": {
    "sportKey": "basketball_euroleague",
@@ -481,5 +588,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793125828117
+ "updatedAt": 1793129177476
 }
