@@ -1,0 +1,751 @@
+{
+ "day": "2026-10-28",
+ "generatedAt": 1793133892851,
+ "source": "football-data.org",
+ "statsWindow": "son 10 resmi maç (tüm kulvarlar)",
+ "matches": [
+  {
+   "league": "Serie A",
+   "fixtureId": 558549,
+   "kickoff": "2026-10-28T20:30:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 98,
+    "name": "Milan",
+    "fullName": "AC Milan",
+    "table": {
+     "total": {
+      "position": 4,
+      "playedGames": 8,
+      "won": 5,
+      "draw": 3,
+      "lost": 0,
+      "points": 18,
+      "goalsFor": 16,
+      "goalsAgainst": 7
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DDWDWW",
+     "sample": {
+      "home": 3,
+      "away": 5,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 2.67,
+      "away": 1.6,
+      "total": 2.0
+     },
+     "goalsAgainstAvg": {
+      "home": 0.67,
+      "away": 1.0,
+      "total": 0.88
+     },
+     "cleanSheetPct": {
+      "home": 67,
+      "away": 20,
+      "total": 38
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 67,
+      "away": 40,
+      "total": 50
+     },
+     "bttsPct": {
+      "home": 33,
+      "away": 80,
+      "total": 62
+     }
+    }
+   },
+   "away": {
+    "id": 103,
+    "name": "Bologna",
+    "fullName": "Bologna FC 1909",
+    "table": {
+     "total": {
+      "position": 13,
+      "playedGames": 8,
+      "won": 2,
+      "draw": 2,
+      "lost": 4,
+      "points": 8,
+      "goalsFor": 8,
+      "goalsAgainst": 10
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLDWLW",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 1.0,
+      "away": 1.0,
+      "total": 1.0
+     },
+     "goalsAgainstAvg": {
+      "home": 1.75,
+      "away": 0.75,
+      "total": 1.25
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 25,
+      "total": 12
+     },
+     "failedToScorePct": {
+      "home": 25,
+      "away": 50,
+      "total": 38
+     },
+     "over25Pct": {
+      "home": 50,
+      "away": 25,
+      "total": 38
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 25,
+      "total": 50
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-02-03",
+     "home": "Bologna",
+     "away": "Milan",
+     "score": "0-3"
+    },
+    {
+     "date": "2025-09-14",
+     "home": "Milan",
+     "away": "Bologna",
+     "score": "1-0"
+    },
+    {
+     "date": "2025-05-09",
+     "home": "Milan",
+     "away": "Bologna",
+     "score": "3-1"
+    },
+    {
+     "date": "2025-02-27",
+     "home": "Bologna",
+     "away": "Milan",
+     "score": "2-1"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558550,
+   "kickoff": "2026-10-28T20:30:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 454,
+    "name": "Venezia FC",
+    "fullName": "Venezia FC",
+    "table": {
+     "total": {
+      "position": 20,
+      "playedGames": 8,
+      "won": 1,
+      "draw": 0,
+      "lost": 7,
+      "points": 3,
+      "goalsFor": 6,
+      "goalsAgainst": 17
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LLLLWL",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 0.75,
+      "away": 0.75,
+      "total": 0.75
+     },
+     "goalsAgainstAvg": {
+      "home": 2.0,
+      "away": 2.25,
+      "total": 2.12
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 0,
+      "total": 12
+     },
+     "failedToScorePct": {
+      "home": 50,
+      "away": 50,
+      "total": 50
+     },
+     "over25Pct": {
+      "home": 25,
+      "away": 50,
+      "total": 38
+     },
+     "bttsPct": {
+      "home": 25,
+      "away": 50,
+      "total": 38
+     }
+    }
+   },
+   "away": {
+    "id": 108,
+    "name": "Inter",
+    "fullName": "FC Internazionale Milano",
+    "table": {
+     "total": {
+      "position": 2,
+      "playedGames": 8,
+      "won": 7,
+      "draw": 1,
+      "lost": 0,
+      "points": 22,
+      "goalsFor": 23,
+      "goalsAgainst": 10
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DWLWWW",
+     "sample": {
+      "home": 6,
+      "away": 4,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.83,
+      "away": 1.75,
+      "total": 2.4
+     },
+     "goalsAgainstAvg": {
+      "home": 1.67,
+      "away": 1.25,
+      "total": 1.5
+     },
+     "cleanSheetPct": {
+      "home": 33,
+      "away": 25,
+      "total": 30
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 83,
+      "away": 75,
+      "total": 80
+     },
+     "bttsPct": {
+      "home": 67,
+      "away": 75,
+      "total": 70
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2025-01-12",
+     "home": "Venezia FC",
+     "away": "Inter",
+     "score": "0-1"
+    },
+    {
+     "date": "2024-11-03",
+     "home": "Inter",
+     "away": "Venezia FC",
+     "score": "1-0"
+    },
+    {
+     "date": "2022-01-22",
+     "home": "Inter",
+     "away": "Venezia FC",
+     "score": "2-1"
+    },
+    {
+     "date": "2021-11-27",
+     "home": "Venezia FC",
+     "away": "Inter",
+     "score": "0-2"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558553,
+   "kickoff": "2026-10-28T20:30:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 112,
+    "name": "Parma",
+    "fullName": "Parma Calcio 1913",
+    "table": {
+     "total": {
+      "position": 19,
+      "playedGames": 8,
+      "won": 1,
+      "draw": 1,
+      "lost": 6,
+      "points": 4,
+      "goalsFor": 5,
+      "goalsAgainst": 15
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLWLLL",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 0.75,
+      "away": 0.5,
+      "total": 0.62
+     },
+     "goalsAgainstAvg": {
+      "home": 1.5,
+      "away": 2.25,
+      "total": 1.88
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 50,
+      "away": 50,
+      "total": 50
+     },
+     "over25Pct": {
+      "home": 50,
+      "away": 75,
+      "total": 62
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 50,
+      "total": 50
+     }
+    }
+   },
+   "away": {
+    "id": 115,
+    "name": "Udinese",
+    "fullName": "Udinese Calcio",
+    "table": {
+     "total": {
+      "position": 17,
+      "playedGames": 8,
+      "won": 1,
+      "draw": 1,
+      "lost": 6,
+      "points": 4,
+      "goalsFor": 9,
+      "goalsAgainst": 18
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LLLLLL",
+     "sample": {
+      "home": 5,
+      "away": 3,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 0.4,
+      "away": 2.33,
+      "total": 1.12
+     },
+     "goalsAgainstAvg": {
+      "home": 1.8,
+      "away": 3.0,
+      "total": 2.25
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 60,
+      "away": 0,
+      "total": 38
+     },
+     "over25Pct": {
+      "home": 40,
+      "away": 100,
+      "total": 62
+     },
+     "bttsPct": {
+      "home": 40,
+      "away": 100,
+      "total": 62
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-04-18",
+     "home": "Udinese",
+     "away": "Parma",
+     "score": "0-1"
+    },
+    {
+     "date": "2025-11-29",
+     "home": "Parma",
+     "away": "Udinese",
+     "score": "0-2"
+    },
+    {
+     "date": "2025-03-01",
+     "home": "Udinese",
+     "away": "Parma",
+     "score": "1-0"
+    },
+    {
+     "date": "2024-09-16",
+     "home": "Parma",
+     "away": "Udinese",
+     "score": "2-3"
+    },
+    {
+     "date": "2021-02-21",
+     "home": "Parma",
+     "away": "Udinese",
+     "score": "2-2"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558552,
+   "kickoff": "2026-10-28T22:45:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 107,
+    "name": "Genoa",
+    "fullName": "Genoa CFC",
+    "table": {
+     "total": {
+      "position": 16,
+      "playedGames": 8,
+      "won": 2,
+      "draw": 1,
+      "lost": 5,
+      "points": 7,
+      "goalsFor": 6,
+      "goalsAgainst": 13
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LDLWLW",
+     "sample": {
+      "home": 5,
+      "away": 3,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 1.0,
+      "away": 0.33,
+      "total": 0.75
+     },
+     "goalsAgainstAvg": {
+      "home": 1.6,
+      "away": 1.67,
+      "total": 1.62
+     },
+     "cleanSheetPct": {
+      "home": 20,
+      "away": 0,
+      "total": 12
+     },
+     "failedToScorePct": {
+      "home": 20,
+      "away": 67,
+      "total": 38
+     },
+     "over25Pct": {
+      "home": 40,
+      "away": 33,
+      "total": 38
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 33,
+      "total": 50
+     }
+    }
+   },
+   "away": {
+    "id": 109,
+    "name": "Juventus",
+    "fullName": "Juventus FC",
+    "table": {
+     "total": {
+      "position": 8,
+      "playedGames": 8,
+      "won": 4,
+      "draw": 2,
+      "lost": 2,
+      "points": 14,
+      "goalsFor": 11,
+      "goalsAgainst": 8
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLWDLW",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 1.25,
+      "away": 1.5,
+      "total": 1.38
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 1.0,
+      "total": 1.0
+     },
+     "cleanSheetPct": {
+      "home": 50,
+      "away": 50,
+      "total": 50
+     },
+     "failedToScorePct": {
+      "home": 25,
+      "away": 0,
+      "total": 12
+     },
+     "over25Pct": {
+      "home": 25,
+      "away": 25,
+      "total": 25
+     },
+     "bttsPct": {
+      "home": 25,
+      "away": 50,
+      "total": 38
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-04-06",
+     "home": "Juventus",
+     "away": "Genoa",
+     "score": "2-0"
+    },
+    {
+     "date": "2025-08-31",
+     "home": "Genoa",
+     "away": "Juventus",
+     "score": "0-1"
+    },
+    {
+     "date": "2025-03-29",
+     "home": "Juventus",
+     "away": "Genoa",
+     "score": "1-0"
+    },
+    {
+     "date": "2024-09-28",
+     "home": "Genoa",
+     "away": "Juventus",
+     "score": "0-3"
+    },
+    {
+     "date": "2024-03-17",
+     "home": "Juventus",
+     "away": "Genoa",
+     "score": "0-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558554,
+   "kickoff": "2026-10-28T22:45:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 5911,
+    "name": "Monza",
+    "fullName": "AC Monza",
+    "table": {
+     "total": {
+      "position": 15,
+      "playedGames": 8,
+      "won": 2,
+      "draw": 1,
+      "lost": 5,
+      "points": 7,
+      "goalsFor": 15,
+      "goalsAgainst": 18
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLWLWL",
+     "sample": {
+      "home": 3,
+      "away": 5,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 2.67,
+      "away": 1.4,
+      "total": 1.88
+     },
+     "goalsAgainstAvg": {
+      "home": 1.33,
+      "away": 2.8,
+      "total": 2.25
+     },
+     "cleanSheetPct": {
+      "home": 33,
+      "away": 0,
+      "total": 12
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 80,
+      "total": 88
+     },
+     "bttsPct": {
+      "home": 67,
+      "away": 100,
+      "total": 88
+     }
+    }
+   },
+   "away": {
+    "id": 113,
+    "name": "Napoli",
+    "fullName": "SSC Napoli",
+    "table": {
+     "total": {
+      "position": 10,
+      "playedGames": 8,
+      "won": 3,
+      "draw": 2,
+      "lost": 3,
+      "points": 11,
+      "goalsFor": 13,
+      "goalsAgainst": 10
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DWLLWD",
+     "sample": {
+      "home": 6,
+      "away": 4,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.0,
+      "away": 1.0,
+      "total": 1.6
+     },
+     "goalsAgainstAvg": {
+      "home": 1.5,
+      "away": 2.0,
+      "total": 1.7
+     },
+     "cleanSheetPct": {
+      "home": 33,
+      "away": 0,
+      "total": 20
+     },
+     "failedToScorePct": {
+      "home": 17,
+      "away": 25,
+      "total": 20
+     },
+     "over25Pct": {
+      "home": 67,
+      "away": 50,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 75,
+      "total": 60
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2025-04-19",
+     "home": "Monza",
+     "away": "Napoli",
+     "score": "0-1"
+    },
+    {
+     "date": "2024-09-29",
+     "home": "Napoli",
+     "away": "Monza",
+     "score": "2-0"
+    },
+    {
+     "date": "2024-04-07",
+     "home": "Monza",
+     "away": "Napoli",
+     "score": "2-4"
+    },
+    {
+     "date": "2023-12-29",
+     "home": "Napoli",
+     "away": "Monza",
+     "score": "0-0"
+    },
+    {
+     "date": "2023-05-14",
+     "home": "Monza",
+     "away": "Napoli",
+     "score": "2-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  }
+ ]
+}
