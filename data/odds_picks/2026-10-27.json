@@ -318,7 +318,26 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.88,
+     "best": 1.91,
+     "bestBook": "888sport",
+     "pinnacle": null,
+     "books": 7,
+     "at": 1793115724999
+    },
+    {
+     "median": 1.88,
+     "best": 1.98,
+     "bestBook": "Pinnacle",
+     "pinnacle": 1.98,
+     "books": 15,
+     "at": 1793115724999
+    },
+    null
+   ]
   },
   "basketbol-2026-10-27-kizilyildiz-maccabi-tel-aviv": {
    "sportKey": "basketball_euroleague",
@@ -435,5 +454,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793113132179
+ "updatedAt": 1793115725448
 }
