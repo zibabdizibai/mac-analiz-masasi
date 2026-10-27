@@ -1,0 +1,439 @@
+{
+ "day": "2026-10-27",
+ "matches": {
+  "futbol-2026-10-27-sassuolo-lazio": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "c7445242bf16a8f37afef7863af45a78",
+   "apiHome": "Sassuolo",
+   "apiAway": "Lazio",
+   "open": [
+    {
+     "median": 1.502,
+     "best": 1.619,
+     "bestBook": "1xBet",
+     "pinnacle": 1.539,
+     "books": 23,
+     "at": 1793093268124,
+     "prob": 0.63,
+     "ev": -0.054,
+     "value": false
+    },
+    {
+     "median": 2.1,
+     "best": 2.23,
+     "bestBook": "1xBet",
+     "pinnacle": 2.12,
+     "books": 23,
+     "at": 1793093268124,
+     "prob": 0.5,
+     "ev": 0.05,
+     "value": true
+    },
+    {
+     "median": 1.62,
+     "best": 1.7,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793093268124,
+     "prob": 0.52,
+     "ev": -0.158,
+     "value": false
+    },
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-27-roma-cagliari": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "7eecf109ae6a5f87441a79b0e4111982",
+   "apiHome": "AS Roma",
+   "apiAway": "Cagliari",
+   "open": [
+    {
+     "median": 1.62,
+     "best": 1.71,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793093268124,
+     "prob": 0.56,
+     "ev": -0.093,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-27-torino-como": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "7d989a0a7bae47eb957731e97c5bd9c1",
+   "apiHome": "Torino",
+   "apiAway": "Como",
+   "open": [
+    {
+     "median": 1.64,
+     "best": 1.72,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793093268124,
+     "prob": 0.6,
+     "ev": -0.016,
+     "value": false
+    },
+    null,
+    {
+     "median": 1.75,
+     "best": 1.82,
+     "bestBook": "1xBet",
+     "pinnacle": 1.78,
+     "books": 23,
+     "at": 1793093268124,
+     "prob": 0.47,
+     "ev": -0.177,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-27-hamburger-sv-eintracht-frankfurt": {
+   "sportKey": "soccer_germany_dfb_pokal",
+   "eventId": "838c0dbeda49ce3f98455934313c5bb1",
+   "apiHome": "Hamburger SV",
+   "apiAway": "Eintracht Frankfurt",
+   "open": [
+    null,
+    {
+     "median": 1.681,
+     "best": 1.794,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793093268124,
+     "prob": 0.5,
+     "ev": -0.159,
+     "value": false
+    },
+    null,
+    {
+     "median": 3.65,
+     "best": 3.8,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793093268124,
+     "prob": 0.29,
+     "ev": 0.058,
+     "value": true
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-27-rot-weiss-essen-rb-leipzig": {
+   "sportKey": "soccer_germany_dfb_pokal",
+   "eventId": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+   "apiHome": "Rot-Weiss Essen",
+   "apiAway": "RB Leipzig",
+   "open": [
+    {
+     "median": 2.02,
+     "best": 2.05,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 6,
+     "at": 1793093268124,
+     "prob": 0.57,
+     "ev": 0.151,
+     "value": true
+    },
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-27-bochum-mainz-05": {
+   "sportKey": "soccer_germany_dfb_pokal",
+   "eventId": "8fbf46f1db5270fe3cfa7c639906565c",
+   "apiHome": "VfL Bochum",
+   "apiAway": "FSV Mainz 05",
+   "open": [
+    {
+     "median": 1.54,
+     "best": 1.6,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793093268124,
+     "prob": 0.53,
+     "ev": -0.184,
+     "value": false
+    },
+    {
+     "median": 2.32,
+     "best": 2.32,
+     "bestBook": "Codere (IT)",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793093268124,
+     "prob": 0.48,
+     "ev": 0.114,
+     "value": true
+    },
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-27-grossaspach-augsburg": {
+   "sportKey": "soccer_germany_dfb_pokal",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "futbol-2026-10-27-borussia-dortmund-werder-bremen": {
+   "sportKey": "soccer_germany_dfb_pokal",
+   "eventId": "05cf3f0a5884e7adcb7261c1a87cb0ec",
+   "apiHome": "Borussia Dortmund",
+   "apiAway": "Werder Bremen",
+   "open": [
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-27-koln-union-berlin": {
+   "sportKey": "soccer_germany_dfb_pokal",
+   "eventId": "d1e3f4f102abbaa97099685a9f0ecd3d",
+   "apiHome": "1. FC Köln",
+   "apiAway": "Union Berlin",
+   "open": [
+    {
+     "median": 2.23,
+     "best": 2.25,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 6,
+     "at": 1793093268124,
+     "prob": 0.54,
+     "ev": 0.204,
+     "value": true
+    },
+    {
+     "median": 1.849,
+     "best": 2.025,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793093268124,
+     "prob": 0.47,
+     "ev": -0.131,
+     "value": false
+    },
+    {
+     "median": 3.65,
+     "best": 4.0,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793093268124,
+     "prob": 0.3,
+     "ev": 0.095,
+     "value": true
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-27-borussia-monchengladbach-karlsruher-sc": {
+   "sportKey": "soccer_germany_dfb_pokal",
+   "eventId": "2a752ed934d77dc1d39ad9264ffed876",
+   "apiHome": "Borussia Monchengladbach",
+   "apiAway": "Karlsruher SC",
+   "open": [
+    {
+     "median": 1.74,
+     "best": 1.85,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 6,
+     "at": 1793093268124,
+     "prob": 0.58,
+     "ev": 0.009,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-27-fleetwood-town-arsenal": {
+   "sportKey": "soccer_england_efl_cup",
+   "eventId": "29d04f0dddd5b30cd51de9acb7925795",
+   "apiHome": "Fleetwood Town",
+   "apiAway": "Arsenal",
+   "open": [
+    null,
+    null,
+    {
+     "median": 1.85,
+     "best": 1.91,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.85,
+     "books": 11,
+     "at": 1793093268124,
+     "prob": 0.46,
+     "ev": -0.149,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-27-dubai-basketball-paris-basketball": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "9231db10cde7c1a3b028b375c597aa43",
+   "apiHome": "Dubai Basketball",
+   "apiAway": "Paris Basketball",
+   "open": [
+    {
+     "median": 1.87,
+     "best": 1.91,
+     "bestBook": "888sport",
+     "pinnacle": null,
+     "books": 8,
+     "at": 1793093268124,
+     "prob": 0.55,
+     "ev": 0.029,
+     "value": false
+    },
+    {
+     "median": 1.88,
+     "best": 1.88,
+     "bestBook": "LeoVegas (SE)",
+     "pinnacle": 1.87,
+     "books": 6,
+     "at": 1793093268124,
+     "prob": 0.52,
+     "ev": -0.022,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-27-kizilyildiz-maccabi-tel-aviv": {
+   "sportKey": "basketball_euroleague",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-10-27-panathinaikos-olimpia-milano": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "4ab8a72774d607ee751923054f0f3a62",
+   "apiHome": "Panathinaikos",
+   "apiAway": "Pallacanestro Olimpia Milano",
+   "open": [
+    {
+     "median": 1.91,
+     "best": 2.0,
+     "bestBook": "888sport",
+     "pinnacle": 1.88,
+     "books": 11,
+     "at": 1793093268124,
+     "prob": 0.54,
+     "ev": 0.031,
+     "value": false
+    },
+    null,
+    {
+     "median": 1.89,
+     "best": 1.93,
+     "bestBook": "1xBet",
+     "pinnacle": 1.85,
+     "books": 9,
+     "at": 1793093268124,
+     "prob": 0.47,
+     "ev": -0.112,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-27-bayern-munih-barcelona": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "bce9f86448c76b2a6017a2dfab67d339",
+   "apiHome": "FC Bayern München",
+   "apiAway": "FC Barcelona Bàsquet",
+   "open": [
+    {
+     "median": 2.005,
+     "best": 2.04,
+     "bestBook": "Marathon Bet",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793093268124,
+     "prob": 0.55,
+     "ev": 0.103,
+     "value": true
+    },
+    {
+     "median": 1.855,
+     "best": 1.89,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793093268124,
+     "prob": 0.57,
+     "ev": 0.057,
+     "value": true
+    },
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "basketbol-2026-10-27-valencia-basket-fenerbahce-beko": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "6c176fc4889c1484ba801c94e59b91db",
+   "apiHome": "Valencia Basket",
+   "apiAway": "Fenerbahce SK",
+   "open": [
+    {
+     "median": 1.88,
+     "best": 2.04,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.96,
+     "books": 21,
+     "at": 1793093268124,
+     "prob": 0.52,
+     "ev": -0.022,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-27-baskonia-real-madrid": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "98200711ce86d7f98029d605016a7891",
+   "apiHome": "Saski Baskonia",
+   "apiAway": "Real Madrid",
+   "open": [
+    {
+     "median": 1.88,
+     "best": 1.88,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793093268124,
+     "prob": 0.54,
+     "ev": 0.015,
+     "value": false
+    },
+    null,
+    null,
+    null
+   ],
+   "pass": true
+  }
+ },
+ "updatedAt": 1793093268124
+}
