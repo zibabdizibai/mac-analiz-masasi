@@ -42,7 +42,34 @@
     },
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.444,
+     "best": 1.511,
+     "bestBook": "1xBet",
+     "pinnacle": 1.477,
+     "books": 23,
+     "at": 1793121444608
+    },
+    {
+     "median": 2.0,
+     "best": 2.07,
+     "bestBook": "GTbets",
+     "pinnacle": 2.03,
+     "books": 23,
+     "at": 1793121444608
+    },
+    {
+     "median": 1.63,
+     "best": 1.71,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793121444608
+    },
+    null
+   ]
   },
   "futbol-2026-10-27-roma-cagliari": {
    "sportKey": "soccer_italy_serie_a",
@@ -454,5 +481,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793118465620
+ "updatedAt": 1793121445143
 }
