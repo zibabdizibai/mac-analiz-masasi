@@ -288,8 +288,8 @@ async function loadOdds(){
   renderOdds();
 }
 function renderOdds(){
-  const evs=odds.events.filter(e=>oddsLeague==="Tümü"||e.league===oddsLeague);
-  if(!evs.length){$("oddsList").innerHTML=`<p class="status">Önümüzdeki 48 saatte bu lig için izlenen maç yok.</p>`;return}
+  const evs=odds.events.filter(e=>(oddsLeague==="Tümü"||e.league===oddsLeague)&&new Date(e.commence).getTime()>Date.now()-3*3600e3);
+  if(!evs.length){$("oddsList").innerHTML=`<p class="status">Şu an bu lig için izlenen maç yok. Futbolda maça 48 saat kala, baskette maç günü takip başlar.</p>`;return}
   const lvlCls={"güçlü":"sig3","orta":"sig2","zayıf":"sig1"};
   $("oddsList").innerHTML=evs.map((e,i)=>{
     const oc=e.outcomes.map(o=>{const moved=o.deltaPts>=1?"dn":o.deltaPts<=-1?"up":"";
