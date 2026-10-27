@@ -109,24 +109,25 @@ def tsim(a, b):
     return sim(a, b)
 
 
+RULES = {  # lig anahtarı -> (ad koşulu, ülke koşulu)
+    "euroleague": (lambda n: n == "euroleague", lambda c: c == "international"),
+    "eurocup": (lambda n: n == "eurocup", lambda c: c == "international"),
+    "nba": (lambda n: n == "nba", lambda c: c == "usa"),
+    "acb": (lambda n: n == "liga acb", lambda c: c == "spain"),
+    "aba": (lambda n: n == "liga aba", lambda c: c == "international"),
+    "sampiyonlar ligi": (lambda n: n == "fiba champions league", lambda c: c == "international"),
+    "super lig": (lambda n: ("super lig" in n or n in ("bsl", "basketbol super ligi")) and "women" not in n,
+                  lambda c: c in ("turkiye", "turkey")),
+    "lba": (lambda n: n in ("serie a", "lega a", "lba", "lega basket serie a"), lambda c: c == "italy"),
+}
+
+
 def match_tournaments(tours):
     """lig anahtarı -> [tournamentId]"""
     out = {}
-    for _, key, words in WANT:
-        ids = []
-        for t in tours:
-            n = norm(tname(t))
-            if key == "super lig" and not any(w in n for w in ("turk", "turkey", "turkiye")):
-                continue
-            if key in ("nba",) and ("g league" in n or "summer" in n or "wnba" in n):
-                continue
-            if key == "euroleague" and "women" in n:
-                continue
-            if any(f" {w} " in f" {n} " for w in words):
-                tid = t.get("tournamentId", t.get("id"))
-                if tid is not None:
-                    ids.append(tid)
-        out[key] = ids[:3]
+    for key, (fn, fc) in RULES.items():
+        out[key] = [t.get("tournamentId") for t in tours
+                    if fn(norm(t.get("tournamentName", ""))) and fc(norm(t.get("categoryName", "")))][:2]
     return out
 
 
@@ -260,11 +261,12 @@ def run():
                 ours.append((d, m, ko))
     recs = st.setdefault("matches", {})
     try:
-        if not st.get("tours") or t - st.get("toursAt", 0) > 14 * 86400:
+        if not st.get("tours") or st.get("toursV") != 2 or t - st.get("toursAt", 0) > 14 * 86400:
             tours = as_list(get("/tournaments", {"sportId": BASKET}))
             debug["tournamentsSample"] = tours[:3]
-            st["tours"], st["toursAt"] = match_tournaments(tours), t
-            st["allTours"] = sorted({tname(x).strip() for x in tours})[:400]
+            st["tours"], st["toursAt"], st["toursV"] = match_tournaments(tours), t, 2
+            st.pop("allTours", None)
+            debug["turkeyItaly"] = [tname(x).strip() for x in tours if norm(x.get("categoryName", "")) in ("turkiye", "turkey", "italy")]
         need = {our_key(m["league"]) for _, m, ko in ours if m["id"] not in recs or not recs[m["id"]].get("fixtureId")}
         fx_cache = st.setdefault("fixtures", {})
         for key in sorted(k for k in need if k):
@@ -277,7 +279,12 @@ def run():
                     break
                 frm = (datetime.now(timezone.utc) - timedelta(hours=6)).strftime("%Y-%m-%d")
                 to = (datetime.now(timezone.utc) + timedelta(days=2)).strftime("%Y-%m-%d")
-                res = as_list(get("/fixtures", {"sportId": BASKET, "tournamentId": tid, "from": frm, "to": to}))
+                try:
+                    res = as_list(get("/fixtures", {"sportId": BASKET, "tournamentId": tid, "from": frm, "to": to}))
+                except RuntimeError as e:
+                    if "HTTP 404" not in str(e):
+                        raise
+                    res = []
                 debug.setdefault("fixturesSample", res[:2])
                 fl += [{"id": f.get("fixtureId", f.get("id")), "start": ts(f.get("startTime")),
                         "p1": f.get("participant1Name", ""), "p2": f.get("participant2Name", "")} for f in res]
