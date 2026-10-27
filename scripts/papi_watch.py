@@ -329,7 +329,7 @@ def run():
             raw = get("/odds", {"fixtureId": rec["fixtureId"]})
             if "oddsSample" not in debug:
                 bo = (raw or {}).get("bookmakerOdds") or {}
-                debug["oddsSample"] = {k: bo[k] for k in list(bo)[:2]}
+                debug["oddsBooks"] = len(bo)
                 debug["oddsKeys"] = [k for k in (raw or {}) if k != "bookmakerOdds"]
             od = parse_odds(raw)
             if rec.get("flip"):
@@ -358,7 +358,8 @@ def run():
     if calls or not OUT_P.exists():
         OUT_P.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         STATE_P.write_text(json.dumps(st, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-        DEBUG_P.write_text(json.dumps(debug, ensure_ascii=False, indent=1)[:60000], encoding="utf-8")
+        debug.pop("oddsSample", None)
+        DEBUG_P.write_text(json.dumps(debug, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"durum: {status} · istek {calls} · bugün {st['dayUsed']}/{cap} · ay {st['used']}/{MONTHLY} · "
           f"maç {len(events)} · eşleşmeyen {len(unmatched)} · turnuvalar {st.get('tours')}")
 
