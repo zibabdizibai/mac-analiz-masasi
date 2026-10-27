@@ -274,9 +274,14 @@ const fmtTime=s=>new Date(s).toLocaleString("tr-TR",{weekday:"short",day:"numeri
 const ago=ms=>{const m=Math.round((Date.now()-ms)/60000);return m<1?"az önce":m<60?`${m} dk önce`:m<1440?`${Math.round(m/60)} saat önce`:`${Math.round(m/1440)} gün önce`};
 const f2=x=>x==null?"–":Number(x).toFixed(2);
 async function loadOdds(){
-  try{odds=await getJSON("data/odds/drops.json")}catch(e){odds=null}
+  let a=null,b=null;
+  try{a=await getJSON("data/odds/drops.json")}catch(e){}
+  try{b=await getJSON("data/odds/basket.json")}catch(e){}
+  odds=a||b?{updatedAt:Math.max(a?a.updatedAt:0,b?b.updatedAt:0),credits:a?a.credits:null,status:a?a.status:"ok",
+    leagues:[...((a&&a.leagues)||[]),...((b&&b.leagues)||[]).map(l=>"🏀 "+l)],
+    events:[...((a&&a.events)||[]),...((b&&b.events)||[]).map(e=>({...e,league:"🏀 "+e.league}))],basket:b}:null;
   if(!odds){$("oddsMeta").textContent="Oran takibi henüz başlamadı. İlk veriler, API anahtarı eklendikten sonra 15 dakika içinde gelir.";$("oddsList").innerHTML="";$("oddsLeagues").innerHTML="";return}
-  $("oddsMeta").textContent=`Son kontrol ${ago(odds.updatedAt)} · ${odds.events.length} maç izleniyor`+(odds.credits!=null?` · kalan kredi ${odds.credits}`:"")+(odds.status&&odds.status!=="ok"?` · uyarı: ${odds.status}`:"");
+  $("oddsMeta").textContent=`Son kontrol ${ago(odds.updatedAt)} · ${odds.events.length} maç izleniyor`+(odds.credits!=null?` · kalan kredi ${odds.credits}`:"")+(odds.status&&odds.status!=="ok"?` · uyarı: ${odds.status}`:"")+(odds.basket?` · basket: ${odds.basket.events.length} maç, bu ay kalan istek ${odds.basket.credits}`+(odds.basket.status!=="ok"?` (uyarı: ${odds.basket.status})`:""):"");
   const lgs=["Tümü",...(odds.leagues||[])];
   $("oddsLeagues").innerHTML=lgs.map(l=>`<button type="button" class="chipbtn" aria-pressed="${l===oddsLeague}">${esc(l)}</button>`).join("");
   $("oddsLeagues").querySelectorAll("button").forEach((b,i)=>b.onclick=()=>{oddsLeague=lgs[i];loadOdds()});
@@ -293,12 +298,12 @@ function renderOdds(){
         <div class="oc-s">${o.dropped}/${o.books} sitede düştü${o.level?` · <b>${esc(o.level)}</b>`:""}${o.firstMover?` · ilk: ${esc(o.firstMover)}`:""}</div>
         <div class="oc-s">Pinnacle ${o.pinnacle?`${f2(o.pinnacle.open)} → ${f2(o.pinnacle.now)}`:"yok"} · en iyi ${o.best?`${f2(o.best.price)} (${esc(o.best.book)})`:"–"}</div>
         ${o.outliers&&o.outliers.length?`<div class="oc-s">Uç değer: ${o.outliers.map(esc).join(", ")}</div>`:""}</div>`}).join("");
-    const picks=["1","X","2"];
+    const picks=e.twoWay?["1","2"]:["1","X","2"];
     const rows=e.table.map(b=>`<tr><td>${esc(b.title)}${b.sharp?' <span class="tag t-neutral">keskin</span>':b.exchange?' <span class="tag t-neutral">borsa</span>':""}</td>${picks.map(p=>{const c=b.odds[p];if(!c)return"<td>–</td>";const d=c.now<c.open?"dn":c.now>c.open?"up":"";return `<td class="num ${d}">${f2(c.now)}${d?`<small>${f2(c.open)}</small>`:""}</td>`}).join("")}</tr>`).join("");
     return `<article class="panel ev">
-      <div class="ev-head"><div><p class="label" style="margin:0">${esc(e.league)} · ${esc(fmtTime(e.commence))}</p><h3>${esc(e.home)} – ${esc(e.away)}</h3></div>${e.signal?`<span class="sig ${lvlCls[e.signal]}">${esc(e.signal)} sinyal</span>`:'<span class="sig">hareket yok</span>'}</div>
+      <div class="ev-head"><div><p class="label" style="margin:0">${esc(e.league)} · ${esc(fmtTime(e.commence))}</p><h3>${esc(e.home)} – ${esc(e.away)}</h3></div>${e.signal?`<span class="sig ${lvlCls[e.signal]}">${esc(e.signal)} sinyal</span>`:e.stage==="açılış"?'<span class="sig">kapanış bekleniyor</span>':'<span class="sig">hareket yok</span>'}</div>
       <div class="ocs">${oc}</div>
-      <details><summary>Bütün siteler (${e.table.length})</summary><div class="tbl"><table><thead><tr><th>Site</th><th>1</th><th>X</th><th>2</th></tr></thead><tbody>${rows}</tbody></table></div><p class="meta">Altta küçük yazan oran açılış oranıdır.</p></details>
+      <details><summary>Bütün siteler (${e.table.length})</summary><div class="tbl"><table><thead><tr><th>Site</th>${picks.map(p=>`<th>${p}</th>`).join("")}</tr></thead><tbody>${rows}</tbody></table></div><p class="meta">${e.twoWay?(e.stage==="açılış"?"Basket: şimdilik sadece açılış oranları var; maça ~75 dk kala kapanış oranları gelince düşüşler hesaplanır.":"Basket: açılış oranı ile maça ~75 dk kala alınan oran karşılaştırılır. Altta küçük yazan açılış oranıdır."):"Altta küçük yazan oran açılış oranıdır."}</p></details>
     </article>`}).join("");
 }
 

@@ -1,0 +1,40 @@
+name: Basket oran takibi
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      day_max:
+        description: "Bugün için en fazla istek (boş = otomatik)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: papi
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Basket oranlarını çek
+        env:
+          ODDSPAPI_KEY: ${{ secrets.ODDSPAPI_KEY }}
+          PAPI_DAY_MAX: ${{ github.event.inputs.day_max }}
+        run: python3 scripts/papi_watch.py
+      - name: Gönder
+        run: |
+          git add data/odds
+          if git diff --cached --quiet; then echo "değişiklik yok"; exit 0; fi
+          git -c user.name="odds-bot" -c user.email="odds-bot@users.noreply.github.com" commit -m "Basket oran güncellemesi"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
