@@ -1,0 +1,112 @@
+{
+ "tournamentsSample": [
+  {
+   "tournamentId": 86,
+   "tournamentSlug": "oblhauptrunde-1",
+   "tournamentName": "OBLHauptrunde 1",
+   "categorySlug": "austria",
+   "categoryName": "Austria",
+   "futureFixtures": 0,
+   "upcomingFixtures": 0,
+   "liveFixtures": 0
+  },
+  {
+   "tournamentId": 87,
+   "tournamentSlug": "obl-hauptrunde-2",
+   "tournamentName": "OBL Hauptrunde 2",
+   "categorySlug": "austria",
+   "categoryName": "Austria",
+   "futureFixtures": 0,
+   "upcomingFixtures": 0,
+   "liveFixtures": 0
+  },
+  {
+   "tournamentId": 88,
+   "tournamentSlug": "awbl-ah2",
+   "tournamentName": "AWBL AH2",
+   "categorySlug": "austria",
+   "categoryName": "Austria",
+   "futureFixtures": 0,
+   "upcomingFixtures": 0,
+   "liveFixtures": 0
+  }
+ ],
+ "fixturesSample": [
+  {
+   "fixtureId": "id1100014172902564",
+   "participant1Id": 370520,
+   "participant2Id": 3509,
+   "sportId": 11,
+   "tournamentId": 141,
+   "seasonId": 144180,
+   "statusId": 0,
+   "hasOdds": true,
+   "startTime": "2026-10-27T16:00:00.000Z",
+   "trueStartTime": null,
+   "trueEndTime": null,
+   "updatedAt": "2026-10-25T00:40:06.133Z",
+   "externalProviders": {
+    "betradarId": 72902564,
+    "mollybetId": "2026-10-27,96193,41171",
+    "opticoddsId": "20261027244F615F",
+    "lsportsId": null,
+    "txoddsId": null,
+    "sofascoreId": 16561662,
+    "betgeniusId": 14172817,
+    "flashscoreId": "tl66bcfE",
+    "pinnacleId": 1638834414,
+    "oddinId": null
+   },
+   "statusName": "Pre-Game",
+   "participant1Name": "Bahcesehir Koleji",
+   "participant1ShortName": "Bahcesehir",
+   "participant1Abbr": "BAH",
+   "participant2Name": "PAOK BC",
+   "participant2ShortName": "PAOK",
+   "participant2Abbr": "PAO",
+   "sportName": "Basketball",
+   "tournamentSlug": "eurocup",
+   "categorySlug": "international",
+   "categoryName": "International",
+   "tournamentName": "Eurocup"
+  },
+  {
+   "fixtureId": "id1100014172902562",
+   "participant1Id": 58769,
+   "participant2Id": 6255,
+   "sportId": 11,
+   "tournamentId": 141,
+   "seasonId": 144180,
+   "statusId": 0,
+   "hasOdds": true,
+   "startTime": "2026-10-27T17:00:00.000Z",
+   "trueStartTime": null,
+   "trueEndTime": null,
+   "updatedAt": "2026-10-25T00:40:06.063Z",
+   "externalProviders": {
+    "betradarId": 72902562,
+    "mollybetId": "2026-10-27,40735,10051905",
+    "opticoddsId": "2026102701D04736",
+    "lsportsId": null,
+    "txoddsId": null,
+    "sofascoreId": 16561661,
+    "betgeniusId": 14149500,
+    "flashscoreId": "AoJ1bxwH",
+    "pinnacleId": 1638825398,
+    "oddinId": null
+   },
+   "statusName": "Pre-Game",
+   "participant1Name": "BC Lietkabelis Panevezys",
+   "participant1ShortName": "Panevezys",
+   "participant1Abbr": "LIP",
+   "participant2Name": "Ulm Basketball",
+   "participant2ShortName": "Ulm",
+   "participant2Abbr": "ULM",
+   "sportName": "Basketball",
+   "tournamentSlug": "eurocup",
+   "categorySlug": "international",
+   "categoryName": "International",
+   "tournamentName": "Eurocup"
+  }
+ ]
+}
