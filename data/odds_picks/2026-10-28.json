@@ -1,0 +1,259 @@
+{
+ "day": "2026-10-28",
+ "matches": {
+  "futbol-2026-10-28-milan-bologna": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "3d0b0fbec194258530882514714c74be",
+   "apiHome": "AC Milan",
+   "apiAway": "Bologna",
+   "open": [
+    {
+     "median": 1.695,
+     "best": 1.76,
+     "bestBook": "Betfair",
+     "pinnacle": 1.72,
+     "books": 24,
+     "at": 1793166556161,
+     "prob": 0.55,
+     "ev": -0.068,
+     "value": false
+    },
+    {
+     "median": 1.97,
+     "best": 2.08,
+     "bestBook": "1xBet",
+     "pinnacle": 2.0,
+     "books": 17,
+     "at": 1793166556161,
+     "prob": 0.52,
+     "ev": 0.024,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-28-venezia-inter": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "33320ad169692216a91dec030e7ef6a6",
+   "apiHome": "Venezia",
+   "apiAway": "Inter Milan",
+   "open": [
+    {
+     "median": 1.35,
+     "best": 1.36,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793166556161,
+     "prob": 0.52,
+     "ev": -0.298,
+     "value": false
+    },
+    null,
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-28-parma-udinese": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "482c18a8081afdfa310324fa8f37e95a",
+   "apiHome": "Parma",
+   "apiAway": "Udinese",
+   "open": [
+    {
+     "median": 1.68,
+     "best": 1.81,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 15,
+     "at": 1793166556161,
+     "prob": 0.56,
+     "ev": -0.059,
+     "value": false
+    },
+    {
+     "median": 1.47,
+     "best": 1.546,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 1.493,
+     "books": 24,
+     "at": 1793166556161,
+     "prob": 0.58,
+     "ev": -0.147,
+     "value": false
+    },
+    {
+     "median": 3.15,
+     "best": 3.27,
+     "bestBook": "1xBet",
+     "pinnacle": 3.16,
+     "books": 24,
+     "at": 1793166556161,
+     "prob": 0.3,
+     "ev": -0.055,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-28-genoa-juventus": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "34848497b90b1392f6a767fc183d3ac1",
+   "apiHome": "Genoa",
+   "apiAway": "Juventus",
+   "open": [
+    {
+     "median": 1.605,
+     "best": 1.66,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793166556161,
+     "prob": 0.58,
+     "ev": -0.069,
+     "value": false
+    },
+    {
+     "median": 1.73,
+     "best": 1.79,
+     "bestBook": "1xBet",
+     "pinnacle": 1.76,
+     "books": 24,
+     "at": 1793166556161,
+     "prob": 0.5,
+     "ev": -0.135,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-28-monza-napoli": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "abec89862e33762414fcb8b2232aba08",
+   "apiHome": "Monza",
+   "apiAway": "Napoli",
+   "open": [
+    null,
+    {
+     "median": 1.67,
+     "best": 1.72,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1793166556161,
+     "prob": 0.58,
+     "ev": -0.031,
+     "value": false
+    },
+    {
+     "median": 2.098,
+     "best": 2.232,
+     "bestBook": "Matchbook",
+     "pinnacle": 2.128,
+     "books": 24,
+     "at": 1793166556161,
+     "prob": 0.42,
+     "ev": -0.119,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-28-besiktas-olympiacos": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "29cfcc96f42a4c0c626d1b6c93ab212a",
+   "apiHome": "Beşiktaş J.K.",
+   "apiAway": "Olympiacos",
+   "open": [
+    {
+     "median": 1.845,
+     "best": 1.91,
+     "bestBook": "888sport",
+     "pinnacle": 1.86,
+     "books": 6,
+     "at": 1793166556161,
+     "prob": 0.56,
+     "ev": 0.033,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-28-hapoel-tel-aviv-anadolu-efes": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "6bac0fc632557ca79c150a4341fa40eb",
+   "apiHome": "Hapoel Tel Aviv",
+   "apiAway": "Anadolu Efes",
+   "open": [
+    {
+     "median": 1.965,
+     "best": 2.01,
+     "bestBook": "Pinnacle",
+     "pinnacle": 2.01,
+     "books": 8,
+     "at": 1793166556161,
+     "prob": 0.55,
+     "ev": 0.081,
+     "value": true
+    },
+    {
+     "median": 1.86,
+     "best": 1.91,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 10,
+     "at": 1793166556161,
+     "prob": 0.51,
+     "ev": -0.051,
+     "value": false
+    },
+    null
+   ],
+   "pass": false
+  },
+  "basketbol-2026-10-28-asvel-partizan": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "fa2db2fe86cd1a8736aab010df03ba1a",
+   "apiHome": "ASVEL Lyon Villeurbanne",
+   "apiAway": "KK Partizan NIS",
+   "open": [
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "basketbol-2026-10-28-virtus-bologna-zalgiris": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "ada0302f82b6f8291cd76ff00568358e",
+   "apiHome": "Virtus Segafredo Bologna",
+   "apiAway": "Žalgiris",
+   "open": [
+    {
+     "median": 1.8,
+     "best": 1.88,
+     "bestBook": "Betfair",
+     "pinnacle": 1.85,
+     "books": 21,
+     "at": 1793166556161,
+     "prob": 0.55,
+     "ev": -0.01,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  }
+ },
+ "updatedAt": 1793166556161
+}
