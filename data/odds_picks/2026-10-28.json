@@ -32,7 +32,27 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.69,
+     "best": 1.77,
+     "bestBook": "1xBet",
+     "pinnacle": 1.7,
+     "books": 23,
+     "at": 1793207764031
+    },
+    {
+     "median": 1.78,
+     "best": 1.84,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 15,
+     "at": 1793207764031
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-10-28-venezia-inter": {
    "sportKey": "soccer_italy_serie_a",
@@ -55,7 +75,20 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.37,
+     "best": 1.39,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793207764031
+    },
+    null,
+    null,
+    null
+   ]
   },
   "futbol-2026-10-28-parma-udinese": {
    "sportKey": "soccer_italy_serie_a",
@@ -98,7 +131,34 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.775,
+     "best": 1.9,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 16,
+     "at": 1793207764031
+    },
+    {
+     "median": 1.473,
+     "best": 1.555,
+     "bestBook": "Betfair",
+     "pinnacle": 1.518,
+     "books": 23,
+     "at": 1793207764031
+    },
+    {
+     "median": 3.15,
+     "best": 3.27,
+     "bestBook": "1xBet",
+     "pinnacle": 3.21,
+     "books": 23,
+     "at": 1793207764031
+    },
+    null
+   ]
   },
   "futbol-2026-10-28-genoa-juventus": {
    "sportKey": "soccer_italy_serie_a",
@@ -186,7 +246,19 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.8,
+     "best": 1.8,
+     "bestBook": "888sport",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793207764031
+    },
+    null,
+    null
+   ]
   },
   "basketbol-2026-10-28-hapoel-tel-aviv-anadolu-efes": {
    "sportKey": "basketball_euroleague",
@@ -255,5 +327,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793166556161
+ "updatedAt": 1793207764031
 }
