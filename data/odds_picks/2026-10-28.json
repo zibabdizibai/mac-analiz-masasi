@@ -302,7 +302,12 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    null,
+    null,
+    null
+   ]
   },
   "basketbol-2026-10-28-virtus-bologna-zalgiris": {
    "sportKey": "basketball_euroleague",
@@ -327,5 +332,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793207764031
+ "updatedAt": 1793213642363
 }
