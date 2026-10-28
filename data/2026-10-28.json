@@ -1,0 +1,3901 @@
+{
+ "day": "2026-10-28",
+ "updatedAt": 1793166547962,
+ "analyses": {
+  "basketbol-2026-10-28-aris-cedevita-olimpija": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Aris %87, 91-79 (toplam 170)",
+      "site": "Basketora",
+      "url": "https://basketora.app/eurocup"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Aris %57, 87-80 (toplam 166.3)",
+      "site": "Forebet",
+      "url": "https://www.forebet.com/en/basketball/matches/eurocup/aris-cedevita-olimpija/294485"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Tipsterların tamamı Aris MS",
+      "site": "OLBG",
+      "url": "https://www.olbg.com/betting-tips/Basketball/European/Euro_Cup/Aris_vs_Cedevita_Olimpija/4?event_id=536222"
+     }
+    ],
+    "consensus": "Tüm kaynaklar Aris galibiyetinde birleşiyor; projeksiyonlar toplamın piyasa çizgisinin altında kalacağını işaret ediyor, fark konusunda ise Forebet daha temkinli.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Aris 4-0, 94.5 sayı atıp 75.3 yiyor; net +19.3 ile turnuvanın en iyi farkı."
+     },
+     {
+      "side": "away",
+      "text": "Cedevita 0-4, toplam 290 sayı (ort. 72.5) attı ve 333 yedi."
+     },
+     {
+      "side": "neutral",
+      "text": "Geçen sezonun iki maçını da Cedevita kazandı (89-60 Selanik'te, 80-59 Ljubljana'da)."
+     },
+     {
+      "side": "away",
+      "text": "Cedevita'nın 31 Ekim'de ABA Ligi'nde FMP maçı var; yoğun takvim."
+     },
+     {
+      "side": "neutral",
+      "text": "Piyasa çizgisi: Aris -15.5, toplam 172.5; Forebet toplamı 166.3 olarak öngörüyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "düşük",
+      "text": "Spanoulis: 'Cedevita'nın 0-4'lük derecesi gerçek kalitesini yansıtmıyor.' Resmi sakatlık raporunda iki takım için de yeni bir eksik bildirilmedi.",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-and-injury-report-round-5/"
+     },
+     {
+      "impact": "orta",
+      "text": "Aris 4. haftada Rostock'u deplasmanda 110-79 yendi; Jeremiah Robinson-Earl 21 sayı 10 ribaunt.",
+      "url": "https://teamkeys.net/en/leagues/eurocup/"
+     },
+     {
+      "impact": "orta",
+      "text": "Cedevita 4. haftada evinde Le Mans'a 66-84 kaybetti; üçüncü periyot 14-28.",
+      "url": "https://teamkeys.net/en/teams/olimpija-ljubljana/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 172.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 57,
+      "market": "Toplam Sayı 172.5 Alt",
+      "prob": 0.57,
+      "reason": "Cedevita'nın EuroCup maçlarında ortalama toplam ~156 (290-333); Basketora 170, Forebet 167 projeksiyonu da çizginin altında.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -15.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 48,
+      "market": "Aris -15.5 Handikap",
+      "prob": 0.48,
+      "reason": "Aris'in ortalama galibiyet farkı +19.3, Cedevita'nın ortalama mağlubiyet farkı -10.8; ancak geçen sezon iki maçta da Cedevita kazandığı için fark garanti değil.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 56,
+      "market": "Cedevita Takım Toplamı 78.5 Alt",
+      "prob": 0.56,
+      "reason": "Cedevita dört EuroCup maçının hiçbirinde etkili hücum gösteremedi (ort. ~72.5); Aris maç başına 75.3 sayı yiyor.",
+      "risk": "orta"
+     }
+    ],
+    "risks": [
+     "Aris erken açılırsa son periyotta rotasyon nedeniyle fark daralabilir (handikap riski).",
+     "Cedevita geçen sezon Aris'e karşı iki kez rahat kazandı; kadro kalitesi skordan iyi olabilir.",
+     "Aris'in yüksek tempolu hücumu tek başına toplamı 172'nin üzerine taşıyabilir."
+    ],
+    "sources": [
+     {
+      "title": "EuroCup Round 5 pregame quotes & injury report",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-and-injury-report-round-5/"
+     },
+     {
+      "title": "TeamKeys EuroCup standings",
+      "url": "https://teamkeys.net/en/leagues/eurocup/"
+     },
+     {
+      "title": "Forebet Aris vs Cedevita",
+      "url": "https://www.forebet.com/en/basketball/matches/eurocup/aris-cedevita-olimpija/294485"
+     },
+     {
+      "title": "Basketora EuroCup predictions",
+      "url": "https://basketora.app/eurocup"
+     },
+     {
+      "title": "3StepsBasket EuroCup stats",
+      "url": "https://3stepsbasket.com/eurocup/charts"
+     },
+     {
+      "title": "Oddschecker EuroCup odds",
+      "url": "https://www.oddschecker.com/basketball/eurocup"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Aris Group A'da 4-0 ile lider; maç başına 94.5 sayı atıp 75.3 yiyor (+77 averaj). Cedevita Olimpija 0-4 ve EuroCup'ta maç başına yalnızca ~72.5 sayı üretiyor, son maçında evinde Le Mans'a 66-84 kaybetti. Piyasa Aris'i ~1.10 ile fiyatlıyor, handikap -15.5 ve toplam 172.5 civarında. Model tahminleri (Basketora 91-79, Forebet 87-80) toplamı 166-170 bandında gösteriyor.",
+    "verdict": "Aris açık favori; ancak 172.5'lik toplam çizgisi Cedevita'nın düşük skorlu oyunu düşünüldüğünde yüksek görünüyor, Alt ve Aris handikabı öne çıkıyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-asvel-partizan": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Partizan kazanır (%53.27)",
+      "site": "Wincomparator",
+      "url": "https://www.wincomparator.com/predictions/asvel-kk-partizan-beograd-nis-8689174"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Partizan %91, ortalama skor 82.5-87.5",
+      "site": "BasketScore (topluluk)",
+      "url": "https://basketscore.net/games/2026-27/asvel-vs-partizan-78"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "ASVEL 9/10, Partizan 1/1 – başa baş",
+      "site": "Oddschecker (piyasa)",
+      "url": "https://www.oddschecker.com/basketball/euroleague"
+     }
+    ],
+    "consensus": "Tahminler hafifçe Partizan'dan yana, piyasa ise neredeyse başa baş. Topluluğun beklediği toplam (yaklaşık 170) Partizan'ın sezon ortalamasının üzerinde.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Partizan 7 maçta 541 sayı attı, 546 yedi; maç başına toplam yaklaşık 155 sayı, ligin en yavaş tempolarından biri."
+     },
+     {
+      "side": "home",
+      "text": "ASVEL 2-5 ile 17. sırada; Zalgiris'e 85-105 yenildi, maç başına yaklaşık 96.7 sayı yiyor."
+     },
+     {
+      "side": "away",
+      "text": "Partizan 7. haftada Kızılyıldız'ı uzatmada 85-82 yendi; Carlik Jones 26 sayı attı."
+     },
+     {
+      "side": "home",
+      "text": "ASVEL bu sezon Maccabi ve Paris'i yendi, Kızılyıldız'a da kıl payı kaybetti; iç sahada tehlikeli olabiliyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Çift maç haftası: Partizan 30 Ekim'de Zalgiris deplasmanına çıkacak; yeni transferlerin uyumu henüz belirsiz."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Tony Parker, Mathis Dossou-Yovo (kasık) ve Juhann Begarin'in Partizan maçında oynamayacağını doğruladı; Washington, Lighty ve Cale hafta sonu ligde dinlendirildi.",
+      "url": "https://basketballsphere.com/asvel-partizan-odsutni-igraci/"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Partizan'da Tonye Jekiri (kasık), Vanja Marinkovic (Aşil) ve Derek Willis (ayak bileği) yok; Jabari Parker kulüpten ayrıldı.",
+      "url": "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-8-fantasy/"
+     },
+     {
+      "impact": "orta",
+      "text": "Partizan, Antonio Reeves ve Robert Franks'i Euroleague'e kaydettirdi; ikisi de 8. haftada ilk maçına çıkabilir.",
+      "url": "https://ground.news/article/fantastic-news-for-partizan-before-asvel-two-new-players-registered"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 163.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 52,
+      "market": "Toplam Sayı 163.5 Alt (uzatma dahil)",
+      "prob": 0.53,
+      "reason": "Partizan maçlarında ortalama 155.3 sayı çıkıyor (541+546 / 7) ve takım uzun rotasyonda üç oyuncudan yoksun. ASVEL maçları çok daha yüksek skorlu olduğu için bu seçim risk taşıyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "sel": "2",
+       "type": "DNB"
+      },
+      "confidence": 52,
+      "market": "Partizan Beraberlikte İade (DNB)",
+      "prob": 0.52,
+      "reason": "Partizan'ın 4-3'lük derecesi ve derbi galibiyetiyle gelen ivme, ASVEL'in 2-5'lik derecesi ve eksikleriyle karşılaştırıldığında başa baş bir oranda değer sunuyor. Ayrıca Partizan deplasmanda 2-2 oynadı.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 55,
+      "market": "Partizan +2.5 Handikap",
+      "prob": 0.56,
+      "reason": "Düşük tempolu maçlarda fark genellikle dar kalır; ASVEL'in yorgun veteranlarını idareli kullanması da Partizan'ın kaybetse bile yakın kalmasını sağlayabilir.",
+      "risk": "orta"
+     }
+    ],
+    "risks": [
+     "ASVEL'in iç sahadaki yüksek tempolu oyunu toplamı 165'in üzerine taşıyabilir.",
+     "Partizan'da yeni transferlerin uyumsuzluğu ve uzun rotasyondaki eksikler ribaund savaşını kaybettirebilir.",
+     "Kesin toplam çizgisi bulunamadı; çizgi 160 civarı açılırsa alt seçiminin değeri düşer."
+    ],
+    "sources": [
+     {
+      "title": "EuroLeague – Injury report Round 8",
+      "url": "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-8-fantasy/"
+     },
+     {
+      "title": "Kurir – Partizan protiv oslabljenog Asvela",
+      "url": "https://www.kurir.rs/sport/kosarka/evroliga/10145657/partizan-protiv-oslabljenog-asvela-u-evroligi"
+     },
+     {
+      "title": "Eurohoops – Partizan past Zvezda in overtime",
+      "url": "https://www.eurohoops.net/en/euroleague/2024445/euroleague-roundup-round-7-gameday-2"
+     },
+     {
+      "title": "Basketnews – Power Rankings 2026-27",
+      "url": "https://basketnews.com/news-255835-euroleague-power-rankings-2026-27.html"
+     },
+     {
+      "title": "Wincomparator – ASVEL vs Partizan prediction",
+      "url": "https://www.wincomparator.com/predictions/asvel-kk-partizan-beograd-nis-8689174"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "ASVEL (2-5) Zalgiris'e 85-105 yenilerek geliyor ve Dossou-Yovo ile Begarin yok. Partizan (4-3) Kızılyıldız derbisini uzatmada 85-82 kazandı, ancak Jekiri, Marinkovic ve Willis yok; yeni transferler Reeves ve Franks ilk Euroleague maçlarına çıkabilir. Partizan ligin en düşük skorlu takımlarından biri: 7 maçta maç başı yaklaşık 155 sayı çıkıyor. ASVEL ise maç başı ortalama 96.7 sayı yiyor. Piyasa maçı başa baş görüyor.",
+    "verdict": "İki takım da eksik ve oranlar başa baş; Partizan'ın yavaş temposu nedeniyle en mantıklı seçim alt, yanında Partizan beraberlikte iade."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-besiktas-olympiacos": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Olympiacos kazanır (1.54)",
+      "site": "Basketball Sphere",
+      "url": "https://basketballsphere.com/en/euroleague-acca-of-round-8-oct-27-oct-28-2026/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Olympiacos 4/9, Beşiktaş 2/1 – deplasman favori",
+      "site": "Oddschecker (piyasa)",
+      "url": "https://www.oddschecker.com/basketball/euroleague"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Olympiacos %100, ortalama skor 80-88",
+      "site": "BasketScore (topluluk)",
+      "url": "https://basketscore.net/"
+     }
+    ],
+    "consensus": "Piyasa ve tahmin siteleri Olympiacos'u net favori görüyor. Ancak dört önemli eksik, galibiyet oranını değerli olmaktan çıkarıyor; bu yüzden hücum ağırlıklı toplam üstü öne çıkıyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Olympiacos 5-2 ile 4. sırada; deplasman derecesi 4-1 ve sayı averajı +37."
+     },
+     {
+      "side": "home",
+      "text": "Beşiktaş 3-4 ile 14. sırada; iç sahada 1-2, averajı -10, ancak maç başına 90.6 sayıyla ligin 4. en skorer takımı."
+     },
+     {
+      "side": "away",
+      "text": "Olympiacos'ta Milutinov, Fournier, Montero ve Dorsey eksik; bu çift maç haftasında 30 Ekim'de Milano maçı da var, rotasyon zorlanabilir."
+     },
+     {
+      "side": "home",
+      "text": "Beşiktaş'ın Walker ve Furkan Korkmaz'ı belirsiz; Walker hafta sonu ligde sakatlanarak oyundan çıktı."
+     },
+     {
+      "side": "neutral",
+      "text": "İki takım 13 yılı aşkın süredir resmi maçta karşılaşmadı; yakın tarihli bir rekabet verisi yok."
+     },
+     {
+      "side": "neutral",
+      "text": "Her iki takım da 7. haftada yenildi; iki tarafın da galibiyet ihtiyacı tempoyu artırabilir."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Olympiacos'ta Nikola Milutinov sağ ayak parmağındaki rahatsızlık nedeniyle kadroda yok; Evan Fournier ve Jean Montero da oynamayacak.",
+      "url": "https://www.eurohoops.net/en/euroleague/2026807/nikola-milutinov-out-olympiacos-at-besiktas-euroleague/"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Beşiktaş'ta Lonnie Walker ve Furkan Korkmaz'ın oynayıp oynamayacağı belli değil; Devon Dotson ve DaQuan Jeffries ise kesin yok.",
+      "url": "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-8-fantasy/"
+     },
+     {
+      "impact": "orta",
+      "text": "Tyler Dorsey disiplin cezası nedeniyle yaklaşık bir ay takımdan uzak; John Konchar henüz lisanslı değil.",
+      "url": "https://www.rotowire.com/betting/euro/game/besiktas-istanbul-vs-olympiacos-piraeus-odds-2026-10-28-18526"
+     },
+     {
+      "impact": "orta",
+      "text": "Olympiacos, 7. haftada evinde Fenerbahçe'ye 61-64 yenildi; ikinci yarıda sadece 27 sayı üretebildi.",
+      "url": "https://www.euroleaguebasketball.net/en/euroleague/news/game-center-round-7-el2627/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 170.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 57,
+      "market": "Toplam Sayı 170.5 Üst (uzatma dahil)",
+      "prob": 0.56,
+      "reason": "Beşiktaş maçlarında maç başına ortalama 182.6 sayı çıkıyor (634+644 / 7 maç), Olympiacos'un deplasman maçları da 96-94, 102-97, 105-100 gibi yüksek skorlarla bitti. Olympiacos'un pivotu Milutinov'un yokluğu savunmayı zayıflatıyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -3.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 50,
+      "market": "Olympiacos -3.5 Handikap",
+      "prob": 0.5,
+      "reason": "Kadro kalitesi ve deplasmandaki 4-1'lik derece Olympiacos'tan yana. Ancak dört önemli eksik farkı daraltabilir, bu yüzden piyasadaki 1.44 civarı galibiyet oranı yerine dar bir handikap tercih edildi.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 54,
+      "market": "Beşiktaş Takım Toplamı 81.5 Üst",
+      "prob": 0.55,
+      "reason": "Beşiktaş 7 maçta 90.6 ortalamayla oynuyor ve Efes deplasmanında bile 80 sayı attı. Milutinov'un olmadığı Olympiacos boyalı alanda daha kırılgan olacak.",
+      "risk": "orta"
+     }
+    ],
+    "risks": [
+     "Olympiacos'un eksik kadroyla tempoyu bilerek düşürüp savunma maçı oynaması (Fenerbahçe maçında 61 sayıda kaldı).",
+     "Walker ve Furkan Korkmaz'ın oynamaması halinde Beşiktaş'ın hücum üretimi düşebilir.",
+     "Beşiktaş'ın iç saha ivmesiyle maçı kazanması handikap seçimini boşa çıkarır."
+    ],
+    "sources": [
+     {
+      "title": "Eurohoops – Milutinov out for Olympiacos at Besiktas",
+      "url": "https://www.eurohoops.net/en/euroleague/2026807/nikola-milutinov-out-olympiacos-at-besiktas-euroleague/"
+     },
+     {
+      "title": "EuroLeague – Injury report Round 8",
+      "url": "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-8-fantasy/"
+     },
+     {
+      "title": "EuroLeague – Game Facts: Besiktas vs. Olympiacos",
+      "url": "https://www.euroleaguebasketball.net/en/euroleague/news/tae2627-rs8-game-facts-bes-oly/"
+     },
+     {
+      "title": "Olympiacos BC – Standings",
+      "url": "https://www.olympiacosbc.gr/en/games/euroleague/standings.html"
+     },
+     {
+      "title": "Eurohoops – Round 7 roundup (Efes 89-80 Besiktas)",
+      "url": "https://www.eurohoops.net/en/euroleague/2024445/euroleague-roundup-round-7-gameday-2"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Beşiktaş (3-4) Efes'e 89-80 yenilerek geliyor; Olympiacos (5-2) ise evinde Fenerbahçe'ye 61-64 kaybetti ama deplasmanda 4-1 gitti. Olympiacos'ta Milutinov, Fournier, Montero ve Dorsey yok, Konchar da henüz lisanslı değil. Beşiktaş'ta Dotson ve Jeffries yok, Lonnie Walker ile Furkan Korkmaz ise oynayıp oynamayacağı belli değil. İki takım da ligin en skorer ekipleri arasında (Olympiacos maç başı 92.9 sayı, Beşiktaş 90.6) ve bu da yüksek skorlu bir maçı işaret ediyor.",
+    "verdict": "Eksikli Olympiacos yine de favori, ama en güvenli yol iki hücum takımının buluştuğu bu maçta toplam sayı üstü."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-burgos-rigas-zelli": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Burgos %75, 90-83",
+      "site": "Basketora",
+      "url": "https://basketora.app/eurocup/rigas-zelli-vs-san-pablo-burgos"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Burgos %78",
+      "site": "Coinbase tahmin piyasası",
+      "url": "https://www.coinbase.com/en-au/predictions/event/KXEUROCUPGAME-26OCT281530RIGSPB"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Burgos 2/9 favori",
+      "site": "Oddschecker",
+      "url": "https://www.oddschecker.com/basketball/eurocup"
+     }
+    ],
+    "consensus": "Kaynaklar Burgos galibiyetinde birleşiyor, öngörülen fark 7 sayı civarı ve toplam 170 dolayında.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Burgos EuroCup'ta 1-3 (328-348), ancak ligde güçlü bir galibiyetle geliyor."
+     },
+     {
+      "side": "away",
+      "text": "Riga 2-2, 325 atıp 350 yedi (-25); savunma reytingi ~117."
+     },
+     {
+      "side": "away",
+      "text": "Riga 4. haftada Hapoel deplasmanında 100-64 ağır yenildi."
+     },
+     {
+      "side": "neutral",
+      "text": "Piyasa Burgos'u ~1.22 (Oddschecker 2/9), Riga'yı ~4.50 fiyatlıyor."
+     },
+     {
+      "side": "home",
+      "text": "EuroCup'ta ev sahipleri maçların %69'unu kazandı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Riga koçu Kondratavicius: 'Burgos'un geçiş oyununu durdurmalı, Doumbouya ve Steward'ı kontrol etmeliyiz.' Riga yeni pivot Ody Oguama'yı kadroya kattı.",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-and-injury-report-round-5/"
+     },
+     {
+      "impact": "orta",
+      "text": "Burgos ACB'de Manresa'yı deplasmanda 99-81 yendi.",
+      "url": "https://basketball.realgm.com/international/league/4/Spanish-ACB/team/1040/Hereda-San-Pablo-Burgos"
+     },
+     {
+      "impact": "düşük",
+      "text": "Riga Zelli Letonya-Estonya liginde 6-0 ve hafta sonu Keila'yı 103-70 yendi.",
+      "url": "https://teamkeys.net/en/leagues/latvian-estonian-basketball-league/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 167.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 56,
+      "market": "Toplam Sayı 167.5 Üst",
+      "prob": 0.56,
+      "reason": "Burgos maçlarında ortalama toplam 169, Riga maçlarında ~169; Riga koçu da Burgos'un yüksek temposunu vurguluyor, Basketora projeksiyonu 169-173.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -6.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 53,
+      "market": "Burgos -6.5 Handikap",
+      "prob": 0.53,
+      "reason": "Riga'nın savunma reytingi zayıf (DRTG ~117) ve son deplasmanında 36 farkla kaybetti; Burgos'un ACB formu yükselişte.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 50,
+      "market": "Burgos Takım Toplamı 87.5 Üst",
+      "prob": 0.5,
+      "reason": "Riga EuroCup'ta maç başına 87.5 sayı yiyor; Doumbouya ve Steward'ın skor üretimi belirleyici.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Burgos'un EuroCup'ta üst üste üç yenilgisi var; özgüven sorunu sürebilir.",
+     "Riga tempoyu düşürmeyi başarırsa Üst ve takım toplamı riske girer.",
+     "Çizgiler teyit edilemedi; piyasa toplamı daha yüksek açmış olabilir."
+    ],
+    "sources": [
+     {
+      "title": "EuroCup Round 5 pregame quotes & injury report",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-and-injury-report-round-5/"
+     },
+     {
+      "title": "Basketora Burgos vs Rigas Zelli",
+      "url": "https://basketora.app/eurocup/rigas-zelli-vs-san-pablo-burgos"
+     },
+     {
+      "title": "3StepsBasket Riga Zelli stats",
+      "url": "https://3stepsbasket.com/club/rigas-zelli/stats?season=eurocup-2027"
+     },
+     {
+      "title": "RealGM San Pablo Burgos",
+      "url": "https://basketball.realgm.com/international/league/4/Spanish-ACB/team/1040/Hereda-San-Pablo-Burgos"
+     },
+     {
+      "title": "Oddschecker EuroCup odds",
+      "url": "https://www.oddschecker.com/basketball/eurocup"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Burgos Group A'da 1-3 (82.0 atıp 87.0 yiyor) ama hafta sonu ACB'de Manresa deplasmanını 99-81 kazanarak toparlandı. Riga Zelli 2-2, 81.3 atıp 87.5 yiyor; son maçta Hapoel'e 100-64 kaybetti. Piyasa Burgos'u ~1.22 fiyatlıyor; Basketora 88-81 / 90-83 projeksiyonu veriyor.",
+    "verdict": "Burgos evinde favori; iki takımın da zayıf savunması ve Burgos'un yüksek temposu sayılı bir maç işaret ediyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-hapoel-tel-aviv-anadolu-efes": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Hapoel kazanır (%74)",
+      "site": "Forebet",
+      "url": "https://www.forebet.com/en/basketball/matches/euroleague/hapoel-tel-aviv-anadolu-efes/289642"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Hapoel kazanır (1.36)",
+      "site": "Basketball Sphere",
+      "url": "https://basketballsphere.com/en/euroleague-acca-of-round-8-oct-27-oct-28-2026/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Hapoel -6.5, toplam 172.5",
+      "site": "FanDuel (piyasa)",
+      "url": "https://sportsbook.fanduel.com/basketball/euroleague-men's/hapoel-tel-aviv-v-anadolu-efes-sk-36219883"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Hapoel %80, ortalama skor 86.0-82.5",
+      "site": "BasketScore (topluluk)",
+      "url": "https://basketscore.net/"
+     }
+    ],
+    "consensus": "Kaynakların hepsi Hapoel galibiyeti bekliyor. Topluluğun beklediği fark (yaklaşık 3.5 sayı) piyasa çizgisinden dar, bu yüzden handikap tam bir güvence değil.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Hapoel 5-2 ile 5. sırada, son 3 maçını kazandı (7. haftada Virtus'u 90-81 yendi); sayı averajı +29."
+     },
+     {
+      "side": "away",
+      "text": "Efes 3-4, averajı -9 ve deplasmanda 1-3; Mike James'in sezonluk kaybı yaratıcılığı düşürdü."
+     },
+     {
+      "side": "home",
+      "text": "Top kaybı: Hapoel ligde en az (10.3), Efes ligde en çok ikinci (15.3)."
+     },
+     {
+      "side": "away",
+      "text": "Efes son iki Euroleague maçını kazandı ve hafta sonu ligde Glint Körfez'i 93-77 yendi; moral olarak toparlanıyor."
+     },
+     {
+      "side": "neutral",
+      "text": "H2H: Hapoel iki resmi maçın ikisini de kazandı (87-81 ve 71-66)."
+     },
+     {
+      "side": "neutral",
+      "text": "Çift maç haftası: Hapoel 30 Ekim'de Dubai'ye, Efes ise Panathinaikos'a karşı oynayacak; rotasyon yönetimi önemli."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Efes'te Papagiannis maç saatinde belli olacak; PJ Dozier (bel, 1-2 hafta), Isaia Cordinier ve Mike James (Aşil, 7-9 ay) yok.",
+      "url": "https://www.eurohoops.net/en/euroleague/2026807/nikola-milutinov-out-olympiacos-at-besiktas-euroleague/"
+     },
+     {
+      "impact": "orta",
+      "text": "Hapoel'de koç Dimitris Itoudis'in kadrosu tam.",
+      "url": "https://www.eurohoops.net/en/euroleague/2026807/nikola-milutinov-out-olympiacos-at-besiktas-euroleague/"
+     },
+     {
+      "impact": "düşük",
+      "text": "Maç, Hapoel'in Bulgaristan'daki geçici iç saha salonlarından Arena Botevgrad'da oynanacak.",
+      "url": "https://hapoelbc.com/en/ticket"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -6.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 55,
+      "market": "Hapoel Tel Aviv -6.5 Handikap",
+      "prob": 0.55,
+      "reason": "Maç başına yaklaşık 5 top kaybı farkı ve Efes'in deplasmandaki 1-3'lük derecesi, net favorinin farkı açmasını destekliyor. Hapoel ayrıca iki maçlık H2H'nin ikisini de kazandı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 172.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "Toplam Sayı 172.5 Alt (uzatma dahil)",
+      "prob": 0.51,
+      "reason": "Efes maçlarında ortalama 167 sayı çıkıyor (581+590 / 7), iki takımın son iki maçı da 137 ve 168 sayıda kaldı. Hapoel'in topu koruyarak oynadığı kontrollü tempo da alt tarafını destekliyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 50,
+      "market": "Hapoel İlk Yarı -3.5 Handikap",
+      "prob": 0.5,
+      "reason": "Tam kadrolu ve serideki ev sahibinin erken tempo kurması beklenir. Efes'in kısa rotasyonu ve top kayıpları ilk yarıda da fark yaratabilir.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Papagiannis'in oynaması Efes'e boyalı alanda ciddi katkı sağlayabilir.",
+     "Hapoel'in çift maç haftasında rotasyonu genişletmesi farkı daraltabilir.",
+     "Efes'in iyi şut atacağı bir gecede maç yüksek skorlu geçerse alt seçimi boşa çıkar."
+    ],
+    "sources": [
+     {
+      "title": "EuroLeague – Game Notes: Hapoel vs. Efes",
+      "url": "https://www.euroleaguebasketball.net/en/euroleague/news/tae2627-rs8-game-notes-hta-ist/"
+     },
+     {
+      "title": "Eurohoops – Round 8 injury notes",
+      "url": "https://www.eurohoops.net/en/euroleague/2026807/nikola-milutinov-out-olympiacos-at-besiktas-euroleague/"
+     },
+     {
+      "title": "Forebet – Hapoel Tel-Aviv vs Anadolu Efes",
+      "url": "https://www.forebet.com/en/basketball/matches/euroleague/hapoel-tel-aviv-anadolu-efes/289642"
+     },
+     {
+      "title": "EuroLeague – Past match-ups & game notes (venue: Arena Botevgrad)",
+      "url": "https://mediacentre.euroleague.net/uploads/EuroleagueCore/pastmatchups/game19228.pdf"
+     },
+     {
+      "title": "Hapoel BC – Tickets / Schedule",
+      "url": "https://hapoelbc.com/en/ticket"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Hapoel (5-2) Botevgrad'da (Bulgaristan) ev sahibi olarak oynuyor, üst üste 3 galibiyet aldı ve Itoudis'in kadrosu tam. Efes (3-4) son iki maçını kazandı (Zalgiris deplasmanı 85-70, Beşiktaş 89-80) ama Mike James, PJ Dozier ve Cordinier yok, Papagiannis de maç saatinde belli olacak. Top kaybı farkı belirleyici olabilir: Hapoel ligin en az top kaybeden takımı (10.3), Efes ise en çok top kaybeden ikinci takım (15.3). Piyasa Hapoel'i -6.5 sayı favori görüyor, toplam çizgisi 172.5.",
+    "verdict": "Tam kadro ve 3 maçlık galibiyet serisindeki Hapoel, Mike James'siz Efes karşısında handikapla tercih edilir."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-le-mans-hapoel-jerusalem": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Hapoel %64, 85-81",
+      "site": "Basketora",
+      "url": "https://basketora.app/eurocup/hapoel-jerusalem-vs-le-mans"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Le Mans kazanır %32",
+      "site": "Coinbase tahmin piyasası",
+      "url": "https://www.coinbase.com/en-au/predictions/event/KXEUROCUPGAME-26OCT281500HAJLMS"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Hapoel 4/11 favori",
+      "site": "Oddschecker",
+      "url": "https://www.oddschecker.com/basketball/eurocup"
+     }
+    ],
+    "consensus": "Hapoel favori kabul ediliyor ancak modeller 4 sayı civarı yakın bir fark öngörüyor; piyasa daha net favori görüyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Hapoel 4-0, 354 sayı attı 285 yedi (+69)."
+     },
+     {
+      "side": "home",
+      "text": "Le Mans 2-2, maç başına 80.8 atıp 78.0 yiyor; son iki maçı kazandı."
+     },
+     {
+      "side": "away",
+      "text": "Hapoel'in başında Sasa Obradovic var; deneyimli, savunma odaklı yapı."
+     },
+     {
+      "side": "neutral",
+      "text": "Piyasa Hapoel'i ~1.36, Le Mans'ı ~3.25 fiyatlıyor (Oddschecker 4/11 - 9/4)."
+     },
+     {
+      "side": "home",
+      "text": "EuroCup'ta bu sezon ev sahipleri maçların %69'unu kazandı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "düşük",
+      "text": "Le Mans koçu Guillaume Vizade: 'Hapoel grubu rahat önde götürüyor, oyunumuzu yükseltmemiz gerek.' Resmi raporda sakatlık bildirilmedi.",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-and-injury-report-round-5/"
+     },
+     {
+      "impact": "orta",
+      "text": "Hapoel 4. haftada Riga Zelli'yi 100-64 yendi; İsrail liginde de Hapoel Tel Aviv deplasmanını 70-60 kazandı.",
+      "url": "https://www.aiscore.com/head-to-head/basketball/hapoel-jerusalem-vs-le-mans"
+     },
+     {
+      "impact": "orta",
+      "text": "Le Mans hafta sonu LNB'de Boulazac'ı 97-72 yendi; EuroCup'ta Cedevita'yı 84-66 geçti.",
+      "url": "https://teamkeys.net/en/leagues/eurocup/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -4.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 54,
+      "market": "Hapoel Jerusalem -4.5 Handikap",
+      "prob": 0.54,
+      "reason": "Hapoel'in +17.3'lük ortalama farkı Le Mans'ın +2.8'ine göre çok üstün; net favorilerin handikapları bu sezon iyi gitti.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 164.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 53,
+      "market": "Toplam Sayı 164.5 Alt",
+      "prob": 0.53,
+      "reason": "Hapoel maçlarında ortalama toplam ~160, Le Mans maçlarında ~159; Basketora projeksiyonu 166 ile sınırda.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 47,
+      "market": "Hapoel İlk Yarı -2.5",
+      "prob": 0.47,
+      "reason": "Hapoel ilk periyotlarda güçlü başlıyor (Rostock'a karşı 25-18); yine de Le Mans evinde direnç gösterebilir.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Le Mans evinde formda; maç tek posesyona kalırsa -4.5 kaybedebilir.",
+     "Hapoel'in iki cephedeki yoğun takvimi rotasyonu etkileyebilir.",
+     "Toplam çizgisi teyit edilemedi; gerçek çizgi daha düşük açılmış olabilir."
+    ],
+    "sources": [
+     {
+      "title": "EuroCup Round 5 pregame quotes & injury report",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-and-injury-report-round-5/"
+     },
+     {
+      "title": "Basketora Le Mans vs Hapoel Jerusalem",
+      "url": "https://basketora.app/eurocup/hapoel-jerusalem-vs-le-mans"
+     },
+     {
+      "title": "TeamKeys EuroCup standings",
+      "url": "https://teamkeys.net/en/leagues/eurocup/"
+     },
+     {
+      "title": "AiScore Le Mans - Hapoel H2H",
+      "url": "https://www.aiscore.com/head-to-head/basketball/hapoel-jerusalem-vs-le-mans"
+     },
+     {
+      "title": "Oddschecker EuroCup odds",
+      "url": "https://www.oddschecker.com/basketball/eurocup"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Hapoel Jerusalem Group A'da 4-0, maç başına 88.5 sayı atıp 71.3 yiyor; son maçta Riga Zelli'yi 100-64 ezdi. Le Mans 2-2 ama son iki maçı kazandı (Cedevita'yı deplasmanda 84-66) ve hafta sonu ligde Boulazac'ı 97-72 yendi. Piyasa Hapoel'i ~1.36 fiyatlıyor; Basketora 85-81 ile yakın bir maç öngörüyor.",
+    "verdict": "Hapoel Jerusalem deplasmanda favori; dar handikapla Hapoel ve iki iyi savunmalı takım arasında kontrollü bir toplam bekleniyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-london-lions-turk-telekom": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "hayır",
+      "prediction": "London Lions %60, 84-81",
+      "site": "Basketora",
+      "url": "https://basketora.app/eurocup"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "TT 4/5, London 19/17 (yakın)",
+      "site": "Oddschecker",
+      "url": "https://www.oddschecker.com/basketball/eurocup"
+     }
+    ],
+    "consensus": "Kaynaklar maçı başa baş görüyor; Basketora ev sahibi London'ı hafif önde tutarken oran tabloları TT'yi hafif favori gösteriyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "London Lions 2-2, 325 atıp 304 yedi (+21); Cluj'u 89-72 yendi."
+     },
+     {
+      "side": "away",
+      "text": "Türk Telekom EuroCup'ta 1-3 (316-328), ancak BSL'de 4-1 ile ikinci."
+     },
+     {
+      "side": "away",
+      "text": "Geçen sezonki eşleşmede TT, London'ı 88-63 yendi."
+     },
+     {
+      "side": "home",
+      "text": "London Lions hafta sonu ligde Bristol'ü 82-76 yendi; Copper Box'ta ev avantajı."
+     },
+     {
+      "side": "neutral",
+      "text": "Oranlar kaynağa göre değişiyor (London ~1.68 ile ~2.12 arası), piyasa net bir favori göstermiyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "düşük",
+      "text": "Resmi ön raporda London Lions - Türk Telekom maçı için açıklama ya da sakatlık bilgisi yer almadı.",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-and-injury-report-round-5/"
+     },
+     {
+      "impact": "orta",
+      "text": "Türk Telekom 4. haftada evinde Siauliai'ye 94-84 yenildi; EuroCup'ta 1-3'e düştü.",
+      "url": "https://teamkeys.net/en/leagues/eurocup/"
+     },
+     {
+      "impact": "orta",
+      "text": "Türk Telekom BSL'de Denizli Basket'i 97-76 yenerek 4-1'e yükseldi.",
+      "url": "https://www.globalscorex.com/basketball/team/1277/turk-telekom"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 55,
+      "market": "Türk Telekom +2.5 Handikap",
+      "prob": 0.55,
+      "reason": "Başa baş fiyatlanan maçta TT'nin ligdeki 4-1 formu ve kadro derinliği; artı sayı yakın bitişte koruma sağlar.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "2",
+       "type": "DNB"
+      },
+      "confidence": 50,
+      "market": "Türk Telekom Beraberlikte İade",
+      "prob": 0.5,
+      "reason": "Basketbolda beraberlik nadir, bu nedenle MS'e yakın; TT'nin EuroCup'taki üç yenilgisi 7-10 sayı farkla geldi, kadro gücü fark yaratabilir.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": 161.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 51,
+      "market": "Toplam Sayı 161.5 Alt",
+      "prob": 0.51,
+      "reason": "London maçlarında ortalama toplam ~157, TT maçlarında ~161; iki takım da EuroCup'ta yavaş tempolu.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "TT EuroCup'ta 1-3 ve deplasman performansı zayıf; London evinde sürpriz değil, favori bile olabilir.",
+     "Piyasa yönü kaynaklar arasında çelişkili; çizgiler maç günü değişebilir.",
+     "Toplam çizgisi teyit edilemedi."
+    ],
+    "sources": [
+     {
+      "title": "EuroCup Round 5 pregame quotes & injury report",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-and-injury-report-round-5/"
+     },
+     {
+      "title": "TeamKeys EuroCup standings",
+      "url": "https://teamkeys.net/en/leagues/eurocup/"
+     },
+     {
+      "title": "Basketora EuroCup predictions",
+      "url": "https://basketora.app/eurocup"
+     },
+     {
+      "title": "GlobalScoreX Türk Telekom",
+      "url": "https://www.globalscorex.com/basketball/team/1277/turk-telekom"
+     },
+     {
+      "title": "BBall London Lions vs Turk Telekom",
+      "url": "https://www.bball.is/basketball/game/match-london-lions-vs-turk-telekom/vjxm8xt51828q6o"
+     },
+     {
+      "title": "Oddschecker EuroCup odds",
+      "url": "https://www.oddschecker.com/basketball/eurocup"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "London Lions Group B'de 2-2 (81.3 atıp 76.0 yiyor), son maçında Cluj'u deplasmanda 89-72 yendi. Türk Telekom EuroCup'ta 1-3 ama BSL'de 4-1 ile ikinci sırada ve hafta sonu Denizli'yi 97-76 yendi. Oranlar kaynaklara göre değişiyor (Basketora London 1.68, Oddschecker TT 4/5), yani piyasa yaklaşık başa baş. Geçen sezon Ankara'daki maçı TT 88-63 kazanmıştı.",
+    "verdict": "Piyasada başa baş görünen maçta Türk Telekom'un üstün kadro kalitesi ve ligdeki formu artı handikabı değerli kılıyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-los-angeles-lakers-portland-trail-blaze": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Lakers 118-114; Lakers -2.5 kapsama %53.6; 233.5 Alt %51.7",
+      "site": "Dimers",
+      "url": "https://www.dimers.com/nba/news/portland-trail-blazers-vs-los-angeles-lakers-prediction-10-27-2026-ac"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Lakers -4.5 ve 228.5 Üst",
+      "site": "Sports Mole",
+      "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview/portland-trail-blazers-vs-los-angeles-lakers-player-props-injury-report-and-prediction--nba_607730.html"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Lakers 119-116; Blazers +3.5; 235.5 Alt",
+      "site": "Rip City Radio (model)",
+      "url": "https://ripcityradio.iheart.com/content/2026-10-27-trail-blazers-vs-lakers-predictions-odds-stats-oct-27"
+     },
+     {
+      "agree": "evet",
+      "prediction": "%65 Lakers MS, %75 Üst",
+      "site": "Covers (konsensüs)",
+      "url": "https://www.covers.com/sport/basketball/nba/matchup/388617/picks"
+     }
+    ],
+    "consensus": "Kaynaklar Lakers'ı hafif favori görüyor; handikap ve toplam konusunda ayrışma var, oyuncu konsensüsü üst yönünde.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Lakers 3-0, maç başına 128 sayı üretiyor ve galibiyetlerinin hepsi 8+ farkla geldi."
+     },
+     {
+      "side": "away",
+      "text": "Blazers 2-0, 126 sayı ortalaması ve 100.5 savunma reytingiyle sezona güçlü başladı."
+     },
+     {
+      "side": "home",
+      "text": "Doncic sezonda 34.3 sayı ortalamasında; Blazers'ın test edilmemiş çevre savunmasına karşı büyük avantaj."
+     },
+     {
+      "side": "away",
+      "text": "Blazers geçen sezon Lakers'ı 122-108 (deplasmanda) ve 132-116 yendi; eşleşmede 2-1 üstün."
+     },
+     {
+      "side": "neutral",
+      "text": "Geçen sezonki üç karşılaşmanın toplamları 230, 238 ve 248 sayıydı; piyasa toplamı 236.5 civarında."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Doncic, Jazz karşısında 8 üçlükle 52 sayı ve 10 asist üretti; Lakers 132-123 kazanarak 3-0'a yükseldi.",
+      "url": "https://www.espn.com/nba/story/_/id/50282749/luka-doncic-scores-nba-season-high-52-points-lakers-win-vs-jazz"
+     },
+     {
+      "impact": "orta",
+      "text": "Blazers'ta Shaedon Sharpe (menisküs) yok, Chris Youngblood (ayak bileği) oynamayacak, Branden Carlson (beyin sarsıntısı) şüpheli.",
+      "url": "https://mymotherlode.com/sports/basketball-general-news/11253640/los-angeles-plays-portland-following-doncics-52-point-outing.html"
+     },
+     {
+      "impact": "düşük",
+      "text": "Lakers'ta Cameron Carr (oblik) ve Adou Thiero (diz) şüpheli/eksik listesinde.",
+      "url": "https://sports.iheart.com/content/2026-10-27-trail-blazers-vs-lakers-injury-report-oct-27/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 236.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 52,
+      "market": "236.5 Üst",
+      "prob": 0.52,
+      "reason": "İki takım sezona 128 ve 126 sayı ortalamasıyla başladı; Doncic sezonda 34.3 sayı ortalamasında. Alt seçimleri bu sezon tutmadığından üst tarafı tercih ediliyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "1",
+       "type": "DNB"
+      },
+      "confidence": 55,
+      "market": "Lakers Kazanır (MS)",
+      "prob": 0.58,
+      "reason": "İç saha avantajı ve Doncic'in formu; Kalshi ve Polymarket Lakers'a %57-59 şans veriyor, Sharpe'ın yokluğu Blazers'ın kanat derinliğini azaltıyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -3.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 48,
+      "market": "Lakers -3.5",
+      "prob": 0.5,
+      "reason": "Lakers'ın üç galibiyetinin hepsi 8+ sayı farkla geldi; ancak Blazers geçen sezon bu eşleşmenin 3 maçından 2'sini kazandı.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 50,
+      "market": "Luka Doncic 29.5 Sayı Üst",
+      "prob": 0.53,
+      "reason": "Doncic 3 maçta 34.3 ortalamada ve son maçta 52 attı; Dimers projeksiyonu 32.4 sayı.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Toplam çizgisi yüksek (236.5); iki takımın da sezon başı hücum verimi geriye dönerse üst kaybeder.",
+     "Blazers eşleşmede geçen sezon üstündü; dar fark veya sürpriz Blazers galibiyeti mümkün.",
+     "Doncic'in 52 sayılık maçın ardından tek oyuncuya yüklenme sonrası dalgalanma riski."
+    ],
+    "sources": [
+     {
+      "title": "Dimers - Trail Blazers vs. Lakers prediction",
+      "url": "https://www.dimers.com/nba/news/portland-trail-blazers-vs-los-angeles-lakers-prediction-10-27-2026-ac"
+     },
+     {
+      "title": "FanDuel Research - Lakers vs. Trail Blazers Prediction",
+      "url": "https://www.fanduel.com/research/lakers-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-10-27-2026"
+     },
+     {
+      "title": "Sports Mole - Trail Blazers vs. Lakers preview",
+      "url": "https://www.sportsmole.co.uk/basketball/la-lakers/preview/portland-trail-blazers-vs-los-angeles-lakers-player-props-injury-report-and-prediction--nba_607730.html"
+     },
+     {
+      "title": "Covers - POR vs LAL Picks",
+      "url": "https://www.covers.com/sport/basketball/nba/matchup/388617/picks"
+     },
+     {
+      "title": "ESPN - Doncic scores 52",
+      "url": "https://www.espn.com/nba/story/_/id/50282749/luka-doncic-scores-nba-season-high-52-points-lakers-win-vs-jazz"
+     },
+     {
+      "title": "AP via myMotherLode - Los Angeles plays Portland",
+      "url": "https://mymotherlode.com/sports/basketball-general-news/11253640/los-angeles-plays-portland-following-doncics-52-point-outing.html"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Lakers 3-0 ile geliyor ve son maçta Doncic'in 52 sayı-10 asistlik performansıyla Jazz'ı 132-123 yendi. Blazers 2-0 ile maç başına 126 sayı üretiyor ve sadece 101.5 yiyor; Shaedon Sharpe menisküs sakatlığıyla yok, Branden Carlson şüpheli. Lakers'ta Cameron Carr ve Adou Thiero rotasyonun dışında. Piyasa Lakers'ı -2.5/-3.5 favori, toplamı 233.5-237.5 bandında görüyor.",
+    "verdict": "Doncic'in sıcak formuyla 3-0'lık Lakers, evinde yenilmeyen Blazers'a karşı yüksek skorlu bir maçta hafif favori."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-new-york-knicks-detroit-pistons": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Knicks 112-108 kazanır; Knicks -4.5 kapsama ihtimali %51.1",
+      "site": "Dimers",
+      "url": "https://www.dimers.com/nba/predictions/2026_8_nyk_det"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Knicks kazanır (%52.6); öneri Knicks 1. çeyrek -1.5",
+      "site": "FanDuel Research (numberFire)",
+      "url": "https://www.fanduel.com/research/knicks-vs-pistons-prediction-nba-odds-spread-best-bets-for-10-27-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Knicks kazanma ihtimali %60",
+      "site": "WIN DAILY (Polymarket)",
+      "url": "https://windailysports.com/prediction-markets/nba/nba-det-nyk-2026-10-27"
+     }
+    ],
+    "consensus": "Modeller ve tahmin piyasaları Knicks'i hafif favori görüyor; handikap konusunda ise fikirler ikiye yakın bölünmüş.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Pistons 3-0 ile Doğu'nun tek yenilmeyen takımı ve son maçında Duren ile Thompson olmadan 20-4 öne geçti."
+     },
+     {
+      "side": "home",
+      "text": "Knicks 0-3 olsa da tam kadroya yakın; piyasa onu -162 civarında (yaklaşık %60) favori görüyor."
+     },
+     {
+      "side": "home",
+      "text": "Pistons'ın ön alanı Duren'siz; Thompson da oynayamazsa savunma ve ribaundda ciddi kayıp var."
+     },
+     {
+      "side": "away",
+      "text": "Knicks son maçta Magic'e son bölümde 35-16'lık seriyle kaybetti; maç bitirme sorunu sürüyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Toplam çizgisi 218.5-220.5 arasında; Dimers'ın skor projeksiyonu 112-108 (220 sayı)."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Jalen Duren sağ hamstring sakatlığı nedeniyle yok; iki hafta sonra yeniden değerlendirilecek (tahmini dönüş 9 Kasım).",
+      "url": "https://hoopsnightly.com/teams/pistons/injuries"
+     },
+     {
+      "impact": "orta",
+      "text": "Ausar Thompson (sağ ayak bileği) ve Isaiah Joe (kalça) resmi sakatlık raporunda şüpheli olarak listelendi.",
+      "url": "https://clutchpoints.com/nba/nba-stories/pistons-vs-knicks-injury-report-ausar-thompson-isaiah-joe-listed-with-jalen-duren-already-out"
+     },
+     {
+      "impact": "düşük",
+      "text": "Knicks'te yalnızca Jose Alvarado (sol ayak bileği) bu maçta forma giyemeyecek; Jalen Brunson sağlık durumu temize çıktı.",
+      "url": "https://hoopsnightly.com/teams/knicks/injuries"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "DNB"
+      },
+      "confidence": 57,
+      "market": "Knicks Kazanır (MS)",
+      "prob": 0.59,
+      "reason": "Knicks'te sadece Jose Alvarado eksik; Pistons ise Duren'siz ve Thompson şüpheli. Tahmin piyasaları da Knicks'e yaklaşık %60 şans veriyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -3.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 51,
+      "market": "Knicks -3.5",
+      "prob": 0.52,
+      "reason": "Net favorilerin handikapları bu sezon iyi gitti; Pistons'ın ön alan rotasyonu daralmış durumda ve Knicks ilk galibiyeti için evinde baskılı oynayacak.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 218.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "218.5 Üst",
+      "prob": 0.51,
+      "reason": "Pistons maçlara hızlı başlıyor (son maçta 20-4 öne geçti), Knicks savunması son bölümlerde dağılıyor; alt seçimleri bu sezon tutmadığından üst tarafı tercih ediliyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 42,
+      "market": "Knicks 1. Çeyrek -1.5",
+      "prob": 0.47,
+      "reason": "FanDuel Research'ün öne çıkardığı seçenek; ancak Pistons'ın hızlı başlangıç eğilimi bu marketi riskli kılıyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Ausar Thompson ve Isaiah Joe oynarsa Pistons'ın derinliği artar ve yakın maç ihtimali yükselir.",
+     "Knicks'in maç sonu çöküşleri sürerse -3.5 handikap kaybedebilir.",
+     "Sezon başı küçük örneklem; 3 maçlık form yanıltıcı olabilir."
+    ],
+    "sources": [
+     {
+      "title": "Dimers - Pistons vs. Knicks Prediction",
+      "url": "https://www.dimers.com/nba/predictions/2026_8_nyk_det"
+     },
+     {
+      "title": "FanDuel Research - Knicks vs. Pistons Prediction",
+      "url": "https://www.fanduel.com/research/knicks-vs-pistons-prediction-nba-odds-spread-best-bets-for-10-27-2026"
+     },
+     {
+      "title": "TheSpread - Pistons vs Knicks Picks",
+      "url": "https://www.thespread.com/nba-articles/pistons-vs-knicks-prediction-october-27-2026/"
+     },
+     {
+      "title": "ClutchPoints - Pistons vs. Knicks injury report",
+      "url": "https://clutchpoints.com/nba/nba-stories/pistons-vs-knicks-injury-report-ausar-thompson-isaiah-joe-listed-with-jalen-duren-already-out"
+     },
+     {
+      "title": "Covers - Pistons vs Knicks Game Overview",
+      "url": "https://www.covers.com/sport/basketball/nba/matchup/388616"
+     },
+     {
+      "title": "Fantasy Alarm - Pistons vs. Knicks Predictions",
+      "url": "https://www.fantasyalarm.com/articles/nba/predictions/pistons-vs-knicks-predictions-picks-odds-nba-on-nbc-10-27/197777"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Pistons 3-0 ile Doğu'nun tek yenilmeyen takımı olarak Madison Square Garden'a geliyor, ancak Jalen Duren hamstring sakatlığıyla yaklaşık iki hafta yok ve Ausar Thompson ile Isaiah Joe şüpheli. Knicks ise 0-3 ile şampiyonluk sonrası kötü başladı; son maçta Magic'e son bölümde 35-16'lık seriyle kaybetti. Piyasa Knicks'i -3.5/-4.5 favori, toplamı 218.5-220.5 bandında görüyor. Kadro avantajı ve iç saha nedeniyle Knicks tarafı ile hafif üst eğilimi öne çıkıyor.",
+    "verdict": "0-3 başlayan ama tam kadrolu Knicks, ön alanı eksik Pistons karşısında evinde dar ama net bir galibiyete daha yakın."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-san-antonio-spurs-sacramento-kings": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "hayır",
+      "prediction": "232.5 Alt; geniş handikap riskli",
+      "site": "DraftKings Network",
+      "url": "https://dknetwork.draftkings.com/2026/10/27/san-antonio-spurs-vs-sacramento-kings-prediction-pick-for-tuesday-10-27-26/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Spurs kazanır; Kings +18.5; 232.5 Alt (228.7 projeksiyon)",
+      "site": "Fox Sports 1380 (model)",
+      "url": "https://khey1380.iheart.com/content/2026-10-27-kings-vs-spurs-predictions-odds-stats-oct-27/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Spurs kazanma ihtimali %89.9; Kings +18.5 kapsama %59.1",
+      "site": "Dimers",
+      "url": "https://www.dimers.com/nba/predictions/2026_8_sas_sac"
+     }
+    ],
+    "consensus": "Herkes Spurs galibiyetinde birleşiyor; ancak modellerin çoğu 18 sayılık handikabı fazla geniş buluyor ve alt eğilimli.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Kings 0-3 ve maçları 121-96, 128-120, 123-112 kaybetti; ortalama 124 sayı yiyor."
+     },
+     {
+      "side": "home",
+      "text": "Kings back-to-back ile ve Murray, Cardwell, Raynaud olmadan geliyor; ön alanı Wembanyama karşısında çok zayıf."
+     },
+     {
+      "side": "away",
+      "text": "Wembanyama bu sezon %37 isabetle 20.0 sayı ortalamasında; Spurs'ün hücumu henüz oturmadı."
+     },
+     {
+      "side": "away",
+      "text": "Zach LaVine maç başına 29 sayıyla Kings'i sırtlıyor; tek başına farkı kapatabilecek bir skorer."
+     },
+     {
+      "side": "neutral",
+      "text": "Geçen sezonki son karşılaşmayı Spurs 132-104 kazandı; hazırlık maçında da 126-97 galip geldi."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Kings'te Keegan Murray (ayak bileği) 10-14 gün sonra yeniden değerlendirilecek; Cardwell ve Raynaud da sakat.",
+      "url": "https://www.si.com/nba/kings/onsi/kings-injury-report-4-players-ruled-out-vs-spurs"
+     },
+     {
+      "impact": "orta",
+      "text": "Kings 26 Ekim'de evinde Memphis'e 123-112 kaybetti ve back-to-back ile San Antonio'ya geliyor.",
+      "url": "https://www.espn.com/nba/game/_/gameId/401909879/kings-spurs"
+     },
+     {
+      "impact": "düşük",
+      "text": "Spurs'te Jayden Quaintance (diz) yok, Tobias Harris (baldır) gün gün takip ediliyor.",
+      "url": "https://news4sanantonio.com/sports/spurs-usher-in-new-era-on-cwsa-tonight-against-winless-sacramento-kings-wemby-stephon-castle-dylan-harper-players-basketball-nba-frost-bank-center"
+     },
+     {
+      "impact": "orta",
+      "text": "Spurs, Dallas'ı 122-106 yenerek sezonun ilk galibiyetini aldı; Wembanyama 23 sayı attı.",
+      "url": "https://www.nba.com/game/0022600130"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -17.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 50,
+      "market": "Spurs -17.5",
+      "prob": 0.51,
+      "reason": "Kings back-to-back'te ve üç uzunu eksik; Wembanyama'ya karşı ribaund ve boyalı alan savunması çok zayıf kalacak. Net favorilerin handikapları bu sezon iyi gitti.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": 230.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "230.5 Üst",
+      "prob": 0.51,
+      "reason": "Kings rakiplerine bu sezon 121, 128 ve 123 sayı yedi; yorgun ve kısa rotasyonlu bir savunmaya karşı Spurs'ün tek başına 125+ üretmesi olası. Alt seçimleri bu sezon tutmadığından üst tercih edildi.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 45,
+      "market": "Spurs İlk Yarı -9.5",
+      "prob": 0.49,
+      "reason": "Back-to-back takımlar çoğu zaman maçın akışında geriye düşer; ancak Spurs Dallas maçında da farkı ancak son çeyrekte açtığı için ilk yarı riskli.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 46,
+      "market": "Spurs Takım Toplamı 124.5 Üst",
+      "prob": 0.5,
+      "reason": "Kings'in bu sezon yediği sayı ortalaması 124; uzunları eksik bir rakibe karşı Spurs'ün hücum verimi artmalı.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Çok geniş handikap: Spurs farkı açıp son çeyrekte rotasyonu dinlendirirse fark daralabilir.",
+     "Wembanyama'nın isabet sıkıntısı sürerse Spurs hücumu beklenenin altında kalabilir.",
+     "Model konsensüsü alt yönünde; tempo düşük kalırsa üst seçimi kaybeder."
+    ],
+    "sources": [
+     {
+      "title": "Dimers - Kings vs. Spurs Prediction",
+      "url": "https://www.dimers.com/nba/predictions/2026_8_sas_sac"
+     },
+     {
+      "title": "SI - Kings vs. Spurs Prediction and Odds",
+      "url": "https://www.si.com/betting/kings-vs-spurs-prediction-odds-and-best-nba-prop-bets-for-tuesday-oct-27-2026"
+     },
+     {
+      "title": "TheSpread - Kings vs Spurs Picks",
+      "url": "https://www.thespread.com/nba-articles/kings-vs-spurs-prediction-october-27-2026/"
+     },
+     {
+      "title": "DraftKings Network - Spurs vs. Kings prediction",
+      "url": "https://dknetwork.draftkings.com/2026/10/27/san-antonio-spurs-vs-sacramento-kings-prediction-pick-for-tuesday-10-27-26/"
+     },
+     {
+      "title": "SI Kings OnSI - Kings Injury Report",
+      "url": "https://www.si.com/nba/kings/onsi/kings-injury-report-4-players-ruled-out-vs-spurs"
+     },
+     {
+      "title": "ESPN - Kings vs. Spurs",
+      "url": "https://www.espn.com/nba/game/_/gameId/401909879/kings-spurs"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Kings 0-3 ile Batı'nın dibinde ve bir gece önce evinde Memphis'e 123-112 kaybettikten sonra San Antonio'ya back-to-back ile geliyor. Keegan Murray (ayak bileği), Dylan Cardwell (baldır) ve Maxime Raynaud (diz) yok; Ben Simmons sezonu kapattı. Spurs 1-2'lik başlangıcın ardından Dallas'ı 122-106 yenerek ilk galibiyetini aldı; Jayden Quaintance yok, Tobias Harris gün gün takip ediliyor. Piyasa Spurs'ü -17.5/-18.5 favori, toplamı 229.5-232.5 aralığında görüyor.",
+    "verdict": "Back-to-back oynayan ve ön alanı sakatlıklarla boşalmış Kings karşısında Spurs'ün evinde rahat ve farklı bir galibiyet alması bekleniyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-slask-wroclaw-tofas": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Tofaş %73, 89-82",
+      "site": "Basketora",
+      "url": "https://basketora.app/eurocup/slask-wroclaw-vs-tofas"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Tofaş %82",
+      "site": "Coinbase tahmin piyasası",
+      "url": "https://www.coinbase.com/en-au/predictions/event/KXEUROCUPGAME-26OCT281330TOFWRO"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Tofaş 1.21 / Slask 5.50",
+      "site": "BMbets oran karşılaştırma",
+      "url": "https://www.bmbets.com/basketball/europe/eurocup-men"
+     }
+    ],
+    "consensus": "Kaynaklar Tofaş galibiyetinde hemfikir; beklenen fark 6-8 sayı aralığında.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Tofaş 3-1, maç başına 90.5 sayı atıyor (+5.3 net)."
+     },
+     {
+      "side": "home",
+      "text": "Slask 1-3, 318 sayı atıp 361 yedi (-43); Chemnitz deplasmanında 28 farkla kaybetti."
+     },
+     {
+      "side": "home",
+      "text": "Slask hafta sonu Polonya liginde Astoria Bydgoszcz'u 100-77 yenerek moral buldu."
+     },
+     {
+      "side": "away",
+      "text": "Tofaş ligde 25 Ekim'de Petkimspor'a evinde kaybetti; kısa hazırlık süresi var."
+     },
+     {
+      "side": "neutral",
+      "text": "Piyasa Tofaş'ı ~1.21 ile fiyatlıyor; tahmin piyasası Coinbase'de %82 Tofaş."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Tofaş yardımcı antrenörü Jovan Gorec: 'Ligde evimizde zor bir yenilgi aldık, EuroCup'ta galibiyet serisine dönmek istiyoruz.' Raporda Tofaş için sakatlık bildirilmedi.",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-and-injury-report-round-5/"
+     },
+     {
+      "impact": "orta",
+      "text": "Bryce Jones, Napoli'ye uzatmada 105-101 kaybedilen maçta 32 sayı attı.",
+      "url": "https://teamkeys.net/en/articles/napoli-vs-tofas-eurocup-2026-10-21"
+     },
+     {
+      "impact": "düşük",
+      "text": "Slask kulübü maçın istisnai olarak 18:30'da (yerel) oynanacağını duyurdu.",
+      "url": "https://www.wroclawguide.com/en/events/wks-slask-wroclaw-vs-tofas-bursa-bkt-eurocup/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -6.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 55,
+      "market": "Tofaş -6.5 Handikap",
+      "prob": 0.55,
+      "reason": "Slask EuroCup'ta ortalama -10.8 farkla oynuyor, Tofaş +5.3; Basketora projeksiyonu 89-82 (Tofaş +7).",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 166.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 54,
+      "market": "Toplam Sayı 166.5 Üst",
+      "prob": 0.54,
+      "reason": "Slask maçlarında ortalama toplam ~170, Tofaş maçlarında ~176 (uzatma dahil); Basketora projeksiyonu 171.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 48,
+      "market": "Tofaş İlk Yarı -3.5",
+      "prob": 0.48,
+      "reason": "Ligde aldığı yenilgi sonrası Tofaş'ın erken tempo kurması beklenir; ancak deplasmanda ilk yarı farkı belirsiz.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Slask evinde fizik oyunla tempoyu düşürürse toplam çizginin altında kalabilir.",
+     "Tofaş ligde yenilginin ardından yorgun/dalgalı görünebilir; deplasmanda fark tek haneye inebilir.",
+     "Handikap ve toplam çizgileri net olarak teyit edilemedi; gerçek çizgi farklı olabilir."
+    ],
+    "sources": [
+     {
+      "title": "EuroCup Round 5 pregame quotes & injury report",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-and-injury-report-round-5/"
+     },
+     {
+      "title": "Basketora Slask Wroclaw vs Tofas",
+      "url": "https://basketora.app/eurocup/slask-wroclaw-vs-tofas"
+     },
+     {
+      "title": "TeamKeys EuroCup standings",
+      "url": "https://teamkeys.net/en/leagues/eurocup/"
+     },
+     {
+      "title": "TeamKeys Napoli-Tofas analizi",
+      "url": "https://teamkeys.net/en/articles/napoli-vs-tofas-eurocup-2026-10-21"
+     },
+     {
+      "title": "WroclawGuide maç duyurusu",
+      "url": "https://www.wroclawguide.com/en/events/wks-slask-wroclaw-vs-tofas-bursa-bkt-eurocup/"
+     },
+     {
+      "title": "3StepsBasket EuroCup stats",
+      "url": "https://3stepsbasket.com/eurocup/charts"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Tofaş Group C'de 3-1; tek yenilgisi Napoli'ye uzatmada 105-101. Slask Wroclaw 1-3 ve maç başına 90.3 sayı yiyor, son EuroCup maçında Chemnitz'e 95-67 kaybetti. Tofaş hafta sonu ligde evinde Petkimspor'a yenildi, bu yüzden tepki maçı. Piyasa Tofaş'ı ~1.21 (yaklaşık %80) fiyatlıyor; maç saati 18:30 CET = 20:30 TSİ.",
+    "verdict": "Tofaş deplasmanda favori; Slask'ın zayıf savunması nedeniyle Tofaş handikabı ve yüksek skorlu bir maç bekleniyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-tenerife-venezia": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Tenerife %73, 87-80",
+      "site": "Basketora",
+      "url": "https://basketora.app/eurocup"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Tenerife 1/4 favori",
+      "site": "Oddschecker",
+      "url": "https://www.oddschecker.com/basketball/eurocup"
+     }
+    ],
+    "consensus": "Kaynaklar Tenerife galibiyetinde birleşiyor, beklenen fark 7 sayı civarında.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Tenerife 3-1, 359 atıp 329 yedi (+30); Group B lideri."
+     },
+     {
+      "side": "away",
+      "text": "Venezia 2-2 (350-325), son iki resmi maçını kaybetti."
+     },
+     {
+      "side": "away",
+      "text": "Wiltjer yok; Treviso maçında ribauntta 51-43 geride kaldılar."
+     },
+     {
+      "side": "home",
+      "text": "Giorgi Shermadini 14.8 PIR ile maçın en verimli oyuncusu olarak gösteriliyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Piyasa Tenerife'yi ~1.25 (Oddschecker 1/4), Venezia'yı ~4.10 fiyatlıyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Venezia, Kyle Wiltjer'in ayak bileği sakatlığı sürdüğü için Treviso derbisinde onsuz oynadı ve uzatmada kaybetti; Tenerife maçında da forma giymesi beklenmiyor.",
+      "url": "https://sportando.basketball/lbatv-disservizio-maxima-roma-udine-primo-quarto/"
+     },
+     {
+      "impact": "orta",
+      "text": "Tenerife, Frankfurt'u 104-94 yendi; üçüncü periyodu 43-23 kazandı.",
+      "url": "https://teamkeys.net/en/leagues/eurocup/"
+     },
+     {
+      "impact": "orta",
+      "text": "Venezia 4. haftada Maxima Roma'ya 90-79 kaybetti.",
+      "url": "https://basketora.app/eurocup"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -6.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 55,
+      "market": "Tenerife -6.5 Handikap",
+      "prob": 0.55,
+      "reason": "Wiltjer'in yokluğunda Venezia'nın uzun rotasyonu zayıf, Shermadini'li Tenerife pota altında üstün; Basketora farkı 7 öngörüyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 166.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 53,
+      "market": "Toplam Sayı 166.5 Üst",
+      "prob": 0.53,
+      "reason": "Tenerife maçlarında ortalama toplam ~172, Venezia maçlarında ~169; Basketora projeksiyonu 167.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 50,
+      "market": "Tenerife Takım Toplamı 86.5 Üst",
+      "prob": 0.5,
+      "reason": "Tenerife evinde 89.8 ortalamayla oynuyor ve son maçında 104 sayı attı; Venezia ribaunt kaybı ikinci şans üretir.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Venezia savunmada güçlü (maç başına 81.3 yiyor); maç düşük tempoda kalırsa Üst tutmayabilir.",
+     "Tenerife'nin tek yenilgisi de bu grupta geldi; fark tek haneye inebilir.",
+     "Çizgiler teyit edilemedi; Tenerife -7.5 açılmışsa değer azalır."
+    ],
+    "sources": [
+     {
+      "title": "Sportando: Wiltjer'in yokluğu",
+      "url": "https://sportando.basketball/lbatv-disservizio-maxima-roma-udine-primo-quarto/"
+     },
+     {
+      "title": "EuroCup Game Center Tenerife-Venezia",
+      "url": "https://www.euroleaguebasketball.net/en/eurocup/game-center/2026-27/la-laguna-tenerife-umana-reyer-venice/U2026/69"
+     },
+     {
+      "title": "TeamKeys EuroCup standings",
+      "url": "https://teamkeys.net/en/leagues/eurocup/"
+     },
+     {
+      "title": "Basketora EuroCup predictions",
+      "url": "https://basketora.app/eurocup"
+     },
+     {
+      "title": "Oddschecker EuroCup odds",
+      "url": "https://www.oddschecker.com/basketball/eurocup"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Tenerife Group B'de 3-1 lider, maç başına 89.8 sayı atıyor ve Frankfurt deplasmanını 104-94 kazandı (Kyle Guy 26 sayı). Venezia 2-2, Kyle Wiltjer ayak bileği sakatlığı nedeniyle yok ve hafta sonu Treviso'ya uzatmada kaybederken ribauntta 51-43 geride kaldı. Piyasa Tenerife'yi ~1.25 fiyatlıyor; Basketora 87-80 öngörüyor.",
+    "verdict": "Tenerife evinde favori; Wiltjer'siz Venezia'nın pota altı sorunu Tenerife handikabını destekliyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "basketbol-2026-10-28-virtus-bologna-zalgiris": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Virtus -1.5 / ML -128 (%52.4), toplam 170.5-171",
+      "site": "RotoWire (piyasa)",
+      "url": "https://www.rotowire.com/betting/euro/game/virtus-bologna-vs-zalgiris-kaunas-odds-2026-10-28-18524"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Zalgiris 11/13, Virtus 11/10 – hafif Zalgiris",
+      "site": "Oddschecker (piyasa)",
+      "url": "https://www.oddschecker.com/basketball/euroleague"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Zalgiris %60",
+      "site": "Coinbase tahmin piyasası",
+      "url": "https://www.coinbase.com/en-au/predictions/event/KXEUROLEAGUEGAME-26OCT281530ZALVIB"
+     }
+    ],
+    "consensus": "Piyasa kararsız: bazı bahis siteleri Virtus'u, bazıları Zalgiris'i hafif favori görüyor. Bu belirsizlik, kadrosu tam ev sahibine değer katıyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Virtus 4-3 ile 10. sırada; 7. haftadaki 81-90'lık Hapoel yenilgisinden önce 4 maçlık galibiyet serisi vardı."
+     },
+     {
+      "side": "away",
+      "text": "Zalgiris 3-4 ile 12. sırada, deplasmanda 2-2; son maçta ASVEL'i 105-85 yendi ve 11 top çaldı."
+     },
+     {
+      "side": "away",
+      "text": "Williams-Goss'un yokluğu Zalgiris'in oyun kuruculuğunu Saben Lee ve yeni dönen Evans'a bırakıyor."
+     },
+     {
+      "side": "home",
+      "text": "Aliou Diarra ligin blok lideri; Virtus Milano maçında ribauntları 51-29 kazandı."
+     },
+     {
+      "side": "neutral",
+      "text": "H2H: Zalgiris geçen ocakta Bologna'da 83-79 kazanarak Virtus'a karşı 8 maçlık yenilgi serisini bitirdi."
+     },
+     {
+      "side": "neutral",
+      "text": "Çift maç haftası: Virtus 30 Ekim'de Beşiktaş'ı, Zalgiris ise Partizan'ı ağırlayacak."
+     }
+    ],
+    "news": [
+     {
+      "impact": "düşük",
+      "text": "Virtus'ta tek eksik Tommaso Baldasso.",
+      "url": "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-8-fantasy/"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Zalgiris'te Nigel Williams-Goss arka adale sakatlığının nüksetmesi nedeniyle yaklaşık 4 hafta yok; takımla birlikte Bologna'ya gidiyor.",
+      "url": "https://sportando.basketball/en/euroleague-injury-report-october-23-outs-and-doubts-for-fridays-three-games/"
+     },
+     {
+      "impact": "orta",
+      "text": "Keenan Evans, London Lions'taki kiralık döneminin ardından kadroya kaydedildi; Masiulis ondan süre almayı umuyor.",
+      "url": "https://ground.news/article/in-the-clash-with-virtus-masiulis-sees-evans-on-the-floor-we-would-like-to-get-some-minutes-from-him"
+     },
+     {
+      "impact": "orta",
+      "text": "Virtus, İtalya liginde Milano deplasmanında -19'dan dönerek uzatmada 98-94 kazandı ve ligde yenilgisiz liderliğini sürdürüyor.",
+      "url": "https://corrieredibologna.corriere.it/notizie/sport/26_ottobre_25/la-virtus-risorge-e-batte-l-olimpia-94-98-il-derby-d-italia-e-suo-e-resta-imbattuta-in-cima-alla-classifica-aa55e613-463a-43f2-8b4b-2562e7320xlk.shtml"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 54,
+      "market": "Virtus Bologna Kazanır (MS 1)",
+      "prob": 0.55,
+      "reason": "Kadrosu tam ev sahibi, rakibin bir numaralı oyun kurucusunun yokluğundan faydalanabilir. Oran yaklaşık 1.78 seviyesinde, dolayısıyla değer var.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 170.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 51,
+      "market": "Toplam Sayı 170.5 Üst (uzatma dahil)",
+      "prob": 0.52,
+      "reason": "Virtus maçlarında ortalama 173.4 sayı çıkıyor (606+608 / 7). Zalgiris son maçında 105 sayı attı, Masiulis de Virtus'un hızlı hücumuna dikkat çekti.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": -4.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 46,
+      "market": "Virtus -4.5 Handikap",
+      "prob": 0.45,
+      "reason": "Ribaunt üstünlüğü ve Diarra'nın blok gücü, maçı ev sahibi lehine açabilir (Milano maçında ribaunt 51-29). Ancak Zalgiris deplasmanda 2-2 olduğu için risk yüksek.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Zalgiris'in top çalma ve geçiş hücumu (ASVEL maçında 11 top çaldı) Virtus'un top kayıplarını cezalandırabilir.",
+     "Virtus'un uzatmalı Milano maçından gelen yorgunluğu ve çift maç haftası rotasyonu.",
+     "Toplam çizgisi tam ortalamada; tek bir yavaş periyot üst seçimini boşa çıkarabilir."
+    ],
+    "sources": [
+     {
+      "title": "EuroLeague – Game Notes: Virtus vs. Zalgiris",
+      "url": "https://www.euroleaguebasketball.net/en/euroleague/news/tae2627-rs8-game-notes-vir-zal/"
+     },
+     {
+      "title": "EuroLeague – Injury report Round 8",
+      "url": "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-8-fantasy/"
+     },
+     {
+      "title": "Basketnews – Williams-Goss update",
+      "url": "https://basketnews.com/news-258171-zalgiris-offer-update-on-nigel-williams-goss-injury-situation.html"
+     },
+     {
+      "title": "RotoWire – Virtus vs Zalgiris odds",
+      "url": "https://www.rotowire.com/betting/euro/game/virtus-bologna-vs-zalgiris-kaunas-odds-2026-10-28-18524"
+     },
+     {
+      "title": "Eurohoops – Zalgiris crushes ASVEL",
+      "url": "https://www.eurohoops.net/en/euroleague/2025039/euroleague-roundup-zalgiris-scores-105-points-and-crushes-asvel/"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Virtus (4-3), 4 maçlık serisi Hapoel deplasmanında (81-90) bitse de hafta sonu Milano'da -19'dan dönüp uzatmada 98-94 kazandı. Baldasso dışında eksiği yok. Zalgiris (3-4) ASVEL'i 105-85 yenerek toparlandı, ancak oyun kurucu Nigel Williams-Goss arka adale sakatlığı nedeniyle yaklaşık 4 hafta yok; Keenan Evans geri döndü. Piyasa maçı başa baş görüyor: Virtus -1.5, toplam 170.5-171 çizgisinde.",
+    "verdict": "Kadrosu tam ve morali yüksek Virtus, Williams-Goss'tan yoksun Zalgiris karşısında evinde hafif tercih."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-bayern-munih-magdeburg": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Bayern 4-1 kazanır",
+      "site": "Bavarian Football Works",
+      "url": "https://www.bavarianfootballworks.com/bayern-munich-dfb-pokal/273913/dfb-pokal-matchday-preview-bayern-munich-vs-fc-magdeburg"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Bayern kazanır, 2.5 Üst",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/bayern-munich-vs-magdeburg-prediction-28-10-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Bayern kazanır (1.03, yüksek güven)",
+      "site": "ToffeeWeb",
+      "url": "https://www.toffeeweb.com/fc-bayern-munchen-vs-magdeburg-predictions-picks-odds-28-10-2026"
+     }
+    ],
+    "consensus": "Tüm kaynaklar Bayern'in rahat tur atlamasını ve gollü maç bekliyor; Magdeburg'un gol bulacağı fikri de 4-1 tahminleriyle örtüşüyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Bayern son 21 Pokal maçında 2. lig rakiplerine karşı 20 kez tur atladı; iç sahada alt lig takımlarına karşı 33 maçta yalnızca 2 kez elendi."
+     },
+     {
+      "side": "home",
+      "text": "Kane Pokal'da üst üste 7 maçta gol attı ve oynaması bekleniyor."
+     },
+     {
+      "side": "away",
+      "text": "Magdeburg Karlsruhe'yi 6-1 yenerek 2. ligdeki en farklı galibiyetini aldı, 9 haftada 5. sırada."
+     },
+     {
+      "side": "home",
+      "text": "Cumartesi Dortmund ile Klasik var; Danks'in eksik kadroyla rotasyon yapması bekleniyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Teknik direktör Kompany'nin yokluğu ve yaşanan zor hafta takımın odak seviyesine etki edebilir."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Kompany Cuma günü antrenmanda yere yığılarak hastaneye kaldırıldı, haftalarca uzak kalması bekleniyor; Magdeburg maçında takımı Aaron Danks yönetecek.",
+      "url": "https://www.straitstimes.com/sport/football/bayerns-kompany-is-improving-but-no-comeback-date-yet-says-assistant-coach-danks"
+     },
+     {
+      "impact": "orta",
+      "text": "Danks, Kane'in Magdeburg maçında oynayabileceğini, Neuer ve Musiala'nın ise henüz hazır olmadığını açıkladı.",
+      "url": "https://bulinews.com/danks-confirms-kane-availability-for-cup-clash-bayern-squad-update-after-ballon-win"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Bayern'de Neuer, Kimmich, Musiala, Diaz ve Pavlovic'in sakat/eksik olduğu bildiriliyor.",
+      "url": "https://www.goal.com/en/news/bayern-munich-magdeburg-dfb-pokal-preview/blt769b61717137876b"
+     },
+     {
+      "impact": "düşük",
+      "text": "Magdeburg'da yalnızca Kwarteng ve Musonda sakatlık nedeniyle kafilede yok.",
+      "url": "https://bulinews.com/news/39279/fc-bayern-magdeburg"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "yes",
+       "type": "BTTS"
+      },
+      "confidence": 50,
+      "market": "KG Var",
+      "prob": 0.5,
+      "reason": "Magdeburg son lig maçında 6, kupa ilk turunda 4 gol attı; Bayern'in savunma omurgasında (Neuer, Kimmich, Pavlovic) eksikler var ve Danks rotasyona gidebilir.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 4.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 44,
+      "market": "4.5 Üst",
+      "prob": 0.44,
+      "reason": "Bayern'in iç sahadaki gol üretimi ve Magdeburg'un açık oyun anlayışı 4-1 tipi skorları olası kılıyor; 2.5/3.5 Üst baremleri oran olarak çok düşük.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": -2.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 48,
+      "market": "Bayern -2.5 Handikap",
+      "prob": 0.48,
+      "reason": "Bayern son 21 Pokal maçında 2. lig takımlarına karşı 20 kez kazandı; Kane'in oynayacak olması ve Magdeburg'un geriye açık yapısı 3+ farkı gerçekçi kılıyor (tek geniş fark seçimi).",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 42,
+      "market": "Bayern kazanır & KG Var",
+      "prob": 0.42,
+      "reason": "En olası senaryo Bayern'in rahat kazanıp Magdeburg'un en az bir gol bulması; oran KG Var tek başına seçimine göre daha yüksek.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Bayern erken farkı açıp tempo düşürürse 4.5 Üst ve -2.5 handikap tutmayabilir.",
+     "Bayern'in rotasyonlu kadrosu bile Magdeburg'a gol izni vermeyebilir; KG Var tek taraflı skorla bozulabilir.",
+     "Kompany'nin yokluğu ve ağır sakat listesi beklenmedik bir performans düşüşüne yol açabilir."
+    ],
+    "sources": [
+     {
+      "title": "Bulinews - Bayern vs Magdeburg preview",
+      "url": "https://bulinews.com/news/39279/fc-bayern-magdeburg"
+     },
+     {
+      "title": "FC Bayern - Zahlen & Fakten Magdeburg",
+      "url": "https://fcbayern.com/de/news/2026/10/fc-bayern-vs-1-fc-magdeburg-die-faktenlage-zum-dfb-pokal-spiel"
+     },
+     {
+      "title": "Goal.com - Bayern vs Magdeburg preview",
+      "url": "https://www.goal.com/en/news/bayern-munich-magdeburg-dfb-pokal-preview/blt769b61717137876b"
+     },
+     {
+      "title": "Flashscore - Kompany update",
+      "url": "https://www.flashscore.com/news/bayern-boss-kompany-improving-but-no-comeback-date-yet-says-assistant-coach/Mq0kVsYq/"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Bayern ligde lider ama teknik direktör Kompany antrenmanda yere yığılması sonrası hastanede; takımı yardımcı antrenör Aaron Danks yönetiyor. Neuer, Kimmich, Musiala, Diaz ve Pavlovic gibi önemli eksikler var, Ballon d'Or'u kazanan Kane ise oynayabilecek durumda. Magdeburg 2. Bundesliga'da 5. sırada ve son maçında Karlsruhe'yi 6-1 yendi. Ana favori marketleri çok düşük oranlı olduğundan KG Var, yüksek gol baremi ve geniş handikap değerli görünüyor.",
+    "verdict": "Bayern turu büyük olasılıkla geçer; ancak eksikler ve hafta sonu Klasik öncesi rotasyon nedeniyle formdaki Magdeburg'un gol bulacağı açık bir maç bekleniyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-bournemouth-aston-villa": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Aston Villa Asya handikap +0.25",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-aston-villa-prediction-lineups-odds-2026-10-28/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "KG Var",
+      "site": "SportyTrader",
+      "url": "https://www.sportytrader.com/en/betting-tips/football/england/efl-cup-391/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Bournemouth +116, beraberlik +252, Villa +208; 2.5 Üst -141",
+      "site": "FOX Sports (oran)",
+      "url": "https://www.foxsports.com/soccer/efl-cup-bournemouth-vs-aston-villa-oct-28-2026-game-boxscore-1028911"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Vitality'de maçın penaltılara gitmesi",
+      "site": "Betfair",
+      "url": "https://betting.betfair.com/football/efl-cup/carabao-cup-fourth-round-betting-tips-match-previews-predictions-best-bets-latest-odds-251026-1063.html"
+     }
+    ],
+    "consensus": "Oranlar Bournemouth'u hafif öne koysa da analiz siteleri Villa'nın kaybetmeyeceği ve iki takımın da gol bulacağı bir maç bekliyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Villa son maçında Manchester City'yi 2-1 yendi ve Şampiyonlar Ligi'nde 3'te 3 yaptı; lig formu son 6'da 3 galibiyet."
+     },
+     {
+      "side": "home",
+      "text": "Bournemouth'un son 6 lig maçı: 2 beraberlik, 2 yenilgi, 2 galibiyet; önceki turda Lincoln'ü 4-0 yendi."
+     },
+     {
+      "side": "neutral",
+      "text": "Son karşılaşma Şubat 2026'da Bournemouth'ta 1-1 bitti."
+     },
+     {
+      "side": "away",
+      "text": "Villa'nın Avrupa ve lig yükü yüksek; Emery kupada rotasyon yapsa da kadro derinliği ilk 11 kalitesini koruyor."
+     },
+     {
+      "side": "home",
+      "text": "Piyasa ev sahibine yaklaşık %43, Villa'ya %30 kazanma ihtimali veriyor; ev avantajı belirgin fiyatlanmış."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Marco Rose, ayak sakatlığından dönen Eli Junior Kroupi'nin Villa maçında forma giymeyeceğini açıkladı.",
+      "url": "https://www.bbc.co.uk/sport/football/teams/afc-bournemouth"
+     },
+     {
+      "impact": "orta",
+      "text": "Aston Villa, Şampiyonlar Ligi'nde Viking'i yenerek 100% başlangıcını sürdürdü ve üst üste üçüncü galibiyetini aldı.",
+      "url": "https://www.espn.co.uk/football/club/_/id/362/aston-villa"
+     },
+     {
+      "impact": "düşük",
+      "text": "Villa'da Ruggeri ve Wan-Bissaka'nın durumu Bournemouth maçı öncesi takip ediliyor; Manzambi tarafında olumlu gelişme var.",
+      "url": "https://www.sportsmole.co.uk/football/aston-villa/league-cup/preview/bournemouth-vs-aston-villa-prediction-team-news-lineups_607724.html"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "X2",
+       "type": "DC"
+      },
+      "confidence": 55,
+      "market": "Çifte Şans X2",
+      "prob": 0.55,
+      "reason": "Villa son haftalarda City'yi yendi ve Avrupa'da kayıpsız; Bournemouth'un son 6 lig maçında 2 galibiyeti var, ev sahibi avantajı Villa'nın kalitesini dengelemeye yetmeyebilir.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 52,
+      "market": "2.5 Üst",
+      "prob": 0.52,
+      "reason": "İki takım da yüksek tempolu ve önde baskı yapan bir oyun oynuyor, rotasyonla savunma uyumu bozulabilir; piyasa da üstü önde görüyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "2",
+       "type": "DNB"
+      },
+      "confidence": 42,
+      "market": "Aston Villa Beraberlikte İade",
+      "prob": 0.42,
+      "reason": "Villa'nın formu ve Emery'nin kupa ciddiyeti deplasman galibiyetini gerçekçi kılıyor; beraberlikte iade riskini azaltıyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "sel": "yes",
+       "type": "BTTS"
+      },
+      "confidence": 54,
+      "market": "KG Var",
+      "prob": 0.54,
+      "reason": "Şubattaki son lig karşılaşması 1-1 bitti; SportyTrader da KG Var öneriyor ve iki takımın da hücum kalitesi yüksek.",
+      "risk": "orta"
+     }
+    ],
+    "risks": [
+     "Emery'nin beklenenden geniş rotasyon yapması Villa'nın gücünü düşürebilir.",
+     "Bournemouth'un yoğun pres oyunu evinde Villa'nın yorgun kadrosunu zorlayabilir.",
+     "Kupa maçında temkinli bir ilk yarı ve 1-1 benzeri skor 2.5 Üst'ü kaybettirebilir."
+    ],
+    "sources": [
+     {
+      "title": "Aston Villa Review - takım haberleri ve önizleme",
+      "url": "https://www.astonvillareview.com/p/aston-villa-team-news-predicted-lineup-bournemouth-carabao-cup"
+     },
+     {
+      "title": "Sports Mole - Bournemouth vs Aston Villa önizleme",
+      "url": "https://www.sportsmole.co.uk/football/aston-villa/league-cup/preview/bournemouth-vs-aston-villa-prediction-team-news-lineups_607724.html"
+     },
+     {
+      "title": "Sportsgambler tahmin",
+      "url": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-aston-villa-prediction-lineups-odds-2026-10-28/"
+     },
+     {
+      "title": "BBC Sport - Bournemouth",
+      "url": "https://www.bbc.co.uk/sport/football/teams/afc-bournemouth"
+     },
+     {
+      "title": "FOX Sports oranlar",
+      "url": "https://www.foxsports.com/soccer/efl-cup-bournemouth-vs-aston-villa-oct-27-2026-game-boxscore-1028911?tab=odds"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Aston Villa, Şampiyonlar Ligi'nde 3'te 3 yapıp hafta sonu Manchester City'yi 2-1 yenerek maça yüksek moralle geliyor; Emery kupada da ciddi bir kadro bekliyor ama Ruggeri ve Wan-Bissaka durumu takipte. Marco Rose'un Bournemouth'u ligde son maçlarda dalgalı (son 6: 2B 2M 2G) ve Kroupi bu maçta da yok. Piyasa ev sahibini hafif favori yapsa da (yaklaşık 2.16), Villa'nın formu ve kalitesi Sportsgambler gibi sitelerin Villa +0.25 tercihini destekliyor. Gol çizgisinde 2.5 üst piyasada favori (yaklaşık 1.71).",
+    "verdict": "Formda Aston Villa, Bournemouth deplasmanında rotasyonla bile 90 dakikada kaybetmemeye daha yakın; gollü bir maç beklenir."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-freiburg-wolfsburg": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Freiburg kazanır, 2.5 Üst",
+      "site": "The Football Faithful",
+      "url": "https://thefootballfaithful.com/sc-freiburg-vs-vfl-wolfsburg-prediction-betting-tips-28-10-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Freiburg %61, beraberlik %20, Wolfsburg %19",
+      "site": "ScoutingStats",
+      "url": "https://scoutingstats.ai/clubs/510/vfl-wolfsburg/overview"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Freiburg favori (maç önü analiz)",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-wolfsburg-prediction-lineups-odds-2026-10-28"
+     }
+    ],
+    "consensus": "Siteler Freiburg'u net favori ve gollü maç bekliyor; bizim ayrıldığımız nokta Freiburg'un formsuzluğu nedeniyle farkın açılmayacağı ve Wolfsburg'un gol bulacağı yönünde.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Freiburg ligde 7 maçta 13 puan ve 16:9 averajla üst sıralarda; kadro kalitesi daha yüksek ve iç saha avantajı var."
+     },
+     {
+      "side": "home",
+      "text": "Freiburg son 3 maçını kaybetti ve Avrupa kupası yükü taşıyor; rotasyon ve yorgunluk riski mevcut."
+     },
+     {
+      "side": "away",
+      "text": "Wolfsburg 9 lig maçında 23 gol attı (maç başı ~2.6), hücum hattı alt lig için çok güçlü."
+     },
+     {
+      "side": "away",
+      "text": "Wolfsburg uzun süredir deplasmanda galibiyet alamıyordu; dış saha istikrarı zayıf."
+     },
+     {
+      "side": "neutral",
+      "text": "Son lig karşılaşması Mayıs 2026'da 1-1 bitti; market 90 dakika olduğundan uzatma senaryosu beraberlik sayılır."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Freiburg ligde Leverkusen'e 2-1, Avrupa'da Monaco'ya 3-0 ve son olarak Bayern'e 3-1 kaybederek üst üste üç yenilgi aldı.",
+      "url": "https://onefootball.com/en/news/confirmed-lineups-sc-freiburg-vs-bayern-munich-43670360"
+     },
+     {
+      "impact": "orta",
+      "text": "Wolfsburg 2. Bundesliga'da 9 maçta 4G-4B-1M, 23:14 averaj ve 16 puanla 4. sırada; son maçında Bochum'da 1-1 berabere kaldı.",
+      "url": "https://www.bundesliga.com/de/2bundesliga/tabelle"
+     },
+     {
+      "impact": "düşük",
+      "text": "Goal.com maç sayfasında iki takım için de sakat/cezalı oyuncu listelenmiyor.",
+      "url": "https://www.goal.com/en-ca/match/freiburg-vs-wolfsburg/51m9w53jsWtIqVKaN2eM4"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "yes",
+       "type": "BTTS"
+      },
+      "confidence": 56,
+      "market": "KG Var",
+      "prob": 0.56,
+      "reason": "Wolfsburg ligde maç başı 2.5'in üzerinde gol atıyor, Freiburg ise son 3 maçta 8 gol yedi; Goal.com verisine göre iki takımın son 5 maçının 4'ünde KG Var çıktı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 1.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 58,
+      "market": "Wolfsburg +1.5 Handikap",
+      "prob": 0.6,
+      "reason": "Freiburg formsuz ve yorgun; 2. lig lideri adayı Wolfsburg'un 2+ farkla kaybetmemesi daha olası görünüyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 3.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 40,
+      "market": "3.5 Üst",
+      "prob": 0.4,
+      "reason": "Wolfsburg'un 23:14 gol averajı ve Freiburg'un son haftalardaki savunma düşüşü yüksek skor ihtimalini artırıyor; 2.5 Üst oranı çok düşük olduğu için bir üst barem tercih edildi.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 35,
+      "market": "90 dk Beraberlik",
+      "prob": 0.24,
+      "reason": "Kupa maçında 90 dakika sonucu oynanıyor; Freiburg'un düşüşü ve Wolfsburg'un formu uzatmaya gidiş ihtimalini oranın ima ettiğinden yüksek kılıyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Freiburg kötü seriyi kupada kırıp erken gol bulursa maç rahat bir iç saha galibiyetine dönebilir.",
+     "Wolfsburg'un deplasman istikrarsızlığı hücum gücünü sahaya yansıtamamasına yol açabilir.",
+     "Freiburg'un rotasyonlu kadrosuna dair kesin bilgi yok."
+    ],
+    "sources": [
+     {
+      "title": "DFB - 2. tur zaman çizelgesi",
+      "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
+     },
+     {
+      "title": "SC Freiburg - DFB-Pokal second-round tie scheduled",
+      "url": "https://www.scfreiburg.com/en/latest/first-team/news/2026-27/dfb-pokal-second-round-tie-scheduled"
+     },
+     {
+      "title": "OneFootball - Leverkusen and Freiburg host Nürnberg and Wolfsburg",
+      "url": "https://onefootball.com/en/news/dfb-pokal-leverkusen-and-freiburg-host-nuernberg-and-wolfsburg-on-wednesday-43681380"
+     },
+     {
+      "title": "Bundesliga.com - 2. Bundesliga Tabelle",
+      "url": "https://www.bundesliga.com/de/2bundesliga/tabelle"
+     },
+     {
+      "title": "Bundesliga.com - Bundesliga Table",
+      "url": "https://www.bundesliga.com/en/bundesliga/table"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Freiburg Bundesliga'da 7 maçta 13 puanla üst sıralarda olsa da son üç maçını (Leverkusen 1-2, Monaco 0-3, Bayern 1-3) kaybederek geliyor ve Avrupa yükü taşıyor. Küme düşen Wolfsburg 2. Bundesliga'da 9 maçta 23 gol atıp 4. sırada; deplasmanda gol bulmakta zorlanmayan bir hücuma sahip. Piyasa Freiburg'u 1.40 civarında net favori görüyor, ancak market 90 dakika olduğundan beraberlik ve dar skor senaryoları değerli. Bu yüzden KG Var ve Wolfsburg handikaplı seçenekler öne çıkıyor.",
+    "verdict": "Freiburg tur için favori, ancak üst üste 3 yenilgi ve Wolfsburg'un golcü hücumu nedeniyle iki tarafın da gol bulduğu, 90 dakikada farkın açılmadığı bir maç bekleniyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-fulham-crystal-palace": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Fulham galibiyeti olasılığı %46",
+      "site": "SportyTrader",
+      "url": "https://www.sportytrader.com/en/betting-tips/football/england/efl-cup-391/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Fulham -119, Palace +277",
+      "site": "FOX Sports (oran)",
+      "url": "https://www.foxsports.com/soccer/efl-cup-fulham-vs-crystal-palace-oct-28-2026-game-boxscore-1028915"
+     }
+    ],
+    "consensus": "Piyasa ve tahmin siteleri Fulham'ı hafif favori görüyor; Palace'ın ikili rekabet üstünlüğü ise sürpriz ihtimalini canlı tutuyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Palace ligde 8 maçta 7 puan ve -10 averajla 17. sırada; savunma sorunları belirgin."
+     },
+     {
+      "side": "away",
+      "text": "Palace perşembe Beşiktaş (Avrupa Ligi) ve pazar Newcastle maçlarından geliyor; yoğun takvim rotasyonu kaçınılmaz kılıyor."
+     },
+     {
+      "side": "home",
+      "text": "Fulham son 5 maçında 7 gol atıp 5 yedi ve bu maçların yalnızca 2'si 2.5 üstü bitti; Hull'u 1-0 yendi."
+     },
+     {
+      "side": "away",
+      "text": "İkili rekabette son 5 maçta Palace 4 galibiyet, 1 beraberlik aldı; eylüldeki lig maçını Craven Cottage'da 3-2 kazandı."
+     },
+     {
+      "side": "home",
+      "text": "Fulham hafta sonu Aston Villa ile oynayacak; Arbeloa da kupada değişiklik yapabilir ama kadro derinliği sorun değil."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Crystal Palace forveti Jørgen Strand Larsen, Beşiktaş ile oynanan Avrupa Ligi maçını sakatlık nedeniyle tamamlayamadı.",
+      "url": "https://www.foxsports.com/soccer/efl-cup-fulham-vs-crystal-palace-oct-28-2026-game-boxscore-1028915"
+     },
+     {
+      "impact": "düşük",
+      "text": "Arbeloa, Coventry maçı öncesi Sessegnon (ceza) dışında herkesin hazır olduğunu açıkladı.",
+      "url": "https://www.bbc.com/sport/football/articles/c820vg4rr3ygo"
+     },
+     {
+      "impact": "düşük",
+      "text": "Arbeloa, Smith Rowe ve Kevin'in son iki maç kadrosu dışında kaldığını, sabırlı olmaları gerektiğini söyledi; kupada şans bulmaları olası.",
+      "url": "https://everythingfulhamfc.com/?a=211"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 46,
+      "market": "Fulham Kazanır (90 dk)",
+      "prob": 0.46,
+      "reason": "Palace'ın üç günde bir oynayan yorgun kadrosu ve Strand Larsen sorunu karşısında, ev sahibi ve tam kadroya yakın Fulham bir adım önde.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "2.5 Alt",
+      "prob": 0.5,
+      "reason": "Fulham'ın son 5 maçının yalnızca 2'si 2.5 üstü bitti ve son galibiyeti 1-0; rotasyonlu kupa maçında kontrollü oyun beklenir.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 28,
+      "market": "Beraberlik (90 dk)",
+      "prob": 0.28,
+      "reason": "Alt sıralarda iki temkinli takım ve kupa formatı 90 dakikada eşitliği gerçekçi kılıyor; piyasada 3.50 civarı.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Palace'ın ikili rekabette son 5 maçta 4 galibiyeti var; rotasyona rağmen bireysel kalite fark yaratabilir.",
+     "Palace'ın son 20 maçının 16'sı 2.5 üstü bitti; alt tercihi bu eğilime ters.",
+     "Fulham'ın da hafta sonu Villa maçı nedeniyle beklenenden geniş rotasyon yapması dengeyi değiştirebilir."
+    ],
+    "sources": [
+     {
+      "title": "Goal.com - Fulham v Crystal Palace önizleme",
+      "url": "https://www.goal.com/en/match/fulham-vs-crystal-palace/jDGr2pu43yTQAScixIjkY"
+     },
+     {
+      "title": "FootballCritic - Fulham vs Crystal Palace istatistik",
+      "url": "https://www.footballcritic.com/football-league-cup-fulham-fc-crystal-palace-fc/preview/4528162"
+     },
+     {
+      "title": "Crystal Palace resmi site",
+      "url": "https://www.cpfc.co.uk/"
+     },
+     {
+      "title": "Coventry Live - Arbeloa açıklaması",
+      "url": "https://www.coventrytelegraph.net/sport/football/football-news/coventry-city-fulham-alvaro-arbeloa-34806708"
+     },
+     {
+      "title": "ESPN oranlar",
+      "url": "https://www.espn.com/soccer/odds/_/gameId/401921841"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Fulham, Arbeloa yönetiminde son haftalarda Hull'u 1-0 yenerek ligdeki ilk galibiyetini aldı ve ardından Coventry deplasmanına çıktı; kadroda Sessegnon dışında eksik bildirilmedi. Crystal Palace ligde 8 maçta 7 puan ve -10 averajla 17. sırada; perşembe Beşiktaş'la Avrupa Ligi, pazar Newcastle maçı oynadı ve Strand Larsen Beşiktaş maçında sakatlanarak oyundan çıktı. Palace son 5 karşılaşmanın 4'ünü kazanarak ikili rekabette üstün, eylülde Craven Cottage'da 3-2 kazandı. Piyasa Fulham'ı yaklaşık 1.85-2.10 bandında favori görüyor.",
+    "verdict": "Avrupa yorgunluğu taşıyan ve ligde zorlanan Crystal Palace karşısında Fulham 90 dakikada hafif favori, ancak düşük skorlu ve dengeli bir maç beklenir."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-genoa-juventus": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Deplasman galibiyeti, 2.5 Alt, KG Yok",
+      "site": "xGscore",
+      "url": "https://xgscore.io/serie-a/genoa-juventus/preview"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Genoa 0-2 Juventus; ilk yarı beraberlik önerisi",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/genoa-vs-juventus-prediction-28-10-2026/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Deplasman kazanır ve KG Yok",
+      "site": "FootballTipsPredictions",
+      "url": "https://www.footballtipspredictions.com/genoa-vs-juventus-football-prediction-2026-10-28"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Genoa 1-2 Juventus",
+      "site": "Sports Mole",
+      "url": "https://www.sportsmole.co.uk/football/genoa/preview/genoa-vs-juventus-prediction-team-news-lineups_607716.html"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Juventus kazanır",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/genoa-vs-juventus-prediction-lineups-odds-2026-10-28/"
+     }
+    ],
+    "consensus": "Siteler oybirliğiyle Juventus galibiyeti bekliyor; çoğunluk az gollü ve Genoa'nın gol atamadığı bir skor öngörüyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Juventus dış sahada maç başı 1.5 gol attı, 1.0 gol yedi; %50 clean sheet, %0 golsüz, 2.5 üst oranı %25."
+     },
+     {
+      "side": "home",
+      "text": "Genoa iç sahada maç başı 1.0 gol attı, 1.6 gol yedi; 2.5 üst oranı %40, KG Var oranı %60."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 5 H2H: 2-0, 0-1, 1-0, 0-3, 0-0; Genoa hiçbirinde gol atamadı, hepsi 2.5 alt."
+     },
+     {
+      "side": "away",
+      "text": "Juventus'ta Yildiz, Conceição, Locatelli ve Thuram eksik; hücum ve orta saha yaratıcılığı ciddi zayıflıyor."
+     },
+     {
+      "side": "home",
+      "text": "Genoa son iki iç saha maçını kazandı ve De Rossi yönetiminde kendi sahasında direnç gösteriyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Juventus'ta Kenan Yildiz (ayak kırığı), Francisco Conceição (omuz) ve Jeff Ekhator (arka adale) sakat.",
+      "url": "https://onefootball.com/en/news/preview-genoa-vs-juventus-team-news-lineups-predictions-serie-a-2810-43677072"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Juventus'ta Khephren Thuram ve Manuel Locatelli de sakatlık nedeniyle oynayamayacak.",
+      "url": "https://www.goal.com/en/news/genoa-juventus-serie-a-preview/blt83f614659a244308"
+     },
+     {
+      "impact": "orta",
+      "text": "Genoa'da Djibril Sow (kas) ve Kingsley Ehizibue (kas yorgunluğu) yok; Lorenzo Colombo ayak bileği burkulması nedeniyle 3-4 hafta sahalardan uzak.",
+      "url": "https://onefootball.com/en/news/preview-genoa-vs-juventus-team-news-lineups-predictions-serie-a-2810-43677072"
+     },
+     {
+      "impact": "düşük",
+      "text": "Juventus hafta sonu Lecce deplasmanında 2-0 kazandı.",
+      "url": "https://onefootball.com/en/news/preview-genoa-vs-juventus-team-news-lineups-predictions-serie-a-2810-43677072"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 58,
+      "market": "2.5 Alt",
+      "prob": 0.58,
+      "reason": "Juventus dış sahada %25, Genoa iç sahada %40 2.5 üst oranına sahip; son 5 H2H'nin tamamı 3'ten az golle bitti.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "2",
+       "type": "1X2"
+      },
+      "confidence": 50,
+      "market": "Juventus Kazanır (MS 2)",
+      "prob": 0.5,
+      "reason": "Juventus dış sahada %0 golsüz ve %50 clean sheet; Genoa'ya karşı son 4 maçı kazandı. Ancak çok sayıda eksik ve Genoa'nın son iki iç saha galibiyeti nedeniyle güven sınırlı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 50,
+      "market": "KG Yok",
+      "prob": 0.52,
+      "reason": "Juventus dış sahada %50 gol yemedi ve Genoa son 5 H2H'de hiç gol atamadı; Genoa'nın iç saha KG Var oranı (%60) ise ters sinyal.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 40,
+      "market": "İlk Yarı Beraberlik",
+      "prob": 0.42,
+      "reason": "Güçlü gerekçe: iki takımın da ilgili sahada 2.5 üst oranı %40 ve altında, Juventus'un yaratıcı oyuncuları (Yildiz, Conceição, Locatelli) eksik ve H2H maçları düşük tempolu geçiyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Juventus'un uzun sakat listesi galibiyet senaryosunu zayıflatıyor; beraberlik ihtimali gerçek.",
+     "Genoa iç sahada %80 maçta gol attı; KG Yok ve 2.5 Alt bir Genoa golüyle zorlanabilir.",
+     "İlk yarı bahsi doğası gereği yüksek varyanslı."
+    ],
+    "sources": [
+     {
+      "title": "OneFootball/Playmakerstats - Genoa vs Juventus preview",
+      "url": "https://onefootball.com/en/news/preview-genoa-vs-juventus-team-news-lineups-predictions-serie-a-2810-43677072"
+     },
+     {
+      "title": "Goal.com - Genoa vs Juventus preview",
+      "url": "https://www.goal.com/en/news/genoa-juventus-serie-a-preview/blt83f614659a244308"
+     },
+     {
+      "title": "xGscore - Genoa vs Juventus",
+      "url": "https://xgscore.io/serie-a/genoa-juventus/preview"
+     },
+     {
+      "title": "FOX Sports - Genoa vs Juventus",
+      "url": "https://www.foxsports.com/soccer/serie-a-genoa-vs-juventus-oct-28-2026-game-boxscore-869467"
+     },
+     {
+      "title": "football-data.org istatistik dosyası (2026-10-28)",
+      "url": "https://www.football-data.org/"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Juventus 14 puanla 8. sırada ve hafta sonu Lecce'yi 2-0 yendi; dış sahada maç başı 1.5 gol atıp 1.0 gol yedi, deplasman maçlarının sadece %25'i 2.5 üst bitti. Genoa 16. sırada, iç sahada maç başı 1.0 gol atıp 1.6 gol yiyor. Juventus'ta Yildiz, Conceição, Locatelli, Thuram ve Ekhator sakat; Genoa'da Sow ve Ehizibue yok. Son 5 H2H'nin hepsi 2.5 alt bitti ve Genoa hiçbirinde gol atamadı.",
+    "verdict": "Juventus, eksiklerine rağmen Genoa deplasmanında hafif favori; iki takımın da istatistikleri az gollü bir maçı işaret ediyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-kars-36-spor-antalyaspor": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Antalyaspor 1.10, beraberlik 10.50, Kars 18.00",
+      "site": "football.com (oran)",
+      "url": "https://www.football.com/livescore/web/tl/Football/match/Kars_36_Spor_vs_Antalyaspor/75444742"
+     }
+    ],
+    "consensus": "Bulunan tek oran kaynağı Antalyaspor'u çok net favori gösteriyor; maç önü detaylı Türkçe tahmin bulunamadı.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Antalyaspor 1. Lig'de kaynak tablosunda 11 maçta 6 galibiyet, 5 yenilgi ve 18 puanla 8. sırada; beraberliği yok, sonuçları dalgalı."
+     },
+     {
+      "side": "home",
+      "text": "Kars 36 Spor Profesyonelliğe Geçiş Ligi 9. Grup'ta 2 maçta 2 galibiyet, 8 gol atıp 2 yedi; Maçka Belediyespor'u 3-0 yendi."
+     },
+     {
+      "side": "away",
+      "text": "Piyasa oranları Antalyaspor 1.10, beraberlik 10.50, Kars 18.00; kalite farkı belirgin."
+     },
+     {
+      "side": "neutral",
+      "text": "Antalya'dan Kars'a uzun yolculuk, ekim sonu soğuk hava ve atletizm pistli saha favorinin ritmini bozabilir."
+     },
+     {
+      "side": "away",
+      "text": "Antalyaspor'un lig yoğunluğu nedeniyle kupada genç ve yedek oyuncularla sahaya çıkması bekleniyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Antalyaspor, Trendyol 1. Lig 12. haftasında evinde Bodrum FK'ya 2-1 yenildi; Özköylü 'Bu takım kimse inanmasa da başarılı olacak' dedi.",
+      "url": "https://sadeceantalyaspor.com/"
+     },
+     {
+      "impact": "düşük",
+      "text": "TFF maç detayına göre karşılaşma 28.10.2026 saat 13:00'te Kars Atletizm Çim Sahası'nda, hakem Tayfun Sarı yönetiminde oynanacak.",
+      "url": "https://www.tff.org/Default.aspx?macId=373127&pageId=29"
+     },
+     {
+      "impact": "düşük",
+      "text": "Kars 36 Spor önceki kupa turunda Fatsa Belediyespor'u 1-0 yenerek 3. eleme turuna yükseldi.",
+      "url": "https://www.statshub.com/fixture/kars-36-spor-vs-fatsa-belediyespor-muytpn/487299"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 58,
+      "market": "2.5 Üst",
+      "prob": 0.58,
+      "reason": "Antalyaspor'un 1.10 oranla gösterdiği kalite farkı tek taraflı birden fazla gol işaret ediyor; Kars da ligde maç başı 4 gol atıyor ve kendi sahasında hücuma çıkabilir.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -1.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 55,
+      "market": "Antalyaspor -1.5 Handikap",
+      "prob": 0.55,
+      "reason": "Güçlü gerekçe: iki takım arasında en az iki lig kademesi fark var ve oranlar Antalyaspor'a yaklaşık %90 ihtimal veriyor; rotasyonlu kadronun bile 2+ farkla kazanması olası.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 55,
+      "market": "KG Yok",
+      "prob": 0.55,
+      "reason": "Kars önceki turdaki kupa maçını 1-0 kazandı ve bir üst seviyeye karşı gol bulmakta zorlanabilir; Antalyaspor'un sahasında savunma sorunları olsa da deplasmanda daha kontrollü.",
+      "risk": "orta"
+     }
+    ],
+    "risks": [
+     "Antalyaspor'un çok geniş rotasyonu ve deplasman koşulları maçı 1-0 gibi dar bir skora çekebilir.",
+     "Kars kendi sahasında motivasyonlu; erken bir gol 2.5 Üst'ü kolaylaştırsa da KG Yok'u bozabilir.",
+     "Kars 36 Spor hakkında kadro ve form bilgisi sınırlı."
+    ],
+    "sources": [
+     {
+      "title": "TFF - Kars 36 Spor - Antalyaspor maç detayı",
+      "url": "https://www.tff.org/Default.aspx?macId=373127&pageId=29"
+     },
+     {
+      "title": "TFF - Türkiye Kupası fikstürü",
+      "url": "https://www.tff.org/default.aspx?pageID=598"
+     },
+     {
+      "title": "SadeceAntalyaspor - güncel haberler",
+      "url": "https://sadeceantalyaspor.com/"
+     },
+     {
+      "title": "Sporzip - Kars 36 Spor puan durumu",
+      "url": "https://sporzip.com/kars-36-spor"
+     },
+     {
+      "title": "CGTN Türk - TFF 1. Lig puan durumu",
+      "url": "https://www.cgtnturk.com/futbol/tff-1-lig-puan-durumu-ve-fikstur"
+     },
+     {
+      "title": "12punto - kupa hakemleri",
+      "url": "https://12punto.com.tr/spor/ziraat-turkiye-kupasi-3-eleme-turunda-gorev-yapacak-hakemler-aciklandi-156971"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Antalyaspor bu sezon Trendyol 1. Lig'de mücadele ediyor ve 18 puanla orta sıralarda; son maçında evinde Bodrum FK'ya 2-1 yenildi ve teknik direktör Osman Özköylü performanstan memnun olduğunu söyledi. Kars 36 Spor ise Profesyonelliğe Geçiş Ligi 9. Grup'ta 2 maçta 2 galibiyetle lider; önceki turda Fatsa Belediyespor'u 1-0 eledi, ligde Maçka Belediyespor'u 3-0 yendi. Piyasada Antalyaspor 1.10 civarında, yani kazanan marketi oynanabilir değil. Uzun deplasman, Kars'ın soğuk havası ve atletizm pistli sahası Antalyaspor için zorluk unsuru.",
+    "verdict": "Lig farkı büyük; Antalyaspor rotasyonla bile 90 dakikada net favori, değer gol ve handikap marketlerinde."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-liverpool-chelsea": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Liverpool galibiyeti olasılığı %54",
+      "site": "SportyTrader",
+      "url": "https://www.sportytrader.com/en/betting-tips/football/england/efl-cup-391/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Rotasyon nedeniyle Anfield'da penaltılar (90 dk beraberlik)",
+      "site": "Betfair",
+      "url": "https://betting.betfair.com/football/efl-cup/carabao-cup-fourth-round-betting-tips-match-previews-predictions-best-bets-latest-odds-251026-1063.html"
+     }
+    ],
+    "consensus": "Kaynaklar Liverpool'u hafif favori görüyor; Betfair ise iki tarafın rotasyonu nedeniyle maçın 90 dakikada berabere bitebileceğini düşünüyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Liverpool City yenilgisinden sonra üst üste 4 maç kazandı ve ligde 15 puanla 4. sırada."
+     },
+     {
+      "side": "away",
+      "text": "Chelsea son maçında evinde Tottenham'a 0-2 yenildi; Joao Pedro (5 gol, 3 asist) ve Palmer (4 gol) yok."
+     },
+     {
+      "side": "away",
+      "text": "Chelsea bu sezon 10 maçta 25 gol attı ve 18 gol yedi; maçları sık sık gollü geçiyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Chelsea'nin Anfield'daki son galibiyeti Mart 2021'de; o tarihten bu yana 3 beraberlik, 2 Liverpool galibiyeti."
+     },
+     {
+      "side": "neutral",
+      "text": "İki takım da hafta sonu büyük lig maçlarına çıkacak (Liverpool-Arsenal, Chelsea-Manchester United), rotasyon kaçınılmaz."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Cole Palmer, Tottenham maçındaki kırmızı kart nedeniyle Liverpool deplasmanında cezalı.",
+      "url": "https://www.chelseafc.com/en/news/article/liverpool-vs-chelsea-key-statistics-and-facts-26-27-lc"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Xabi Alonso, Joao Pedro'nun uyluk sakatlığıyla birkaç hafta yok olacağını doğruladı; Emegha ve Welbeck forvette seçenek.",
+      "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-confirms-chelsea-team-news-for-liverpool"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Iraola, Chelsea maçında ilk 11'de yine rotasyon yapacağını açıkladı.",
+      "url": "https://www.liverpoolfc.com/news/liverpool-v-chelsea-carabao-cup-team-news"
+     },
+     {
+      "impact": "orta",
+      "text": "Liverpool'da Bradley, Frimpong, Szoboszlai, Ekitike ve Muñoz sakat; Wirtz şüpheli.",
+      "url": "https://www.aol.co.uk/articles/liverpool-xi-vs-chelsea-confirmed-133140000.html"
+     },
+     {
+      "impact": "orta",
+      "text": "Chelsea'nin Liverpool karşısında altı-yedi değişiklik yapabileceği, Estevao'nun Palmer'ın yerini alabileceği yazıldı.",
+      "url": "https://www.football.london/chelsea-fc/news/six-chelsea-changes-liverpool-xabi-34818812.amp"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 48,
+      "market": "Liverpool Kazanır (90 dk)",
+      "prob": 0.48,
+      "reason": "Chelsea en skorer iki ismi Palmer ve Joao Pedro'dan yoksun; Liverpool'un 4 maçlık galibiyet serisi ve iç saha avantajı belirleyici olabilir.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 53,
+      "market": "2.5 Üst",
+      "prob": 0.53,
+      "reason": "Chelsea bu sezon 10 maçta 25 gol atıp 18 gol yedi (maç başı 4.3 gol); rotasyonlu savunmalar açık bir oyuna zemin hazırlıyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 27,
+      "market": "Beraberlik (90 dk)",
+      "prob": 0.27,
+      "reason": "İki tarafın geniş rotasyonu ve hafta sonu büyük lig maçları (Liverpool-Arsenal, Chelsea-United) temkinli bir sonuca yol açabilir; Betfair penaltı bekliyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Liverpool'un geniş sakat listesi ve rotasyonu iç saha avantajını azaltabilir.",
+     "Chelsea'nin yedek kadrosu da kaliteli; Estevao ve Neto gibi isimler fark yaratabilir.",
+     "Temkinli bir kupa maçı 2.5 Üst seçimini boşa çıkarabilir."
+    ],
+    "sources": [
+     {
+      "title": "Liverpool FC - Carabao Cup takım haberleri",
+      "url": "https://www.liverpoolfc.com/news/liverpool-v-chelsea-carabao-cup-team-news"
+     },
+     {
+      "title": "Liverpool FC - stat pack",
+      "url": "https://www.liverpoolfc.com/news/carabao-cup-liverpool-chelsea-stat-pack"
+     },
+     {
+      "title": "Chelsea FC - Xabi Alonso takım haberleri",
+      "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-confirms-chelsea-team-news-for-liverpool"
+     },
+     {
+      "title": "Chelsea FC - istatistikler",
+      "url": "https://www.chelseafc.com/en/news/article/liverpool-vs-chelsea-key-statistics-and-facts-26-27-lc"
+     },
+     {
+      "title": "Evening Standard / AOL - Liverpool XI",
+      "url": "https://www.aol.co.uk/articles/liverpool-xi-vs-chelsea-confirmed-133140000.html"
+     },
+     {
+      "title": "Chelsea FC Online önizleme",
+      "url": "https://chelseafconline.com/2026/10/liverpool-vs-chelsea-preview-palmer-less-blues-look-to-bounce-back-from-spurs-defeat-carabao-cup-26-27/"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Liverpool, Iraola yönetiminde City yenilgisinden sonra üst üste dört maç kazandı ve son olarak Brighton'ı 2-0 yendi; ancak Iraola kupada yine rotasyon yapacağını açıkladı ve Bradley, Frimpong, Szoboszlai, Ekitike, Muñoz sakat, Wirtz şüpheli. Chelsea, Tottenham'a evde 2-0 yenildi; Palmer kırmızı kart cezalı, Joao Pedro ise uyluk sakatlığıyla birkaç hafta yok. Xabi Alonso'nun altı-yedi değişiklik yapması bekleniyor; forvette Emegha ve Welbeck seçenek. Chelsea bu sezon 10 maçta 25 gol atıp 18 yedi, bu da gol beklentisini destekliyor.",
+    "verdict": "Palmer ve Joao Pedro'dan yoksun Chelsea karşısında Anfield'da Liverpool 90 dakikada hafif favori; iki tarafın rotasyonu maçı dengeli ve gollü kılabilir."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-manchester-city-brighton": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Man City 2-1 Brighton",
+      "site": "Sports Illustrated",
+      "url": "https://www.si.com/soccer/carabao-cup-fourth-round-predictions-liverpool-chelsea-man-city-brighton"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Man City 3-1, City -1.5 handikap",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/manchester-city-vs-brighton-hove-albion-prediction-28-10-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "City kazanır + KG Var + Foden gol",
+      "site": "LiveScore",
+      "url": "https://www.livescore.com/en/news/football/efl-cup/manchester-city-vs-brighton-predictions-carabao-cup"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Gollü maç, Brighton sürpriz yapabilir",
+      "site": "Goal.com",
+      "url": "https://www.goal.com/en-in/betting/tips/manchester-city-vs-brighton-predictions-29-10-2026/A%3Ablta5a123f7613196fe"
+     }
+    ],
+    "consensus": "Kaynakların çoğu City'nin dar farkla turlayacağını ve iki takımın da gol atacağını öngörüyor; 2+ farklı City galibiyeti azınlık görüşü.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "City ligde 21 puanla zirvede, 20 gol atıp 9 yedi; son 5 maçta 3 galibiyet 2 yenilgi, 5-1'lik AEK Atina galibiyeti dahil."
+     },
+     {
+      "side": "away",
+      "text": "Brighton ligde 16 puanla 3. sırada ve ligin en golcü takımlarından (23 gol); son 9 maçta yalnızca 1 yenilgi aldı."
+     },
+     {
+      "side": "away",
+      "text": "Brighton City'ye karşı 4 maçtır yenilmiyor (2G 2B), kulüp tarihinin bu rakibe karşı en uzun serisi."
+     },
+     {
+      "side": "neutral",
+      "text": "İki taraf da cumartesi yine karşılaşacağı için ağır rotasyon bekleniyor; kadro tahminleri belirsizliği artırıyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 8 karşılaşmanın 7'sinde iki takım da gol buldu; ligdeki son maç 3-2 City galibiyetiyle bitti."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Maresca'nın Haaland, Gvardiol, Elliot Anderson, Rúben Dias ve Donnarumma'yı Brighton maçında dinlendireceği bildirildi; Semenyo sakat.",
+      "url": "https://www.aol.co.uk/articles/man-city-xi-vs-brighton-161205000.html"
+     },
+     {
+      "impact": "orta",
+      "text": "Brighton'da Kadıoğlu ve Chema Andres kalça sakatlıkları nedeniyle şüpheli, Struijk yok; Svoboda kadroya dönüyor.",
+      "url": "https://www.aol.com/articles/hurzeler-team-fitness-die-cup-112537000.html"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Brighton için dokuz değişiklikli bir ilk 11 öngörülüyor; takım cumartesi ligdeki City maçı için Manchester'da kalacak.",
+      "url": "https://www.bognor.co.uk/sport/football/brighton-and-hove-albion/he-has-to-play-brighton-predicted-xi-at-manchester-city-as-fabian-hurzeler-makes-nine-changes-9310660"
+     },
+     {
+      "impact": "düşük",
+      "text": "Minteh ve Wieffer'in Brighton kadrosuna dönmesi gündemde.",
+      "url": "https://www.brightonandhovealbion.com/media-article/team-news-minteh-and-wieffer-in-contention-to-return-against-manchester-city"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 52,
+      "market": "Manchester City Kazanır (90 dk)",
+      "prob": 0.52,
+      "reason": "Rotasyonda bile City'nin yedek kalitesi (Foden, Doku, Kovacic) Brighton'ın B kadrosunun üzerinde; piyasa City için yaklaşık %57 ihtimal veriyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "yes",
+       "type": "BTTS"
+      },
+      "confidence": 55,
+      "market": "KG Var",
+      "prob": 0.55,
+      "reason": "Son 8 karşılaşmanın 7'sinde iki takım da gol attı; City'nin son 6 maçının 5'inde KG Var çıktı ve rotasyonlu savunmalar zayıf olabilir.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 3.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 38,
+      "market": "3.5 Üst",
+      "prob": 0.38,
+      "reason": "Ana gol çizgisinin 3.5 olarak açılması ve son lig maçının 3-2 bitmesi açık bir oyun işaret ediyor; yine de rotasyon ritmi bozabilir, risk yüksek.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Açıklanacak ilk 11'ler tahminlerden çok farklı olabilir; iki taraf da cumartesi maçını öncelikleyebilir.",
+     "Genç ve rotasyonlu kadrolar maçı tempo düşük ve kontrollü bir oyuna da çevirebilir.",
+     "90 dakikada beraberlik ve penaltılar senaryosu City MS seçimini kaybettirir."
+    ],
+    "sources": [
+     {
+      "title": "Evening Standard / AOL - Man City XI vs Brighton",
+      "url": "https://www.aol.co.uk/articles/man-city-xi-vs-brighton-161205000.html"
+     },
+     {
+      "title": "BBC / AOL - Hurzeler on team fitness",
+      "url": "https://www.aol.com/articles/hurzeler-team-fitness-die-cup-112537000.html"
+     },
+     {
+      "title": "Brighton resmi - Team news",
+      "url": "https://www.brightonandhovealbion.com/media-article/team-news-minteh-and-wieffer-in-contention-to-return-against-manchester-city"
+     },
+     {
+      "title": "Football Whispers tahmin",
+      "url": "https://footballwhispers.com/blog/manchester-city-vs-brighton-hove-albion-prediction-28-10-2026"
+     },
+     {
+      "title": "FOX Sports oranlar",
+      "url": "https://www.foxsports.com/soccer/efl-cup-man-city-vs-brighton-oct-27-2026-game-boxscore-1029622?tab=odds"
+     },
+     {
+      "title": "Manchester City News önizleme",
+      "url": "https://manchestercitynews.co.uk/news/manchester-city-brighton-carabao-cup-round-preview"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "City, Villa Park'taki 2-1'lik ilk lig yenilgisinin ardından Haaland, Gvardiol, Dias, Anderson ve Donnarumma'yı dinlendiriyor; Foden, Doku ve gençlerle (McAidoo, Samba) bir kadro bekleniyor. Brighton tarafında Hürzeler'in yaklaşık dokuz değişiklik yapması, Kadıoğlu ve Chema Andres'in kalça sakatlığıyla riske edilmemesi bekleniyor; iki takım cumartesi ligde yine Etihad'da karşılaşacak. Son sekiz karşılaşmanın yedisinde iki takım da gol attı ve Brighton bu karşılaşmalarda City'ye karşı dört maçtır yenilmiyor. Market 90 dakika olduğu için City'nin derinliği öne çıkıyor ama beraberlik ve sonrasında penaltı senaryosu da gerçekçi.",
+    "verdict": "İki tarafın da ağır rotasyonla çıkacağı maçta Manchester City 90 dakikada hafif favori; iki takımın gol bulması ihtimali yüksek."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-milan-bologna": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Milan 2-0 Bologna, KG Yok",
+      "site": "FootballPredictions.com",
+      "url": "https://footballpredictions.com/footballpredictions/serieapredictions/milan-vs-bologna-prediction-28-10-2026/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Milan 2-0 Bologna, ev sahibi galibiyeti",
+      "site": "Genius2Play",
+      "url": "https://www.genius2play.com/en/football/news/ac-milan-vs-bologna-2026-10-28-prediction"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Skor 1-1, KG Var; 'hot tip' 2.5 Alt",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/ac-milan-vs-bologna-prediction-28-10-2026/"
+     }
+    ],
+    "consensus": "Tahmin sitelerinin çoğu Milan'ın gol yemeden kazanacağını öngörüyor; ortak payda az gollü bir maç.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Milan iç sahada maç başı 2.67 gol atıp 0.67 gol yedi; iç saha maçlarında %0 golsüz kaldı, %67 gol yemedi."
+     },
+     {
+      "side": "away",
+      "text": "Bologna dış sahada maç başı 1.0 gol attı, maçlarının %50'sinde gol atamadı; dış saha 2.5 üst oranı sadece %25."
+     },
+     {
+      "side": "home",
+      "text": "Milan ligde 8 maçta yenilgisiz (5G 3B, 16-7 averaj) ve 4. sırada; Bologna 8 puanla 13. sırada."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 4 maçın 3'ünü Milan kazandı (en son Bologna deplasmanında 3-0); 4 maçın 3'ü 2.5 alt bitti."
+     },
+     {
+      "side": "away",
+      "text": "Bologna'nın hücumunda Piccoli ve Orsolini eksik; dış savunması ise maç başı 0.75 gol ile görece sağlam."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Bologna forveti Roberto Piccoli, Inter maçında yaşadığı arka adale sakatlığı nedeniyle en az üç hafta forma giyemeyecek.",
+      "url": "https://www.yardbarker.com/soccer/articles/bologna_confirm_piccoli_out_for_at_least_three_weeks_with_fresh_injury/s1_17344_44451599"
+     },
+     {
+      "impact": "orta",
+      "text": "Bologna'da Riccardo Orsolini (uyluk) ve Emil Holm (uyluk) sakatlar listesinde.",
+      "url": "https://www.betinf.com/italy_injured.htm"
+     },
+     {
+      "impact": "orta",
+      "text": "Milan'da Saelemaekers ayak bileği ameliyatı sonrası yok; Rabiot (baldır) ve Diego Moreira (uyluk) de sakatlar listesinde.",
+      "url": "https://www.betinf.com/italy_injured.htm"
+     },
+     {
+      "impact": "düşük",
+      "text": "Milan, geçen haftaki Avrupa Ligi yenilgisinin ardından San Siro'da tepki arıyor; Bologna hafta sonu Inter'e 3-1 kaybetti.",
+      "url": "https://sempremilan.com/opposition-insight-milan-bologna-form-injuries-predicted-xi-26-27"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 55,
+      "market": "Milan Kazanır (MS 1)",
+      "prob": 0.55,
+      "reason": "Milan iç sahada 0 yenilgi ve maç başı 2.67 gol ortalamasına sahip; Bologna dış sahada %50 gol atamadı ve iki önemli hücumcusu (Piccoli, Orsolini) yok.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "2.5 Alt",
+      "prob": 0.52,
+      "reason": "Bologna dış saha maçlarının yalnızca %25'i 2.5 üst bitti ve deplasmanda maç başı 0.75 gol yedi; Milan iç sahada 0.67 gol yiyor. Milan iç saha örneği 3 maç olduğundan total %50 üst oranı da dengeyi gösteriyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 52,
+      "market": "KG Yok",
+      "prob": 0.55,
+      "reason": "Milan iç sahada %67 clean sheet ve %33 KG Var oranına sahip; Bologna deplasmanda KG Var oranı %25.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 35,
+      "market": "Milan Kazanır ve 2.5 Alt",
+      "prob": 0.3,
+      "reason": "Favorilerin çoğunlukla tek farkla kazandığı trend ve Bologna'nın kısır deplasman hücumu 1-0 / 2-0 tipi skorları öne çıkarıyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Milan'ın iç saha örneği sadece 3 maç; total KG Var oranı %62 ile daha yüksek.",
+     "Milan'da Rabiot ve Saelemaekers yokluğu orta saha ve kanat üretimini düşürebilir.",
+     "Avrupa Ligi sonrası yoğun fikstür nedeniyle rotasyon."
+    ],
+    "sources": [
+     {
+      "title": "SempreMilan - Opposition insight Milan-Bologna",
+      "url": "https://sempremilan.com/opposition-insight-milan-bologna-form-injuries-predicted-xi-26-27"
+     },
+     {
+      "title": "Yardbarker - Piccoli out three weeks",
+      "url": "https://www.yardbarker.com/soccer/articles/bologna_confirm_piccoli_out_for_at_least_three_weeks_with_fresh_injury/s1_17344_44451599"
+     },
+     {
+      "title": "Betinf - Serie A injured list",
+      "url": "https://www.betinf.com/italy_injured.htm"
+     },
+     {
+      "title": "FootballPredictions.com - Milan vs Bologna",
+      "url": "https://footballpredictions.com/footballpredictions/serieapredictions/milan-vs-bologna-prediction-28-10-2026/"
+     },
+     {
+      "title": "Football Whispers - Milan vs Bologna",
+      "url": "https://footballwhispers.com/blog/ac-milan-vs-bologna-prediction-28-10-2026/"
+     },
+     {
+      "title": "football-data.org istatistik dosyası (2026-10-28)",
+      "url": "https://www.football-data.org/"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Milan 8 maçta yenilgisiz (5G 3B) ve 4. sırada; iç sahada maç başı 2.67 gol atıp yalnızca 0.67 gol yedi, %67 gol yemedi. Bologna 13. sırada, deplasmanda maç başı 1.0 gol atıyor ve dış saha maçlarının %50'sinde gol atamadı. Bologna'da Piccoli ve Orsolini sakat, hücum gücü zayıfladı; Milan'da ise Saelemaekers, Rabiot ve Moreira eksik. Milan'ın Avrupa Ligi'ndeki yenilgi sonrası tepki maçı; dar skorlu ev sahibi galibiyeti en olası senaryo.",
+    "verdict": "Milan iç sahadaki sağlam savunmasıyla favori; Bologna'nın deplasmanda düşük gol üretimi nedeniyle kontrollü, az gollü bir Milan galibiyeti bekleniyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-monza-napoli": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Monza Asya Handikap +0.75",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/monza-vs-napoli-prediction-lineups-odds-2026-10-28"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Monza 0-2 Napoli, deplasman galibiyeti",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/monza-vs-napoli-prediction-28-10-2026/"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Napoli kazanır",
+      "site": "ToffeeWeb",
+      "url": "https://www.toffeeweb.com/monza-vs-napoli-predictions-picks-odds-28-10-2026"
+     }
+    ],
+    "consensus": "Sitelerin çoğu Napoli galibiyeti bekliyor, Sportsgambler ise Monza'nın direnç göstereceğini düşünüyor; istatistikler gollü bir maçı destekliyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Monza iç sahada maç başı 2.67 gol attı, 1.33 gol yedi; %0 golsüz, %100 2.5 üst (3 maçlık örnek, totalde %88)."
+     },
+     {
+      "side": "away",
+      "text": "Napoli dış sahada maç başı 1.0 gol attı, 2.0 gol yedi; %0 clean sheet, %75 KG Var."
+     },
+     {
+      "side": "away",
+      "text": "Napoli'nin savunma ve orta saha omurgası eksik: Badiashile, Spinazzola, Lobotka sakat, Anguissa cezalı; Allegri tribünde."
+     },
+     {
+      "side": "home",
+      "text": "Monza son haftalarda Cagliari'yi 4-0 yendi, Torino'ya 3-2 kaybetti; gollü maçlar oynuyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 3 H2H'yi Napoli kazandı (0-1, 2-0, 2-4); ancak Napoli bu sezon ligin alt yarısına kaydı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Napoli teknik direktörü Massimiliano Allegri, Roma maçı sonrası tepkisi nedeniyle 2 maç ceza aldı; Monza ve Juventus maçlarında kenarda olmayacak.",
+      "url": "https://www.livescore.com/en/news/football/serie-a/napoli-confirm-injuries-to-badiashile-and-spinazzola-but-get-one-defender-back-football-italia"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Napoli, Roma ile 3-3 sonrası Benoit Badiashile ve Leonardo Spinazzola'nın sakatlandığını doğruladı; Amir Rrahmani geri dönüyor.",
+      "url": "https://www.livescore.com/en/news/football/serie-a/napoli-confirm-injuries-to-badiashile-and-spinazzola-but-get-one-defender-back-football-italia"
+     },
+     {
+      "impact": "orta",
+      "text": "Napoli'de Anguissa cezalı, Lobotka ve Politano sakat.",
+      "url": "https://www.actionnetwork.com/seriea-game/ssc-napoli-monza/294596"
+     },
+     {
+      "impact": "orta",
+      "text": "Monza'da Jan Ziolkowski ve kaptan Matteo Pessina sakat, Yvan Maye şüpheli.",
+      "url": "https://www.sportsmole.co.uk/football/monza/preview/monza-vs-napoli-prediction-team-news-lineups_607725.html"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "yes",
+       "type": "BTTS"
+      },
+      "confidence": 58,
+      "market": "KG Var",
+      "prob": 0.6,
+      "reason": "Kural koşulu sağlanıyor: Monza iç sahada %0, Napoli dış sahada %25 golsüz kaldı; KG Var oranları Monza total %88, Napoli dış %75.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 56,
+      "market": "2.5 Üst",
+      "prob": 0.58,
+      "reason": "Monza iç sahada %100 (total %88) 2.5 üst; Napoli dış sahada maç başı 2.0 gol yiyor ve savunmada Badiashile, Spinazzola eksik.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "1X",
+       "type": "DC"
+      },
+      "confidence": 42,
+      "market": "Monza veya Beraberlik (1X)",
+      "prob": 0.42,
+      "reason": "Napoli dış sahada %0 clean sheet ve 2.0 gol yeme ortalamasına sahip, Allegri kenarda olmayacak ve orta sahada Lobotka ile Anguissa yok; Monza iç sahada 2.67 gol atıyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": 3.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 38,
+      "market": "3.5 Üst",
+      "prob": 0.38,
+      "reason": "Monza total maç başı 1.88 atıp 2.25 yiyor, Napoli dış sahada 1.0 atıp 2.0 yiyor; Napoli son maçında Roma ile 3-3 berabere kaldı.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Monza'nın iç saha istatistikleri yalnızca 3 maçlık örnekten geliyor.",
+     "Napoli'nin McTominay ve De Bruyne'li hücumu maçı erken koparabilir; bu durumda 1X kaybeder.",
+     "Napoli Porto maçı öncesi rotasyona gidebilir ve maç temkinli oynanabilir."
+    ],
+    "sources": [
+     {
+      "title": "LiveScore/Football Italia - Napoli confirm injuries",
+      "url": "https://www.livescore.com/en/news/football/serie-a/napoli-confirm-injuries-to-badiashile-and-spinazzola-but-get-one-defender-back-football-italia"
+     },
+     {
+      "title": "Sports Mole - Monza vs Napoli preview",
+      "url": "https://www.sportsmole.co.uk/football/monza/preview/monza-vs-napoli-prediction-team-news-lineups_607725.html"
+     },
+     {
+      "title": "Action Network - Napoli at Monza",
+      "url": "https://www.actionnetwork.com/seriea-game/ssc-napoli-monza/294596"
+     },
+     {
+      "title": "Sportsgambler - Monza vs Napoli",
+      "url": "https://www.sportsgambler.com/betting-tips/football/monza-vs-napoli-prediction-lineups-odds-2026-10-28"
+     },
+     {
+      "title": "football-data.org istatistik dosyası (2026-10-28)",
+      "url": "https://www.football-data.org/"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Monza iç sahada maç başı 2.67 gol atıyor ve hiç golsüz kalmadı; iç saha örneği 3 maç olsa da totalde maçlarının %88'i 2.5 üst ve %88'i KG Var bitti. Napoli 10. sırada, dış sahada maç başı 2.0 gol yedi ve hiç clean sheet yapamadı. Napoli'de teknik direktör Allegri 2 maç ceza aldı; Badiashile, Spinazzola, Politano ve Lobotka sakat, Anguissa cezalı. Napoli oranlarda favori (1.75-1.80) ama savunma sorunları belirgin.",
+    "verdict": "Monza'nın gollü iç saha profili ve Napoli'nin eksik, sızdıran deplasman savunması karşı karşıya; iki tarafın da gol bulduğu açık bir maç bekleniyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-paderborn-stuttgart": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Paderborn Asya Handikap +1",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/paderborn-vs-stuttgart-prediction-lineups-odds-2026-10-28"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Stuttgart muhtemelen birden fazla farkla kazanır",
+      "site": "Tips.GG",
+      "url": "https://tips.gg/article/paderborn-vs-stuttgart-28-10-2026"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "KG Var",
+      "site": "Eagle Predict",
+      "url": "https://eaglepredict.com/predictions/match/paderborn-vs-stuttgart-prediction-dfb-pokal-28-10-2026"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Stuttgart kazanır ve KG Var",
+      "site": "FootballTipsPredictions",
+      "url": "https://www.footballtipspredictions.com/sc-paderborn-07-vs-vfb-stuttgart-football-prediction-2026-10-28"
+     }
+    ],
+    "consensus": "Sitelerin çoğu Stuttgart galibiyetini öngörüyor, bir kısmı gollü maç bekliyor; Sportsgambler ise bizim gibi Paderborn handikabını tercih ediyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Stuttgart ligde 7 maçta yalnızca 6 puan topladı ve son 3 maçta galibiyet alamadı; Şampiyonlar Ligi'nde ise 3 maçta 7 puanı var."
+     },
+     {
+      "side": "away",
+      "text": "Stuttgart son 6 Paderborn maçında 5 galibiyet 1 beraberlik aldı; Ekim'deki lig maçını deplasmanda 2-0 kazandı."
+     },
+     {
+      "side": "home",
+      "text": "Paderborn 7 lig maçında 6 gol attı; hücum üretimi düşük ama HSV galibiyetiyle moral buldu."
+     },
+     {
+      "side": "away",
+      "text": "Şampiyonlar Ligi ve hafta sonu Leverkusen deplasmanı Hoeneß'i rotasyona itebilir."
+     },
+     {
+      "side": "neutral",
+      "text": "Market 90 dakika; uzatma/penaltıya giden senaryo beraberlik olarak sayılır."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Stuttgart Cuma günü evinde Gladbach'a 3-2 kaybetti; Hoeneß takımının rehavete kapıldığını söyledi.",
+      "url": "https://www.getfootballnewsgermany.com/2026/hoenes-stuttgart-gladbach"
+     },
+     {
+      "impact": "orta",
+      "text": "Stuttgart'ta Vagnoman, Nartey, Tiago Tomas, Diehl ve Zagadou sakatlıklarından dönüş sürecinde.",
+      "url": "https://bulinews.com/vfb-stuttgart-borussia-monchengladbach-preview-winless-foals-looking-avoid-unwanted-bundesliga-record"
+     },
+     {
+      "impact": "orta",
+      "text": "Paderborn neredeyse tam kadro; HSV'yi 1-0 yenerek ilk Bundesliga galibiyetini aldı.",
+      "url": "https://bulinews.com/news/39288/paderborn-stuttgart"
+     },
+     {
+      "impact": "düşük",
+      "text": "Paderborn'da bir hücum orta sahası ayak bileği sakatlığı nedeniyle Stuttgart maçını kaçırması beklenen isimler arasında.",
+      "url": "https://www.foxsports.com/soccer/sc-paderborn-team"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 54,
+      "market": "2.5 Alt",
+      "prob": 0.54,
+      "reason": "Paderborn 7 lig maçında 6 gol attı, Stuttgart ise tüm kulvarlarda maç başı ~1.3 gol üretiyor; son lig maçı 0-2 bitti ve Goal.com'a göre son 5 maçın sadece 2'sinde 2.5 Üst çıktı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 1,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 55,
+      "market": "Paderborn +1 Handikap",
+      "prob": 0.55,
+      "reason": "Stuttgart son 10 maçının 7'sinde -1 handikabı geçemedi; tek farklı Stuttgart galibiyeti iade, Paderborn'un kaybetmemesi kazanç getirir.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "1X",
+       "type": "DC"
+      },
+      "confidence": 38,
+      "market": "Paderborn veya Beraberlik (1X)",
+      "prob": 0.38,
+      "reason": "Stuttgart'ın ligdeki kötü gidişi, olası rotasyon ve 90 dakika marketi ev sahibinin yenilmeme ihtimalini oranın ima ettiği ~%40 düzeyine yaklaştırıyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 35,
+      "market": "90 dk Beraberlik",
+      "prob": 0.25,
+      "reason": "Düşük tempolu ve temkinli bir kupa maçında uzatmaya gidiş senaryosu 4.30 civarı oranda değer taşıyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Stuttgart kupada tam kadro çıkıp erken gol bulursa kalite farkı rahat bir galibiyet getirebilir.",
+     "Stuttgart'ın son maçlarda savunmada gol yemesi (Gladbach 3-2) alt seçimini bozabilir.",
+     "Rotasyon kararı ve ilk 11'ler maç saatine kadar kesin değil."
+    ],
+    "sources": [
+     {
+      "title": "Bulinews - Paderborn vs Stuttgart preview",
+      "url": "https://bulinews.com/news/39288/paderborn-stuttgart"
+     },
+     {
+      "title": "Bundesliga.com - Paderborn vs Stuttgart liveticker",
+      "url": "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-2/sc-paderborn-07-vs-vfb-stuttgart/liveticker"
+     },
+     {
+      "title": "Mightytips - Paderborn vs Stuttgart",
+      "url": "https://www.mightytips.com/football-predictions/paderborn-vs-stuttgart-prediction-28-10-2026/"
+     },
+     {
+      "title": "DFB - 2. tur zaman çizelgesi",
+      "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Stuttgart ligde 7 maçta sadece 6 puan topladı, son haftalarda Hamburg'a 1-0 ve evinde Gladbach'a 3-2 kaybetti; Şampiyonlar Ligi yükü ve ardından Leverkusen deplasmanı rotasyon ihtimalini artırıyor. Paderborn ise HSV'yi 1-0 yenerek ilk Bundesliga galibiyetini aldı ve neredeyse tam kadro. Ekim ayındaki lig maçında Stuttgart Paderborn'da 2-0 kazanmıştı ve piyasa Stuttgart'ı 1.51-1.53 ile favori görüyor. Paderborn'un düşük gol üretimi ve Stuttgart'ın skor sorunu nedeniyle alt ve ev sahibi handikaplı seçenekler öne çıkıyor.",
+    "verdict": "Stuttgart kağıt üzerinde favori ama formsuz ve yoğun takvimde; Paderborn'un 90 dakikada direnç gösterdiği, düşük skorlu ve dar bir maç bekleniyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-parma-udinese": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "1-1, hot tip 2.5 Alt",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/parma-vs-udinese-prediction-28-10-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Parma Asya Handikap +0.25, skor 1-0",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/parma-vs-udinese-prediction-lineups-odds-2026-10-28/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Maçta çok gol beklenmiyor",
+      "site": "Ratingbet",
+      "url": "https://ratingbet.com/predictions/parma-vs-udinese-prediction-teams-form-analysis-possible-lineups-on-october-28-2026"
+     }
+    ],
+    "consensus": "Siteler az gollü, dengeli bir maç bekliyor; Parma'nın kaybetmeyeceği (1-0 veya 1-1) senaryolar öne çıkıyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Parma iç sahada maç başı 0.75 gol attı, 1.5 gol yedi; iç saha maçlarının %50'sinde gol atamadı, hiç clean sheet yok."
+     },
+     {
+      "side": "away",
+      "text": "Udinese form: 6 maçta 6 yenilgi; toplamda maç başı 1.12 gol atıp 2.25 gol yedi."
+     },
+     {
+      "side": "away",
+      "text": "Udinese'nin dış sahada 2.33 gol ortalaması ve %100 2.5 üst oranı sadece 3 maçlık örnekten; totalde 2.5 üst oranı %62."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 3 H2H'de toplam gol sayısı 1, 2 ve 1; Udinese son iki Tardini maçını kazandı."
+     },
+     {
+      "side": "neutral",
+      "text": "FOX Sports verilerine göre xG: Parma maç başı 0.7, Udinese 1.0; iki takım da az pozisyon üretiyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Parma'da Nesta Elphege, Hans Nicolussi Caviglia ve Pontus Almqvist sakatlık nedeniyle yok.",
+      "url": "https://betmines.com/match-preview/parma-vs-udinese-prediction-match-preview-and-analysis-serie-a-28-10-2026"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Udinese'de Oumar Solet ve Alessandro Zanoli yeni sakatlar arasında; Alaba, Bayo ve Gueye de forma giyemeyecek.",
+      "url": "https://www.thestatszone.com/parma-vs-udinese-preview-team-news-prediction-232879"
+     },
+     {
+      "impact": "orta",
+      "text": "Udinese, 25 Ekim'de iç sahada Milan'a 2-0 yenilerek üst üste altıncı mağlubiyetini aldı.",
+      "url": "https://betmines.com/match-preview/parma-vs-udinese-prediction-match-preview-and-analysis-serie-a-28-10-2026"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 55,
+      "market": "2.5 Alt",
+      "prob": 0.56,
+      "reason": "Parma iç sahada maç başı 0.75 gol atıyor ve %50 golsüz; xG'de Parma 0.7, Udinese 1.0. Udinese'nin dış saha %100 üst oranı sadece 3 maçlık örnekten geliyor, totalde %62.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "1X",
+       "type": "DC"
+      },
+      "confidence": 55,
+      "market": "Parma veya Beraberlik (1X)",
+      "prob": 0.58,
+      "reason": "Udinese üst üste 6 yenilgide ve toplamda maç başı 2.25 gol yiyor; Parma son H2H'de 1-0 kazandı ve iç sahada oynuyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 35,
+      "market": "Beraberlik (MS X)",
+      "prob": 0.3,
+      "reason": "İki takımın da gol üretimi düşük (Parma total 0.62, Udinese total 1.12); oranlar birbirine yakın (2.90 - 3.20 - 2.50) ve kaybetmeme öncelikli bir maç.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 45,
+      "market": "KG Yok",
+      "prob": 0.5,
+      "reason": "Parma iç sahada %50, Udinese toplamda %38 gol atamadı; ancak Parma'nın iç sahada hiç clean sheet'i yok.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Udinese dış sahada son 3 maçta hep gollü maçlar oynadı (%100 2.5 üst, %100 KG Var).",
+     "Parma'nın iç sahada hiç clean sheet'i yok; erken gol maçı açabilir.",
+     "Udinese'nin oranlarda hafif favori olması (2.50) piyasanın deplasman tarafına yakın baktığını gösteriyor."
+    ],
+    "sources": [
+     {
+      "title": "BetMines - Parma vs Udinese",
+      "url": "https://betmines.com/match-preview/parma-vs-udinese-prediction-match-preview-and-analysis-serie-a-28-10-2026"
+     },
+     {
+      "title": "The Stats Zone - Parma vs Udinese",
+      "url": "https://www.thestatszone.com/parma-vs-udinese-preview-team-news-prediction-232879"
+     },
+     {
+      "title": "FOX Sports - Parma vs Udinese",
+      "url": "https://www.foxsports.com/soccer/serie-a-parma-vs-udinese-oct-28-2026-game-boxscore-869470"
+     },
+     {
+      "title": "Football Whispers - Parma vs Udinese",
+      "url": "https://footballwhispers.com/blog/parma-vs-udinese-prediction-28-10-2026"
+     },
+     {
+      "title": "football-data.org istatistik dosyası (2026-10-28)",
+      "url": "https://www.football-data.org/"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Parma (19.) ve Udinese (17.) 8 maçta 1'er galibiyet ve 4'er puanla düşme hattında. Parma iç sahada maç başı 0.75 gol attı ve %50 golsüz kaldı; Udinese üst üste 6 maç kaybetti ve hafta sonu Milan'a 2-0 yenildi. Udinese'nin dış saha örneği 3 maç olduğundan totale bakıldığında maç başı 1.12 gol attığı görülüyor; xG verilerinde iki takım da maç başı 1.0 ve altında. Piyasada 2.5 Alt favori (1.66), tahmin siteleri az gollü bir maç bekliyor.",
+    "verdict": "İki kısır ve formsuz takımın düşme hattı randevusu; düşük gollü, Parma'nın kaybetmeyeceği bir maç bekleniyor."
+   },
+   "createdAt": 1793135929492
+  },
+  "futbol-2026-10-28-venezia-inter": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Venezia 1-2 Inter; Inter, KG Var, 2.5 Üst",
+      "site": "Sportskeeda",
+      "url": "https://www.sportskeeda.com/football/venezia-vs-inter-milan-prediction-betting-tips-october-28th-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "1-2 Inter galibiyeti",
+      "site": "ScoreGPT",
+      "url": "https://scoregpt.app/ai-football-predictions/serie-a/venezia-vs-inter-2026-10-28"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Inter galibiyeti (%47 olasılık)",
+      "site": "BetMines",
+      "url": "https://betmines.com/match-preview/venezia-vs-inter-prediction-match-preview-and-analysis-serie-a-28-10-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Inter galibiyeti",
+      "site": "Transfermarkt",
+      "url": "https://www.transfermarkt.com/betting/tips/venezia-fc-vs-inter-milan-prediction-28-10-2026/"
+     }
+    ],
+    "consensus": "Tüm kaynaklar Inter galibiyeti bekliyor; skor tahminleri ağırlıklı olarak 1-2, yani tek farklı ve gollü bir Inter zaferi.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Inter ligde 8 maçta 7G 1B, 23-10 averaj; dış sahada maç başı 1.75 gol attı ve %0 golsüz kaldı."
+     },
+     {
+      "side": "home",
+      "text": "Venezia iç sahada maç başı 0.75 gol attı, 2.0 gol yedi; iç saha maçlarının %50'sinde gol atamadı."
+     },
+     {
+      "side": "away",
+      "text": "Inter dış sahada %75 2.5 üst ve %75 KG Var oranına sahip; savunma dış sahada sadece %25 clean sheet."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 4 H2H'yi Inter kazandı ancak hepsi tek farkla (0-1, 1-0, 2-1, 0-2)."
+     },
+     {
+      "side": "away",
+      "text": "Lautaro Martinez'in yokluğu Inter'in bitiricilik gücünü azaltabilir; xG verisinde Inter maç başı 2.5 xG üretiyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Inter'de kaptan Lautaro Martinez sakatlığı nedeniyle yok; Ange Bonny ve Pio Esposito'nun ön ikili olarak başlaması bekleniyor.",
+      "url": "https://www.sportsmole.co.uk/football/venezia/preview/venezia-vs-inter-milan-prediction-team-news-lineups_607740.html"
+     },
+     {
+      "impact": "orta",
+      "text": "Venezia'da Marin Sverko, Bartol Franjic ve Andrea Adorante sakat; Thierry Correia şüpheli.",
+      "url": "https://www.sportsmole.co.uk/football/venezia/preview/venezia-vs-inter-milan-prediction-team-news-lineups_607740.html"
+     },
+     {
+      "impact": "düşük",
+      "text": "Venezia'da yeni teknik direktör Davide Nicola göreve geldi ve takımın tek galibiyeti onunla geldi.",
+      "url": "https://www.sportskeeda.com/football/venezia-vs-inter-milan-prediction-betting-tips-october-28th-2026"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 52,
+      "market": "2.5 Üst",
+      "prob": 0.52,
+      "reason": "Inter dış sahada %75 2.5 üst oranına ve maç başı 1.75 gole sahip; Venezia iç sahada maç başı 2.0 gol yiyor. Ancak Venezia iç saha 2.5 üst oranı %25 olduğundan risk orta.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 42,
+      "market": "Inter Kazanır ve 2.5 Üst",
+      "prob": 0.4,
+      "reason": "Inter 8 maçta 7 galibiyet ve 23 gol; Venezia toplamda maç başı 2.12 gol yiyor, Inter galibiyeti genelde gollü geliyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": -1.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 40,
+      "market": "Inter -1.5 Handikap",
+      "prob": 0.4,
+      "reason": "Güçlü gerekçe: Venezia 7 yenilgi ve -11 averajla ligin en kötüsü, iç sahada %50 golsüz ve 2.0 gol yiyor; Inter total maç başı 2.4 gol atıyor. Yine de son 4 H2H'nin tamamı tek farkla bitti, bu yüzden yüksek risk.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 45,
+      "market": "KG Yok",
+      "prob": 0.48,
+      "reason": "Venezia iç sahada %50 gol atamadı ve KG Var oranı %25; buna karşılık Inter dış sahada sadece %25 gol yemedi.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Lautaro yokluğu ve yoğun fikstür nedeniyle rotasyon Inter'in gol üretimini düşürebilir.",
+     "Venezia iç sahada sadece %25 2.5 üst oranına sahip; Nicola'nın kompakt bloğu maçı kilitleyebilir.",
+     "H2H'de son 4 maç tek farkla bitti; handikap riski yüksek."
+    ],
+    "sources": [
+     {
+      "title": "Sports Mole - Venezia vs Inter preview",
+      "url": "https://www.sportsmole.co.uk/football/venezia/preview/venezia-vs-inter-milan-prediction-team-news-lineups_607740.html"
+     },
+     {
+      "title": "The Stats Zone - Venezia vs Inter",
+      "url": "https://www.thestatszone.com/venezia-vs-inter-milan-preview-team-news-prediction-232886"
+     },
+     {
+      "title": "Sportskeeda - Venezia vs Inter",
+      "url": "https://www.sportskeeda.com/football/venezia-vs-inter-milan-prediction-betting-tips-october-28th-2026"
+     },
+     {
+      "title": "BetMines - Venezia vs Inter",
+      "url": "https://betmines.com/match-preview/venezia-vs-inter-prediction-match-preview-and-analysis-serie-a-28-10-2026"
+     },
+     {
+      "title": "football-data.org istatistik dosyası (2026-10-28)",
+      "url": "https://www.football-data.org/"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Inter 8 maçta 7 galibiyet ve 1 beraberlikle yenilgisiz ve 22 puanda; dış sahada maç başı 1.75 gol atıp 1.25 gol yedi, deplasman maçlarının %75'i 2.5 üst bitti. Venezia 3 puanla son sırada, iç sahada maç başı 2.0 gol yedi ve maçların %50'sinde gol atamadı. Inter'de kaptan Lautaro Martinez sakat; Bonny ve Pio Esposito'nun ön ikili olması bekleniyor. Venezia'da Sverko, Franjic ve Adorante yok. Inter MS oranı çok düşük olduğundan gol ve handikap marketleri tercih edildi.",
+    "verdict": "Lider Inter, son sıradaki Venezia karşısında net favori; Lautaro'suz da olsa deplasmandaki gollü profiliyle 2.5 Üst öne çıkıyor."
+   },
+   "createdAt": 1793135929492
+  }
+ },
+ "futbol": {
+  "matches": [
+   {
+    "id": "futbol-2026-10-28-kars-36-spor-antalyaspor",
+    "league": "Ziraat Türkiye Kupası",
+    "time": "13:00",
+    "home": "Kars 36 Spor",
+    "away": "Antalyaspor",
+    "venue": "Kars Atletizm Çim Sahası",
+    "note": "Kupa 3. eleme turunda 1. Lig ekibi Antalyaspor, deplasmanda alt lig ekibi Kars 36 Spor'a karşı tek maçta tur arıyor."
+   },
+   {
+    "id": "futbol-2026-10-28-manchester-city-brighton",
+    "league": "İngiltere Lig Kupası",
+    "time": "22:30",
+    "home": "Manchester City",
+    "away": "Brighton",
+    "venue": "Etihad Stadium",
+    "note": "Lig Kupası 4. turunda iki Premier Lig ekibi tek maçta çeyrek final bileti için karşılaşıyor."
+   },
+   {
+    "id": "futbol-2026-10-28-fulham-crystal-palace",
+    "league": "İngiltere Lig Kupası",
+    "time": "22:45",
+    "home": "Fulham",
+    "away": "Crystal Palace",
+    "venue": "Craven Cottage",
+    "note": "Londra derbisi; Lig Kupası 4. turunda tek maçlık eleme."
+   },
+   {
+    "id": "futbol-2026-10-28-bournemouth-aston-villa",
+    "league": "İngiltere Lig Kupası",
+    "time": "22:45",
+    "home": "Bournemouth",
+    "away": "Aston Villa",
+    "venue": "Vitality Stadium",
+    "note": "Lig Kupası 4. turunda iki Premier Lig ekibi çeyrek final için kozlarını paylaşıyor."
+   },
+   {
+    "id": "futbol-2026-10-28-liverpool-chelsea",
+    "league": "İngiltere Lig Kupası",
+    "time": "23:00",
+    "home": "Liverpool",
+    "away": "Chelsea",
+    "venue": "Anfield",
+    "note": "Turun en büyük maçı: Anfield'da Liverpool ile Chelsea tek maçta karşı karşıya."
+   },
+   {
+    "id": "futbol-2026-10-28-milan-bologna",
+    "league": "Serie A",
+    "time": "20:30",
+    "home": "Milan",
+    "away": "Bologna",
+    "venue": "San Siro",
+    "note": "Yenilgisiz Milan, iç sahada zirve takibini sürdürmek için Bologna'yı ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-10-28-venezia-inter",
+    "league": "Serie A",
+    "time": "20:30",
+    "home": "Venezia",
+    "away": "Inter",
+    "venue": "Stadio Pier Luigi Penzo",
+    "note": "Son sıradaki Venezia, 2. sıradaki Inter'i ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-10-28-parma-udinese",
+    "league": "Serie A",
+    "time": "20:30",
+    "home": "Parma",
+    "away": "Udinese",
+    "venue": "Stadio Ennio Tardini",
+    "note": "Alt sıralarda iki takımın kritik düşme hattı randevusu."
+   },
+   {
+    "id": "futbol-2026-10-28-genoa-juventus",
+    "league": "Serie A",
+    "time": "22:45",
+    "home": "Genoa",
+    "away": "Juventus",
+    "venue": "Stadio Luigi Ferraris",
+    "note": "Juventus, Marassi'de üst sıralara tutunmak için galibiyet arıyor."
+   },
+   {
+    "id": "futbol-2026-10-28-monza-napoli",
+    "league": "Serie A",
+    "time": "22:45",
+    "home": "Monza",
+    "away": "Napoli",
+    "venue": "U-Power Stadium",
+    "note": "Gollü maçlar oynayan Monza, formsuz Napoli'yi ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-10-28-freiburg-wolfsburg",
+    "league": "Almanya Kupası",
+    "time": "20:00",
+    "home": "Freiburg",
+    "away": "Wolfsburg",
+    "venue": "Europa-Park Stadion",
+    "note": "DFB-Pokal 2. turunda Freiburg, geçen sezon küme düşen 2. Lig ekibi Wolfsburg'u ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-10-28-paderborn-stuttgart",
+    "league": "Almanya Kupası",
+    "time": "20:00",
+    "home": "Paderborn",
+    "away": "Stuttgart",
+    "venue": "Home Deluxe Arena",
+    "note": "2. Lig ekibi Paderborn, Bundesliga'nın Stuttgart'ını ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-10-28-bayern-munih-magdeburg",
+    "league": "Almanya Kupası",
+    "time": "22:45",
+    "home": "Bayern Münih",
+    "away": "Magdeburg",
+    "venue": "Allianz Arena",
+    "note": "Son şampiyon Bayern, 2. Lig ekibi Magdeburg'a karşı tur arıyor."
+   }
+  ]
+ },
+ "basketbol": {
+  "matches": [
+   {
+    "id": "basketbol-2026-10-28-besiktas-olympiacos",
+    "league": "EuroLeague",
+    "time": "20:30",
+    "home": "Beşiktaş",
+    "away": "Olympiacos",
+    "venue": "BJK Akatlar Arena",
+    "note": "Beşiktaş, EuroLeague 8. haftada favori Olympiacos'u ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-10-28-hapoel-tel-aviv-anadolu-efes",
+    "league": "EuroLeague",
+    "time": "21:00",
+    "home": "Hapoel Tel Aviv",
+    "away": "Anadolu Efes",
+    "venue": "Arena Botevgrad (Bulgaristan)",
+    "note": "Anadolu Efes, güçlü Hapoel Tel Aviv deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-10-28-asvel-partizan",
+    "league": "EuroLeague",
+    "time": "22:00",
+    "home": "ASVEL",
+    "away": "Partizan",
+    "venue": "LDLC Arena",
+    "note": "Lyon'da ASVEL ile Partizan çift maç haftasında karşılaşıyor."
+   },
+   {
+    "id": "basketbol-2026-10-28-virtus-bologna-zalgiris",
+    "league": "EuroLeague",
+    "time": "22:30",
+    "home": "Virtus Bologna",
+    "away": "Zalgiris",
+    "venue": "Virtus Arena",
+    "note": "Virtus Bologna, formda Zalgiris'i ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-10-28-new-york-knicks-detroit-pistons",
+    "league": "NBA",
+    "time": "03:00",
+    "home": "New York Knicks",
+    "away": "Detroit Pistons",
+    "venue": "Madison Square Garden",
+    "note": "Doğu'nun iddialı iki ekibi Madison Square Garden'da."
+   },
+   {
+    "id": "basketbol-2026-10-28-san-antonio-spurs-sacramento-kings",
+    "league": "NBA",
+    "time": "03:00",
+    "home": "San Antonio Spurs",
+    "away": "Sacramento Kings",
+    "venue": "Frost Bank Center",
+    "note": "Wembanyama'lı Spurs, Kings'i ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-10-28-los-angeles-lakers-portland-trail-blaze",
+    "league": "NBA",
+    "time": "06:00",
+    "home": "Los Angeles Lakers",
+    "away": "Portland Trail Blazers",
+    "venue": "Crypto.com Arena",
+    "note": "Lakers, Batı'nın genç ekibi Portland'ı ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-10-28-aris-cedevita-olimpija",
+    "league": "EuroCup",
+    "time": "20:30",
+    "home": "Aris",
+    "away": "Cedevita Olimpija",
+    "venue": "Alexandreio Melathron",
+    "note": "EuroCup'ta Selanik'te grup sıralaması için önemli maç."
+   },
+   {
+    "id": "basketbol-2026-10-28-slask-wroclaw-tofas",
+    "league": "EuroCup",
+    "time": "20:30",
+    "home": "Slask Wroclaw",
+    "away": "Tofaş",
+    "venue": "Hala Orbita",
+    "note": "Tofaş, EuroCup'ta Polonya deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-10-28-le-mans-hapoel-jerusalem",
+    "league": "EuroCup",
+    "time": "22:00",
+    "home": "Le Mans",
+    "away": "Hapoel Jerusalem",
+    "venue": "Antarès",
+    "note": "Hapoel Jerusalem, Fransa'da Le Mans deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-10-28-london-lions-turk-telekom",
+    "league": "EuroCup",
+    "time": "22:30",
+    "home": "London Lions",
+    "away": "Türk Telekom",
+    "venue": "Copper Box Arena",
+    "note": "Türk Telekom, EuroCup'ta Londra deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-10-28-burgos-rigas-zelli",
+    "league": "EuroCup",
+    "time": "22:30",
+    "home": "Burgos",
+    "away": "Rigas Zelli",
+    "venue": "Coliseum Burgos",
+    "note": "Burgos, iç sahada Letonya ekibi Rigas Zelli'yi ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-10-28-tenerife-venezia",
+    "league": "EuroCup",
+    "time": "23:00",
+    "home": "Tenerife",
+    "away": "Venezia",
+    "venue": "Pabellón Santiago Martín",
+    "note": "Tenerife ile Venezia arasında EuroCup'un güçlü eşleşmelerinden biri."
+   }
+  ]
+ }
+}
