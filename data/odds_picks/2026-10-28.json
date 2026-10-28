@@ -191,7 +191,27 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.565,
+     "best": 1.6,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793216121069
+    },
+    {
+     "median": 1.74,
+     "best": 1.8,
+     "bestBook": "Coolbet",
+     "pinnacle": 1.74,
+     "books": 23,
+     "at": 1793216121069
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-10-28-monza-napoli": {
    "sportKey": "soccer_italy_serie_a",
@@ -224,7 +244,34 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.615,
+     "best": 1.65,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793216121069
+    },
+    {
+     "median": 2.381,
+     "best": 2.604,
+     "bestBook": "Betfair",
+     "pinnacle": 2.493,
+     "books": 23,
+     "at": 1793216121069
+    },
+    {
+     "median": 2.3,
+     "best": 2.3,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793216121069
+    }
+   ]
   },
   "basketbol-2026-10-28-besiktas-olympiacos": {
    "sportKey": "basketball_euroleague",
@@ -332,5 +379,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793213642363
+ "updatedAt": 1793216121069
 }
