@@ -1,0 +1,206 @@
+{
+ "day": "2026-10-29",
+ "matches": {
+  "futbol-2026-10-29-frosinone-lecce": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "667cf69986b200753742c90cb9c5126c",
+   "apiHome": "Frosinone",
+   "apiAway": "Lecce",
+   "open": [
+    {
+     "median": 1.675,
+     "best": 1.77,
+     "bestBook": "Betfair",
+     "pinnacle": 1.72,
+     "books": 24,
+     "at": 1793252939538,
+     "prob": 0.52,
+     "ev": -0.129,
+     "value": false
+    },
+    null,
+    {
+     "median": 2.152,
+     "best": 2.305,
+     "bestBook": "1xBet",
+     "pinnacle": 2.197,
+     "books": 24,
+     "at": 1793252939538,
+     "prob": 0.45,
+     "ev": -0.032,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-29-fiorentina-atalanta": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "da159a6b84dbb548b4d7b94c722caac5",
+   "apiHome": "Fiorentina",
+   "apiAway": "Atalanta BC",
+   "open": [
+    {
+     "median": 1.6,
+     "best": 1.65,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 10,
+     "at": 1793252939538,
+     "prob": 0.62,
+     "ev": -0.008,
+     "value": false
+    },
+    {
+     "median": 1.618,
+     "best": 1.727,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 1.627,
+     "books": 24,
+     "at": 1793252939538,
+     "prob": 0.58,
+     "ev": -0.062,
+     "value": false
+    },
+    {
+     "median": 2.28,
+     "best": 2.3,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793252939538,
+     "prob": 0.36,
+     "ev": -0.179,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-29-atletico-calatayud-osasuna": {
+   "sportKey": "soccer_spain_copa_del_rey",
+   "eventId": "29bc36b38fc8754bc79783aa3cffc857",
+   "apiHome": "Atlético Calatayud",
+   "apiAway": "CA Osasuna",
+   "open": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-29-lebrijana-getafe": {
+   "sportKey": "soccer_spain_copa_del_rey",
+   "eventId": "2375acc87b93574134d0bf1525ac521c",
+   "apiHome": "Lebrijana",
+   "apiAway": "Getafe",
+   "open": [
+    {
+     "median": 1.15,
+     "best": 1.15,
+     "bestBook": "Codere (IT)",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793252939538,
+     "prob": 0.5,
+     "ev": -0.425,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-29-sporting-hortaleza-sevilla": {
+   "sportKey": "soccer_spain_copa_del_rey",
+   "eventId": "619b2ee18c87ce440b016ef1d4cacff5",
+   "apiHome": "Sporting Hortaleza",
+   "apiAway": "Sevilla",
+   "open": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-29-prat-athletic-club": {
+   "sportKey": "soccer_spain_copa_del_rey",
+   "eventId": "d98a2a92b319fac98bf2504e8cc51e47",
+   "apiHome": "Prat",
+   "apiAway": "Athletic Bilbao",
+   "open": [
+    null,
+    {
+     "median": 1.1,
+     "best": 1.1,
+     "bestBook": "Codere (IT)",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793252939538,
+     "prob": 0.47,
+     "ev": -0.483,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-29-crvena-zvezda-bayern-munih": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "58b383a6a4e81b4fe937b40c10c6bbe3",
+   "apiHome": "KK Crvena zvezda",
+   "apiAway": "FC Bayern München",
+   "open": [
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "basketbol-2026-10-29-maccabi-tel-aviv-paris-basketball": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "2c7883ebadcf410496aa639e3570c501",
+   "apiHome": "Maccabi Tel Aviv",
+   "apiAway": "Paris Basketball",
+   "open": [
+    {
+     "median": 1.82,
+     "best": 1.84,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.82,
+     "books": 5,
+     "at": 1793252939538,
+     "prob": 0.57,
+     "ev": 0.037,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-29-real-madrid-fenerbahce": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "979b6ebe162f666a5e8a992ec5bcdf2a",
+   "apiHome": "Real Madrid",
+   "apiAway": "Fenerbahce SK",
+   "open": [
+    null,
+    {
+     "median": 1.815,
+     "best": 1.92,
+     "bestBook": "Unibet (NL)",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793252939538,
+     "prob": 0.5,
+     "ev": -0.093,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  }
+ },
+ "updatedAt": 1793252939538
+}
