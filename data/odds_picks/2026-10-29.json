@@ -31,7 +31,26 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.72,
+     "best": 1.78,
+     "bestBook": "Betfair",
+     "pinnacle": 1.76,
+     "books": 23,
+     "at": 1793294925497
+    },
+    null,
+    {
+     "median": 2.111,
+     "best": 2.259,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 2.166,
+     "books": 23,
+     "at": 1793294925497
+    }
+   ]
   },
   "futbol-2026-10-29-fiorentina-atalanta": {
    "sportKey": "soccer_italy_serie_a",
@@ -202,5 +221,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793252939538
+ "updatedAt": 1793294925497
 }
