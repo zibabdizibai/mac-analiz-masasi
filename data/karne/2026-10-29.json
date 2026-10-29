@@ -1,0 +1,1023 @@
+{
+ "day": "2026-10-29",
+ "updatedAt": 1793313319418,
+ "summary": {
+  "genel": {
+   "tuttu": 31,
+   "tutmadı": 30,
+   "iade": 0,
+   "belirsiz": 1
+  },
+  "risk": {
+   "orta": {
+    "tuttu": 19,
+    "tutmadı": 21,
+    "iade": 0,
+    "belirsiz": 1
+   },
+   "yüksek": {
+    "tuttu": 12,
+    "tutmadı": 9,
+    "iade": 0,
+    "belirsiz": 0
+   }
+  },
+  "spor": {
+   "basketbol": {
+    "tuttu": 11,
+    "tutmadı": 10,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "futbol": {
+    "tuttu": 20,
+    "tutmadı": 20,
+    "iade": 0,
+    "belirsiz": 1
+   }
+  },
+  "verdict": {
+   "tuttu": 10,
+   "toplam": 20
+  },
+  "roi": {
+   "tümü": {
+    "bets": 9,
+    "profit": 4.06,
+    "roi": 45.1
+   },
+   "değerli": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "orta": {
+    "bets": 6,
+    "profit": 2.96,
+    "roi": 49.4
+   },
+   "yüksek": {
+    "bets": 3,
+    "profit": 1.09,
+    "roi": 36.5
+   },
+   "düşük": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "futbol": {
+    "bets": 7,
+    "profit": 2.42,
+    "roi": 34.6
+   },
+   "basketbol": {
+    "bets": 2,
+    "profit": 1.63,
+    "roi": 81.7
+   }
+  },
+  "clv": {
+   "n": 2,
+   "avg": -0.3,
+   "beatPct": 50
+  },
+  "calib": {
+   "n": 61,
+   "avgProb": 51,
+   "hitRate": 51
+  }
+ },
+ "matches": {
+  "basketbol-2026-10-29-atlanta-hawks-miami-heat": {
+   "score": "117-129",
+   "detail": "Heat çeyrekleri 34-35-28-32",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Heat deplasmanda 12 farkla kazandı; toplam 246 sayı.",
+   "picks": [
+    {
+     "market": "Hawks -2.5 handikap",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Hawks Maç Sonucu (MS 1)",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "240.5 Üst",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tuttu",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-29-crvena-zvezda-bayern-munih": {
+   "score": "103-73",
+   "detail": "Periyotlar 19-15, 29-16, 31-23, 24-19 (İY 48-31)",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Zvezda 30 farkla ezdi.",
+   "picks": [
+    {
+     "market": "Crvena Zvezda -5.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "158.5 Üst",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Bayern +11.5 Handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.62,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-29-dallas-mavericks-oklahoma-city-thunder": {
+   "score": "120-96",
+   "detail": "Thunder çeyrekleri 30-29-22-15",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Eksik kadrolu Thunder, Flagg'in 26 sayısıyla Mavericks'e 24 farkla kaybetti.",
+   "picks": [
+    {
+     "market": "Thunder -6.5 handikap",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Thunder -3.5 handikap",
+     "risk": "orta",
+     "confidence": 62,
+     "result": "tutmadı",
+     "prob": 0.68,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "228.5 Üst",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-29-la-clippers-los-angeles-lakers": {
+   "score": "87-103",
+   "detail": "Periyotlar 22-25, 16-31, 28-29, 21-18 (İY 38-56)",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Back-to-back'teki Lakers 16 farkla kazandı.",
+   "picks": [
+    {
+     "market": "Clippers +4.5 handikap",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı",
+     "prob": 0.6,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Clippers Beraberliksiz (DNB 1)",
+     "risk": "yüksek",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Clippers MS (1)",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-29-maccabi-tel-aviv-paris-basketball": {
+   "score": "94-99",
+   "detail": "Paris ikinci yarıda 64 sayı attı",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Hifi 26 sayı.",
+   "picks": [
+    {
+     "market": "Paris Basketball +5.5 Handikap",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.57,
+     "odds": 1.82,
+     "close": null,
+     "ev": 0.037,
+     "value": false,
+     "profit": 0.82
+    },
+    {
+     "market": "180.5 Üst",
+     "risk": "yüksek",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Paris Kazanır (Beraberlik İade)",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.34,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-29-milwaukee-bucks-houston-rockets": {
+   "score": "100-132",
+   "detail": "Periyotlar 21-23, 14-34, 34-38, 31-37 (İY 35-57)",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Şengün sakatlık nedeniyle yoktu; Rockets 5-0.",
+   "picks": [
+    {
+     "market": "Rockets -8.5 handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Rockets -4.5 handikap",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tuttu",
+     "prob": 0.67,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "227.5 Üst",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tuttu",
+     "prob": 0.49,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-29-real-madrid-fenerbahce": {
+   "score": "95-76",
+   "detail": "3. periyot 23-13 Madrid",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Toplam 171 ile alt çizgisi yarım sayıyla tuttu; Maledon 26 sayı.",
+   "picks": [
+    {
+     "market": "Real Madrid -3.5 Handikap",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "171.5 Alt",
+     "risk": "yüksek",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 1.815,
+     "close": null,
+     "ev": -0.093,
+     "value": false,
+     "profit": 0.815
+    },
+    {
+     "market": "Fenerbahçe +9.5 Handikap",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.7,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-atletico-calatayud-osasuna": {
+   "score": "0-6",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Raúl García hat-trick yaptı.",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Calatayud +1.5 handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Osasuna -1.5 handikap",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.38,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Osasuna takım toplamı 1.5 Üst",
+     "risk": "orta",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-bitlis-1916-spor-kayserispor": {
+   "score": "4-1",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "3. Lig ekibi Bitlis, 1. Lig lideri Kayserispor'u eledi.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Kayserispor -1.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-de-treffers-heracles": {
+   "score": "1-0",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Amatör De Treffers, rotasyonlu Heracles'i eledi.",
+   "picks": [
+    {
+     "market": "Heracles -1.5 Handikap",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tutmadı",
+     "prob": 0.36,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-eskisehirspor-igdir-fk": {
+   "score": "1-0",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Gol uzatma dakikalarında geldi.",
+   "picks": [
+    {
+     "market": "Eskişehirspor veya Beraberlik (90 dk)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Iğdır FK -1.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 30,
+     "result": "tutmadı",
+     "prob": 0.28,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-fiorentina-atalanta": {
+   "score": "2-2",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu",
+     "prob": 0.62,
+     "odds": 1.6,
+     "close": null,
+     "ev": -0.008,
+     "value": false,
+     "profit": 0.6
+    },
+    {
+     "market": "Atalanta veya Beraberlik (X2)",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.58,
+     "odds": 1.618,
+     "close": null,
+     "ev": -0.062,
+     "value": false,
+     "profit": 0.618
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.36,
+     "odds": 2.28,
+     "close": null,
+     "ev": -0.179,
+     "value": false,
+     "profit": 1.28
+    }
+   ]
+  },
+  "futbol-2026-10-29-frosinone-lecce": {
+   "score": "5-1",
+   "detail": "İY 2-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Lecce 82'de golü buldu, Frosinone 5. golü uzatmada attı.",
+   "picks": [
+    {
+     "market": "Frosinone Galibiyet (1)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": 1.675,
+     "close": 1.72,
+     "ev": -0.129,
+     "value": false,
+     "profit": 0.675
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Lecce veya Beraberlik (X2)",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.45,
+     "odds": 2.152,
+     "close": 2.111,
+     "ev": -0.032,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-10-29-genclerbirligi-karakopru-belediyespor": {
+   "score": "5-0",
+   "detail": "İY 3-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Gençlerbirliği 1. dakikada öne geçti.",
+   "picks": [
+    {
+     "market": "Karaköprü +1.5 Handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Gençlerbirliği -1.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tuttu",
+     "prob": 0.35,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-groningen-emmen": {
+   "score": "0-2",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "1. Lig ekibi Emmen, Groningen'i deplasmanda eledi.",
+   "picks": [
+    {
+     "market": "Groningen -1.5 Handikap",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Emmen +2.5 Handikap",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.68,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-kasimpasa-corluspor-1947": {
+   "score": "3-1",
+   "detail": "Kaynaklar çelişkili (3-1 / 2-0); fark 2 gol kesin",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Kasımpaşa turu geçti; toplam gol doğrulanamadığı için 2.5 Alt belirsiz.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "belirsiz",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Çorluspor +1.5 Handikap",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Kasımpaşa -1.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-kozakken-boys-utrecht": {
+   "score": "0-1",
+   "detail": "İY 0-1",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Utrecht ilk yarı bitmeden duran toptan attığı golle zor kazandı; maç sonrası olaylar çıktı.",
+   "picks": [
+    {
+     "market": "Utrecht -1.5 Handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.38,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-lebrijana-getafe": {
+   "score": "2-3",
+   "detail": "İY 2-2",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Getafe 0-2 geriden döndü.",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 1.15,
+     "close": null,
+     "ev": -0.425,
+     "value": false,
+     "profit": 0.15
+    },
+    {
+     "market": "Getafe takım toplamı 1.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Getafe -1.5 handikap",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.45,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-prat-athletic-club": {
+   "score": "1-6",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "",
+   "picks": [
+    {
+     "market": "Athletic takım toplamı 1.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 46,
+     "result": "tuttu",
+     "prob": 0.47,
+     "odds": 1.1,
+     "close": null,
+     "ev": -0.483,
+     "value": false,
+     "profit": 0.1
+    },
+    {
+     "market": "Athletic -1.5 handikap",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-29-sporting-hortaleza-sevilla": {
+   "score": "0-3",
+   "detail": "İY 0-2",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Sevilla takım toplamı 1.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Hortaleza +1.5 handikap",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Sevilla -1.5 handikap",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  }
+ },
+ "notes": [
+  "Nerede yanıldık: Kupada alt lig ekiplerine 'dar skor/sürpriz' dediğimiz maçlar 0-6, 1-6, 5-0 gibi farklarla bitti; tam tersine 'favori rahat' dediğimiz Kayserispor, Heracles ve Groningen elendi. NBA'de Hawks, Thunder ve Clippers tarafları üçü de yandı.",
+  "İyi giden: EuroLeague (Zvezda, Paris, Real Madrid handikapları ve toplamlar) ile Rockets -8.5/-4.5 ve İspanya kupasında favorilerin takım golü / 2.5 Üst seçenekleri sorunsuz tuttu.",
+  "Değerli işaretli öneri bugün yoktu; oranı olan maçların hiçbirinde EV pozitif çıkmadı.",
+  "Yarın için ders: Kupada büyük takımın gol çizgisi (takım toplamı) güvenilir, ama alt lig ekibine +1.5 vermek ya da büyük takımın tura kalacağını varsaymak riskli; eksik kadrolu favoriye handikap verirken daha temkinli olmalı."
+ ]
+}
