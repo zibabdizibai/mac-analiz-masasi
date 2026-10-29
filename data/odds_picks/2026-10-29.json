@@ -174,7 +174,12 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    null,
+    null,
+    null
+   ]
   },
   "basketbol-2026-10-29-maccabi-tel-aviv-paris-basketball": {
    "sportKey": "basketball_euroleague",
@@ -196,7 +201,12 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    null,
+    null
+   ]
   },
   "basketbol-2026-10-29-real-madrid-fenerbahce": {
    "sportKey": "basketball_euroleague",
@@ -221,5 +231,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793294925497
+ "updatedAt": 1793300505426
 }
