@@ -140,7 +140,13 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    null,
+    null,
+    null,
+    null
+   ]
   },
   "futbol-2026-10-29-prat-athletic-club": {
    "sportKey": "soccer_spain_copa_del_rey",
@@ -162,7 +168,12 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    null,
+    null
+   ]
   },
   "basketbol-2026-10-29-crvena-zvezda-bayern-munih": {
    "sportKey": "basketball_euroleague",
@@ -231,5 +242,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793300505426
+ "updatedAt": 1793303612779
 }
