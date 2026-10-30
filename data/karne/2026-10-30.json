@@ -1,0 +1,1167 @@
+{
+ "day": "2026-10-30",
+ "updatedAt": 1793399697653,
+ "summary": {
+  "genel": {
+   "tuttu": 27,
+   "tutmadı": 47,
+   "iade": 0,
+   "belirsiz": 0
+  },
+  "risk": {
+   "orta": {
+    "tuttu": 17,
+    "tutmadı": 27,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "yüksek": {
+    "tuttu": 10,
+    "tutmadı": 20,
+    "iade": 0,
+    "belirsiz": 0
+   }
+  },
+  "spor": {
+   "futbol": {
+    "tuttu": 14,
+    "tutmadı": 22,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "basketbol": {
+    "tuttu": 13,
+    "tutmadı": 25,
+    "iade": 0,
+    "belirsiz": 0
+   }
+  },
+  "verdict": {
+   "tuttu": 6,
+   "toplam": 20
+  },
+  "roi": {
+   "tümü": {
+    "bets": 21,
+    "profit": -4.47,
+    "roi": -21.3
+   },
+   "değerli": {
+    "bets": 3,
+    "profit": -1.06,
+    "roi": -35.3
+   },
+   "orta": {
+    "bets": 15,
+    "profit": -2.63,
+    "roi": -17.5
+   },
+   "yüksek": {
+    "bets": 6,
+    "profit": -1.84,
+    "roi": -30.8
+   },
+   "düşük": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "futbol": {
+    "bets": 14,
+    "profit": -3.05,
+    "roi": -21.8
+   },
+   "basketbol": {
+    "bets": 7,
+    "profit": -1.42,
+    "roi": -20.3
+   }
+  },
+  "clv": {
+   "n": 15,
+   "avg": 3.0,
+   "beatPct": 67
+  },
+  "calib": {
+   "n": 74,
+   "avgProb": 48,
+   "hitRate": 36
+  }
+ },
+ "matches": {
+  "futbol-2026-10-30-konyaspor-galatasaray": {
+   "score": "0-4",
+   "detail": "İY 0-2",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Osimhen, Yunus Akgün, Batrakov ve Leão (pen.) golleriyle Galatasaray rahat kazandı; 'dar farklı, düşük skor' beklentisi çöktü.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.54,
+     "odds": 2.3,
+     "close": null,
+     "ev": 0.242,
+     "value": true,
+     "profit": -1.0
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Konyaspor +1 Handikap (Asya)",
+     "risk": "orta",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Galatasaray kazanır ve 2.5 Alt",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.3,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-30-villarreal-espanyol": {
+   "score": "0-1",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Tek gol 60'ta L. Cabrera'dan; favori Villarreal evinde gol bulamadı.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tutmadı",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tutmadı",
+     "prob": 0.6,
+     "odds": 1.5,
+     "close": 1.4,
+     "ev": -0.1,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Villarreal kazanır ve KG Var",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı",
+     "prob": 0.36,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 37,
+     "result": "tutmadı",
+     "prob": 0.38,
+     "odds": 2.24,
+     "close": 2.055,
+     "ev": -0.149,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-10-30-elversberg-mainz-05": {
+   "score": "4-1",
+   "detail": "İY 3-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Hafif favori görülen Mainz ilk yarıda 3-0 geriye düştü; gol beklentisi doğru, taraf yanlıştı.",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tuttu",
+     "prob": 0.62,
+     "odds": 1.46,
+     "close": 1.5,
+     "ev": -0.095,
+     "value": false,
+     "profit": 0.46
+    },
+    {
+     "market": "Mainz MS",
+     "risk": "orta",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.45,
+     "odds": 2.07,
+     "close": 1.9,
+     "ev": -0.069,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Mainz 1.5 Üst (takım golü)",
+     "risk": "orta",
+     "confidence": 47,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.4,
+     "odds": 2.175,
+     "close": 2.24,
+     "ev": -0.13,
+     "value": false,
+     "profit": 1.175
+    }
+   ]
+  },
+  "futbol-2026-10-30-le-havre-psg": {
+   "score": "1-5",
+   "detail": "İY 1-2",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Hakimi hat-trick yaptı; Le Havre 18'de golü bulunca KG Yok ve 3.5 Alt erken bozuldu.",
+   "picks": [
+    {
+     "market": "3.5 Alt",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.57,
+     "odds": 1.88,
+     "close": 1.78,
+     "ev": 0.072,
+     "value": true,
+     "profit": -1.0
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "PSG -1.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "PSG kazanır ve KG Yok",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-30-nice-rennes": {
+   "score": "5-2",
+   "detail": "İY 3-1",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Wahi 2'si penaltıdan hat-trick yaptı; Rennes'in deplasman zaafı tespiti isabetliydi.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Nice Beraberlikte İade",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 1.878,
+     "close": 1.864,
+     "ev": -0.061,
+     "value": false,
+     "profit": 0.878
+    },
+    {
+     "market": "Beraberlik",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tutmadı",
+     "prob": 0.27,
+     "odds": 3.75,
+     "close": 3.535,
+     "ev": 0.013,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-10-30-lille-lens": {
+   "score": "1-0",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Tek gol 86'da Giroud'dan; Lille kazandı ama 'KG Var en güçlü seçenek' tezi tutmadı.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tutmadı",
+     "prob": 0.6,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.54,
+     "odds": 1.825,
+     "close": 1.97,
+     "ev": -0.014,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Lille Beraberlikte İade",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": 1.88,
+     "close": 1.801,
+     "ev": -0.022,
+     "value": false,
+     "profit": 0.88
+    },
+    {
+     "market": "Lille kazanır ve KG Var",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tutmadı",
+     "prob": 0.28,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-30-esenler-erokspor-keciorengucu": {
+   "score": "3-2",
+   "detail": "İY 0-1",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Keçiörengücü ilk yarıyı önde kapattı; Erokspor 51-64 arasında 3 gol atıp maçı çevirdi.",
+   "picks": [
+    {
+     "market": "Çifte Şans X2",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 46,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Beraberlik (MS X)",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.3,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "KG Var",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-30-arminia-bielefeld-eintracht-braunschweig": {
+   "score": "3-1",
+   "detail": "İY 2-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Grodowski 2 gol attı.",
+   "picks": [
+    {
+     "market": "Bielefeld Beraberlikte İade (DNB 1)",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.45,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.51,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "MS 1 (Bielefeld kazanır)",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.44,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-30-energie-cottbus-bochum": {
+   "score": "1-2",
+   "detail": "İY 1-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Cottbus penaltıyla öne geçti; Bochum 70' ve 88'de golleri bulup geri döndü.",
+   "picks": [
+    {
+     "market": "Cottbus Beraberlikte İade (DNB 1)",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 47,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "MS 1 (Cottbus kazanır)",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.38,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-10-30-sheffield-united-wrexham": {
+   "score": "1-0",
+   "detail": "İY 1-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Sheffield United Beraberlikte İade (DNB 1)",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.42,
+     "odds": 1.684,
+     "close": 1.53,
+     "ev": -0.293,
+     "value": false,
+     "profit": 0.684
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 47,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": 1.87,
+     "close": 1.775,
+     "ev": -0.009,
+     "value": false,
+     "profit": 0.87
+    },
+    {
+     "market": "Beraberlik (MS X)",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tutmadı",
+     "prob": 0.28,
+     "odds": 3.335,
+     "close": 3.275,
+     "ev": -0.066,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "basketbol-2026-10-30-anadolu-efes-panathinaikos": {
+   "score": "83-68",
+   "detail": "1. çeyrek 21-18, İY 45-37",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Eksik Efes maçın tamamında öndeydi; Panathinaikos sezonun en düşük skoru olan 68'de kaldı.",
+   "picks": [
+    {
+     "market": "Panathinaikos -4.5 Handikap",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 164.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.54,
+     "odds": 1.885,
+     "close": 1.89,
+     "ev": 0.018,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Panathinaikos İlk Yarı Galibi",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Panathinaikos -8.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-30-asvel-baskonia": {
+   "score": "94-79",
+   "detail": "1. çeyrek 26-16",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "ASVEL -4.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": 1.94,
+     "close": null,
+     "ev": 0.067,
+     "value": true,
+     "profit": 0.94
+    },
+    {
+     "market": "ASVEL -8.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 180.5 Üst",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-30-atlanta-hawks-cleveland-cavaliers": {
+   "score": "114-111",
+   "detail": "İY 46-44 (Hawks), uzatma yok",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Okongwu 29 sayı-12 ribaundla Hawks'ın kötü serisini bitirdi.",
+   "picks": [
+    {
+     "market": "Cleveland Cavaliers MS",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 238.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Cleveland Cavaliers -4.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Cleveland Cavaliers Takım Toplamı 119.5 Üst",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.49,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-30-barcelona-valencia-basket": {
+   "score": "98-94",
+   "detail": "Çeyrek skorları bulunamadı",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Barcelona MS",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.57,
+     "odds": 1.66,
+     "close": 1.68,
+     "ev": -0.054,
+     "value": false,
+     "profit": 0.66
+    },
+    {
+     "market": "Barcelona -3.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tuttu",
+     "prob": 0.48,
+     "odds": 1.98,
+     "close": null,
+     "ev": -0.05,
+     "value": false,
+     "profit": 0.98
+    },
+    {
+     "market": "Toplam Sayı 178.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Barcelona Takım Toplamı 89.5 Üst",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-30-dubai-basketball-hapoel-tel-aviv": {
+   "score": "97-83",
+   "detail": "Dubai 3. çeyrekte koptu",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Petrusev'in öne çıktığı Dubai, seriyi 4 maçta kalan Hapoel'i farklı geçti.",
+   "picks": [
+    {
+     "market": "Hapoel Tel Aviv +3.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": 1.8,
+     "close": null,
+     "ev": -0.01,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Hapoel Tel Aviv Kazanır (MS, uzatmalar dahil)",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.46,
+     "odds": 2.2,
+     "close": null,
+     "ev": 0.012,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Toplam Sayı 173.5 Üst",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.51,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-30-new-orleans-pelicans-sacramento-kings": {
+   "score": "132-120",
+   "detail": "Pelicans çeyrekleri 24-39-39-30",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Fears 22 sayı, 13 asistle oynadı.",
+   "picks": [
+    {
+     "market": "Pelicans -5.5 Handikap",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 236.5 Üst",
+     "risk": "orta",
+     "confidence": 49,
+     "result": "tuttu",
+     "prob": 0.51,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Pelicans Takım Toplamı 120.5 Üst",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tuttu",
+     "prob": 0.49,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Pelicans -9.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.38,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-30-olympiakos-olimpia-milano": {
+   "score": "84-78",
+   "detail": "Çeyrekler 25-19, 19-25, 25-17, 15-17; İY 44-44",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Olympiakos kazandı ama fark 6'da kaldı; toplam 162 ile 162.5 çizgisinin yarım sayı altında bitti.",
+   "picks": [
+    {
+     "market": "Olympiakos -8.5 Handikap",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 162.5 Üst",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Olympiakos -12.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.43,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "İlk Yarı Olympiakos -4.5",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.46,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-30-portland-trail-blazers-memphis-grizzlie": {
+   "score": "103-124",
+   "detail": "İY 58-58",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Portland ikinci yarıda çöktü; Memphis 21 farkla kazandı.",
+   "picks": [
+    {
+     "market": "Trail Blazers -7.5 Handikap",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Trail Blazers Takım Toplamı 120.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 233.5 Üst",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.49,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "İlk Yarı Trail Blazers -4.5",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tutmadı",
+     "prob": 0.46,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-30-virtus-bologna-besiktas": {
+   "score": "101-103",
+   "detail": "Çeyrekler 24-24, 30-23, 20-23, 27-33; uzatma yok",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Beşiktaş son 3:47'de -13'ten döndü, Morgan son saniye üçlüğüyle kazandırdı; 1. çeyrek berabere bitti.",
+   "picks": [
+    {
+     "market": "Virtus Bologna -4.5 Handikap",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": 1.865,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 170.5 Üst",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tuttu",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "1. Çeyrek Virtus Bologna Kazanır",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Virtus Bologna -9.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-10-30-zalgiris-kaunas-partizan": {
+   "score": "87-80",
+   "detail": "Çeyrekler 27-21, 17-19, 25-17, 18-23",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Zalgiris 7 farkla kazandı: -7.5 yarım sayıyla kaçtı, Partizan 80 sayıyla 79.5 Alt'ı da yarım sayıyla bozdu.",
+   "picks": [
+    {
+     "market": "Zalgiris Kaunas -7.5 Handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": 1.93,
+     "close": null,
+     "ev": 0.004,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Toplam Sayı 167.5 Alt",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Partizan Takım Toplamı 79.5 Alt",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Zalgiris Kaunas -11.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  }
+ },
+ "notes": [
+  "Nerede yanıldık: 'Düşük skor/KG Yok' tezleri (Konya-GS 2.5 Alt, Le Havre-PSG 3.5 Alt + KG Yok, Lille-Lens KG Var) favorilerin hücum gücünü küçümsedi; NBA'de Cavaliers ve Portland tarafı tamamen ters gitti (8 öneride 0 isabet).",
+  "İyi giden: Nice-Rennes, Bielefeld, Sheffield, ASVEL, Barcelona ve Pelicans kararları isabetliydi; Barcelona ve Pelicans'ta tüm öneriler tuttu.",
+  "Değerli işaretli 3 öneriden yalnızca ASVEL -4.5 tuttu (15 farkla); Konya-GS 2.5 Alt ve Le Havre-PSG 3.5 Alt farklı skorlarla kaybetti.",
+  "Yarın için ders: Basketbolda üç maç (Zalgiris -7.5, Partizan TT 79.5 Alt, Olympiakos toplam 162.5) yarım sayıyla kaçtı; çizgiye yakın handikaplarda daha temkinli/alternatif çizgi düşünülmeli."
+ ]
+}
