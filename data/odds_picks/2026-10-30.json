@@ -1,0 +1,393 @@
+{
+ "day": "2026-10-30",
+ "matches": {
+  "futbol-2026-10-30-konyaspor-galatasaray": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "feb03ec355aa5c94e0d7ae612a59b813",
+   "apiHome": "Torku Konyaspor",
+   "apiAway": "Galatasaray",
+   "open": [
+    {
+     "median": 2.3,
+     "best": 2.46,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793339358094,
+     "prob": 0.54,
+     "ev": 0.242,
+     "value": true
+    },
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-30-villarreal-espanyol": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "00b03cb40c27ed23e2ecb18f062a5122",
+   "apiHome": "Villarreal",
+   "apiAway": "Espanyol",
+   "open": [
+    null,
+    {
+     "median": 1.5,
+     "best": 1.5,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793339358094,
+     "prob": 0.6,
+     "ev": -0.1,
+     "value": false
+    },
+    null,
+    {
+     "median": 2.24,
+     "best": 2.34,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 10,
+     "at": 1793339358094,
+     "prob": 0.38,
+     "ev": -0.149,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-30-elversberg-mainz-05": {
+   "sportKey": "soccer_germany_bundesliga",
+   "eventId": "b275fe870ec88a9f0054c9220beb2673",
+   "apiHome": "Elversberg",
+   "apiAway": "FSV Mainz 05",
+   "open": [
+    {
+     "median": 1.46,
+     "best": 1.47,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793339358094,
+     "prob": 0.62,
+     "ev": -0.095,
+     "value": false
+    },
+    {
+     "median": 2.07,
+     "best": 2.2,
+     "bestBook": "Coolbet",
+     "pinnacle": 2.12,
+     "books": 22,
+     "at": 1793339358094,
+     "prob": 0.45,
+     "ev": -0.069,
+     "value": false
+    },
+    null,
+    {
+     "median": 2.175,
+     "best": 2.28,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": null,
+     "books": 10,
+     "at": 1793339358094,
+     "prob": 0.4,
+     "ev": -0.13,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-30-arminia-bielefeld-eintracht-braunschweig": {
+   "sportKey": "soccer_germany_bundesliga",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "futbol-2026-10-30-energie-cottbus-bochum": {
+   "sportKey": "soccer_germany_bundesliga",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "futbol-2026-10-30-le-havre-psg": {
+   "sportKey": "soccer_france_ligue_one",
+   "eventId": "9a9f6c78276f74f15f42b013b033aa5d",
+   "apiHome": "Le Havre",
+   "apiAway": "Paris Saint Germain",
+   "open": [
+    {
+     "median": 1.88,
+     "best": 1.92,
+     "bestBook": "1xBet",
+     "pinnacle": 1.86,
+     "books": 12,
+     "at": 1793339358094,
+     "prob": 0.57,
+     "ev": 0.072,
+     "value": true
+    },
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-30-nice-rennes": {
+   "sportKey": "soccer_france_ligue_one",
+   "eventId": "a547720e6b4661d6319c4f11dbdf8e1f",
+   "apiHome": "Nice",
+   "apiAway": "Rennes",
+   "open": [
+    null,
+    {
+     "median": 1.878,
+     "best": 2.138,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 1.91,
+     "books": 21,
+     "at": 1793339358094,
+     "prob": 0.5,
+     "ev": -0.061,
+     "value": false
+    },
+    {
+     "median": 3.75,
+     "best": 4.0,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 3.81,
+     "books": 21,
+     "at": 1793339358094,
+     "prob": 0.27,
+     "ev": 0.013,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-30-lille-lens": {
+   "sportKey": "soccer_france_ligue_one",
+   "eventId": "7932d9a82dcdb164a3e4ef5e03694ee3",
+   "apiHome": "Lille",
+   "apiAway": "RC Lens",
+   "open": [
+    null,
+    {
+     "median": 1.825,
+     "best": 1.94,
+     "bestBook": "1xBet",
+     "pinnacle": 1.93,
+     "books": 14,
+     "at": 1793339358094,
+     "prob": 0.54,
+     "ev": -0.014,
+     "value": false
+    },
+    {
+     "median": 1.88,
+     "best": 2.051,
+     "bestBook": "Betfair",
+     "pinnacle": 2.002,
+     "books": 20,
+     "at": 1793339358094,
+     "prob": 0.52,
+     "ev": -0.022,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-30-sheffield-united-wrexham": {
+   "sportKey": "soccer_efl_champ",
+   "eventId": "db9a80e16dd6db2b7b21b1a082f2095f",
+   "apiHome": "Sheffield United",
+   "apiAway": "Wrexham AFC",
+   "open": [
+    {
+     "median": 1.684,
+     "best": 1.857,
+     "bestBook": "LeoVegas (SE)",
+     "pinnacle": 1.727,
+     "books": 22,
+     "at": 1793339358094,
+     "prob": 0.42,
+     "ev": -0.293,
+     "value": false
+    },
+    {
+     "median": 1.87,
+     "best": 2.0,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.9,
+     "books": 16,
+     "at": 1793339358094,
+     "prob": 0.53,
+     "ev": -0.009,
+     "value": false
+    },
+    {
+     "median": 3.335,
+     "best": 3.5,
+     "bestBook": "LeoVegas (SE)",
+     "pinnacle": 3.39,
+     "books": 22,
+     "at": 1793339358094,
+     "prob": 0.28,
+     "ev": -0.066,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-30-dubai-basketball-hapoel-tel-aviv": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "ef45c8acf036316cad4bb3b1f2df4f32",
+   "apiHome": "Dubai Basketball",
+   "apiAway": "Hapoel Tel Aviv",
+   "open": [
+    {
+     "median": 1.8,
+     "best": 1.8,
+     "bestBook": "888sport",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793339358094,
+     "prob": 0.55,
+     "ev": -0.01,
+     "value": false
+    },
+    {
+     "median": 2.2,
+     "best": 2.28,
+     "bestBook": "1xBet",
+     "pinnacle": 2.23,
+     "books": 21,
+     "at": 1793339358094,
+     "prob": 0.46,
+     "ev": 0.012,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-30-anadolu-efes-panathinaikos": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "e529250e9614fa16d339fa2a63c57074",
+   "apiHome": "Anadolu Efes",
+   "apiAway": "Panathinaikos",
+   "open": [
+    null,
+    {
+     "median": 1.885,
+     "best": 1.92,
+     "bestBook": "Coolbet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793339358094,
+     "prob": 0.54,
+     "ev": 0.018,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-30-zalgiris-kaunas-partizan": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "20a0d13aebe94761db1aa2447b062a2f",
+   "apiHome": "Žalgiris",
+   "apiAway": "KK Partizan NIS",
+   "open": [
+    {
+     "median": 1.93,
+     "best": 2.0,
+     "bestBook": "888sport",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793339358094,
+     "prob": 0.52,
+     "ev": 0.004,
+     "value": false
+    },
+    null,
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-30-asvel-baskonia": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "344a144a9fb9dcff345956fe73e6f2ad",
+   "apiHome": "ASVEL Lyon Villeurbanne",
+   "apiAway": "Saski Baskonia",
+   "open": [
+    {
+     "median": 1.94,
+     "best": 1.98,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 5,
+     "at": 1793339358094,
+     "prob": 0.55,
+     "ev": 0.067,
+     "value": true
+    },
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "basketbol-2026-10-30-olympiakos-olimpia-milano": {
+   "sportKey": "basketball_euroleague",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-10-30-barcelona-valencia-basket": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "28a75c63fe11fb5ba6e15e81e1c6231e",
+   "apiHome": "FC Barcelona Bàsquet",
+   "apiAway": "Valencia Basket",
+   "open": [
+    {
+     "median": 1.66,
+     "best": 1.74,
+     "bestBook": "Betfair",
+     "pinnacle": 1.68,
+     "books": 20,
+     "at": 1793339358094,
+     "prob": 0.57,
+     "ev": -0.054,
+     "value": false
+    },
+    {
+     "median": 1.98,
+     "best": 1.98,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793339358094,
+     "prob": 0.48,
+     "ev": -0.05,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-10-30-virtus-bologna-besiktas": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "6dbdefee3e0cbd60ede0824c8a5c7475",
+   "apiHome": "Virtus Segafredo Bologna",
+   "apiAway": "Beşiktaş J.K.",
+   "open": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  }
+ },
+ "updatedAt": 1793339358094
+}
