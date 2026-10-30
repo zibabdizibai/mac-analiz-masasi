@@ -129,7 +129,20 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.78,
+     "best": 1.87,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793382461339
+    },
+    null,
+    null,
+    null
+   ]
   },
   "futbol-2026-10-30-nice-rennes": {
    "sportKey": "soccer_france_ligue_one",
@@ -161,7 +174,26 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.864,
+     "best": 2.043,
+     "bestBook": "Betfair",
+     "pinnacle": 1.954,
+     "books": 22,
+     "at": 1793382461339
+    },
+    {
+     "median": 3.535,
+     "best": 3.72,
+     "bestBook": "1xBet",
+     "pinnacle": 3.52,
+     "books": 22,
+     "at": 1793382461339
+    }
+   ]
   },
   "futbol-2026-10-30-lille-lens": {
    "sportKey": "soccer_france_ligue_one",
@@ -327,7 +359,13 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    null,
+    null,
+    null
+   ]
   },
   "basketbol-2026-10-30-asvel-baskonia": {
    "sportKey": "basketball_euroleague",
@@ -402,5 +440,5 @@
    "pass": false
   }
  },
- "updatedAt": 1793380142293
+ "updatedAt": 1793382462239
 }
