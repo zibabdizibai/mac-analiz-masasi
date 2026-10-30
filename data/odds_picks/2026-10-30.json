@@ -291,7 +291,20 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.89,
+     "best": 1.95,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 5,
+     "at": 1793380141978
+    },
+    null,
+    null
+   ]
   },
   "basketbol-2026-10-30-zalgiris-kaunas-partizan": {
    "sportKey": "basketball_euroleague",
@@ -389,5 +402,5 @@
    "pass": false
   }
  },
- "updatedAt": 1793377026225
+ "updatedAt": 1793380142293
 }
