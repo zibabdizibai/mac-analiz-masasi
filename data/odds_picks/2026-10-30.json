@@ -55,7 +55,27 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.4,
+     "best": 1.4,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793390615831
+    },
+    null,
+    {
+     "median": 2.055,
+     "best": 2.28,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793390615831
+    }
+   ]
   },
   "futbol-2026-10-30-elversberg-mainz-05": {
    "sportKey": "soccer_germany_bundesliga",
@@ -253,7 +273,27 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.97,
+     "best": 2.08,
+     "bestBook": "BetOnline.ag",
+     "pinnacle": 2.06,
+     "books": 15,
+     "at": 1793390615831
+    },
+    {
+     "median": 1.801,
+     "best": 1.958,
+     "bestBook": "Pinnacle",
+     "pinnacle": 1.958,
+     "books": 21,
+     "at": 1793390615831
+    },
+    null
+   ]
   },
   "futbol-2026-10-30-sheffield-united-wrexham": {
    "sportKey": "soccer_efl_champ",
@@ -295,7 +335,33 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.53,
+     "best": 1.624,
+     "bestBook": "Coolbet",
+     "pinnacle": 1.599,
+     "books": 22,
+     "at": 1793390615831
+    },
+    {
+     "median": 1.775,
+     "best": 2.03,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1793390615831
+    },
+    {
+     "median": 3.275,
+     "best": 3.5,
+     "bestBook": "1xBet",
+     "pinnacle": 3.35,
+     "books": 22,
+     "at": 1793390615831
+    }
+   ]
   },
   "basketbol-2026-10-30-dubai-basketball-hapoel-tel-aviv": {
    "sportKey": "basketball_euroleague",
@@ -493,5 +559,5 @@
    ]
   }
  },
- "updatedAt": 1793388020155
+ "updatedAt": 1793390615831
 }
