@@ -98,7 +98,34 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.5,
+     "best": 1.51,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793388020155
+    },
+    {
+     "median": 1.9,
+     "best": 2.0,
+     "bestBook": "Unibet (NL)",
+     "pinnacle": 1.91,
+     "books": 21,
+     "at": 1793388020155
+    },
+    null,
+    {
+     "median": 2.24,
+     "best": 2.38,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 10,
+     "at": 1793388020155
+    }
+   ]
   },
   "futbol-2026-10-30-arminia-bielefeld-eintracht-braunschweig": {
    "sportKey": "soccer_germany_bundesliga",
@@ -424,7 +451,20 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.68,
+     "best": 1.75,
+     "bestBook": "Betfair",
+     "pinnacle": 1.69,
+     "books": 20,
+     "at": 1793388020155
+    },
+    null,
+    null,
+    null
+   ]
   },
   "basketbol-2026-10-30-virtus-bologna-besiktas": {
    "sportKey": "basketball_euroleague",
@@ -437,8 +477,21 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.865,
+     "best": 1.92,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 6,
+     "at": 1793388020155
+    },
+    null,
+    null,
+    null
+   ]
   }
  },
- "updatedAt": 1793384975279
+ "updatedAt": 1793388020155
 }
