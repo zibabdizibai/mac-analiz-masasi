@@ -1,0 +1,552 @@
+{
+ "day": "2026-10-31",
+ "matches": {
+  "futbol-2026-10-31-erzurumspor-fk-corum-fk": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "futbol-2026-10-31-kocaelispor-caykur-rizespor": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "7d597f0fe7ec1c85b6e7f9f2ce731746",
+   "apiHome": "Kocaelispor",
+   "apiAway": "Çaykur Rizespor",
+   "open": [
+    {
+     "median": 1.87,
+     "best": 1.94,
+     "bestBook": "1xBet",
+     "pinnacle": 1.92,
+     "books": 15,
+     "at": 1793425759186,
+     "prob": 0.58,
+     "ev": 0.085,
+     "value": true
+    },
+    null,
+    {
+     "median": 2.55,
+     "best": 2.68,
+     "bestBook": "Betfair",
+     "pinnacle": 2.6,
+     "books": 21,
+     "at": 1793425759186,
+     "prob": 0.44,
+     "ev": 0.122,
+     "value": true
+    },
+    {
+     "median": 3.35,
+     "best": 3.6,
+     "bestBook": "Matchbook",
+     "pinnacle": 3.43,
+     "books": 21,
+     "at": 1793425759186,
+     "prob": 0.28,
+     "ev": -0.062,
+     "value": false
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-31-fenerbahce-goztepe": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "dc20aff5555a04cd21c2355e222a3297",
+   "apiHome": "Fenerbahce",
+   "apiAway": "Goztepe",
+   "open": [
+    {
+     "median": 1.51,
+     "best": 1.51,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793425759186,
+     "prob": 0.62,
+     "ev": -0.064,
+     "value": false
+    },
+    null,
+    {
+     "median": 3.102,
+     "best": 3.496,
+     "bestBook": "Betfair",
+     "pinnacle": 3.418,
+     "books": 21,
+     "at": 1793425759186,
+     "prob": 0.36,
+     "ev": 0.117,
+     "value": true
+    },
+    {
+     "median": 2.21,
+     "best": 2.48,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 10,
+     "at": 1793425759186,
+     "prob": 0.4,
+     "ev": -0.116,
+     "value": false
+    }
+   ],
+   "pass": false
+  },
+  "basketbol-2026-10-31-korfez-basket-trabzonspor": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-10-31-bordo-bandirma-bahcesehir-koleji": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-10-31-denizli-basket-galatasaray": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "futbol-2026-10-31-chelsea-manchester-united": {
+   "sportKey": "soccer_epl",
+   "eventId": "6601f69175a02f03fb7065aacb538e01",
+   "apiHome": "Chelsea",
+   "apiAway": "Manchester United",
+   "open": [
+    null,
+    {
+     "median": 1.61,
+     "best": 1.71,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793425759186,
+     "prob": 0.57,
+     "ev": -0.082,
+     "value": false
+    },
+    {
+     "median": 1.995,
+     "best": 2.08,
+     "bestBook": "Betfair",
+     "pinnacle": 2.04,
+     "books": 24,
+     "at": 1793425759186,
+     "prob": 0.48,
+     "ev": -0.042,
+     "value": false
+    },
+    {
+     "median": 2.45,
+     "best": 2.6,
+     "bestBook": "Marathon Bet",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793425759186,
+     "prob": 0.4,
+     "ev": -0.02,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-31-manchester-city-brighton": {
+   "sportKey": "soccer_epl",
+   "eventId": "7df53f9af95d5a4e13b504882078dab8",
+   "apiHome": "Manchester City",
+   "apiAway": "Brighton and Hove Albion",
+   "open": [
+    {
+     "median": 1.42,
+     "best": 1.43,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793425759186,
+     "prob": 0.65,
+     "ev": -0.077,
+     "value": false
+    },
+    null,
+    {
+     "median": 2.02,
+     "best": 2.2,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 13,
+     "at": 1793425759186,
+     "prob": 0.45,
+     "ev": -0.091,
+     "value": false
+    },
+    {
+     "median": 2.226,
+     "best": 2.373,
+     "bestBook": "Betfair",
+     "pinnacle": 2.254,
+     "books": 24,
+     "at": 1793425759186,
+     "prob": 0.42,
+     "ev": -0.065,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-31-tottenham-crystal-palace": {
+   "sportKey": "soccer_epl",
+   "eventId": "01b17432a283eb27af86ae45602eb6dd",
+   "apiHome": "Tottenham Hotspur",
+   "apiAway": "Crystal Palace",
+   "open": [
+    null,
+    {
+     "median": 1.605,
+     "best": 1.68,
+     "bestBook": "Betfair",
+     "pinnacle": 1.64,
+     "books": 24,
+     "at": 1793425759186,
+     "prob": 0.5,
+     "ev": -0.198,
+     "value": false
+    },
+    {
+     "median": 2.285,
+     "best": 2.42,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1793425759186,
+     "prob": 0.5,
+     "ev": 0.143,
+     "value": true
+    },
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-31-aston-villa-fulham": {
+   "sportKey": "soccer_epl",
+   "eventId": "640c52a86289f35698261b41987dd71e",
+   "apiHome": "Aston Villa",
+   "apiAway": "Fulham",
+   "open": [
+    null,
+    {
+     "median": 2.02,
+     "best": 2.1,
+     "bestBook": "Betfair",
+     "pinnacle": 2.07,
+     "books": 24,
+     "at": 1793425759186,
+     "prob": 0.5,
+     "ev": 0.01,
+     "value": false
+    },
+    {
+     "median": 2.1,
+     "best": 2.23,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 15,
+     "at": 1793425759186,
+     "prob": 0.51,
+     "ev": 0.071,
+     "value": true
+    },
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-31-levante-atletico-madrid": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "005711684f3e51024ac40c1ee69978e9",
+   "apiHome": "Levante",
+   "apiAway": "Atlético Madrid",
+   "open": [
+    {
+     "median": 1.5,
+     "best": 1.52,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793425759186,
+     "prob": 0.56,
+     "ev": -0.16,
+     "value": false
+    },
+    {
+     "median": 1.52,
+     "best": 1.6,
+     "bestBook": "1xBet",
+     "pinnacle": 1.53,
+     "books": 19,
+     "at": 1793425759186,
+     "prob": 0.55,
+     "ev": -0.164,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-31-real-betis-malaga": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "8f0b7ef29a47f675429758e83a426d7e",
+   "apiHome": "Real Betis",
+   "apiAway": "Málaga",
+   "open": [
+    null,
+    {
+     "median": 1.665,
+     "best": 1.72,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 8,
+     "at": 1793425759186,
+     "prob": 0.66,
+     "ev": 0.099,
+     "value": true
+    },
+    {
+     "median": 2.68,
+     "best": 2.71,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793425759186,
+     "prob": 0.48,
+     "ev": 0.286,
+     "value": true
+    },
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-31-barcelona-alaves": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "2db2b55e71574a19ff0557898d3e9933",
+   "apiHome": "Barcelona",
+   "apiAway": "Alavés",
+   "open": [
+    {
+     "median": 1.655,
+     "best": 1.68,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793425759186,
+     "prob": 0.56,
+     "ev": -0.073,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-31-udinese-roma": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "34cd26b96f78bd7aa3dbff3d1daca7a7",
+   "apiHome": "Udinese",
+   "apiAway": "AS Roma",
+   "open": [
+    null,
+    {
+     "median": 2.37,
+     "best": 2.5,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793425759186,
+     "prob": 0.55,
+     "ev": 0.304,
+     "value": true
+    },
+    {
+     "median": 1.555,
+     "best": 1.62,
+     "bestBook": "1xBet",
+     "pinnacle": 1.56,
+     "books": 22,
+     "at": 1793425759186,
+     "prob": 0.55,
+     "ev": -0.145,
+     "value": false
+    },
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-10-31-milan-inter": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "e82f25e981f2ebc731cfaf5716231af5",
+   "apiHome": "AC Milan",
+   "apiAway": "Inter Milan",
+   "open": [
+    null,
+    {
+     "median": 1.8,
+     "best": 1.887,
+     "bestBook": "Betfair",
+     "pinnacle": 1.867,
+     "books": 22,
+     "at": 1793425759186,
+     "prob": 0.52,
+     "ev": -0.064,
+     "value": false
+    },
+    {
+     "median": 1.63,
+     "best": 1.7,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793425759186,
+     "prob": 0.5,
+     "ev": -0.185,
+     "value": false
+    },
+    {
+     "median": 3.7,
+     "best": 3.8,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 3.76,
+     "books": 22,
+     "at": 1793425759186,
+     "prob": 0.28,
+     "ev": 0.036,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-31-bayer-leverkusen-stuttgart": {
+   "sportKey": "soccer_germany_bundesliga",
+   "eventId": "a7ba9b844f121a4a8777d87b1f863137",
+   "apiHome": "Bayer Leverkusen",
+   "apiAway": "VfB Stuttgart",
+   "open": [
+    {
+     "median": 1.3,
+     "best": 1.3,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793425759186,
+     "prob": 0.6,
+     "ev": -0.22,
+     "value": false
+    },
+    {
+     "median": 1.755,
+     "best": 1.85,
+     "bestBook": "1xBet",
+     "pinnacle": 1.76,
+     "books": 22,
+     "at": 1793425759186,
+     "prob": 0.52,
+     "ev": -0.087,
+     "value": false
+    },
+    null,
+    {
+     "median": 1.79,
+     "best": 1.87,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793425759186,
+     "prob": 0.36,
+     "ev": -0.356,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-31-werder-bremen-hoffenheim": {
+   "sportKey": "soccer_germany_bundesliga",
+   "eventId": "2fad25b09c01b71e47a5b0fd1d0b4e61",
+   "apiHome": "Werder Bremen",
+   "apiAway": "TSG Hoffenheim",
+   "open": [
+    null,
+    {
+     "median": 1.4,
+     "best": 1.41,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793425759186,
+     "prob": 0.62,
+     "ev": -0.132,
+     "value": false
+    },
+    {
+     "median": 1.544,
+     "best": 1.647,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 1.577,
+     "books": 22,
+     "at": 1793425759186,
+     "prob": 0.55,
+     "ev": -0.151,
+     "value": false
+    },
+    {
+     "median": 2.0,
+     "best": 2.06,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793425759186,
+     "prob": 0.42,
+     "ev": -0.16,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-10-31-ajax-az": {
+   "sportKey": "soccer_netherlands_eredivisie",
+   "eventId": "43ebf45469e32887fe9caff703c94ae6",
+   "apiHome": "Ajax",
+   "apiAway": "AZ Alkmaar",
+   "open": [
+    null,
+    {
+     "median": 1.37,
+     "best": 1.38,
+     "bestBook": "Nordic Bet",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793425759186,
+     "prob": 0.6,
+     "ev": -0.178,
+     "value": false
+    },
+    {
+     "median": 2.199,
+     "best": 2.362,
+     "bestBook": "Unibet (NL)",
+     "pinnacle": 2.208,
+     "books": 22,
+     "at": 1793425759186,
+     "prob": 0.45,
+     "ev": -0.01,
+     "value": false
+    },
+    {
+     "median": 1.89,
+     "best": 2.0,
+     "bestBook": "Pinnacle",
+     "pinnacle": 2.0,
+     "books": 13,
+     "at": 1793425759186,
+     "prob": 0.4,
+     "ev": -0.244,
+     "value": false
+    }
+   ],
+   "pass": true
+  }
+ },
+ "updatedAt": 1793425759186
+}
