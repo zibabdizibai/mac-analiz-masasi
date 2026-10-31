@@ -46,7 +46,34 @@
      "value": false
     }
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.86,
+     "best": 1.98,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.92,
+     "books": 13,
+     "at": 1793450437507
+    },
+    null,
+    {
+     "median": 2.5,
+     "best": 2.66,
+     "bestBook": "Betfair",
+     "pinnacle": 2.64,
+     "books": 19,
+     "at": 1793450437507
+    },
+    {
+     "median": 3.37,
+     "best": 3.52,
+     "bestBook": "1xBet",
+     "pinnacle": 3.37,
+     "books": 19,
+     "at": 1793450437507
+    }
+   ]
   },
   "futbol-2026-10-31-fenerbahce-goztepe": {
    "sportKey": "soccer_turkey_super_league",
@@ -285,7 +312,26 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.485,
+     "best": 1.5,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793450437507
+    },
+    {
+     "median": 1.49,
+     "best": 1.55,
+     "bestBook": "1xBet",
+     "pinnacle": 1.5,
+     "books": 18,
+     "at": 1793450437507
+    },
+    null
+   ]
   },
   "futbol-2026-10-31-real-betis-malaga": {
    "sportKey": "soccer_spain_la_liga",
@@ -548,5 +594,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793447983841
+ "updatedAt": 1793450438565
 }
