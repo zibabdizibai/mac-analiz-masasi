@@ -505,7 +505,34 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.3,
+     "best": 1.3,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793455581586
+    },
+    {
+     "median": 1.655,
+     "best": 1.72,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.68,
+     "books": 22,
+     "at": 1793455581586
+    },
+    null,
+    {
+     "median": 1.77,
+     "best": 1.84,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793455581586
+    }
+   ]
   },
   "futbol-2026-10-31-werder-bremen-hoffenheim": {
    "sportKey": "soccer_germany_bundesliga",
@@ -548,7 +575,34 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.39,
+     "best": 1.4,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793455581586
+    },
+    {
+     "median": 1.43,
+     "best": 1.506,
+     "bestBook": "1xBet",
+     "pinnacle": 1.457,
+     "books": 22,
+     "at": 1793455581586
+    },
+    {
+     "median": 1.95,
+     "best": 2.08,
+     "bestBook": "Matchbook",
+     "pinnacle": 2.0,
+     "books": 13,
+     "at": 1793455581586
+    }
+   ]
   },
   "futbol-2026-10-31-ajax-az": {
    "sportKey": "soccer_netherlands_eredivisie",
@@ -594,5 +648,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793453307327
+ "updatedAt": 1793455581916
 }
