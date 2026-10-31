@@ -1,0 +1,2853 @@
+{
+ "day": "2026-11-01",
+ "generatedAt": 1793479803449,
+ "source": "football-data.org",
+ "statsWindow": "son 10 resmi maç (tüm kulvarlar)",
+ "matches": [
+  {
+   "league": "Premier Lig",
+   "fixtureId": 560631,
+   "kickoff": "2026-11-01T19:30:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 64,
+    "name": "Liverpool",
+    "fullName": "Liverpool FC",
+    "table": {
+     "total": {
+      "position": 5,
+      "playedGames": 8,
+      "won": 4,
+      "draw": 3,
+      "lost": 1,
+      "points": 15,
+      "goalsFor": 11,
+      "goalsAgainst": 8
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WLWWWW",
+     "sample": {
+      "home": 6,
+      "away": 4,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.67,
+      "away": 2.75,
+      "total": 2.1
+     },
+     "goalsAgainstAvg": {
+      "home": 1.5,
+      "away": 1.0,
+      "total": 1.3
+     },
+     "cleanSheetPct": {
+      "home": 33,
+      "away": 50,
+      "total": 40
+     },
+     "failedToScorePct": {
+      "home": 33,
+      "away": 0,
+      "total": 20
+     },
+     "over25Pct": {
+      "home": 67,
+      "away": 50,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 50,
+      "total": 50
+     }
+    }
+   },
+   "away": {
+    "id": 57,
+    "name": "Arsenal",
+    "fullName": "Arsenal FC",
+    "table": {
+     "total": {
+      "position": 2,
+      "playedGames": 8,
+      "won": 7,
+      "draw": 0,
+      "lost": 1,
+      "points": 21,
+      "goalsFor": 13,
+      "goalsAgainst": 5
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LWWWDW",
+     "sample": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.25,
+      "away": 1.17,
+      "total": 1.6
+     },
+     "goalsAgainstAvg": {
+      "home": 0.5,
+      "away": 0.83,
+      "total": 0.7
+     },
+     "cleanSheetPct": {
+      "home": 50,
+      "away": 67,
+      "total": 60
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 17,
+      "total": 10
+     },
+     "over25Pct": {
+      "home": 75,
+      "away": 33,
+      "total": 50
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 17,
+      "total": 30
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-01-08",
+     "home": "Arsenal",
+     "away": "Liverpool",
+     "score": "0-0"
+    },
+    {
+     "date": "2025-08-31",
+     "home": "Liverpool",
+     "away": "Arsenal",
+     "score": "1-0"
+    },
+    {
+     "date": "2025-05-11",
+     "home": "Liverpool",
+     "away": "Arsenal",
+     "score": "2-2"
+    },
+    {
+     "date": "2024-10-27",
+     "home": "Arsenal",
+     "away": "Liverpool",
+     "score": "2-2"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Eredivisie",
+   "fixtureId": 558849,
+   "kickoff": "2026-11-01T14:15:00+03:00",
+   "matchday": 11,
+   "home": {
+    "id": 684,
+    "name": "Zwolle",
+    "fullName": "PEC Zwolle",
+    "table": {
+     "total": {
+      "position": 15,
+      "playedGames": 10,
+      "won": 2,
+      "draw": 2,
+      "lost": 6,
+      "points": 8,
+      "goalsFor": 11,
+      "goalsAgainst": 23
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLLLWD",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.0,
+      "away": 1.2,
+      "total": 1.1
+     },
+     "goalsAgainstAvg": {
+      "home": 2.8,
+      "away": 1.8,
+      "total": 2.3
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 20,
+      "total": 10
+     },
+     "failedToScorePct": {
+      "home": 60,
+      "away": 20,
+      "total": 40
+     },
+     "over25Pct": {
+      "home": 60,
+      "away": 60,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 40,
+      "away": 60,
+      "total": 50
+     }
+    }
+   },
+   "away": {
+    "id": 680,
+    "name": "Den Haag",
+    "fullName": "ADO Den Haag",
+    "table": {
+     "total": {
+      "position": 17,
+      "playedGames": 10,
+      "won": 1,
+      "draw": 3,
+      "lost": 6,
+      "points": 6,
+      "goalsFor": 13,
+      "goalsAgainst": 23
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LLDDWL",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.6,
+      "away": 1.0,
+      "total": 1.3
+     },
+     "goalsAgainstAvg": {
+      "home": 2.4,
+      "away": 2.2,
+      "total": 2.3
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 40,
+      "total": 20
+     },
+     "over25Pct": {
+      "home": 80,
+      "away": 60,
+      "total": 70
+     },
+     "bttsPct": {
+      "home": 100,
+      "away": 60,
+      "total": 80
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2021-05-09",
+     "home": "Zwolle",
+     "away": "Den Haag",
+     "score": "0-1"
+    },
+    {
+     "date": "2020-12-23",
+     "home": "Den Haag",
+     "away": "Zwolle",
+     "score": "0-2"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Eredivisie",
+   "fixtureId": 558848,
+   "kickoff": "2026-11-01T16:30:00+03:00",
+   "matchday": 11,
+   "home": {
+    "id": 1912,
+    "name": "Telstar",
+    "fullName": "Telstar 1963",
+    "table": {
+     "total": {
+      "position": 16,
+      "playedGames": 10,
+      "won": 1,
+      "draw": 3,
+      "lost": 6,
+      "points": 6,
+      "goalsFor": 12,
+      "goalsAgainst": 21
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LDLDLL",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.6,
+      "away": 0.8,
+      "total": 1.2
+     },
+     "goalsAgainstAvg": {
+      "home": 3.0,
+      "away": 1.2,
+      "total": 2.1
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 20,
+      "total": 10
+     },
+     "failedToScorePct": {
+      "home": 20,
+      "away": 60,
+      "total": 40
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 40,
+      "total": 70
+     },
+     "bttsPct": {
+      "home": 80,
+      "away": 40,
+      "total": 60
+     }
+    }
+   },
+   "away": {
+    "id": 676,
+    "name": "Utrecht",
+    "fullName": "FC Utrecht",
+    "table": {
+     "total": {
+      "position": 11,
+      "playedGames": 10,
+      "won": 3,
+      "draw": 3,
+      "lost": 4,
+      "points": 12,
+      "goalsFor": 17,
+      "goalsAgainst": 27
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DWLWWD",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.8,
+      "away": 1.6,
+      "total": 1.7
+     },
+     "goalsAgainstAvg": {
+      "home": 3.0,
+      "away": 2.4,
+      "total": 2.7
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 20,
+      "total": 10
+     },
+     "over25Pct": {
+      "home": 80,
+      "away": 100,
+      "total": 90
+     },
+     "bttsPct": {
+      "home": 100,
+      "away": 80,
+      "total": 90
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-04-11",
+     "home": "Utrecht",
+     "away": "Telstar",
+     "score": "4-1"
+    },
+    {
+     "date": "2025-11-23",
+     "home": "Telstar",
+     "away": "Utrecht",
+     "score": "1-1"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Eredivisie",
+   "fixtureId": 558847,
+   "kickoff": "2026-11-01T16:30:00+03:00",
+   "matchday": 11,
+   "home": {
+    "id": 670,
+    "name": "Excelsior",
+    "fullName": "SBV Excelsior",
+    "table": {
+     "total": {
+      "position": 13,
+      "playedGames": 10,
+      "won": 3,
+      "draw": 2,
+      "lost": 5,
+      "points": 11,
+      "goalsFor": 16,
+      "goalsAgainst": 19
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLDLLL",
+     "sample": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.25,
+      "away": 1.83,
+      "total": 1.6
+     },
+     "goalsAgainstAvg": {
+      "home": 2.5,
+      "away": 1.5,
+      "total": 1.9
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 33,
+      "total": 20
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 33,
+      "total": 20
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 83,
+      "total": 90
+     },
+     "bttsPct": {
+      "home": 100,
+      "away": 33,
+      "total": 60
+     }
+    }
+   },
+   "away": {
+    "id": 666,
+    "name": "Twente",
+    "fullName": "FC Twente '65",
+    "table": {
+     "total": {
+      "position": 4,
+      "playedGames": 10,
+      "won": 6,
+      "draw": 2,
+      "lost": 2,
+      "points": 20,
+      "goalsFor": 19,
+      "goalsAgainst": 10
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WWWDLW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.0,
+      "away": 1.8,
+      "total": 1.9
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 1.0,
+      "total": 1.0
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 20,
+      "total": 30
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 20,
+      "total": 10
+     },
+     "over25Pct": {
+      "home": 60,
+      "away": 40,
+      "total": 50
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 60,
+      "total": 60
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-01-24",
+     "home": "Twente",
+     "away": "Excelsior",
+     "score": "0-0"
+    },
+    {
+     "date": "2025-08-30",
+     "home": "Excelsior",
+     "away": "Twente",
+     "score": "1-0"
+    },
+    {
+     "date": "2024-02-10",
+     "home": "Excelsior",
+     "away": "Twente",
+     "score": "0-3"
+    },
+    {
+     "date": "2023-12-08",
+     "home": "Twente",
+     "away": "Excelsior",
+     "score": "4-2"
+    },
+    {
+     "date": "2023-04-01",
+     "home": "Excelsior",
+     "away": "Twente",
+     "score": "0-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Eredivisie",
+   "fixtureId": 558846,
+   "kickoff": "2026-11-01T18:45:00+03:00",
+   "matchday": 11,
+   "home": {
+    "id": 677,
+    "name": "Groningen",
+    "fullName": "FC Groningen",
+    "table": {
+     "total": {
+      "position": 8,
+      "playedGames": 10,
+      "won": 4,
+      "draw": 3,
+      "lost": 3,
+      "points": 15,
+      "goalsFor": 24,
+      "goalsAgainst": 21
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DDWWLD",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.2,
+      "away": 2.6,
+      "total": 2.4
+     },
+     "goalsAgainstAvg": {
+      "home": 2.2,
+      "away": 2.0,
+      "total": 2.1
+     },
+     "cleanSheetPct": {
+      "home": 20,
+      "away": 0,
+      "total": 10
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 80,
+      "total": 90
+     },
+     "bttsPct": {
+      "home": 80,
+      "away": 100,
+      "total": 90
+     }
+    }
+   },
+   "away": {
+    "id": 6806,
+    "name": "Sparta",
+    "fullName": "Sparta Rotterdam",
+    "table": {
+     "total": {
+      "position": 14,
+      "playedGames": 10,
+      "won": 2,
+      "draw": 3,
+      "lost": 5,
+      "points": 9,
+      "goalsFor": 17,
+      "goalsAgainst": 24
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLLDWL",
+     "sample": {
+      "home": 6,
+      "away": 4,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.5,
+      "away": 2.0,
+      "total": 1.7
+     },
+     "goalsAgainstAvg": {
+      "home": 2.33,
+      "away": 2.5,
+      "total": 2.4
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 33,
+      "away": 0,
+      "total": 20
+     },
+     "over25Pct": {
+      "home": 83,
+      "away": 100,
+      "total": 90
+     },
+     "bttsPct": {
+      "home": 67,
+      "away": 100,
+      "total": 80
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-01-31",
+     "home": "Sparta",
+     "away": "Groningen",
+     "score": "2-0"
+    },
+    {
+     "date": "2025-10-19",
+     "home": "Groningen",
+     "away": "Sparta",
+     "score": "0-2"
+    },
+    {
+     "date": "2025-02-02",
+     "home": "Sparta",
+     "away": "Groningen",
+     "score": "1-0"
+    },
+    {
+     "date": "2024-11-09",
+     "home": "Groningen",
+     "away": "Sparta",
+     "score": "1-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "La Liga",
+   "fixtureId": 564733,
+   "kickoff": "2026-11-01T16:00:00+03:00",
+   "matchday": 11,
+   "home": {
+    "id": 82,
+    "name": "Getafe",
+    "fullName": "Getafe CF",
+    "table": {
+     "total": {
+      "position": 18,
+      "playedGames": 10,
+      "won": 2,
+      "draw": 3,
+      "lost": 5,
+      "points": 9,
+      "goalsFor": 5,
+      "goalsAgainst": 15
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLWLDL",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.0,
+      "away": 0.0,
+      "total": 0.5
+     },
+     "goalsAgainstAvg": {
+      "home": 0.6,
+      "away": 2.4,
+      "total": 1.5
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 0,
+      "total": 20
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 100,
+      "total": 50
+     },
+     "over25Pct": {
+      "home": 0,
+      "away": 60,
+      "total": 30
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 0,
+      "total": 30
+     }
+    }
+   },
+   "away": {
+    "id": 559,
+    "name": "Sevilla FC",
+    "fullName": "Sevilla FC",
+    "table": {
+     "total": {
+      "position": 6,
+      "playedGames": 10,
+      "won": 5,
+      "draw": 2,
+      "lost": 3,
+      "points": 17,
+      "goalsFor": 16,
+      "goalsAgainst": 16
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WWLDLW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.4,
+      "away": 1.8,
+      "total": 1.6
+     },
+     "goalsAgainstAvg": {
+      "home": 1.4,
+      "away": 1.8,
+      "total": 1.6
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 20,
+      "total": 30
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 60,
+      "away": 60,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 80,
+      "total": 70
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-02-22",
+     "home": "Getafe",
+     "away": "Sevilla FC",
+     "score": "0-1"
+    },
+    {
+     "date": "2025-08-25",
+     "home": "Sevilla FC",
+     "away": "Getafe",
+     "score": "1-2"
+    },
+    {
+     "date": "2025-02-01",
+     "home": "Getafe",
+     "away": "Sevilla FC",
+     "score": "0-0"
+    },
+    {
+     "date": "2024-09-14",
+     "home": "Sevilla FC",
+     "away": "Getafe",
+     "score": "1-0"
+    },
+    {
+     "date": "2024-03-30",
+     "home": "Getafe",
+     "away": "Sevilla FC",
+     "score": "0-1"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "La Liga",
+   "fixtureId": 564734,
+   "kickoff": "2026-11-01T18:15:00+03:00",
+   "matchday": 11,
+   "home": {
+    "id": 5335,
+    "name": "Santander",
+    "fullName": "Real Racing Club de Santander",
+    "table": {
+     "total": {
+      "position": 15,
+      "playedGames": 10,
+      "won": 3,
+      "draw": 2,
+      "lost": 5,
+      "points": 11,
+      "goalsFor": 15,
+      "goalsAgainst": 26
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WLLDLW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.2,
+      "away": 0.8,
+      "total": 1.5
+     },
+     "goalsAgainstAvg": {
+      "home": 1.6,
+      "away": 3.6,
+      "total": 2.6
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 60,
+      "total": 30
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 60,
+      "total": 80
+     },
+     "bttsPct": {
+      "home": 100,
+      "away": 40,
+      "total": 70
+     }
+    }
+   },
+   "away": {
+    "id": 86,
+    "name": "Real Madrid",
+    "fullName": "Real Madrid CF",
+    "table": {
+     "total": {
+      "position": 3,
+      "playedGames": 10,
+      "won": 8,
+      "draw": 0,
+      "lost": 2,
+      "points": 24,
+      "goalsFor": 25,
+      "goalsAgainst": 10
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LWWWWW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 3.0,
+      "away": 2.0,
+      "total": 2.5
+     },
+     "goalsAgainstAvg": {
+      "home": 0.8,
+      "away": 1.8,
+      "total": 1.3
+     },
+     "cleanSheetPct": {
+      "home": 20,
+      "away": 0,
+      "total": 10
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 20,
+      "total": 10
+     },
+     "over25Pct": {
+      "home": 80,
+      "away": 80,
+      "total": 80
+     },
+     "bttsPct": {
+      "home": 80,
+      "away": 80,
+      "total": 80
+     }
+    }
+   },
+   "h2h": [],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "La Liga",
+   "fixtureId": 564728,
+   "kickoff": "2026-11-01T20:30:00+03:00",
+   "matchday": 11,
+   "home": {
+    "id": 285,
+    "name": "Elche",
+    "fullName": "Elche CF",
+    "table": {
+     "total": {
+      "position": 16,
+      "playedGames": 10,
+      "won": 2,
+      "draw": 4,
+      "lost": 4,
+      "points": 10,
+      "goalsFor": 14,
+      "goalsAgainst": 17
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLWDDW",
+     "sample": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.0,
+      "away": 1.67,
+      "total": 1.4
+     },
+     "goalsAgainstAvg": {
+      "home": 2.75,
+      "away": 1.0,
+      "total": 1.7
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 33,
+      "total": 30
+     },
+     "failedToScorePct": {
+      "home": 50,
+      "away": 17,
+      "total": 30
+     },
+     "over25Pct": {
+      "home": 75,
+      "away": 50,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 67,
+      "total": 60
+     }
+    }
+   },
+   "away": {
+    "id": 95,
+    "name": "Valencia",
+    "fullName": "Valencia CF",
+    "table": {
+     "total": {
+      "position": 19,
+      "playedGames": 10,
+      "won": 1,
+      "draw": 3,
+      "lost": 6,
+      "points": 6,
+      "goalsFor": 7,
+      "goalsAgainst": 17
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LWLDDL",
+     "sample": {
+      "home": 6,
+      "away": 4,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 0.5,
+      "away": 1.0,
+      "total": 0.7
+     },
+     "goalsAgainstAvg": {
+      "home": 1.83,
+      "away": 1.5,
+      "total": 1.7
+     },
+     "cleanSheetPct": {
+      "home": 33,
+      "away": 25,
+      "total": 30
+     },
+     "failedToScorePct": {
+      "home": 67,
+      "away": 25,
+      "total": 50
+     },
+     "over25Pct": {
+      "home": 50,
+      "away": 50,
+      "total": 50
+     },
+     "bttsPct": {
+      "home": 33,
+      "away": 50,
+      "total": 40
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-04-11",
+     "home": "Elche",
+     "away": "Valencia",
+     "score": "1-0"
+    },
+    {
+     "date": "2026-01-10",
+     "home": "Valencia",
+     "away": "Elche",
+     "score": "1-1"
+    },
+    {
+     "date": "2023-04-23",
+     "home": "Elche",
+     "away": "Valencia",
+     "score": "0-2"
+    },
+    {
+     "date": "2022-10-15",
+     "home": "Valencia",
+     "away": "Elche",
+     "score": "2-2"
+    },
+    {
+     "date": "2022-03-19",
+     "home": "Elche",
+     "away": "Valencia",
+     "score": "0-1"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "La Liga",
+   "fixtureId": 564729,
+   "kickoff": "2026-11-01T23:00:00+03:00",
+   "matchday": 11,
+   "home": {
+    "id": 77,
+    "name": "Athletic",
+    "fullName": "Athletic Club",
+    "table": {
+     "total": {
+      "position": 7,
+      "playedGames": 9,
+      "won": 3,
+      "draw": 3,
+      "lost": 3,
+      "points": 12,
+      "goalsFor": 12,
+      "goalsAgainst": 9
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WDDDLW",
+     "sample": {
+      "home": 5,
+      "away": 4,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 1.8,
+      "away": 0.75,
+      "total": 1.33
+     },
+     "goalsAgainstAvg": {
+      "home": 0.8,
+      "away": 1.25,
+      "total": 1.0
+     },
+     "cleanSheetPct": {
+      "home": 60,
+      "away": 50,
+      "total": 56
+     },
+     "failedToScorePct": {
+      "home": 20,
+      "away": 50,
+      "total": 33
+     },
+     "over25Pct": {
+      "home": 60,
+      "away": 25,
+      "total": 44
+     },
+     "bttsPct": {
+      "home": 40,
+      "away": 25,
+      "total": 33
+     }
+    }
+   },
+   "away": {
+    "id": 92,
+    "name": "Real Sociedad",
+    "fullName": "Real Sociedad de Fútbol",
+    "table": {
+     "total": {
+      "position": 5,
+      "playedGames": 10,
+      "won": 6,
+      "draw": 1,
+      "lost": 3,
+      "points": 19,
+      "goalsFor": 19,
+      "goalsAgainst": 18
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WLWWWW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.4,
+      "away": 2.4,
+      "total": 1.9
+     },
+     "goalsAgainstAvg": {
+      "home": 1.4,
+      "away": 2.2,
+      "total": 1.8
+     },
+     "cleanSheetPct": {
+      "home": 20,
+      "away": 0,
+      "total": 10
+     },
+     "failedToScorePct": {
+      "home": 40,
+      "away": 20,
+      "total": 30
+     },
+     "over25Pct": {
+      "home": 80,
+      "away": 80,
+      "total": 80
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 80,
+      "total": 70
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-02-01",
+     "home": "Athletic",
+     "away": "Real Sociedad",
+     "score": "1-1"
+    },
+    {
+     "date": "2025-11-01",
+     "home": "Real Sociedad",
+     "away": "Athletic",
+     "score": "3-2"
+    },
+    {
+     "date": "2025-05-04",
+     "home": "Real Sociedad",
+     "away": "Athletic",
+     "score": "0-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558543,
+   "kickoff": "2026-11-01T14:30:00+03:00",
+   "matchday": 10,
+   "home": {
+    "id": 7397,
+    "name": "Como 1907",
+    "fullName": "Como 1907",
+    "table": {
+     "total": {
+      "position": 5,
+      "playedGames": 9,
+      "won": 6,
+      "draw": 2,
+      "lost": 1,
+      "points": 20,
+      "goalsFor": 17,
+      "goalsAgainst": 8
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLWWWW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.4,
+      "away": 2.4,
+      "total": 2.4
+     },
+     "goalsAgainstAvg": {
+      "home": 0.6,
+      "away": 1.6,
+      "total": 1.1
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 0,
+      "total": 20
+     },
+     "failedToScorePct": {
+      "home": 20,
+      "away": 20,
+      "total": 20
+     },
+     "over25Pct": {
+      "home": 60,
+      "away": 80,
+      "total": 70
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 80,
+      "total": 70
+     }
+    }
+   },
+   "away": {
+    "id": 454,
+    "name": "Venezia FC",
+    "fullName": "Venezia FC",
+    "table": {
+     "total": {
+      "position": 20,
+      "playedGames": 9,
+      "won": 1,
+      "draw": 0,
+      "lost": 8,
+      "points": 3,
+      "goalsFor": 6,
+      "goalsAgainst": 19
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LLLWLL",
+     "sample": {
+      "home": 5,
+      "away": 4,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 0.6,
+      "away": 0.75,
+      "total": 0.67
+     },
+     "goalsAgainstAvg": {
+      "home": 2.0,
+      "away": 2.25,
+      "total": 2.11
+     },
+     "cleanSheetPct": {
+      "home": 20,
+      "away": 0,
+      "total": 11
+     },
+     "failedToScorePct": {
+      "home": 60,
+      "away": 50,
+      "total": 56
+     },
+     "over25Pct": {
+      "home": 20,
+      "away": 50,
+      "total": 33
+     },
+     "bttsPct": {
+      "home": 20,
+      "away": 50,
+      "total": 33
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2025-03-08",
+     "home": "Como 1907",
+     "away": "Venezia FC",
+     "score": "1-1"
+    },
+    {
+     "date": "2024-12-08",
+     "home": "Venezia FC",
+     "away": "Como 1907",
+     "score": "2-2"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558544,
+   "kickoff": "2026-11-01T17:00:00+03:00",
+   "matchday": 10,
+   "home": {
+    "id": 470,
+    "name": "Frosinone",
+    "fullName": "Frosinone Calcio",
+    "table": {
+     "total": {
+      "position": 6,
+      "playedGames": 9,
+      "won": 5,
+      "draw": 2,
+      "lost": 2,
+      "points": 17,
+      "goalsFor": 22,
+      "goalsAgainst": 14
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DWLWDW",
+     "sample": {
+      "home": 5,
+      "away": 4,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 2.8,
+      "away": 2.0,
+      "total": 2.44
+     },
+     "goalsAgainstAvg": {
+      "home": 1.2,
+      "away": 2.0,
+      "total": 1.56
+     },
+     "cleanSheetPct": {
+      "home": 20,
+      "away": 25,
+      "total": 22
+     },
+     "failedToScorePct": {
+      "home": 20,
+      "away": 25,
+      "total": 22
+     },
+     "over25Pct": {
+      "home": 60,
+      "away": 75,
+      "total": 67
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 50,
+      "total": 56
+     }
+    }
+   },
+   "away": {
+    "id": 586,
+    "name": "Torino",
+    "fullName": "Torino FC",
+    "table": {
+     "total": {
+      "position": 10,
+      "playedGames": 9,
+      "won": 4,
+      "draw": 1,
+      "lost": 4,
+      "points": 13,
+      "goalsFor": 14,
+      "goalsAgainst": 14
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LDWWWL",
+     "sample": {
+      "home": 5,
+      "away": 4,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 1.4,
+      "away": 1.75,
+      "total": 1.56
+     },
+     "goalsAgainstAvg": {
+      "home": 2.0,
+      "away": 1.0,
+      "total": 1.56
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 25,
+      "total": 11
+     },
+     "failedToScorePct": {
+      "home": 20,
+      "away": 0,
+      "total": 11
+     },
+     "over25Pct": {
+      "home": 80,
+      "away": 75,
+      "total": 78
+     },
+     "bttsPct": {
+      "home": 80,
+      "away": 75,
+      "total": 78
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2024-04-21",
+     "home": "Torino",
+     "away": "Frosinone",
+     "score": "0-0"
+    },
+    {
+     "date": "2023-12-10",
+     "home": "Frosinone",
+     "away": "Torino",
+     "score": "0-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558546,
+   "kickoff": "2026-11-01T17:00:00+03:00",
+   "matchday": 10,
+   "home": {
+    "id": 110,
+    "name": "Lazio",
+    "fullName": "SS Lazio",
+    "table": {
+     "total": {
+      "position": 1,
+      "playedGames": 9,
+      "won": 8,
+      "draw": 1,
+      "lost": 0,
+      "points": 25,
+      "goalsFor": 22,
+      "goalsAgainst": 7
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DWWWWW",
+     "sample": {
+      "home": 4,
+      "away": 5,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 2.0,
+      "away": 2.8,
+      "total": 2.44
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 0.6,
+      "total": 0.78
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 60,
+      "total": 44
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 75,
+      "away": 60,
+      "total": 67
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 40,
+      "total": 56
+     }
+    }
+   },
+   "away": {
+    "id": 104,
+    "name": "Cagliari",
+    "fullName": "Cagliari Calcio",
+    "table": {
+     "total": {
+      "position": 11,
+      "playedGames": 9,
+      "won": 4,
+      "draw": 1,
+      "lost": 4,
+      "points": 13,
+      "goalsFor": 8,
+      "goalsAgainst": 13
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WWDLLL",
+     "sample": {
+      "home": 4,
+      "away": 5,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 0.5,
+      "away": 1.2,
+      "total": 0.89
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 1.8,
+      "total": 1.44
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 40,
+      "total": 33
+     },
+     "failedToScorePct": {
+      "home": 50,
+      "away": 20,
+      "total": 33
+     },
+     "over25Pct": {
+      "home": 0,
+      "away": 60,
+      "total": 33
+     },
+     "bttsPct": {
+      "home": 25,
+      "away": 40,
+      "total": 33
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-02-21",
+     "home": "Cagliari",
+     "away": "Lazio",
+     "score": "0-0"
+    },
+    {
+     "date": "2025-11-03",
+     "home": "Lazio",
+     "away": "Cagliari",
+     "score": "2-0"
+    },
+    {
+     "date": "2025-02-03",
+     "home": "Cagliari",
+     "away": "Lazio",
+     "score": "1-2"
+    },
+    {
+     "date": "2024-11-04",
+     "home": "Lazio",
+     "away": "Cagliari",
+     "score": "2-1"
+    },
+    {
+     "date": "2024-02-10",
+     "home": "Cagliari",
+     "away": "Lazio",
+     "score": "1-3"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558540,
+   "kickoff": "2026-11-01T20:00:00+03:00",
+   "matchday": 10,
+   "home": {
+    "id": 5890,
+    "name": "Lecce",
+    "fullName": "US Lecce",
+    "table": {
+     "total": {
+      "position": 14,
+      "playedGames": 9,
+      "won": 3,
+      "draw": 0,
+      "lost": 6,
+      "points": 9,
+      "goalsFor": 10,
+      "goalsAgainst": 19
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WLLWLL",
+     "sample": {
+      "home": 4,
+      "away": 5,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 1.0,
+      "away": 1.2,
+      "total": 1.11
+     },
+     "goalsAgainstAvg": {
+      "home": 2.5,
+      "away": 1.8,
+      "total": 2.11
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 40,
+      "total": 22
+     },
+     "failedToScorePct": {
+      "home": 50,
+      "away": 40,
+      "total": 44
+     },
+     "over25Pct": {
+      "home": 75,
+      "away": 60,
+      "total": 67
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 20,
+      "total": 33
+     }
+    }
+   },
+   "away": {
+    "id": 107,
+    "name": "Genoa",
+    "fullName": "Genoa CFC",
+    "table": {
+     "total": {
+      "position": 13,
+      "playedGames": 9,
+      "won": 3,
+      "draw": 1,
+      "lost": 5,
+      "points": 10,
+      "goalsFor": 8,
+      "goalsAgainst": 13
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "DLWLWW",
+     "sample": {
+      "home": 6,
+      "away": 3,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 1.17,
+      "away": 0.33,
+      "total": 0.89
+     },
+     "goalsAgainstAvg": {
+      "home": 1.33,
+      "away": 1.67,
+      "total": 1.44
+     },
+     "cleanSheetPct": {
+      "home": 33,
+      "away": 0,
+      "total": 22
+     },
+     "failedToScorePct": {
+      "home": 17,
+      "away": 67,
+      "total": 33
+     },
+     "over25Pct": {
+      "home": 33,
+      "away": 33,
+      "total": 33
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 33,
+      "total": 44
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-05-24",
+     "home": "Lecce",
+     "away": "Genoa",
+     "score": "1-0"
+    },
+    {
+     "date": "2025-08-23",
+     "home": "Genoa",
+     "away": "Lecce",
+     "score": "0-0"
+    },
+    {
+     "date": "2025-03-14",
+     "home": "Genoa",
+     "away": "Lecce",
+     "score": "2-1"
+    },
+    {
+     "date": "2025-01-05",
+     "home": "Lecce",
+     "away": "Genoa",
+     "score": "0-0"
+    },
+    {
+     "date": "2024-01-28",
+     "home": "Genoa",
+     "away": "Lecce",
+     "score": "2-1"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Serie A",
+   "fixtureId": 558547,
+   "kickoff": "2026-11-01T22:45:00+03:00",
+   "matchday": 10,
+   "home": {
+    "id": 109,
+    "name": "Juventus",
+    "fullName": "Juventus FC",
+    "table": {
+     "total": {
+      "position": 9,
+      "playedGames": 9,
+      "won": 4,
+      "draw": 2,
+      "lost": 3,
+      "points": 14,
+      "goalsFor": 11,
+      "goalsAgainst": 10
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LWDLWL",
+     "sample": {
+      "home": 4,
+      "away": 5,
+      "total": 9
+     },
+     "goalsForAvg": {
+      "home": 1.25,
+      "away": 1.2,
+      "total": 1.22
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 1.2,
+      "total": 1.11
+     },
+     "cleanSheetPct": {
+      "home": 50,
+      "away": 40,
+      "total": 44
+     },
+     "failedToScorePct": {
+      "home": 25,
+      "away": 20,
+      "total": 22
+     },
+     "over25Pct": {
+      "home": 25,
+      "away": 20,
+      "total": 22
+     },
+     "bttsPct": {
+      "home": 25,
+      "away": 40,
+      "total": 33
+     }
+    }
+   },
+   "away": {
+    "id": 113,
+    "name": "Napoli",
+    "fullName": "SSC Napoli",
+    "table": {
+     "total": {
+      "position": 7,
+      "playedGames": 9,
+      "won": 4,
+      "draw": 2,
+      "lost": 3,
+      "points": 14,
+      "goalsFor": 17,
+      "goalsAgainst": 11
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WLLWDW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.2,
+      "away": 1.6,
+      "total": 1.9
+     },
+     "goalsAgainstAvg": {
+      "home": 1.4,
+      "away": 1.8,
+      "total": 1.6
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 0,
+      "total": 20
+     },
+     "failedToScorePct": {
+      "home": 20,
+      "away": 20,
+      "total": 20
+     },
+     "over25Pct": {
+      "home": 60,
+      "away": 60,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 40,
+      "away": 80,
+      "total": 60
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-01-25",
+     "home": "Juventus",
+     "away": "Napoli",
+     "score": "3-0"
+    },
+    {
+     "date": "2025-12-07",
+     "home": "Napoli",
+     "away": "Juventus",
+     "score": "2-1"
+    },
+    {
+     "date": "2025-01-25",
+     "home": "Napoli",
+     "away": "Juventus",
+     "score": "2-1"
+    },
+    {
+     "date": "2024-09-21",
+     "home": "Juventus",
+     "away": "Napoli",
+     "score": "0-0"
+    },
+    {
+     "date": "2024-03-03",
+     "home": "Napoli",
+     "away": "Juventus",
+     "score": "2-1"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Bundesliga",
+   "fixtureId": 565841,
+   "kickoff": "2026-11-01T17:30:00+03:00",
+   "matchday": 8,
+   "home": {
+    "id": 28,
+    "name": "Union Berlin",
+    "fullName": "1. FC Union Berlin",
+    "table": {
+     "total": {
+      "position": 17,
+      "playedGames": 7,
+      "won": 1,
+      "draw": 3,
+      "lost": 3,
+      "points": 6,
+      "goalsFor": 6,
+      "goalsAgainst": 18
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LLLWDD",
+     "sample": {
+      "home": 4,
+      "away": 3,
+      "total": 7
+     },
+     "goalsForAvg": {
+      "home": 1.25,
+      "away": 0.33,
+      "total": 0.86
+     },
+     "goalsAgainstAvg": {
+      "home": 1.5,
+      "away": 4.0,
+      "total": 2.57
+     },
+     "cleanSheetPct": {
+      "home": 50,
+      "away": 0,
+      "total": 29
+     },
+     "failedToScorePct": {
+      "home": 25,
+      "away": 67,
+      "total": 43
+     },
+     "over25Pct": {
+      "home": 50,
+      "away": 67,
+      "total": 57
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 33,
+      "total": 43
+     }
+    }
+   },
+   "away": {
+    "id": 1,
+    "name": "1. FC Köln",
+    "fullName": "1. FC Köln",
+    "table": {
+     "total": {
+      "position": 14,
+      "playedGames": 7,
+      "won": 2,
+      "draw": 2,
+      "lost": 3,
+      "points": 8,
+      "goalsFor": 8,
+      "goalsAgainst": 11
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LDLWLD",
+     "sample": {
+      "home": 4,
+      "away": 3,
+      "total": 7
+     },
+     "goalsForAvg": {
+      "home": 1.5,
+      "away": 0.67,
+      "total": 1.14
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 2.33,
+      "total": 1.57
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 0,
+      "total": 14
+     },
+     "failedToScorePct": {
+      "home": 25,
+      "away": 33,
+      "total": 29
+     },
+     "over25Pct": {
+      "home": 50,
+      "away": 67,
+      "total": 57
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 67,
+      "total": 71
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-05-02",
+     "home": "Union Berlin",
+     "away": "1. FC Köln",
+     "score": "2-2"
+    },
+    {
+     "date": "2025-12-20",
+     "home": "1. FC Köln",
+     "away": "Union Berlin",
+     "score": "0-1"
+    },
+    {
+     "date": "2024-05-11",
+     "home": "1. FC Köln",
+     "away": "Union Berlin",
+     "score": "3-2"
+    },
+    {
+     "date": "2023-12-20",
+     "home": "Union Berlin",
+     "away": "1. FC Köln",
+     "score": "2-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Bundesliga",
+   "fixtureId": 565844,
+   "kickoff": "2026-11-01T19:30:00+03:00",
+   "matchday": 8,
+   "home": {
+    "id": 19,
+    "name": "Frankfurt",
+    "fullName": "Eintracht Frankfurt",
+    "table": {
+     "total": {
+      "position": 15,
+      "playedGames": 7,
+      "won": 2,
+      "draw": 2,
+      "lost": 3,
+      "points": 8,
+      "goalsFor": 10,
+      "goalsAgainst": 17
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LWDLWL",
+     "sample": {
+      "home": 3,
+      "away": 4,
+      "total": 7
+     },
+     "goalsForAvg": {
+      "home": 1.33,
+      "away": 1.5,
+      "total": 1.43
+     },
+     "goalsAgainstAvg": {
+      "home": 2.0,
+      "away": 2.75,
+      "total": 2.43
+     },
+     "cleanSheetPct": {
+      "home": 33,
+      "away": 0,
+      "total": 14
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 50,
+      "total": 29
+     },
+     "over25Pct": {
+      "home": 67,
+      "away": 75,
+      "total": 71
+     },
+     "bttsPct": {
+      "home": 67,
+      "away": 50,
+      "total": 57
+     }
+    }
+   },
+   "away": {
+    "id": 7,
+    "name": "HSV",
+    "fullName": "Hamburger SV",
+    "table": {
+     "total": {
+      "position": 13,
+      "playedGames": 7,
+      "won": 3,
+      "draw": 0,
+      "lost": 4,
+      "points": 9,
+      "goalsFor": 6,
+      "goalsAgainst": 16
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LLWWWL",
+     "sample": {
+      "home": 3,
+      "away": 4,
+      "total": 7
+     },
+     "goalsForAvg": {
+      "home": 1.0,
+      "away": 0.75,
+      "total": 0.86
+     },
+     "goalsAgainstAvg": {
+      "home": 2.0,
+      "away": 2.5,
+      "total": 2.29
+     },
+     "cleanSheetPct": {
+      "home": 33,
+      "away": 0,
+      "total": 14
+     },
+     "failedToScorePct": {
+      "home": 33,
+      "away": 75,
+      "total": 57
+     },
+     "over25Pct": {
+      "home": 67,
+      "away": 50,
+      "total": 57
+     },
+     "bttsPct": {
+      "home": 33,
+      "away": 25,
+      "total": 29
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-05-02",
+     "home": "Frankfurt",
+     "away": "HSV",
+     "score": "1-2"
+    },
+    {
+     "date": "2025-12-20",
+     "home": "HSV",
+     "away": "Frankfurt",
+     "score": "1-1"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Ligue 1",
+   "fixtureId": 559647,
+   "kickoff": "2026-11-01T17:00:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 576,
+    "name": "Strasbourg",
+    "fullName": "RC Strasbourg Alsace",
+    "table": {
+     "total": {
+      "position": 16,
+      "playedGames": 8,
+      "won": 2,
+      "draw": 1,
+      "lost": 5,
+      "points": 7,
+      "goalsFor": 12,
+      "goalsAgainst": 18
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WDLLLL",
+     "sample": {
+      "home": 3,
+      "away": 5,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 1.33,
+      "away": 1.6,
+      "total": 1.5
+     },
+     "goalsAgainstAvg": {
+      "home": 1.67,
+      "away": 2.6,
+      "total": 2.25
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 40,
+      "total": 25
+     },
+     "over25Pct": {
+      "home": 67,
+      "away": 100,
+      "total": 88
+     },
+     "bttsPct": {
+      "home": 100,
+      "away": 60,
+      "total": 75
+     }
+    }
+   },
+   "away": {
+    "id": 519,
+    "name": "Auxerre",
+    "fullName": "AJ Auxerre",
+    "table": {
+     "total": {
+      "position": 12,
+      "playedGames": 8,
+      "won": 3,
+      "draw": 1,
+      "lost": 4,
+      "points": 10,
+      "goalsFor": 12,
+      "goalsAgainst": 18
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LWWLWD",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 1.25,
+      "away": 1.75,
+      "total": 1.5
+     },
+     "goalsAgainstAvg": {
+      "home": 1.25,
+      "away": 3.25,
+      "total": 2.25
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 0,
+      "total": 12
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 50,
+      "away": 100,
+      "total": 75
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 100,
+      "total": 88
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-03-07",
+     "home": "Auxerre",
+     "away": "Strasbourg",
+     "score": "0-0"
+    },
+    {
+     "date": "2025-10-29",
+     "home": "Strasbourg",
+     "away": "Auxerre",
+     "score": "3-0"
+    },
+    {
+     "date": "2025-03-02",
+     "home": "Auxerre",
+     "away": "Strasbourg",
+     "score": "0-1"
+    },
+    {
+     "date": "2025-01-05",
+     "home": "Strasbourg",
+     "away": "Auxerre",
+     "score": "3-1"
+    },
+    {
+     "date": "2023-03-19",
+     "home": "Strasbourg",
+     "away": "Auxerre",
+     "score": "2-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Ligue 1",
+   "fixtureId": 559640,
+   "kickoff": "2026-11-01T19:15:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 523,
+    "name": "Olympique Lyon",
+    "fullName": "Olympique Lyonnais",
+    "table": {
+     "total": {
+      "position": 5,
+      "playedGames": 8,
+      "won": 4,
+      "draw": 2,
+      "lost": 2,
+      "points": 14,
+      "goalsFor": 13,
+      "goalsAgainst": 7
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WDWLWL",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 2.5,
+      "away": 0.75,
+      "total": 1.62
+     },
+     "goalsAgainstAvg": {
+      "home": 0.75,
+      "away": 1.0,
+      "total": 0.88
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 50,
+      "total": 38
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 50,
+      "total": 25
+     },
+     "over25Pct": {
+      "home": 75,
+      "away": 25,
+      "total": 50
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 25,
+      "total": 50
+     }
+    }
+   },
+   "away": {
+    "id": 532,
+    "name": "Angers SCO",
+    "fullName": "Angers SCO",
+    "table": {
+     "total": {
+      "position": 14,
+      "playedGames": 8,
+      "won": 2,
+      "draw": 2,
+      "lost": 4,
+      "points": 8,
+      "goalsFor": 9,
+      "goalsAgainst": 15
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LDWLLD",
+     "sample": {
+      "home": 5,
+      "away": 3,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 1.0,
+      "away": 1.33,
+      "total": 1.12
+     },
+     "goalsAgainstAvg": {
+      "home": 1.8,
+      "away": 2.0,
+      "total": 1.88
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 33,
+      "total": 38
+     },
+     "failedToScorePct": {
+      "home": 40,
+      "away": 33,
+      "total": 38
+     },
+     "over25Pct": {
+      "home": 40,
+      "away": 67,
+      "total": 50
+     },
+     "bttsPct": {
+      "home": 40,
+      "away": 67,
+      "total": 50
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-04-05",
+     "home": "Angers SCO",
+     "away": "Olympique Lyon",
+     "score": "0-0"
+    },
+    {
+     "date": "2025-09-19",
+     "home": "Olympique Lyon",
+     "away": "Angers SCO",
+     "score": "1-0"
+    },
+    {
+     "date": "2025-05-17",
+     "home": "Olympique Lyon",
+     "away": "Angers SCO",
+     "score": "2-0"
+    },
+    {
+     "date": "2024-12-07",
+     "home": "Angers SCO",
+     "away": "Olympique Lyon",
+     "score": "0-3"
+    },
+    {
+     "date": "2023-02-25",
+     "home": "Angers SCO",
+     "away": "Olympique Lyon",
+     "score": "1-3"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Ligue 1",
+   "fixtureId": 559642,
+   "kickoff": "2026-11-01T19:15:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 1045,
+    "name": "Paris FC",
+    "fullName": "Paris FC",
+    "table": {
+     "total": {
+      "position": 6,
+      "playedGames": 8,
+      "won": 4,
+      "draw": 2,
+      "lost": 2,
+      "points": 14,
+      "goalsFor": 13,
+      "goalsAgainst": 9
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WDWLWL",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 2.25,
+      "away": 1.0,
+      "total": 1.62
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 1.25,
+      "total": 1.12
+     },
+     "cleanSheetPct": {
+      "home": 50,
+      "away": 25,
+      "total": 38
+     },
+     "failedToScorePct": {
+      "home": 25,
+      "away": 50,
+      "total": 38
+     },
+     "over25Pct": {
+      "home": 75,
+      "away": 50,
+      "total": 62
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 50,
+      "total": 50
+     }
+    }
+   },
+   "away": {
+    "id": 548,
+    "name": "Monaco",
+    "fullName": "AS Monaco FC",
+    "table": {
+     "total": {
+      "position": 4,
+      "playedGames": 8,
+      "won": 4,
+      "draw": 3,
+      "lost": 1,
+      "points": 15,
+      "goalsFor": 11,
+      "goalsAgainst": 7
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "WDWDLD",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 1.75,
+      "away": 1.0,
+      "total": 1.38
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 0.75,
+      "total": 0.88
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 25,
+      "total": 25
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 25,
+      "total": 12
+     },
+     "over25Pct": {
+      "home": 50,
+      "away": 25,
+      "total": 38
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 50,
+      "total": 62
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-04-10",
+     "home": "Paris FC",
+     "away": "Monaco",
+     "score": "4-1"
+    },
+    {
+     "date": "2025-11-01",
+     "home": "Monaco",
+     "away": "Paris FC",
+     "score": "0-1"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Ligue 1",
+   "fixtureId": 559645,
+   "kickoff": "2026-11-01T22:45:00+03:00",
+   "matchday": 9,
+   "home": {
+    "id": 516,
+    "name": "Marseille",
+    "fullName": "Olympique de Marseille",
+    "table": {
+     "total": {
+      "position": 9,
+      "playedGames": 8,
+      "won": 4,
+      "draw": 0,
+      "lost": 4,
+      "points": 12,
+      "goalsFor": 18,
+      "goalsAgainst": 13
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LLLWWW",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 2.75,
+      "away": 1.75,
+      "total": 2.25
+     },
+     "goalsAgainstAvg": {
+      "home": 2.0,
+      "away": 1.25,
+      "total": 1.62
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 25,
+      "total": 25
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 50,
+      "total": 25
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 25,
+      "total": 62
+     },
+     "bttsPct": {
+      "home": 75,
+      "away": 25,
+      "total": 50
+     }
+    }
+   },
+   "away": {
+    "id": 511,
+    "name": "Toulouse",
+    "fullName": "Toulouse FC",
+    "table": {
+     "total": {
+      "position": 11,
+      "playedGames": 8,
+      "won": 2,
+      "draw": 4,
+      "lost": 2,
+      "points": 10,
+      "goalsFor": 12,
+      "goalsAgainst": 11
+     },
+     "form": null
+    },
+    "stats": {
+     "form": "LDWDWD",
+     "sample": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+     },
+     "goalsForAvg": {
+      "home": 0.75,
+      "away": 2.25,
+      "total": 1.5
+     },
+     "goalsAgainstAvg": {
+      "home": 1.25,
+      "away": 1.5,
+      "total": 1.38
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 25,
+      "total": 25
+     },
+     "failedToScorePct": {
+      "home": 75,
+      "away": 0,
+      "total": 38
+     },
+     "over25Pct": {
+      "home": 25,
+      "away": 100,
+      "total": 62
+     },
+     "bttsPct": {
+      "home": 25,
+      "away": 75,
+      "total": 50
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2026-03-07",
+     "home": "Toulouse",
+     "away": "Marseille",
+     "score": "0-1"
+    },
+    {
+     "date": "2025-11-29",
+     "home": "Marseille",
+     "away": "Toulouse",
+     "score": "2-2"
+    },
+    {
+     "date": "2025-04-06",
+     "home": "Marseille",
+     "away": "Toulouse",
+     "score": "3-2"
+    },
+    {
+     "date": "2024-08-31",
+     "home": "Toulouse",
+     "away": "Marseille",
+     "score": "1-3"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  }
+ ]
+}
