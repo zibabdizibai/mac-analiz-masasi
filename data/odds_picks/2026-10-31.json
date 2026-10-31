@@ -334,7 +334,27 @@
     },
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    null,
+    {
+     "median": 1.95,
+     "best": 2.04,
+     "bestBook": "Betfair",
+     "pinnacle": 2.0,
+     "books": 24,
+     "at": 1793476757118
+    },
+    {
+     "median": 2.16,
+     "best": 2.2,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 15,
+     "at": 1793476757118
+    },
+    null
+   ]
   },
   "futbol-2026-10-31-levante-atletico-madrid": {
    "sportKey": "soccer_spain_la_liga",
@@ -440,7 +460,19 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.51,
+     "best": 1.51,
+     "bestBook": "Marathon Bet",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793476757118
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-10-31-udinese-roma": {
    "sportKey": "soccer_italy_serie_a",
@@ -746,8 +778,35 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.45,
+     "best": 1.47,
+     "bestBook": "Nordic Bet",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793476757118
+    },
+    {
+     "median": 1.908,
+     "best": 2.04,
+     "bestBook": "BetOnline.ag",
+     "pinnacle": 2.016,
+     "books": 22,
+     "at": 1793476757118
+    },
+    {
+     "median": 2.1,
+     "best": 2.34,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793476757118
+    }
+   ]
   }
  },
- "updatedAt": 1793474880656
+ "updatedAt": 1793476757118
 }
