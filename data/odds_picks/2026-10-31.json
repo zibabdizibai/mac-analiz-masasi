@@ -536,7 +536,34 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.806,
+     "best": 1.901,
+     "bestBook": "1xBet",
+     "pinnacle": 1.871,
+     "books": 23,
+     "at": 1793474880656
+    },
+    {
+     "median": 1.76,
+     "best": 1.87,
+     "bestBook": "Coolbet",
+     "pinnacle": null,
+     "books": 15,
+     "at": 1793474880656
+    },
+    {
+     "median": 3.5,
+     "best": 3.71,
+     "bestBook": "1xBet",
+     "pinnacle": 3.64,
+     "books": 23,
+     "at": 1793474880656
+    }
+   ]
   },
   "futbol-2026-10-31-bayer-leverkusen-stuttgart": {
    "sportKey": "soccer_germany_bundesliga",
@@ -722,5 +749,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793466019532
+ "updatedAt": 1793474880656
 }
