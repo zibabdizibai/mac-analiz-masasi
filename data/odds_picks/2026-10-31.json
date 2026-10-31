@@ -116,7 +116,34 @@
      "value": false
     }
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.48,
+     "best": 1.49,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793461622318
+    },
+    null,
+    {
+     "median": 2.536,
+     "best": 2.768,
+     "bestBook": "BetOnline.ag",
+     "pinnacle": 2.648,
+     "books": 21,
+     "at": 1793461622318
+    },
+    {
+     "median": 2.28,
+     "best": 2.44,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 10,
+     "at": 1793461622318
+    }
+   ]
   },
   "basketbol-2026-10-31-korfez-basket-trabzonspor": {
    "sportKey": "soccer_turkey_super_league",
@@ -675,5 +702,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793459667502
+ "updatedAt": 1793461622628
 }
