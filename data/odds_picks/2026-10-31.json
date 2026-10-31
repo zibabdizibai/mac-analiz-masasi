@@ -473,7 +473,27 @@
     },
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    null,
+    {
+     "median": 2.4,
+     "best": 2.48,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793466018906
+    },
+    {
+     "median": 1.51,
+     "best": 1.59,
+     "bestBook": "GTbets",
+     "pinnacle": 1.54,
+     "books": 23,
+     "at": 1793466018906
+    },
+    null
+   ]
   },
   "futbol-2026-10-31-milan-inter": {
    "sportKey": "soccer_italy_serie_a",
@@ -702,5 +722,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793463834535
+ "updatedAt": 1793466019532
 }
