@@ -1,0 +1,513 @@
+{
+ "day": "2026-11-01",
+ "matches": {
+  "futbol-2026-11-01-amedspor-eyupspor": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "5706f8b2f4d8a94519bbea0efc91e36b",
+   "apiHome": "Amed SK",
+   "apiAway": "Eyüpspor",
+   "open": [
+    {
+     "median": 1.57,
+     "best": 1.65,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793512104306,
+     "prob": 0.56,
+     "ev": -0.121,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-trabzonspor-gaziantep-fk": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "cd2960ff2b4d605144a83562b0085400",
+   "apiHome": "Trabzonspor",
+   "apiAway": "Gazişehir Gaziantep",
+   "open": [
+    {
+     "median": 1.33,
+     "best": 1.33,
+     "bestBook": "Nordic Bet",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1793512104306,
+     "prob": 0.58,
+     "ev": -0.229,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-basaksehir-samsunspor": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "f4e049de3ce6858d46dd45ab5cfa0e8c",
+   "apiHome": "Basaksehir",
+   "apiAway": "Samsunspor",
+   "open": [
+    {
+     "median": 1.78,
+     "best": 1.85,
+     "bestBook": "1xBet",
+     "pinnacle": 1.8,
+     "books": 21,
+     "at": 1793512104306,
+     "prob": 0.55,
+     "ev": -0.021,
+     "value": false
+    },
+    {
+     "median": 1.57,
+     "best": 1.66,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793512104306,
+     "prob": 0.55,
+     "ev": -0.136,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-kasimpasa-besiktas": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "bf609ced8c6472e7d11428e42a2e468e",
+   "apiHome": "Kasimpasa SK",
+   "apiAway": "Besiktas JK",
+   "open": [
+    {
+     "median": 2.343,
+     "best": 2.585,
+     "bestBook": "Betfair",
+     "pinnacle": 2.477,
+     "books": 21,
+     "at": 1793512104306,
+     "prob": 0.42,
+     "ev": -0.016,
+     "value": false
+    },
+    {
+     "median": 2.2,
+     "best": 2.25,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793512104306,
+     "prob": 0.47,
+     "ev": 0.034,
+     "value": false
+    },
+    {
+     "median": 4.2,
+     "best": 4.6,
+     "bestBook": "Betfair",
+     "pinnacle": 4.37,
+     "books": 21,
+     "at": 1793512104306,
+     "prob": 0.28,
+     "ev": 0.176,
+     "value": true
+    }
+   ],
+   "pass": false
+  },
+  "basketbol-2026-11-01-esenler-erokspor-turk-telekom": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-11-01-fenerbahce-tofas": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-11-01-bursaspor-karsiyaka": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "futbol-2026-11-01-liverpool-arsenal": {
+   "sportKey": "soccer_epl",
+   "eventId": "6a3819cdbe2ba2fe5a3d8f9b4b459965",
+   "apiHome": "Liverpool",
+   "apiAway": "Arsenal",
+   "open": [
+    {
+     "median": 1.935,
+     "best": 2.04,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.99,
+     "books": 18,
+     "at": 1793512104306,
+     "prob": 0.56,
+     "ev": 0.084,
+     "value": true
+    },
+    {
+     "median": 1.55,
+     "best": 1.653,
+     "bestBook": "1xBet",
+     "pinnacle": 1.576,
+     "books": 25,
+     "at": 1793512104306,
+     "prob": 0.58,
+     "ev": -0.101,
+     "value": false
+    },
+    null,
+    {
+     "median": 3.4,
+     "best": 3.54,
+     "bestBook": "1xBet",
+     "pinnacle": 3.41,
+     "books": 25,
+     "at": 1793512104306,
+     "prob": 0.3,
+     "ev": 0.02,
+     "value": false
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-01-getafe-sevilla": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "ddcc9a51a2d7368e055d1abefacdb74e",
+   "apiHome": "Getafe",
+   "apiAway": "Sevilla",
+   "open": [
+    {
+     "median": 1.47,
+     "best": 1.48,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793512104306,
+     "prob": 0.62,
+     "ev": -0.089,
+     "value": false
+    },
+    {
+     "median": 1.587,
+     "best": 1.651,
+     "bestBook": "Betfair",
+     "pinnacle": 1.618,
+     "books": 21,
+     "at": 1793512104306,
+     "prob": 0.6,
+     "ev": -0.048,
+     "value": false
+    },
+    {
+     "median": 3.0,
+     "best": 3.13,
+     "bestBook": "1xBet",
+     "pinnacle": 3.04,
+     "books": 21,
+     "at": 1793512104306,
+     "prob": 0.31,
+     "ev": -0.07,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-racing-santander-real-madrid": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "6c520ed959578ca3aebe351ee3765d53",
+   "apiHome": "Real Racing Club de Santander",
+   "apiAway": "Real Madrid",
+   "open": [
+    null,
+    {
+     "median": 1.57,
+     "best": 1.57,
+     "bestBook": "Marathon Bet",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793512104306,
+     "prob": 0.55,
+     "ev": -0.136,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-athletic-bilbao-real-sociedad": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "3757bcd765c7da1538cdf2785e784038",
+   "apiHome": "Athletic Bilbao",
+   "apiAway": "Real Sociedad",
+   "open": [
+    {
+     "median": 1.511,
+     "best": 1.642,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 1.546,
+     "books": 21,
+     "at": 1793512104306,
+     "prob": 0.45,
+     "ev": -0.32,
+     "value": false
+    },
+    {
+     "median": 1.7,
+     "best": 1.78,
+     "bestBook": "Coolbet",
+     "pinnacle": null,
+     "books": 13,
+     "at": 1793512104306,
+     "prob": 0.52,
+     "ev": -0.116,
+     "value": false
+    },
+    {
+     "median": 3.6,
+     "best": 3.77,
+     "bestBook": "1xBet",
+     "pinnacle": 3.6,
+     "books": 21,
+     "at": 1793512104306,
+     "prob": 0.27,
+     "ev": -0.028,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-como-venezia": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "9507f4bcbcfd4e4953720628a2b86a17",
+   "apiHome": "Como",
+   "apiAway": "Venezia",
+   "open": [
+    null,
+    null,
+    {
+     "median": 1.37,
+     "best": 1.39,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793512104306,
+     "prob": 0.52,
+     "ev": -0.288,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-lazio-cagliari": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "3f9f4bc9a19bf36dcb74be2f29610d55",
+   "apiHome": "Lazio",
+   "apiAway": "Cagliari",
+   "open": [
+    {
+     "median": 1.82,
+     "best": 1.86,
+     "bestBook": "1xBet",
+     "pinnacle": 1.83,
+     "books": 17,
+     "at": 1793512104306,
+     "prob": 0.58,
+     "ev": 0.056,
+     "value": true
+    },
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-01-juventus-napoli": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "aeadf1388a1075328536501576b3d550",
+   "apiHome": "Juventus",
+   "apiAway": "Napoli",
+   "open": [
+    {
+     "median": 1.83,
+     "best": 1.91,
+     "bestBook": "1xBet",
+     "pinnacle": 1.88,
+     "books": 17,
+     "at": 1793512104306,
+     "prob": 0.57,
+     "ev": 0.043,
+     "value": false
+    },
+    {
+     "median": 1.606,
+     "best": 1.712,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.622,
+     "books": 24,
+     "at": 1793512104306,
+     "prob": 0.5,
+     "ev": -0.197,
+     "value": false
+    },
+    {
+     "median": 3.245,
+     "best": 3.4,
+     "bestBook": "1xBet",
+     "pinnacle": 3.32,
+     "books": 24,
+     "at": 1793512104306,
+     "prob": 0.3,
+     "ev": -0.026,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-eintracht-frankfurt-hamburger-sv": {
+   "sportKey": "soccer_germany_bundesliga",
+   "eventId": "1eb5e1a69ae9dd9edd92fde344308a4e",
+   "apiHome": "Eintracht Frankfurt",
+   "apiAway": "Hamburger SV",
+   "open": [
+    {
+     "median": 1.4,
+     "best": 1.41,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793512104306,
+     "prob": 0.57,
+     "ev": -0.202,
+     "value": false
+    },
+    null,
+    {
+     "median": 1.53,
+     "best": 1.6,
+     "bestBook": "GTbets",
+     "pinnacle": 1.54,
+     "books": 23,
+     "at": 1793512104306,
+     "prob": 0.54,
+     "ev": -0.174,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-lyon-angers": {
+   "sportKey": "soccer_france_ligue_one",
+   "eventId": "961df571fad52d969150e9ced52b16f7",
+   "apiHome": "Lyon",
+   "apiAway": "Angers",
+   "open": [
+    null,
+    {
+     "median": 1.55,
+     "best": 1.64,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 9,
+     "at": 1793512104306,
+     "prob": 0.53,
+     "ev": -0.178,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-paris-fc-monaco": {
+   "sportKey": "soccer_france_ligue_one",
+   "eventId": "cf3a2e2b4a4e9815d1d0be8dcef916da",
+   "apiHome": "Paris FC",
+   "apiAway": "AS Monaco",
+   "open": [
+    {
+     "median": 1.724,
+     "best": 1.868,
+     "bestBook": "Betfair",
+     "pinnacle": 1.813,
+     "books": 22,
+     "at": 1793512104306,
+     "prob": 0.42,
+     "ev": -0.276,
+     "value": false
+    },
+    {
+     "median": 1.8,
+     "best": 1.88,
+     "bestBook": "1xBet",
+     "pinnacle": 1.85,
+     "books": 15,
+     "at": 1793512104306,
+     "prob": 0.5,
+     "ev": -0.1,
+     "value": false
+    },
+    {
+     "median": 3.495,
+     "best": 3.63,
+     "bestBook": "1xBet",
+     "pinnacle": 3.53,
+     "books": 22,
+     "at": 1793512104306,
+     "prob": 0.27,
+     "ev": -0.056,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-01-marseille-toulouse": {
+   "sportKey": "soccer_france_ligue_one",
+   "eventId": "df1e1589c51bbcac432125567d1f7c58",
+   "apiHome": "Marseille",
+   "apiAway": "Toulouse",
+   "open": [
+    {
+     "median": 1.53,
+     "best": 1.57,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": null,
+     "books": 7,
+     "at": 1793512104306,
+     "prob": 0.64,
+     "ev": -0.021,
+     "value": false
+    },
+    null,
+    {
+     "median": 1.95,
+     "best": 2.04,
+     "bestBook": "1xBet",
+     "pinnacle": 1.95,
+     "books": 22,
+     "at": 1793512104306,
+     "prob": 0.46,
+     "ev": -0.103,
+     "value": false
+    },
+    {
+     "median": 2.3,
+     "best": 2.42,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 5,
+     "at": 1793512104306,
+     "prob": 0.43,
+     "ev": -0.011,
+     "value": false
+    }
+   ],
+   "pass": true
+  }
+ },
+ "updatedAt": 1793512104306
+}
