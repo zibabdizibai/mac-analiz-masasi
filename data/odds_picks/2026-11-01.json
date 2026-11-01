@@ -21,7 +21,19 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.59,
+     "best": 1.65,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793528784381
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-11-01-trabzonspor-gaziantep-fk": {
    "sportKey": "soccer_turkey_super_league",
@@ -509,5 +521,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793526767044
+ "updatedAt": 1793528784850
 }
