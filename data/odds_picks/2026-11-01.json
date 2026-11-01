@@ -234,7 +234,34 @@
      "value": false
     }
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 2.12,
+     "best": 2.32,
+     "bestBook": "BetOnline.ag",
+     "pinnacle": null,
+     "books": 16,
+     "at": 1793549676556
+    },
+    {
+     "median": 1.599,
+     "best": 1.683,
+     "bestBook": "1xBet",
+     "pinnacle": 1.638,
+     "books": 24,
+     "at": 1793549676556
+    },
+    null,
+    {
+     "median": 3.45,
+     "best": 3.6,
+     "bestBook": "Matchbook",
+     "pinnacle": 3.5,
+     "books": 24,
+     "at": 1793549676556
+    }
+   ]
   },
   "futbol-2026-11-01-getafe-sevilla": {
    "sportKey": "soccer_spain_la_liga",
@@ -513,7 +540,27 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.4,
+     "best": 1.42,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793549676556
+    },
+    null,
+    {
+     "median": 1.5,
+     "best": 1.56,
+     "bestBook": "Coolbet",
+     "pinnacle": 1.51,
+     "books": 22,
+     "at": 1793549676556
+    },
+    null
+   ]
   },
   "futbol-2026-11-01-lyon-angers": {
    "sportKey": "soccer_france_ligue_one",
@@ -535,7 +582,19 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.67,
+     "best": 1.73,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793549676556
+    },
+    null
+   ]
   },
   "futbol-2026-11-01-paris-fc-monaco": {
    "sportKey": "soccer_france_ligue_one",
@@ -577,7 +636,33 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.729,
+     "best": 1.888,
+     "bestBook": "Betfair",
+     "pinnacle": 1.826,
+     "books": 21,
+     "at": 1793549676556
+    },
+    {
+     "median": 1.775,
+     "best": 1.89,
+     "bestBook": "BetOnline.ag",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1793549676556
+    },
+    {
+     "median": 3.49,
+     "best": 3.65,
+     "bestBook": "Betfair",
+     "pinnacle": 3.52,
+     "books": 21,
+     "at": 1793549676556
+    }
+   ]
   },
   "futbol-2026-11-01-marseille-toulouse": {
    "sportKey": "soccer_france_ligue_one",
@@ -623,5 +708,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793547618145
+ "updatedAt": 1793549676556
 }
