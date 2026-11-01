@@ -153,7 +153,33 @@
      "value": true
     }
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 2.374,
+     "best": 2.636,
+     "bestBook": "Betfair",
+     "pinnacle": 2.537,
+     "books": 21,
+     "at": 1793547618145
+    },
+    {
+     "median": 2.245,
+     "best": 2.42,
+     "bestBook": "Nordic Bet",
+     "pinnacle": null,
+     "books": 8,
+     "at": 1793547618145
+    },
+    {
+     "median": 4.35,
+     "best": 4.7,
+     "bestBook": "Betfair",
+     "pinnacle": 4.61,
+     "books": 21,
+     "at": 1793547618145
+    }
+   ]
   },
   "basketbol-2026-11-01-esenler-erokspor-turk-telekom": {
    "sportKey": "soccer_turkey_super_league",
@@ -597,5 +623,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793545223567
+ "updatedAt": 1793547618145
 }
