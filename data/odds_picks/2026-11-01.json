@@ -409,7 +409,33 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.429,
+     "best": 1.503,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.484,
+     "books": 20,
+     "at": 1793562482488
+    },
+    {
+     "median": 1.77,
+     "best": 1.82,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": null,
+     "books": 13,
+     "at": 1793562482488
+    },
+    {
+     "median": 3.6,
+     "best": 3.8,
+     "bestBook": "1xBet",
+     "pinnacle": 3.72,
+     "books": 20,
+     "at": 1793562482488
+    }
+   ]
   },
   "futbol-2026-11-01-como-venezia": {
    "sportKey": "soccer_italy_serie_a",
@@ -507,7 +533,33 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.9,
+     "best": 2.13,
+     "bestBook": "1xBet",
+     "pinnacle": 2.06,
+     "books": 17,
+     "at": 1793562482488
+    },
+    {
+     "median": 1.623,
+     "best": 1.725,
+     "bestBook": "BetOnline.ag",
+     "pinnacle": 1.717,
+     "books": 23,
+     "at": 1793562482488
+    },
+    {
+     "median": 3.3,
+     "best": 3.5,
+     "bestBook": "Marathon Bet",
+     "pinnacle": 3.45,
+     "books": 23,
+     "at": 1793562482488
+    }
+   ]
   },
   "futbol-2026-11-01-eintracht-frankfurt-hamburger-sv": {
    "sportKey": "soccer_germany_bundesliga",
@@ -705,8 +757,35 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.53,
+     "best": 1.53,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1793562482488
+    },
+    null,
+    {
+     "median": 1.75,
+     "best": 1.94,
+     "bestBook": "BetOnline.ag",
+     "pinnacle": 1.93,
+     "books": 21,
+     "at": 1793562482488
+    },
+    {
+     "median": 2.17,
+     "best": 2.4,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 7,
+     "at": 1793562482488
+    }
+   ]
   }
  },
- "updatedAt": 1793549676556
+ "updatedAt": 1793562482488
 }
