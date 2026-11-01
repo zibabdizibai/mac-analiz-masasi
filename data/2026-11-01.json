@@ -1,0 +1,4099 @@
+{
+ "day": "2026-11-01",
+ "updatedAt": 1793512092085,
+ "analyses": {
+  "basketbol-2026-11-01-baskonia-manresa": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Baskonia 1.15 – Manresa 5.50",
+      "site": "Fortebet (piyasa oranı)",
+      "url": "https://www.fortebet.rw/static/pdf/full_offer.pdf"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Net reyting: Baskonia +11.4, Manresa -20.8",
+      "site": "TeamKeys (lig analizi)",
+      "url": "https://teamkeys.net/en/leagues/liga-endesa-acb/"
+     }
+    ],
+    "consensus": "Piyasa ve istatistikler Baskonia'yı açık favori görüyor; Baskonia'nın kötü serisi ve eksikleri farkın büyüklüğünü belirsiz kılıyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Baskonia iç sahada ligde 2-0, galibiyetleri 118-78 ve 93-73 ile geldi."
+     },
+     {
+      "side": "home",
+      "text": "Manresa ligde 0-5, 423 atıp 511 yedi (-88), ligin en kötü net reytingi (-20.8)."
+     },
+     {
+      "side": "home",
+      "text": "Baskonia Buesa Arena'da Manresa'ya karşı son 6 maçı kazandı; son karşılaşma 130-85."
+     },
+     {
+      "side": "away",
+      "text": "Baskonia tüm kulvarlarda art arda kaybediyor ve cuma Lyon'da oynadıktan sonra kısa dinlenmeyle sahaya çıkıyor."
+     },
+     {
+      "side": "away",
+      "text": "Manresa EuroCup'ta Roma'yı 108-88 ve Balkan'ı 76-65 yenerek son iki maçını kazandı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Baskonia'da Sedekerskis kas sakatlığından dolayı yok; Kurucs ve Duarte de gelecek hafta dönmesi beklenen isimler. Kobi Simmons geri döndü.",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Manresa'da Rafa Villar ve Timmy Allen yok; Chibuzo Agbo, Hugo Benítez ve Gerard Fernández şüpheli.",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "impact": "orta",
+      "text": "Baskonia 27 Ekim'de Real Madrid'e evinde 86-104 kaybetti ve maçta yalnızca dokuz oyuncusu vardı; taraftar yönetimi protesto etti.",
+      "url": "https://www.solobasket.com/euroliga/real-madrid-gana-baskonia-maledon-pedro-martinez"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -11.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 53,
+      "market": "Baskonia -11.5 Handikap",
+      "prob": 0.54,
+      "reason": "Baskonia'nın iki iç saha lig galibiyeti 40 ve 20 farkla geldi; Manresa ortalama 17.6 sayı farkla kaybediyor ve rotasyonunda 2 kesin, 3 şüpheli eksik var.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 52,
+      "market": "Manresa Takım Toplamı 81.5 Alt",
+      "prob": 0.54,
+      "reason": "Manresa ligde ortalama 84.6 sayı atıyor, eksik kadroyla ve deplasmanda Baskonia'nın sert savunmasına (maç başı 82.8 yiyor) karşı 82 altı makul.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 176.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 47,
+      "market": "Toplam Sayı 176.5 Üst",
+      "prob": 0.5,
+      "reason": "Manresa maçları ortalama ~187 toplamla bitiyor, ancak Baskonia'nın yorgun ve kısa kadrosu temposu düşürebilir; bu yüzden güven sınırlı.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Baskonia'nın moral bozukluğu ve kısa rotasyonu son çeyrekte farkı eritebilir.",
+     "ASVEL deplasmanından 48 saat sonra oynanan maçta yorgunluk etkili olabilir.",
+     "Manresa'nın şüpheli oyuncuları oynarsa takım sayısı alt seçimi zorlaşır."
+    ],
+    "sources": [
+     {
+      "title": "ACB – Jornada 6 önizlemesi",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "title": "Fonbet – Baskonia vs Manresa istatistikleri",
+      "url": "https://fonbet.com.cy/sports/basketball/country/spain/13569/69380581/stat"
+     },
+     {
+      "title": "Kids&Us Manresa resmi site",
+      "url": "https://www.basquetmanresa.com/"
+     },
+     {
+      "title": "TeamKeys – Liga Endesa",
+      "url": "https://teamkeys.net/en/leagues/liga-endesa-acb/"
+     },
+     {
+      "title": "Eurohoops – EuroLeague sakatlık raporu",
+      "url": "https://www.eurohoops.net/en/euroleague/2028350/injury-report-round-9-peters-gibson-reds-trio-gtd-walker-available"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Baskonia ligde 3-2 ve evinde 2-0 (118-78 Girona, 93-73 Joventut), ancak tüm kulvarlarda art arda yenilgiler aldı ve cuma Lyon'da ASVEL deplasmanı yaptı; Sedekerskis, Kurucs ve Duarte yok. Manresa ligde 0-5, maç başı 102.2 sayı yiyor (-88 averaj); Villar ve Allen yok, Agbo, Benítez ve G. Fernández şüpheli. Buna karşın Manresa EuroCup'ta iki maçtır kazanıyor. Baskonia son 6 iç saha karşılaşmasını kazandı, sonuncusu 130-85.",
+    "verdict": "Tüm kulvarlarda kötü seri yaşayan Baskonia evinde galibiyetsiz Manresa karşısında çift haneli farkla kazanmaya aday; ev handikabı ve Manresa'nın düşük sayısı öne çıkıyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-bursaspor-karsiyaka": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Karşıyaka %55, skor 77-83, toplam 163.4",
+      "site": "Forebet",
+      "url": "https://www.forebet.com/en/basketball/matches/super-lig/bursaspor-pinar-karsiyaka/290408"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "1.85 - 1.85; Bursaspor -1.5 (1.95) / Karşıyaka +1.5 (1.75)",
+      "site": "Interwetten (oranlar)",
+      "url": "https://appapi.interwetten.com/en/sportsbook/l/405303/turkiye-tbsl"
+     }
+    ],
+    "consensus": "Piyasa başa baş görüyor, Forebet Karşıyaka'yı hafif favori sayıyor; Karşıyaka tarafı genel eğilim.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Karşıyaka 5 maçta 399 attı, 412 yedi (-13); Bursaspor 382 attı, 421 yedi (-39) ve maç başına sadece 76.4 sayı üretiyor."
+     },
+     {
+      "side": "away",
+      "text": "Son 6 resmi karşılaşmanın 5'ini Karşıyaka kazandı (Forebet H2H); son iki maç 84-82 ve 86-84 ile çok yakın bitti."
+     },
+     {
+      "side": "home",
+      "text": "Bursaspor'un tek galibiyeti Galatasaray deplasmanında 93-88; ev sahibi avantajını henüz kullanamadı (iç sahada 0-2)."
+     },
+     {
+      "side": "away",
+      "text": "Karşıyaka deplasmanda 0-2 (Türk Telekom'a 72-73, Bahçeşehir'e 82-92) ve mali sıkıntılar kadro derinliğini sınırlıyor."
+     },
+     {
+      "side": "neutral",
+      "text": "İki takımın da haftaiçi Avrupa maçı yok; ikisi de tam dinlenmiş geliyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Karşıyaka, 5. haftada evinde Fenerbahçe'ye 72-97 yenildi; sezonda 5 maçta 2 galibiyeti var.",
+      "url": "https://www.sporekrani.com/haberler/84981/26-27-basketbol-super-ligi-6nci-haftasinda-yayinlanacak-sifresiz-maclar-belli-oldu"
+     },
+     {
+      "impact": "orta",
+      "text": "Bursaspor Basketbol, Çayırova deplasmanında 83-64 kaybetti; Çayırova ligde ilk galibiyetini aldı.",
+      "url": "https://www.sondakika.com/basketbol"
+     },
+     {
+      "impact": "düşük",
+      "text": "Karşıyaka Başkanı Tusder: 'Karşıyaka ligin en düşük bütçeli takımı.' Kulüp eylülde oyuncu borçlarını ödeyip transfer yasağını kaldırmıştı.",
+      "url": "https://beinsports.com.tr/haber/karsiyaka-basketbol-takimi-transfer-yasagini-kaldirdi"
+     },
+     {
+      "impact": "düşük",
+      "text": "Maç 1 Kasım Pazar 18.00'de Bursa'daki Tofaş Spor Salonu'nda oynanacak, beIN Sports 5 (Haber) yayınlayacak.",
+      "url": "https://www.sporekrani.com/haberler/84981/26-27-basketbol-super-ligi-6nci-haftasinda-yayinlanacak-sifresiz-maclar-belli-oldu"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 1.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 55,
+      "market": "Karşıyaka +1.5 handikap",
+      "prob": 0.56,
+      "reason": "Karşıyaka'nın averajı (-13) Bursaspor'dan (-39) belirgin şekilde iyi; son 6 resmi karşılaşmanın 5'ini Karşıyaka kazandı. Oran ~1.75.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "2",
+       "type": "1X2"
+      },
+      "confidence": 50,
+      "market": "Maç Sonucu: Karşıyaka",
+      "prob": 0.53,
+      "reason": "Piyasa ~1.85-1.85 başa baş; Forebet %55 Karşıyaka. Bursaspor iç sahada henüz kazanamadı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -4.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 42,
+      "market": "Karşıyaka -4.5 handikap",
+      "prob": 0.43,
+      "reason": "Geçmiş karnede 'yakın maç' beklenen birçok maç çift haneli farkla bitti; Bursaspor'un son haftadaki 19 sayılık çöküşü sürerse Karşıyaka rahat kazanabilir.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": 163.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 42,
+      "market": "Toplam sayı 163.5 Alt",
+      "prob": 0.5,
+      "reason": "Bursaspor maçlarının toplamı ort. ~161, Karşıyaka'nınki ~162; Forebet 163.4 öngörüyor. Çizgi teyit edilemediği için düşük güven.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Bursaspor'un ilk iç saha galibiyeti için motivasyonu yüksek; iki takım da ligin alt yarısında ve form dalgalı.",
+     "Karşıyaka'nın mali sorunları ve kısa rotasyonu deplasmanda son çeyrekte düşüşe yol açabilir.",
+     "H2H'deki son iki maç 2'şer sayı farkla bitti; handikap seçimleri son saniyelere kalabilir.",
+     "Toplam sayı çizgisi bulunamadı."
+    ],
+    "sources": [
+     {
+      "title": "Spor Ekranı - BSL 6. hafta şifresiz maçlar (Bursaspor-Karşıyaka 18.00)",
+      "url": "https://www.sporekrani.com/haberler/84981/26-27-basketbol-super-ligi-6nci-haftasinda-yayinlanacak-sifresiz-maclar-belli-oldu"
+     },
+     {
+      "title": "Forebet - Bursaspor vs Pinar Karsiyaka",
+      "url": "https://www.forebet.com/en/basketball/matches/super-lig/bursaspor-pinar-karsiyaka/290408"
+     },
+     {
+      "title": "TBF - BSL 2026-2027 maçlar",
+      "url": "https://www.tbf.org.tr/ligler/bsl-2026-2027/maclar"
+     },
+     {
+      "title": "beIN SPORTS - BSL 5. hafta sonuçları",
+      "url": "https://beinsports.com.tr/mac-ozetleri-goller/basketbol-super-ligi"
+     },
+     {
+      "title": "beIN SPORTS - Karşıyaka transfer yasağını kaldırdı",
+      "url": "https://beinsports.com.tr/haber/karsiyaka-basketbol-takimi-transfer-yasagini-kaldirdi"
+     },
+     {
+      "title": "Interwetten - Türkiye TBSL oranları",
+      "url": "https://appapi.interwetten.com/en/sportsbook/l/405303/turkiye-tbsl"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Bursaspor 1-4 ile ligin alt sıralarında; evinde Türk Telekom'a 69-78 ve Bahçeşehir'e 80-90 kaybetti, son maçında Çayırova deplasmanında 64-83 dağıldı. Karşıyaka 2-3, son haftada evinde Fenerbahçe'ye 72-97 yenildi ama Çayırova'yı 95-79 geçti ve Türk Telekom deplasmanında 72-73 kıl payı kaybetti. Kulüp mali sıkıntı yaşıyor (ligin en düşük bütçesi, eylülde transfer yasağı kaldırıldı). İki takımın da haftaiçi Avrupa maçı yok; piyasa maçı neredeyse eşit görüyor, Forebet 77-83 Karşıyaka diyor.",
+    "verdict": "Bursaspor'un iç sahada 0-2 ve son maçında 19 sayı farkla yenilmesi, H2H'de üstün Karşıyaka'yı başa baş maçta hafif öne çıkarıyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-charlotte-hornets-philadelphia-76ers": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Hornets kazanır (%68.4)",
+      "site": "FanDuel Research (numberFire)",
+      "url": "https://www.fanduel.com/research/hornets-vs-76ers-prediction-nba-odds-spread-best-bets-for-10-31-2026"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "76ers %59.4",
+      "site": "ESPN Matchup Predictor",
+      "url": "https://www.espn.com/nba/game/_/gameId/401909897/76ers-hornets"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "76ers 110.6-104.8, toplam 215.4",
+      "site": "Reko",
+      "url": "https://reko.bet/nba/76ers-at-hornets-2026-10-31"
+     }
+    ],
+    "consensus": "Sakatlık haberi öncesi modellerin çoğu 76ers'ı öne çıkarıyordu; James ve Embiid'in yokluğu kesinleşince numberFire Hornets'i açık favori görüyor. Bahislerin %97'si 76ers'ta toplanmış ki bu da haber öncesi yapılmış oynamaları yansıtıyor olabilir.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "76ers'ta James (16.4 sayı, 7 asist) ve Embiid (19.2 sayı, 9.4 ribaund) yok; Brown (20.6 sayı) şüpheli."
+     },
+     {
+      "side": "neutral",
+      "text": "İki takım da back-to-back'te: 76ers Cuma evde Knicks'i yendi, Hornets Washington'da 95-79 kaybetti."
+     },
+     {
+      "side": "home",
+      "text": "Hornets ribaundda 48.7 ile lig 4.'sü, rakiplerine +7.2 ribaund üstünlüğü var; Embiid'siz 76ers ön alanda zayıf."
+     },
+     {
+      "side": "away",
+      "text": "76ers 105.0 sayı yemeyle ligin en iyi 3. savunması ve Maxey maç başı 28.2 sayıyla tek başına maç kazandırabilir."
+     },
+     {
+      "side": "neutral",
+      "text": "Hornets bu sezon 0/6, 76ers 1/6 üst; iki takım da düşük skorlu oynuyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "LeBron James ve Joel Embiid back-to-back'in ikinci maçında forma giymeyecek; Philadelphia ilk kez ikisinden de aynı anda yoksun.",
+      "url": "https://www.inquirer.com/sixers/sixers-injury-report-updates-joel-embiid-lebron-james-hurt-20261031.html"
+     },
+     {
+      "impact": "orta",
+      "text": "Jaylen Brown (sol diz) şüpheli; Cuma Knicks maçını kaçırdı.",
+      "url": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/10/31/full-injury-report-for-joel-embiid-sixers-vs-hornets-in-back-to-back/92533584007"
+     },
+     {
+      "impact": "orta",
+      "text": "Hornets'te Coby White (baldır) ve Grant Williams (arka adale) yok, Dennis Schröder ayak sorununa rağmen oynuyor.",
+      "url": "https://legionreport.com/76ers-vs-hornets"
+     },
+     {
+      "impact": "düşük",
+      "text": "76ers Cuma NBA Cup maçında Knicks'i 98-93 yendi; Maxey 27 sayı attı.",
+      "url": "https://www.espn.co.uk/nba/game/_/gameId/401909280/knicks-76ers"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 55,
+      "market": "Maç Sonucu: Charlotte Hornets",
+      "prob": 0.55,
+      "reason": "76ers iki yıldızı (James, Embiid) olmadan deplasmanda ve Brown şüpheli; Hornets evde ve ribaundda lig 4.'sü (48.7). numberFire da Hornets'e %68.4 veriyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 216.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "Toplam Sayı 216.5 Alt",
+      "prob": 0.53,
+      "reason": "Hornets 6 maçta hiç üst görmedi, 76ers 6 maçta 1 üst; 76ers maç başı 108.7 sayıyla lig 26.'sı, Hornets üçlükte %28.7 ile 29. Bu sezona özgü eğilim (yalnızca eksik kadroya dayanmıyor) ama alt riskli.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": -2.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 45,
+      "market": "Hornets -2.5 Handikap",
+      "prob": 0.49,
+      "reason": "Yıldızsız 76ers'ın Maxey'e aşırı bağımlı kalacağı maçta Hornets'in kazanırsa birkaç sayı farkla kazanma ihtimali makul; ancak Brandon Miller'ın Cuma 7/24 şut gecesi tutarsızlık riski.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 45,
+      "market": "Hornets İlk Yarı Kazanır",
+      "prob": 0.5,
+      "reason": "76ers'ın yedek ağırlıklı rotasyonu ilk yarıda uyum sorunu yaşayabilir; iki takım da yorgun olduğundan maçın erken bölümü ev sahibine daha yakın.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Jaylen Brown oynarsa 76ers'ın yaratıcılığı belirgin artar.",
+     "Hornets'in Cuma gecesi yalnızca 79 sayı atması hücum düşüşünün sürebileceğini gösteriyor.",
+     "Maxey'in 30+ sayılık bir gecesi tek başına sonucu çevirebilir."
+    ],
+    "sources": [
+     {
+      "title": "Inquirer - LeBron James, Joel Embiid out vs. Hornets",
+      "url": "https://www.inquirer.com/sixers/sixers-injury-report-updates-joel-embiid-lebron-james-hurt-20261031.html"
+     },
+     {
+      "title": "FanDuel Research - Hornets vs. 76ers",
+      "url": "https://www.fanduel.com/research/hornets-vs-76ers-prediction-nba-odds-spread-best-bets-for-10-31-2026"
+     },
+     {
+      "title": "FOX Sports - 76ers vs. Hornets Odds",
+      "url": "https://www.foxsports.com/nba/philadelphia-76ers-vs-charlotte-hornets-oct-31-2026-game-boxscore-106614?tab=odds"
+     },
+     {
+      "title": "iHeart - 76ers vs. Hornets Injury Report",
+      "url": "https://sports.iheart.com/content/2026-10-31-76ers-vs-hornets-injury-report-oct-31"
+     },
+     {
+      "title": "Statz - 76ers vs Hornets Preview",
+      "url": "https://statz.ai/nba/news/philadelphia-76ers-vs-charlotte-hornets-prediction-picks-odds-october-31-2026"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "76ers (5-1), Cuma Knicks'i 98-93 yendikten sonra ikinci gece Charlotte'a çıkıyor ve LeBron James ile Joel Embiid dinlendirilecek, Jaylen Brown da şüpheli. Hornets (3-3) de Cuma Washington'da 95-79 kaybederek back-to-back'te; Coby White ve Grant Williams yok. Piyasa 76ers'ı yalnızca -1.5 favori görüyor, toplam 215.5-217.5 bandında. İki takımın maçlarında bu sezon 12 maçta yalnızca 1 kez üst geldi.",
+    "verdict": "LeBron James ve Joel Embiid'in yokluğunda back-to-back'teki 76ers'a karşı Hornets ev sahibi olarak hafif değerli taraf."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-esenler-erokspor-turk-telekom": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Türk Telekom %51, skor 84-85, toplam 168.1",
+      "site": "Forebet",
+      "url": "https://www.forebet.com/en/basketball/matches/super-lig/esenler-erokspor-turk-telekom/290406"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Erokspor 1.75 - Türk Telekom 1.95; Erokspor -1.5",
+      "site": "Interwetten (oranlar)",
+      "url": "https://appapi.interwetten.com/en/sportsbook/l/405303/turkiye-tbsl"
+     }
+    ],
+    "consensus": "Piyasa ev sahibini hafif favori görüyor, Forebet ise Türk Telekom'u çok az önde tutuyor; genel kanı başa baş bir maç.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Türk Telekom ligde 5 maçta 402 attı, 359 yedi (+43, maç başına 71.8 yenilen sayı); net rating +13.3 ile ligde 2. sırada."
+     },
+     {
+      "side": "home",
+      "text": "Erokspor ligde 4-1, iç sahada 2-0 (Efes'i 73-70, Petkim'i 96-87 yendi) ve son 4 resmi maçını kazandı."
+     },
+     {
+      "side": "away",
+      "text": "Son iki karşılaşmayı Türk Telekom kazandı (93-84 ve 67-61)."
+     },
+     {
+      "side": "neutral",
+      "text": "İki takım da 28 Ekim çarşamba Avrupa'da deplasmanda oynadı (Erokspor Rodos, Türk Telekom Londra); yorgunluk eşit sayılabilir, Erokspor'un yolculuğu biraz daha uzun."
+     },
+     {
+      "side": "neutral",
+      "text": "Türk Telekom tempo bakımından ligde 14. (72.4 hücum), maçlarının toplamı ortalama ~152; Erokspor maçlarının ortalaması ~168."
+     },
+     {
+      "side": "home",
+      "text": "Türk Telekom deplasmanda Bandırma'ya 79-66 kaybetti; dış saha performansı iç sahaya göre zayıf."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Türk Telekom, BKT EuroCup 5. haftasında London Lions'a deplasmanda 79-61 yenildi; 19 top kaybı yaptı ve EuroCup'ta 1-4'e düştü.",
+      "url": "https://basketfaul.com.tr/avrupa/eurocup/telekom-londrada-dagildi/"
+     },
+     {
+      "impact": "orta",
+      "text": "Esenler Erokspor, FIBA Europe Cup'ta Rodos'ta Kolossos'u 71-69 yenerek grupta 4'te 4 yaptı; Errick McCollum 21 sayıyla oynadı.",
+      "url": "https://basketfaul.com.tr/gundem/erokspor-dort-dortluk/"
+     },
+     {
+      "impact": "düşük",
+      "text": "Erokspor ligde son maçında Trabzonspor deplasmanında 20 sayı geriden dönüp 93-90 kazandı.",
+      "url": "https://teamkeys.net/en/teams/turk-telekom/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 1.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 52,
+      "market": "Türk Telekom +1.5 handikap",
+      "prob": 0.53,
+      "reason": "Türk Telekom ligde +43 averaj ve +13.3 net rating ile Erokspor'dan (+14 averaj) belirgin şekilde daha dengeli; H2H'de son iki maçı kazandı ve piyasa neredeyse eşit görüyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 163.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "Toplam sayı 163.5 Alt",
+      "prob": 0.54,
+      "reason": "Türk Telekom'un 5 lig maçının toplamı 145-151-145-147-173 (ort. ~152) ve tempo sıralamasında 14. sırada; Erokspor'un evinde Efes'e karşı 73-70 maçı da düşük skorluydu. Uzatma riski var.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "2",
+       "type": "1X2"
+      },
+      "confidence": 45,
+      "market": "Maç Sonucu: Türk Telekom",
+      "prob": 0.48,
+      "reason": "Oran ~1.95 civarında; Forebet %51 Türk Telekom veriyor. Ancak Londra'daki ağır yenilgi ve Erokspor'un 4 maçlık galibiyet serisi riski artırıyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 42,
+      "market": "İlk yarı toplam 81.5 Alt",
+      "prob": 0.5,
+      "reason": "Türk Telekom'un yavaş setli oyunu ve iki takımın da çarşamba Avrupa maçı sonrası yorgun başlama ihtimali ilk yarıyı düşük skora itebilir; piyasa çizgisi teyit edilemedi.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Erokspor'un yüksek isabetli hücumu (son maçlarda %48 üçlük) toplamı kolayca 165+ seviyesine taşıyabilir.",
+     "Türk Telekom'un Londra'daki 19 top kaybı bir form düşüşünün işareti olabilir.",
+     "Uzatma ihtimali alt seçimini bozabilir.",
+     "Toplam sayı çizgisi bulunamadı; ortalamalardan tahmin edildi."
+    ],
+    "sources": [
+     {
+      "title": "Basketfaul - Telekom Londra'da Dağıldı",
+      "url": "https://basketfaul.com.tr/avrupa/eurocup/telekom-londrada-dagildi/"
+     },
+     {
+      "title": "Basketfaul - Erokspor Dört Dörtlük",
+      "url": "https://basketfaul.com.tr/gundem/erokspor-dort-dortluk/"
+     },
+     {
+      "title": "TBF - Esenler Erokspor 73-70 Anadolu Efes",
+      "url": "https://www.tbf.org.tr/ligler/bsl-2026-2027/mac-detay/346302"
+     },
+     {
+      "title": "TeamKeys - Türk Telekom 2026/27",
+      "url": "https://teamkeys.net/en/teams/turk-telekom/"
+     },
+     {
+      "title": "Forebet - Esenler Erokspor vs Turk Telekom",
+      "url": "https://www.forebet.com/en/basketball/matches/super-lig/esenler-erokspor-turk-telekom/290406"
+     },
+     {
+      "title": "Interwetten - Türkiye TBSL oranları",
+      "url": "https://appapi.interwetten.com/en/sportsbook/l/405303/turkiye-tbsl"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "İki takım da ligde 4-1 ile zirve grubunda; Türk Telekom maç başına sadece 71.8 sayı yiyerek ligin en iyi savunmalarından birine sahip, Erokspor ise 85.6 sayı ortalamasıyla hücum takımı. İki ekip de çarşamba Avrupa'da oynadı: Erokspor Rodos'ta Kolossos'u 71-69 yenip FIBA Europe Cup'ta 4'te 4 yaptı, Türk Telekom Londra'da 79-61 dağıldı (19 top kaybı). Piyasa Erokspor'u -1.5 ile hafif favori görürken Forebet 84-85 Türk Telekom diyor; geçen sezonki iki maçı da Türk Telekom kazandı. Türk Telekom maçlarının toplamı ortalama ~152 sayı, bu da toplam sayıda alt tarafını destekliyor.",
+    "verdict": "Türk Telekom'un ligdeki savunma kalitesi ve yavaş temposu, ev sahibi Erokspor'a karşı dar handikaplı deplasman ve düşük toplam tarafını öne çıkarıyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-fenerbahce-tofas": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Fenerbahçe 1.10 - Tofaş 6.00; Fenerbahçe -10.5",
+      "site": "Interwetten (oranlar)",
+      "url": "https://appapi.interwetten.com/en/sportsbook/l/405303/turkiye-tbsl"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Fenerbahçe galibiyeti %70",
+      "site": "Polymarket",
+      "url": "https://polymarket.com/event/bkbsl-fen-tof-2026-11-01"
+     }
+    ],
+    "consensus": "Piyasa ve tahmin pazarları Fenerbahçe'yi açık favori görüyor; tartışma farkın 10 sayıyı geçip geçmeyeceğinde.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Fenerbahçe ligde 442 atıp 421 yedi (5 maç, maç başına 88.4 sayı); son lig maçında Karşıyaka'yı deplasmanda 97-72 yendi."
+     },
+     {
+      "side": "away",
+      "text": "Tofaş ligde 2-3 ve -21 averajla 10. sırada; evinde Petkim'e 72-74 ve Erokspor'a 79-87 kaybetti."
+     },
+     {
+      "side": "away",
+      "text": "Tofaş, takımın 10 sayı ortalamalı kaptanı Saybir'den yoksun; buna rağmen EuroCup'ta form iyi."
+     },
+     {
+      "side": "neutral",
+      "text": "Fenerbahçe perşembe 22:45'te Madrid'de oynadı (pazar 15:30 maçına ~2.5 gün); Tofaş çarşamba Polonya'daydı. İki tarafta da yorgunluk var, Fenerbahçe'de daha belirgin."
+     },
+     {
+      "side": "home",
+      "text": "Fenerbahçe'nin derin kadrosu rotasyonla yorgunluğu telafi edebilir; Powell ile uzun rotasyonu genişledi."
+     },
+     {
+      "side": "away",
+      "text": "Fenerbahçe ligde evinde Aliağa Petkim'e 77-82 kaybetti; iç saha garanti değil."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Fenerbahçe Tarfin, EuroLeague 9. haftasında Real Madrid'e 95-76 yenildi; çift maç haftasını 0-2 kapattı (6-3).",
+      "url": "https://www.aspor.com.tr/basketbol/2026/10/29/fenerbahce-tarfin-cift-mac-haftasinda-2de-0-yapti-valenciadan-sonra-real-madride-de-kaybetti"
+     },
+     {
+      "impact": "orta",
+      "text": "Jasikevicius: 'Şu an kimlik arayışı olan, bireysel çözümlere giden bir takımız; son çeyrekte tamamen çöktük.'",
+      "url": "https://www.fenerbahce.org/haberler/basketbol-erkek/2026/10/basantrenorumuz-sarunas-jasikevicius-real-madrid-macini-degerlendirdi"
+     },
+     {
+      "impact": "düşük",
+      "text": "Fenerbahçe, Kanadalı uzun Dwight Powell ile sezon sonuna kadar anlaştı.",
+      "url": "https://www.eurohoops.net/tr/nba-news-tr/2028298/fenerbahce-tarfin-uzun-rotasyonuna-eklemeyi-nbaden-yapiyor/"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Tofaş kaptanı Yiğitcan Saybir, sağ ayak Lisfranc bağ yırtığı nedeniyle 4-6 hafta sahalardan uzak (20 Ekim açıklaması).",
+      "url": "https://basketfaul.com.tr/turkiye/bsl/yigitcan-saybir-6-hafta-yok/"
+     },
+     {
+      "impact": "orta",
+      "text": "Tofaş, EuroCup C Grubu 5. haftasında Slask Wroclaw'u deplasmanda 90-74 yendi (4-1); Thurman 19 sayı, 9 ribaund.",
+      "url": "https://www.eurohoops.net/tr/eurocup-tr/2027673/treshawn-thurman-parladi-tofas-polonya-deplasmaninda-farkli-kazandi/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -10.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 52,
+      "market": "Fenerbahçe -10.5 handikap",
+      "prob": 0.53,
+      "reason": "Kadro kalitesi farkı büyük ve iki Avrupa yenilgisi sonrası iç saha tepkisi beklenir; Tofaş Saybir'den yoksun ve o da çarşamba deplasmandaydı. Geçmiş karnede net favorilerin handikapları iyi gitti.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 166.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 48,
+      "market": "Toplam sayı 166.5 Üst",
+      "prob": 0.52,
+      "reason": "Fenerbahçe ligde maç başına 88.4 atıp 84.2 yiyor (maçları 181, 185, 169 gibi yüksek toplamlarla bitti); Tofaş EuroCup'ta maç başına 90'ın üzerinde atıyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -15.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 38,
+      "market": "Fenerbahçe -15.5 handikap",
+      "prob": 0.4,
+      "reason": "Fenerbahçe ligde deplasmanda Karşıyaka'yı 25, Çayırova'yı 15 farkla geçti; iki Avrupa yenilgisinin ardından iç saha tepkisi ve Saybir'siz Tofaş karşısında geniş fark senaryosu için yüksek oranlı alternatif.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 45,
+      "market": "Fenerbahçe takım toplamı 88.5 Üst",
+      "prob": 0.5,
+      "reason": "Fenerbahçe ligdeki deplasmanlarında 100 ve 97 sayı buldu; Tofaş ligde maç başına 84 sayı yiyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Fenerbahçe'nin EuroLeague yorgunluğu ve 5 Kasım'daki Baskonia maçı nedeniyle ağır rotasyon yapması farkı daraltabilir.",
+     "Tofaş EuroCup'ta formda; üçlük isabeti yüksek bir günde maçı son çeyreğe kadar taşıyabilir.",
+     "Fenerbahçe'nin bu sezon ligde iki yenilgisi var, biri iç sahada.",
+     "Toplam sayı çizgisi kesin bulunamadı; takım ortalamalarından türetildi."
+    ],
+    "sources": [
+     {
+      "title": "Fenerbahçe - Real Madrid 95-76 Fenerbahçe Tarfin",
+      "url": "https://www.fenerbahce.org/haberler/basketbol-erkek/2026/10/real-madrid-95-76-fenerbahce-tarfin"
+     },
+     {
+      "title": "A Spor - Fenerbahçe çift maç haftasında 2'de 0",
+      "url": "https://www.aspor.com.tr/basketbol/2026/10/29/fenerbahce-tarfin-cift-mac-haftasinda-2de-0-yapti-valenciadan-sonra-real-madride-de-kaybetti"
+     },
+     {
+      "title": "Basketfaul - Yiğitcan Saybir 6 Hafta Yok",
+      "url": "https://basketfaul.com.tr/turkiye/bsl/yigitcan-saybir-6-hafta-yok/"
+     },
+     {
+      "title": "Eurohoops TR - Tofaş Polonya deplasmanında farklı kazandı",
+      "url": "https://www.eurohoops.net/tr/eurocup-tr/2027673/treshawn-thurman-parladi-tofas-polonya-deplasmaninda-farkli-kazandi/"
+     },
+     {
+      "title": "Fenerbahçe.org - maç takvimi (1 Kasım 15:30 Ülker Spor ve Etkinlik Salonu)",
+      "url": "https://www.fenerbahce.org/"
+     },
+     {
+      "title": "Forebet - BSL puan durumu",
+      "url": "https://www.forebet.com/en/basketball/matches/super-lig/bursaspor-pinar-karsiyaka/290408"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Fenerbahçe ligde 3-2; çift maçlı EuroLeague haftasında Valencia'ya 86-78 ve Real Madrid'e 95-76 kaybetti, perşembe gecesi Madrid'de oynadığı için dinlenme süresi kısa. Kulüp kadroya Dwight Powell'ı kattı. Tofaş ligde 2-3 ama EuroCup'ta 4-1; çarşamba Wroclaw'da 90-74 kazandı, ancak kaptan Yiğitcan Saybir Lisfranc sakatlığıyla 4-6 hafta yok. Piyasa Fenerbahçe'yi -10.5 ile favori görüyor (MS ~1.10).",
+    "verdict": "Fenerbahçe Beko/Tarfin, EuroLeague'deki iki deplasman yenilgisine rağmen evinde kaptanı Saybir'den yoksun Tofaş'ı çift haneli farkla geçmeye daha yakın."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-houston-rockets-oklahoma-city-thunder": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Rockets -4.5",
+      "site": "TheLines",
+      "url": "https://www.thelines.com/nba/picks/thunder-vs-rockets-prediction-odds-and-props-for-oct-31-houston-takes-advantage-of-okc-injuries/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Rockets -3.5, Üst 219",
+      "site": "CapperTek",
+      "url": "https://www.cappertek.com/article.asp?a=thunder-vs-rockets-betting-odds-free-picks-and-predictions-10-31-2026-422128"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Rockets %68.8, handikap -6.3, toplam 221.2",
+      "site": "Reko",
+      "url": "https://reko.bet/nba/thunder-at-rockets-2026-10-31"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Thunder kazanır (%54.9)",
+      "site": "FanDuel Research (numberFire)",
+      "url": "https://www.fanduel.com/research/rockets-vs-thunder-prediction-nba-odds-spread-best-bets-for-10-31-2026"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Alt öne çıkıyor",
+      "site": "TheSpread",
+      "url": "https://www.thespread.com/nba-articles/thunder-vs-rockets-prediction-october-31-2026/"
+     }
+    ],
+    "consensus": "Analistlerin çoğu Thunder'ın sakatlık listesi nedeniyle Rockets'ı ve handikabını tercih ediyor; numberFire ise Thunder'ı öne koyuyor. Toplam konusunda görüşler bölünmüş.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Rockets maç başı 123 sayı atıp 108.8 yiyor, +14.2 averajla ligin en iyileri arasında."
+     },
+     {
+      "side": "away",
+      "text": "Thunder'da 6 oyuncu yok; takım saha içi %44.0 ve üçlük %30.9 isabetle ligin 25.'si."
+     },
+     {
+      "side": "away",
+      "text": "Thunder dinlenmiş (son maç Çarşamba), Rockets ise back-to-back'in ikinci gecesinde."
+     },
+     {
+      "side": "home",
+      "text": "Sengun'un (24.5 sayı, 9 ribaund, 7 asist) dönüşü, Holmgren'siz Thunder boyalı alanına karşı büyük avantaj."
+     },
+     {
+      "side": "neutral",
+      "text": "Rockets'ın 5 maçının 5'i üst, Thunder'ın 5 maçının 4'ü alt bitti."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Thunder'da Jalen Williams, Chet Holmgren (8-10 hafta), Cason Wallace, Alex Caruso, Nikola Topic ve Thomas Sorber yok.",
+      "url": "https://www.news9.com/oklahoma-city-thunder/short-handed-thunder-look-to-bounce-back-against-rockets-in-houston"
+     },
+     {
+      "impact": "orta",
+      "text": "Rockets Cuma Mavericks'e 116-111 kaybetti; Durant 28 sayı attı. Seri back-to-back'in ikinci maçı.",
+      "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/31/full-injury-report-for-saturdays-thunder-vs-rockets-matchup/92529883007/"
+     },
+     {
+      "impact": "orta",
+      "text": "Rockets'ta VanVleet (yük yönetimi), Sheppard (bel) ve Adams yok, Sengun iki maç aradan sonra dönüyor.",
+      "url": "https://dknetwork.draftkings.com/2026/10/31/oklahoma-city-thunder-vs-houston-rockets-prediction-pick-for-saturday-10-31-26/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -4.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 56,
+      "market": "Rockets -4.5 Handikap",
+      "prob": 0.55,
+      "reason": "Rockets bu sezon 5-1 ATS ve maç başı +14.2 averajlı; Thunder SGA dışında üçlükte %30.9'a düşen, çok eksik bir kadroyla geliyor. Net favorilerin handikapları iyi gidiyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 218.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "Toplam Sayı 218.5 Üst",
+      "prob": 0.52,
+      "reason": "Rockets'ın 5 maçının 5'i de üst bitti, takım 123 sayı ortalamasıyla lig 3.'sü; Thunder'ın uzun rotasyonu zayıfladığı için savunma direnci düştü. CapperTek de üst öneriyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 48,
+      "market": "Rockets İlk Yarı -2.5",
+      "prob": 0.51,
+      "reason": "Back-to-back yorgunluğu daha çok maçın sonunda etkili olur; Rockets'ın maçın başında boy ve fizik üstünlüğüyle öne geçmesi beklenir.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Shai Gilgeous-Alexander'ın tek başına 35+ sayılık bir gecesi maçı çevirebilir.",
+     "Rockets'ın back-to-back yorgunluğu ve VanVleet/Sheppard eksikliği top kontrolünü zorlayabilir.",
+     "Sengun'un bel sorunu nedeniyle süresi kısıtlanabilir."
+    ],
+    "sources": [
+     {
+      "title": "FanDuel Research - Rockets vs. Thunder",
+      "url": "https://www.fanduel.com/research/rockets-vs-thunder-prediction-nba-odds-spread-best-bets-for-10-31-2026"
+     },
+     {
+      "title": "News9 - Short-handed Thunder",
+      "url": "https://www.news9.com/oklahoma-city-thunder/short-handed-thunder-look-to-bounce-back-against-rockets-in-houston"
+     },
+     {
+      "title": "Thunder Wire - Full injury report",
+      "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/31/full-injury-report-for-saturdays-thunder-vs-rockets-matchup/92529883007/"
+     },
+     {
+      "title": "DK Network - Thunder vs. Rockets",
+      "url": "https://dknetwork.draftkings.com/2026/10/31/oklahoma-city-thunder-vs-houston-rockets-prediction-pick-for-saturday-10-31-26/"
+     },
+     {
+      "title": "Covers - Thunder vs Rockets",
+      "url": "https://www.covers.com/nba/thunder-vs-rockets-prediction-picks-odds-oct-31-2026"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Rockets (5-1) Cuma Dallas'ta 116-111 kaybederek back-to-back'e giriyor; Sengun dönüyor ama VanVleet, Sheppard ve Adams yok. Thunder (4-1) dinlenmiş olsa da Jalen Williams, Holmgren, Wallace, Caruso, Topic ve Sorber yok; son maçta Dallas'a 120-96 yenildi. Piyasa Rockets'ı -2.5 ile -4.5 arasında favori görüyor, toplam 217.5-218.5.",
+    "verdict": "Altı rotasyon oyuncusu eksik Thunder karşısında, back-to-back'e rağmen Rockets'ın handikabı tercih edilir."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-joventut-badalona-surne-bilbao": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Joventut %68, tahmini skor 92-79",
+      "site": "Forebet",
+      "url": "https://www.forebet.com/en/basketball/matches/acb/joventut-badalona-bilbao/292615"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Joventut 1.35 – Bilbao 3.20",
+      "site": "Fortebet (piyasa oranı)",
+      "url": "https://www.fortebet.rw/static/pdf/full_offer.pdf"
+     }
+    ],
+    "consensus": "Kaynaklar ve piyasa Joventut'u net favori görüyor; Forebet 13 sayılık fark beklerken eksik guardlar nedeniyle daha temkinli bir handikap tercih edildi.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Joventut bu sezon iç sahada 2-0 (Barça'yı 113-89 yendi); Bilbao deplasmanda 0-2."
+     },
+     {
+      "side": "home",
+      "text": "Joventut, Bilbao'nun son 9 Olímpic ziyaretinin 8'ini kazandı ve üç maçlık iç saha serisi sürüyor."
+     },
+     {
+      "side": "home",
+      "text": "Penya ligin en iyi defans ribaund oranına (%80.7) ve boyalı alan isabetine (%54.9) sahip."
+     },
+     {
+      "side": "away",
+      "text": "Joventut'ta Hakanson, Tomic ve Ellis eksik; guard rotasyonu yeni gelen Radicevic'e kalabilir."
+     },
+     {
+      "side": "away",
+      "text": "Bilbao tam kadro ve son maçında Andorra'yı 88-76 yenerek moral buldu."
+     },
+     {
+      "side": "neutral",
+      "text": "Sayı ortalamaları: Joventut 94.6 atıp 93.6 yiyor, Bilbao 95.2 atıp 95.6 yiyor – yüksek skor eğilimi."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "ACB önizlemesine göre Ludde Hakanson, Ante Tomic ve Boogie Ellis Joventut'ta forma giymeyecek; Nikola Radicevic ilk maçına çıkabilir. Bilbao'da tüm oyuncular hazır.",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "impact": "orta",
+      "text": "Joventut, Nikola Radicevic'i iki aylık geçici sözleşmeyle kadrosuna kattı.",
+      "url": "https://www.marca.com/baloncesto/acb/2026/10/30/radicevic-fichaje-temporal-asisa-joventut.html"
+     },
+     {
+      "impact": "düşük",
+      "text": "Bilbao 28 Ekim'de BCL'de ALBA Berlin deplasmanında oynadı; ardından Badalona'ya geliyor.",
+      "url": "https://basketnews.com/teams/83-surne-bilbao-basket.html"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -4.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 54,
+      "market": "Joventut -4.5 Handikap",
+      "prob": 0.54,
+      "reason": "Joventut evinde 2-0 ve Barça'yı 113-89 yendi; Bilbao deplasmanda 0-2 ve Madrid'e 119-84 kaybetti. Piyasa (1.35) yaklaşık 6 sayılık fark öngörüyor, -4.5 biraz tampon bırakıyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 178.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 53,
+      "market": "Toplam Sayı 178.5 Üst",
+      "prob": 0.54,
+      "reason": "Takımların sayı ortalamaları (94.6/93.6 ve 95.2/95.6) birleşik ~189 sayıya işaret ediyor; Bilbao'nun 5 maçının 4'ü 183+ bitti.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 45,
+      "market": "İlk Yarı Joventut Kazanır",
+      "prob": 0.55,
+      "reason": "Bilbao'nun hafta içi Berlin seyahati ve deplasman zayıflığı ilk yarıda Joventut'a avantaj verebilir; ancak eksik guard rotasyonu riski yüksek tutuyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Joventut'un üç önemli guard eksiği hücum akışını bozabilir.",
+     "Bilbao bu sezon deplasmanda galibiyet almadı ama tam kadroyla sürpriz yapabilecek kalitede.",
+     "Forebet'in 171.9'luk toplam tahmini üst seçimiyle çelişiyor."
+    ],
+    "sources": [
+     {
+      "title": "ACB – Jornada 6 önizlemesi",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "title": "Forebet – Joventut vs Bilbao",
+      "url": "https://www.forebet.com/en/basketball/matches/acb/joventut-badalona-bilbao/292615"
+     },
+     {
+      "title": "Liga Endesa puan durumu",
+      "url": "https://www.unicajabaloncesto.com/clasificacion/ver/id/7"
+     },
+     {
+      "title": "Marca – Radicevic Joventut'ta",
+      "url": "https://www.marca.com/baloncesto/acb/2026/10/30/radicevic-fichaje-temporal-asisa-joventut.html"
+     },
+     {
+      "title": "Fortebet oran listesi",
+      "url": "https://www.fortebet.rw/static/pdf/full_offer.pdf"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Joventut (2-3) evinde 2-0, deplasmanda 0-3; Bilbao (3-2) ise evinde 3-0, dışarıda 0-2 – tam bir 'ayna' eşleşme. Penya son 9 Bilbao maçının 8'ini Olímpic'te kazandı ve ligin en iyi boyalı alan/defans ribaund takımı. Buna karşın Hakanson, Tomic ve Boogie Ellis yok; kısa süreli kiralanan Radicevic oynayabilir. Bilbao'da herkes hazır ama çarşamba BCL'de Berlin deplasmanı yaptı.",
+    "verdict": "Joventut iç sahada favori ama Hakanson, Tomic ve Ellis eksikliği farkı sınırlıyor; ılımlı ev handikabı ve yüksek tempo nedeniyle üst tarafı öne çıkıyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-milwaukee-bucks-cleveland-cavaliers": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Cavaliers 121-113; Bucks +8.5 %52.8; Alt 236.5 %52",
+      "site": "Dimers",
+      "url": "https://www.dimers.com/nba/news/cleveland-cavaliers-vs-milwaukee-bucks-prediction-10-31-2026-ac"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Cavaliers 117.0-112.1, handikap -5.0, toplam 229.1",
+      "site": "Reko",
+      "url": "https://reko.bet/nba/cavaliers-at-bucks-2026-10-31"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Cavaliers -8.5, 119-108",
+      "site": "Winners and Whiners",
+      "url": "https://winnersandwhiners.com/free-picks/nba/cleveland-cavaliers-vs-milwaukee-bucks-picks-prediction-odds-and-line-movement-for-saturday-october-31-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Cavaliers kazanır (%73.2)",
+      "site": "FanDuel Research (numberFire)",
+      "url": "https://www.fanduel.com/research/bucks-vs-cavaliers-prediction-nba-odds-spread-best-bets-for-10-31-2026"
+     }
+    ],
+    "consensus": "Herkes Cavaliers'ın kazanmasını bekliyor; modeller farkın çizginin altında kalacağını, bazı yazarlar ise Cavaliers'ın farkı açacağını düşünüyor. Toplamda modeller hafifçe alta yakın.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Cavaliers'ta Mitchell (24.2), Mobley (18.2) ve Harden (17.4 sayı, 6.2 asist) sağlıklı."
+     },
+     {
+      "side": "home",
+      "text": "Bucks 1-4 ama tam kadro; Herro maç başı 23.4 sayı ve 3.4 üçlük atıyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Bucks maçlarında 5'te 4 üst geldi, Cavaliers'ta 5'te 2."
+     },
+     {
+      "side": "home",
+      "text": "Cavaliers bu sezon 1-4 ATS, deplasman favorisi olarak farkı açmakta zorlanıyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 4 eşleşmeden 3'ünü Cavaliers kazandı ama farklar 5, 7 ve 12 sayıda kaldı; Bucks Şubat'ta 118-116 kazandı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Cavaliers'ta Jaylon Tyson (ayak bileği) ve Nae'Qwan Tomlin (bel) yok, Meleek Thomas şüpheli; Bucks'ta sakat oyuncu yok.",
+      "url": "https://foxsportspgh.iheart.com/content/2026-10-31-cavaliers-vs-bucks-predictions-odds-stats-oct-31/"
+     },
+     {
+      "impact": "orta",
+      "text": "Cavaliers Perşembe Atlanta'da 114-111 kaybetti; Bucks Çarşamba evde Houston'a 132-100 yenildi. İki takım da Cuma dinlendi.",
+      "url": "https://winnersandwhiners.com/free-picks/nba/cleveland-cavaliers-vs-milwaukee-bucks-picks-prediction-odds-and-line-movement-for-saturday-october-31-2026"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 236.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 52,
+      "market": "Toplam Sayı 236.5 Üst",
+      "prob": 0.53,
+      "reason": "Bucks maçlarının %80'i üst bitti ve iki takımın rakipleri maç başı toplamda çizginin 3.7 sayı üstünde puan buluyor; Bucks savunması Houston'a 132 sayı yedi. İki takım da dinlenmiş geliyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": 8.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 50,
+      "market": "Bucks +8.5 Handikap",
+      "prob": 0.52,
+      "reason": "Cavaliers bu sezon 1-4 ATS; Dimers ve Reko modelleri farkı 5-8 sayı olarak öngörüyor. Bucks tam kadro ve evinde.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 48,
+      "market": "Cavaliers Takım Toplamı 121.5 Üst",
+      "prob": 0.51,
+      "reason": "Mitchell, Harden ve Mobley üçlüsü Bucks'ın zayıf perimetre savunmasına karşı yüksek skor üretebilir; Dimers Cavaliers için 121-122 sayı öngörüyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Net favorilerin handikapları son dönemde iyi gitti; Cavaliers çift haneli farkla kazanabilir.",
+     "Modeller toplamı 229-234 bandında görüyor, bu da üst seçimine karşı bir işaret.",
+     "Bucks'ın moral kaybı maçın ikinci yarısında kopmasına yol açabilir."
+    ],
+    "sources": [
+     {
+      "title": "Dimers - Cavaliers vs. Bucks",
+      "url": "https://www.dimers.com/nba/predictions/2026_12_mil_cle"
+     },
+     {
+      "title": "FanDuel Research - Bucks vs. Cavaliers",
+      "url": "https://www.fanduel.com/research/bucks-vs-cavaliers-prediction-nba-odds-spread-best-bets-for-10-31-2026"
+     },
+     {
+      "title": "Bleacher Nation - Cavaliers vs. Bucks",
+      "url": "https://www.bleachernation.com/picks/2026/10/31/cavaliers-vs-bucks-predictions-best-bets-and-odds-saturday-october-31-2026/"
+     },
+     {
+      "title": "Fox Sports 1070 - Cavaliers vs. Bucks",
+      "url": "https://foxsports1070.iheart.com/content/2026-10-31-cavaliers-vs-bucks-predictions-odds-stats-oct-31/"
+     },
+     {
+      "title": "iHeart - Cavaliers vs. Bucks Injury Report",
+      "url": "https://sports.iheart.com/content/2026-10-31-cavaliers-vs-bucks-injury-report-oct-31"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Cavaliers (3-2) Perşembe Atlanta'da 114-111 kaybetti, Bucks (1-4) Çarşamba evde Houston'a 132-100 yenildi; iki takım da Cuma oynamadı, back-to-back yok. Cavaliers deplasmanda -8.5 favori, toplam 235.5-237.5. Bucks'ta sakat yok; Cavaliers'ta Jaylon Tyson ve Nae'Qwan Tomlin yok, Meleek Thomas şüpheli. Bucks maçlarının 5'te 4'ü üst bitti.",
+    "verdict": "Bucks'ın zayıf savunması ve iki takımın da dinlenmiş gelmesi nedeniyle yüksek skorlu bir maç bekleniyor; taraf olarak Cavaliers favori ama -8.5 çizgisi fazla geniş."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-morabanc-andorra-valencia-basket": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Andorra 3.85 – Valencia 1.26",
+      "site": "Fortebet (piyasa oranı)",
+      "url": "https://www.fortebet.rw/static/pdf/full_offer.pdf"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Valencia üst üste üçüncü lig galibiyetini arıyor; Andorra zor durumda",
+      "site": "Actualidad Valencia (önizleme)",
+      "url": "https://actualidadvalencia.com/valencia-basket-tercera-victoria-liga-endesa-andorra/"
+     }
+    ],
+    "consensus": "Piyasa ve yerel basın Valencia'yı favori görüyor; fakat yoğun takvim nedeniyle farkın orta düzeyde kalması bekleniyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Valencia ligde 483-444 averajla (+39) 4. sırada; son iki lig maçını kazandı (Baskonia 84-75)."
+     },
+     {
+      "side": "away",
+      "text": "Valencia son Andorra deplasmanını 107-75 kazandı; Andorra'daki seride 7-6 öne geçti."
+     },
+     {
+      "side": "away",
+      "text": "Valencia ligde orta mesafede lider (%58.1), Andorra bu bölgede %39.5'te kalıyor."
+     },
+     {
+      "side": "home",
+      "text": "Valencia salı-cuma-pazar üç maç oynuyor; Mirotic ve Reuvers yokluğu rotasyonu daraltıyor."
+     },
+     {
+      "side": "home",
+      "text": "Andorra düşme baskısı altında ve evinde motivasyonu yüksek; ligin en iyi serbest atış takımı (%83.8)."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Valencia, Nikola Mirotic ve Nate Reuvers olmadan oynayacak; Andorra'da Rafa Luz yok, Leon Radosevic mide virüsü nedeniyle şüpheli.",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "impact": "orta",
+      "text": "Valencia cuma EuroLeague'de Barça'ya Palau'da 98-94 kaybetti; bu hafta salı-cuma-pazar üç maç oynuyor.",
+      "url": "https://www.valenciabasket.com/equipo-masculino"
+     },
+     {
+      "impact": "orta",
+      "text": "Andorra 1-4 ile 15. sırada ve düşme hattıyla aynı galibiyet sayısında.",
+      "url": "https://actualidadvalencia.com/valencia-basket-tercera-victoria-liga-endesa-andorra/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -6.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 53,
+      "market": "Valencia -6.5 Handikap",
+      "prob": 0.54,
+      "reason": "Valencia ligde maç başı +7.8 fark üretiyor, Andorra -8; Andorra'nın iç saha yenilgileri (85-90 Obradoiro) ve Valencia'nın son ziyaretteki 32 sayılık farkı çizgiyi destekliyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 50,
+      "market": "İlk Yarı Valencia -3.5",
+      "prob": 0.53,
+      "reason": "Haftanın üçüncü maçında yorgunluk daha çok ikinci yarıda hissedilir; kalite farkı ilk yarıda daha net yansıyabilir.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 176.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 47,
+      "market": "Toplam Sayı 176.5 Üst",
+      "prob": 0.51,
+      "reason": "Valencia maçları ortalama ~185 toplamla bitiyor ve Shorts'lu hücum hızlı; Andorra'nın ligin en iyi serbest atış yüzdesi (%83.8) de sayıyı artırıyor. Valencia'nın yorgunluğu temposu düşürebileceği için güven sınırlı.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Üç maçlık haftanın yorgunluğu Valencia'nın son çeyrekte düşmesine yol açabilir.",
+     "Andorra'nın düşme baskısıyla verdiği iç saha mücadelesi maçı başa baş tutabilir.",
+     "Mirotic ve Reuvers yokluğunda Valencia'nın uzun rotasyonu ribaundda zorlanabilir."
+    ],
+    "sources": [
+     {
+      "title": "ACB – Jornada 6 önizlemesi",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "title": "Valencia Basket – Equipo masculino",
+      "url": "https://www.valenciabasket.com/equipo-masculino"
+     },
+     {
+      "title": "Actualidad Valencia önizlemesi",
+      "url": "https://actualidadvalencia.com/valencia-basket-tercera-victoria-liga-endesa-andorra/"
+     },
+     {
+      "title": "Fonbet – Andorra vs Valencia istatistikleri",
+      "url": "https://fonbet.com.cy/sports/basketball/country/spain/13569/69380609/stat"
+     },
+     {
+      "title": "Fortebet oran listesi",
+      "url": "https://www.fortebet.rw/static/pdf/full_offer.pdf"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Valencia ligde 3-2 (+39 averaj), EuroLeague'de 6-2 ile 2. sırada; ancak salı Fenerbahçe, cuma Barça (98-94 yenilgi) maçlarından sonra pazar Andorra'ya gidiyor ve Mirotic ile Reuvers yok. Andorra 1-4 ile düşme hattına yakın, Rafa Luz yok, Radosevic mide virüsü nedeniyle şüpheli. Valencia son Andorra ziyaretini 107-75 kazandı. TJ Shorts sezona sıfır top kaybıyla rekor başlangıç yaptı.",
+    "verdict": "Üç maçlı yoğun haftayı kapatan Valencia, Mirotic ve Reuvers eksik olsa da düşme hattındaki Andorra karşısında favori; ılımlı deplasman handikabı ve ilk yarı üstünlüğü öne çıkıyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-real-madrid-san-pablo-burgos": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Real Madrid kazanma ihtimali %92",
+      "site": "Kalshi (tahmin piyasası)",
+      "url": "https://kalshi.com/markets/kxacbgame/spain-liga-acb-game/kxacbgame-26nov010630spbrma"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Real Madrid 1.07 – Burgos 8.50",
+      "site": "Fortebet (piyasa oranı)",
+      "url": "https://www.fortebet.rw/static/pdf/full_offer.pdf"
+     }
+    ],
+    "consensus": "Piyasa Madrid'i ezici favori görüyor; tartışma farkın büyüklüğünde ve Maledon'un yokluğunun ne kadar etkili olacağında.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Madrid ligde 5-0, 564-447 averaj (+117); 120-83, 119-84, 122-86 gibi geniş galibiyetler."
+     },
+     {
+      "side": "home",
+      "text": "Normal sezonda seride 11-0, Madrid'de 6-0 üstünlük."
+     },
+     {
+      "side": "away",
+      "text": "Maledon (son ayın MVP'si) ve Jantunen'in eksikliği Madrid'in guard ve forvet rotasyonunu daraltıyor."
+     },
+     {
+      "side": "away",
+      "text": "Burgos ligin 4. en iyi savunması (1.12) ve hücum ribaundunda 2. (%37.2)."
+     },
+     {
+      "side": "neutral",
+      "text": "Madrid perşembe oynadı (2.5 gün dinlenme), Burgos çarşamba EuroCup oynadı; iki tarafta da ciddi yorgunluk farkı yok."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Theo Maledon sağ dizinde burkulma, Mikael Jantunen sol ayakta plantar fasya tam yırtığı nedeniyle yok; Deck ve Garuba uzun süreli sakat. Burgos'ta Cancar ve Obasohan yok.",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "impact": "orta",
+      "text": "Real Madrid perşembe EuroLeague'de Fenerbahçe'yi 95-76 yenerek 10. maçlık galibiyet serisine ulaştı; Maledon 26 sayı attı.",
+      "url": "https://www.realmadrid.com/es-ES/noticias/baloncesto/primer-equipo/cronicas/cronica-real-madrid-fenerbahce-29-10-2026"
+     },
+     {
+      "impact": "düşük",
+      "text": "Burgos çarşamba EuroCup'ta Riga Zelli'ye evinde kaybetti; 4 Kasım'da yine EuroCup maçı var.",
+      "url": "https://www.sanpabloburgos.com/index/index"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -14.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 55,
+      "market": "Real Madrid -14.5 Handikap",
+      "prob": 0.56,
+      "reason": "Madrid ligde 5 maçın 4'ünü 23+ farkla kazandı ve Burgos'a karşı 11-0; Maledon eksik olsa da derin rotasyon (Campazzo, Luwawu-Cabarrot, Tavares) farkı açabilir.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 182.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 51,
+      "market": "Toplam Sayı 182.5 Üst",
+      "prob": 0.52,
+      "reason": "Madrid ligde 89-122 aralığında sayı üretiyor ve maçları ortalama ~202 toplamla bitiyor; Burgos'un yüksek temposu (EuroCup rakibinin vurgusu) da üste destek.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 55,
+      "market": "Real Madrid Takım Toplamı 98.5 Üst",
+      "prob": 0.57,
+      "reason": "Madrid lig maçlarının 4'ünde 114+ attı; ligin en iyi ofansif verimliliği (1.38 sayı/hücum) Maledon olmadan da 99+ için yeterli görünüyor.",
+      "risk": "orta"
+     }
+    ],
+    "risks": [
+     "Maledon ve Jantunen yokluğu Madrid'i rotasyon kısaltmaya ve sonlara doğru tempo düşürmeye itebilir.",
+     "Burgos'un güçlü ribaund savunması ve fiziksel oyunu farkı 10-14 bandında tutabilir.",
+     "Fark erken açılırsa son çeyrekte gençlere süre verilmesi handikabı riske atar."
+    ],
+    "sources": [
+     {
+      "title": "ACB – Jornada 6 önizlemesi",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "title": "Real Madrid – Fenerbahçe maç raporu",
+      "url": "https://www.realmadrid.com/es-ES/noticias/baloncesto/primer-equipo/cronicas/cronica-real-madrid-fenerbahce-29-10-2026"
+     },
+     {
+      "title": "San Pablo Burgos resmi site",
+      "url": "https://www.sanpabloburgos.com/index/index"
+     },
+     {
+      "title": "Kalshi – Burgos vs Real Madrid",
+      "url": "https://kalshi.com/markets/kxacbgame/spain-liga-acb-game/kxacbgame-26nov010630spbrma"
+     },
+     {
+      "title": "Liga Endesa puan durumu",
+      "url": "https://www.unicajabaloncesto.com/clasificacion/ver/id/7"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Real Madrid ligde 5-0, maç başı 112.8 sayı ve +23.4 averajla ligin açık ara en verimli takımı; Avrupa'da da 10 maçlık galibiyet serisinde (perşembe Fenerbahçe'yi 95-76 yendi). Ancak ACB önizlemesine göre Maledon dizinden burkulma, Jantunen ayak tabanı fasyası yırtığı nedeniyle yok; Deck ve Garuba da uzun süreli sakat. Burgos (2-3) ligin 4. en iyi savunması ama Cancar ve Obasohan yok, çarşamba EuroCup'ta Riga'ya evinde kaybetti. Seride Madrid normal sezonda 11-0.",
+    "verdict": "Maledon ve Jantunen'in yokluğuna rağmen 5-0'lık Real Madrid, Burgos'a karşı geniş farkla kazanmaya en yakın taraf; handikap ve Madrid takım sayısı öne çıkıyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-san-antonio-spurs-minnesota-timberwolve": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Spurs kazanır (%78.2)",
+      "site": "FanDuel Research (numberFire)",
+      "url": "https://www.fanduel.com/research/spurs-vs-timberwolves-prediction-nba-odds-spread-best-bets-for-10-31-2026"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Timberwolves +12.5",
+      "site": "DK Network",
+      "url": "https://dknetwork.draftkings.com/2026/10/31/minnesota-timberwolves-vs-san-antonio-spurs-prediction-pick-for-saturday-10-31-26/"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Spurs 116.3-108.4, handikap -8.0, toplam 224.7",
+      "site": "Reko",
+      "url": "https://reko.bet/nba/timberwolves-at-spurs-2026-10-31"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Spurs ~%82.5 kazanma",
+      "site": "Dimers",
+      "url": "https://www.dimers.com/nba/predictions/2026_12_sas_min"
+     }
+    ],
+    "consensus": "Tüm kaynaklar Spurs'ün kazanacağında hemfikir; tartışma farkın 11.5-12.5 çizgisini aşıp aşmayacağında. Bazı modeller ve DK Network Wolves'un handikabı karşılayacağını düşünüyor; piyasa ise çizgiyi -11.5'ten -12.5'e taşıdı.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Wembanyama maç başı 25 sayı, 11.4 ribaund ve 3.8 blok; Spurs üç maçlık galibiyet serisinde."
+     },
+     {
+      "side": "home",
+      "text": "Wolves back-to-back'in ikinci gecesinde ve deplasmanda; Edwards ve DiVincenzo yokken guard derinliği zayıf."
+     },
+     {
+      "side": "away",
+      "text": "Wolves bu sezon 5-1 ATS ve maç başı 16 üçlükle (%39.2) ligin en iyi şutör takımı."
+     },
+     {
+      "side": "away",
+      "text": "Reko modeli farkı yalnızca 8 sayı görüyor; DK Network Wolves +12.5'i öneriyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Spurs maçlarında 6'da 1 üst, Wolves maçlarında 6'da 3 üst geldi."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Timberwolves'ta Anthony Edwards (diz artroskopisi, 2 aya kadar) ve Donte DiVincenzo (Aşil) yok.",
+      "url": "https://sports.iheart.com/content/2026-10-31-timberwolves-vs-spurs-injury-report-oct-31"
+     },
+     {
+      "impact": "orta",
+      "text": "Spurs'te Tobias Harris (baldır) ve Jayden Quaintance (diz) yok.",
+      "url": "https://sports.iheart.com/content/2026-10-31-timberwolves-vs-spurs-injury-report-oct-31"
+     },
+     {
+      "impact": "orta",
+      "text": "Timberwolves Cuma NBA Cup maçında Clippers'ı 127-101 yendi ve back-to-back'in ikinci maçına çıkıyor.",
+      "url": "https://dknetwork.draftkings.com/2026/10/31/minnesota-timberwolves-vs-san-antonio-spurs-prediction-pick-for-saturday-10-31-26/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -11.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 50,
+      "market": "Spurs -11.5 Handikap",
+      "prob": 0.51,
+      "reason": "Edwards'sız, back-to-back'in ikinci gecesinde ve yolculuk sonrası Wolves'un Wembanyama'lı Spurs karşısında ikinci yarıda düşmesi beklenir; net favorilerin handikapları iyi gidiyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": 226.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 47,
+      "market": "Toplam Sayı 226.5 Üst",
+      "prob": 0.49,
+      "reason": "Wolves maç başı 16 üçlükle ligin 1.'si ve %39.2 isabetle 2.'si; Spurs'ün hızlı guard grubu (Fox, Castle, Harper) tempoyu yükseltebilir. Wolves-Clippers maçı 228 sayı bitti.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 50,
+      "market": "Spurs Takım Toplamı 119.5 Üst",
+      "prob": 0.52,
+      "reason": "Yorgun ve guard rotasyonu eksik Wolves savunmasına karşı Wembanyama (25 sayı) ve Castle/Harper ikilisinin yüksek skor üretmesi beklenir.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Wolves'un yüksek üçlük isabeti farkı tek haneye indirebilir.",
+     "Spurs bu sezon 2-3 ATS, geniş çizgileri karşılamakta tutarsız.",
+     "Spurs'ün yalnızca 1/6 üst görmesi toplam üst seçimini zayıflatıyor."
+    ],
+    "sources": [
+     {
+      "title": "FanDuel Research - Spurs vs. Timberwolves",
+      "url": "https://www.fanduel.com/research/spurs-vs-timberwolves-prediction-nba-odds-spread-best-bets-for-10-31-2026"
+     },
+     {
+      "title": "iHeart - Timberwolves vs. Spurs Injury Report",
+      "url": "https://sports.iheart.com/content/2026-10-31-timberwolves-vs-spurs-injury-report-oct-31"
+     },
+     {
+      "title": "Leans.ai - Timberwolves vs Spurs",
+      "url": "https://leans.ai/nba/game-preview/2026-10-31/minnesota-timberwolves-vs-san-antonio-spurs/"
+     },
+     {
+      "title": "Dimers - Timberwolves vs. Spurs",
+      "url": "https://www.dimers.com/nba/predictions/2026_12_sas_min"
+     },
+     {
+      "title": "Lines.com - Timberwolves vs. Spurs",
+      "url": "https://www.lines.com/prediction-markets/sports/nba/nba-min-sas-2026-10-31"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Spurs (3-2) üç maçlık galibiyet serisiyle evinde; Tobias Harris ve Jayden Quaintance yok. Timberwolves (4-2) Cuma evde Clippers'ı 127-101 yendikten sonra San Antonio'ya geldi, back-to-back'in ikinci gecesinde; Anthony Edwards ve Donte DiVincenzo yok. Piyasa Spurs'ü -11.5/-12.5 favori görüyor, toplam 226.5-227.5.",
+    "verdict": "Edwards ve DiVincenzo'dan yoksun, back-to-back'teki Timberwolves karşısında Spurs net favori ve geniş handikabı karşılayabilir."
+   },
+   "createdAt": 1793481443812
+  },
+  "basketbol-2026-11-01-unicaja-barcelona": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Unicaja 1.71 – Barça 2.14",
+      "site": "Fortebet (piyasa oranı)",
+      "url": "https://www.fortebet.rw/static/pdf/full_offer.pdf"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Barça yorgun ve sakatlık sorunlarıyla geliyor; Carpena dolu",
+      "site": "Málaga Hoy",
+      "url": "https://www.malagahoy.es/unicaja/barca-pendiente-enfermeria-visitar-unicaja_0_2008368271.html"
+     }
+    ],
+    "consensus": "Piyasa Unicaja'yı hafif favori görüyor; yerel basın Barça'nın yorgunluğunu ve eksiklerini vurguluyor, tarihsel üstünlük ise Barça'dan yana.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Unicaja üç maçlık galibiyet serisinde (+8, +12, +13) ve ligin en dengeli savunmalarından biri (maç başı 83 sayı yiyor)."
+     },
+     {
+      "side": "home",
+      "text": "Barça bu hafta salı ve cuma EuroLeague oynadı; pazar Málaga'da üçüncü maçına çıkıyor."
+     },
+     {
+      "side": "home",
+      "text": "Barça ligde deplasmanda 0-2 ve ligin 2. en kötü savunması (1.29 sayı/hücum)."
+     },
+     {
+      "side": "away",
+      "text": "Barça Carpena'daki son 11 ziyaretin 8'ini kazandı; seride 103-46 üstün."
+     },
+     {
+      "side": "away",
+      "text": "Barça ligin en yüksek efektif şut yüzdesine (%61.8) sahip ve köşe üçlüklerinde %50 isabetle lider."
+     },
+     {
+      "side": "neutral",
+      "text": "Unicaja'da Amine Noua maç başı 14.4 sayı ve 8 ribaundla ligin en verimli uzunu."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Barça Núñez'i kaybetti, Gibson şüpheli; Parra geri dönüyor. Unicaja'da Tyson Pérez, Nzosa ve Alberto Díaz yok.",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Barça, Münih'te Bayern'i 84-88 yendi ancak Gibson ve Núñez sakatlandı; 48 saat içinde Valencia ve Unicaja maçları var.",
+      "url": "https://www.malagahoy.es/unicaja/barca-pendiente-enfermeria-visitar-unicaja_0_2008368271.html"
+     },
+     {
+      "impact": "orta",
+      "text": "Unicaja, NBA tecrübeli forvet Kevin Knox'u kadrosuna kattı.",
+      "url": "https://www.unicajabaloncesto.com/en/news"
+     },
+     {
+      "impact": "orta",
+      "text": "Barça cuma EuroLeague'de Valencia'yı 98-94 yendi.",
+      "url": "https://scores24.live/en/basketball/t-fc-barcelona"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 55,
+      "market": "MS 1 (Unicaja)",
+      "prob": 0.56,
+      "reason": "Unicaja dinlenmiş ve formda; Barça haftanın üçüncü maçına iki gün arayla deplasmanda çıkıyor, Núñez yok ve bu sezon ligde deplasmanda 0-2.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 172.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 51,
+      "market": "Toplam Sayı 172.5 Üst",
+      "prob": 0.53,
+      "reason": "Barça maçları ortalama ~194 toplamla bitiyor (98 atıp 96.2 yiyor); Unicaja'nın daha kontrollü oyununa rağmen Barça'nın zayıf savunması üste kapı açıyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -2.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 49,
+      "market": "Unicaja -2.5 Handikap",
+      "prob": 0.52,
+      "reason": "Yorgunluk etkisi çoğunlukla son çeyrekte görülüyor; Unicaja kazandığında farkın 3+ olma ihtimali yüksek.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Barça'nın tarihsel Carpena üstünlüğü ve yüksek hücum kalitesi yorgunluğu telafi edebilir.",
+     "Unicaja'nın üç uzun süreli eksiği rotasyonu daraltıyor; Knox'un uyumu belirsiz.",
+     "Unicaja'nın düşük tempolu oyunu üst seçimini riske sokabilir."
+    ],
+    "sources": [
+     {
+      "title": "ACB – Jornada 6 önizlemesi",
+      "url": "https://acb.com/es/liga/noticias/previa-de-la-jornada-6-de-liga-endesa-2026-27-146327"
+     },
+     {
+      "title": "Málaga Hoy – Barça'nın sakatlıkları",
+      "url": "https://www.malagahoy.es/unicaja/barca-pendiente-enfermeria-visitar-unicaja_0_2008368271.html"
+     },
+     {
+      "title": "Unicaja resmi haberler",
+      "url": "https://www.unicajabaloncesto.com/en/news"
+     },
+     {
+      "title": "SoloBasket – Unicaja-Barça 150. maç",
+      "url": "https://www.solobasket.com/liga-endesa/unicaja-barca-150-partidos-rivalidad-datos"
+     },
+     {
+      "title": "Fortebet oran listesi",
+      "url": "https://www.fortebet.rw/static/pdf/full_offer.pdf"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Unicaja ve Barça 3-2 ile eşit; Unicaja üç maçtır kazanıyor (+8, +12, +13) ve Kevin Knox'u kadrosuna kattı, ancak Tyson Pérez, Nzosa ve Alberto Díaz yok. Barça salı Münih'te Bayern'i 88-84, cuma Valencia'yı 98-94 yendi; 48 saat içinde Málaga'ya geliyor, Núñez yok, Gibson şüpheli, Parra dönüyor. Barça ligin 2. en iyi hücumu ama 2. en kötü savunması ve ligde deplasmanda henüz kazanamadı. Tarihsel olarak Barça Carpena'daki son 11 ziyaretin 8'ini kazandı; maç tribünleri dolu bir Carpena'da oynanacak.",
+    "verdict": "İki EuroLeague maçıyla yorgun ve eksik gelen Barça'ya karşı dinlenmiş, üç maçlık seride Unicaja'nın evinde kazanması değerli görünüyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-amedspor-eyupspor": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "MS1 %78, en olası seçim 1.5 Üst (%81)",
+      "site": "BankoZeka",
+      "url": "https://bankozeka.com/lig/super-lig"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "MS 1 (oran 1.17)",
+      "site": "İddaaTahmin11",
+      "url": "https://www.iddaatahmin11.com/tum-tahminler.html"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Oynanma oranları 1: %89, X: %8, 2: %3",
+      "site": "TotoCover",
+      "url": "https://totocover.com/mac-analiz/2026-12/5-amed-sportif-faaliyetler-eyupspor"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Maç önü: Eyüpspor deplasmanda 4 maçtır puan alamıyor, ev sahibi formda",
+      "site": "Sporkolik",
+      "url": "https://www.sporkolik.net/amedspor-eyupspor-eyupspor-deplasmanda-4-mactir-puan-cikaramadi.html"
+     }
+    ],
+    "consensus": "Tüm kaynaklar Amedspor galibiyetini açık ara favori görüyor; yorumlar ev sahibinin gollü ve tek taraflı bir maç oynamasından yana.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Amedspor iç sahada 5 maçta 5 galibiyet aldı, maç başı 2,2 attı, 1,1 yedi; son 5 lig maçı G-G-B-G-G."
+     },
+     {
+      "side": "away",
+      "text": "Eyüpspor 9 maçta 2 gol attı, 23 gol yedi (averaj -21); deplasmanda 4'te 4 yenilgi, maç başı 0,2 gol."
+     },
+     {
+      "side": "home",
+      "text": "Golcü Gift Emmanuel Orban 8 golle hücumu taşıyor; takımın 2.5 üstü oranı %78."
+     },
+     {
+      "side": "home",
+      "text": "Savunmada Dellova'nın cezası ve Diagne'nin yokluğu, ev sahibinin kalesini gole kapatma ihtimalini biraz azaltıyor."
+     },
+     {
+      "side": "away",
+      "text": "Eyüpspor çarşamba günü kupada 45 dakika oynadı; yorgunluk etkisi sınırlı, asıl sorun moral ve hücumdaki verimsizlik."
+     },
+     {
+      "side": "neutral",
+      "text": "Sıralamada 2. ile 18. karşılaşıyor; piyasa ev sahibine 1.17 civarında oran veriyor, değerin MS dışındaki marketlerde arandığı bir maç."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Amedspor'da Lumbardh Dellova ve Mbaye Diagne 1 maç cezalı; Dilhan Demir çapraz bağ sakatlığından dönmedi, Yira Sor ve Muhammed Hasan Yıldırım şüpheli.",
+      "url": "https://totocover.com/mac-analiz/2026-12/5-amed-sportif-faaliyetler-eyupspor"
+     },
+     {
+      "impact": "düşük",
+      "text": "Eyüpspor'un 28 Ekim'deki Fethiyespor kupa maçı ilk yarı 2-1 önde bitmişken sağanak yüzünden ertelendi; maç 4 Kasım'da tamamlanacak.",
+      "url": "https://gundemfethiye.com.tr/fethiyespor-eyupspor-maci-ertelendi-174512/"
+     },
+     {
+      "impact": "düşük",
+      "text": "Amedspor misafir tribününü de kendi taraftarına açtı; Diyarbakır Stadı'nda tam dolu ve tek taraflı bir atmosfer bekleniyor.",
+      "url": "https://amidahaber.com/amedspor/amedspordan-taraftarlari-sevindirecek-aciklama-239790h"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Eyüpspor ligde son 6 maçtır gol atamıyor.",
+      "url": "https://amidahaber.com/amedspor/amedsporun-rakibi-eyupspor-son-6-macta-golu-unuttu-239728h"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 56,
+      "market": "2.5 Üst",
+      "prob": 0.56,
+      "reason": "Amedspor lig maçlarının %78'i 2.5 üstü bitti ve iç sahada maç başı 2,2 atıyor; Eyüpspor deplasmanda maç başı 2,6 gol yiyor. Skor yükünü büyük ölçüde ev sahibinin taşıması gerekecek.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 60,
+      "market": "KG Yok",
+      "prob": 0.64,
+      "reason": "Eyüpspor 9 lig maçında yalnızca 2 gol attı, son 5 lig maçında hiç gol bulamadı ve karşılıklı gol oranı %11; Dellova'nın yokluğuna rağmen konuk ekibin gol bulması zor görünüyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -1.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 48,
+      "market": "Amedspor -1.5 Handikap (2+ farkla kazanır)",
+      "prob": 0.49,
+      "reason": "Geniş fark için somut gerekçe var: Eyüpspor deplasmanda 4'te 4 yenildi ve maç başı 2,6 gol yedi, son 5 lig maçında 0-17'lik averaj üretti. Yine de stoper eksikliği ve favorilerin sıkça tek farkla kazanması riski nedeniyle güven sınırlı.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Dellova ve Diagne eksikliği Amedspor'un savunma düzenini bozabilir ve Eyüpspor'a bir gol kapısı açabilir.",
+     "Erken gol gelmezse kapanan Eyüpspor karşısında maç 1-0 gibi düşük bir skorla bitebilir; bu da 2.5 Üst ile -1.5 handikabı yakar.",
+     "Rahat galibiyetin ardından Galatasaray deplasmanı öncesi Amedspor tempoyu erken düşürebilir."
+    ],
+    "sources": [
+     {
+      "title": "T24 - 9. hafta sonrası puan durumu ve 10. hafta programı",
+      "url": "https://t24.com.tr/spor/trendyol-super-ligde-9-haftanin-ardindan-gorunum-puan-durumu-ve-10-hafta-programi,1355474"
+     },
+     {
+      "title": "Haberler.com - Amedspor-Eyüpspor maç bilgisi",
+      "url": "https://www.haberler.com/spor/canli-anlatim/amedspor-eyupspor-1878382-mac-bilgisi/"
+     },
+     {
+      "title": "TotoCover - Amed SF-Eyüpspor maç analizi",
+      "url": "https://totocover.com/mac-analiz/2026-12/5-amed-sportif-faaliyetler-eyupspor"
+     },
+     {
+      "title": "Sakat ve cezalı - Süper Lig",
+      "url": "https://sakat-ve-cezali.com/turkiye-super-lig.php"
+     },
+     {
+      "title": "Goal.com - Süper Lig puan durumu 2026/27",
+      "url": "https://www.goal.com/tr/ligler/super-lig/puan-durumu/482ofyysbdbeoxauk19yg7tdt"
+     },
+     {
+      "title": "BankoZeka - Süper Lig tahminleri",
+      "url": "https://bankozeka.com/lig/super-lig"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Amedspor 20 puanla ikinci sırada ve bu sezon iç sahada 5'te 5 yaptı (maç başı 2,2 attı, 1,1 yedi). Eyüpspor 3 puanla son sırada; ligde 9 maçta sadece 2 gol attı, son 5 lig maçının hepsini kaybetti ve deplasmanda 4 maçta 0,2 gol atıp 2,6 gol yedi. Amedspor'da stoper Lumbardh Dellova ve Mbaye Diagne cezalı, Dilhan Demir sakat; Eyüpspor ise kupada çarşamba günü yarıda kalan bir maç oynadı. Ev sahibinin rahat kazanması beklense de piyasanın 1.17 civarındaki MS oranı değersiz; gol çizgisi ve Eyüpspor'un gol atamaması öne çıkıyor.",
+    "verdict": "Amedspor iç saha üstünlüğüyle net favori; değer, düz MS yerine gol çizgisi ve Eyüpspor'un gol kısırlığında."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-athletic-bilbao-real-sociedad": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Athletic %44, beraberlik %25, Sociedad %31; en olası 1-1",
+      "site": "Dimers",
+      "url": "https://www.dimers.com/la-liga/predictions/2026_11_bil_rso"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "KG Var",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/athletic-club-vs-real-sociedad-prediction-lineups-odds-2026-11-01/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Athletic 1-1 Real Sociedad",
+      "site": "CSBN (Sports Mole önizlemesi)",
+      "url": "https://completesportsbreakingnews.com/preview-athletic-bilbao-vs-real-sociedad-prediction-team-news-lineups-4/"
+     }
+    ],
+    "consensus": "Siteler Athletic'i hafif favori görse de 1-1'i en olası skor olarak öne çıkarıyor; gol tarafında KG Var eğilimi var.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Athletic iç sahada (son 5) 1.8 gol atıp 0.8 yiyor; cleanSheetPct %60, failedToScorePct %20."
+     },
+     {
+      "side": "away",
+      "text": "Real Sociedad deplasmanda (son 5) 2.4 atıp 2.2 yiyor; cleanSheetPct %0, over25Pct %80, bttsPct %80."
+     },
+     {
+      "side": "home",
+      "text": "Athletic San Mamés'te Real Sociedad'a karşı son 5 lig maçında yenilmedi (4G 1B)."
+     },
+     {
+      "side": "away",
+      "text": "Sociedad formda: son 6 maçta 5 galibiyet, Avrupa Ligi'nde Lillestrøm'ü 6-0 yendi; tabloda 19 puanla 5."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 3 H2H: 1-1, 3-2, 0-0 — derbiler genelde dengeli geçiyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Mundo Deportivo: Sancet derbiye yetişecek, iki gündür takımla çalışıyor.",
+      "url": "https://getfootballnewsspain.com/athletic-club-handed-injury-boost-for-real-sociedad-derby-clash/"
+     },
+     {
+      "impact": "orta",
+      "text": "Laporte ceza sonrası kadroya dönüyor; Ruiz de Galarreta hamstring sakatlığıyla derbide yok.",
+      "url": "https://www.foxsports.com/soccer/athletic-team"
+     },
+     {
+      "impact": "orta",
+      "text": "Athletic'te Guruzeta ve Egiluz (diz) sakat; Real Sociedad'da Zakharyan, Beitia (ayak bileği) ve Odriozola (diz) eksik.",
+      "url": "https://tips.gg/article/athletic-club-vs-real-sociedad-predicted-lineups-team-news-01-11-2026"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "DNB"
+      },
+      "confidence": 54,
+      "market": "Athletic Bilbao Beraberlikte İade (DNB 1)",
+      "prob": 0.45,
+      "reason": "Athletic iç sahada goalsAgainstAvg 0.8 ve cleanSheetPct %60; Sociedad deplasmanda maç başı 2.2 gol yiyor. Athletic San Mamés'te ligde son 5 derbide yenilmedi (beraberlikte iade).",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 52,
+      "market": "2.5 Üst",
+      "prob": 0.52,
+      "reason": "Athletic iç saha over25Pct %60, Sociedad dış saha over25Pct %80; ilgili saha ortalamalarıyla beklenen toplam ≈ 3.5 gol. Ancak derbi geçmişi daha düşük skorlu.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 36,
+      "market": "Maç Sonucu Beraberlik",
+      "prob": 0.27,
+      "reason": "Son 3 H2H'nin ikisi berabere (1-1, 0-0); modellerin en olası skoru 1-1.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Sociedad'ın formu ve deplasmandaki 2.4 gol ortalaması Athletic DNB'yi kaybettirebilir.",
+     "Derbi gerginliği ve tarihsel düşük skorlar (H2H 2.5 Üst oranı ~%37) 2.5 Üst'ü bozabilir.",
+     "Sancet'in tam hazır olmaması ve Guruzeta'nın yokluğu Athletic'in gol üretimini düşürebilir."
+    ],
+    "sources": [
+     {
+      "title": "Athletic Bilbao vs Real Sociedad predicted lineups - Lineups Today",
+      "url": "https://lineupstoday.com/laliga/athletic-bilbao-real-sociedad-01-11-2026"
+     },
+     {
+      "title": "Athletic Club vs Real Sociedad Lineups - Tips.GG",
+      "url": "https://tips.gg/article/athletic-club-vs-real-sociedad-predicted-lineups-team-news-01-11-2026"
+     },
+     {
+      "title": "Athletic Club handed injury boost - GSFN",
+      "url": "https://getfootballnewsspain.com/athletic-club-handed-injury-boost-for-real-sociedad-derby-clash/"
+     },
+     {
+      "title": "Athletic Club vs Real Sociedad Prediction - RotoWire",
+      "url": "https://www.rotowire.com/soccer/article/athletic-club-vs-real-sociedad-prediction-predicted-lineups-team-news-144597"
+     },
+     {
+      "title": "Athletic Bilbao vs Real Sociedad Prediction - Dimers",
+      "url": "https://www.dimers.com/la-liga/predictions/2026_11_bil_rso"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Athletic iç sahada son 5 maçta 1.8 gol atıp 0.8 yiyor ve %60 gol yemeden kapatıyor; Real Sociedad deplasmanda 2.4 atıp 2.2 yiyor, hiç gol yemeden bitirdiği deplasman yok. Sociedad formda (son 6'da 5 galibiyet, Avrupa Ligi'nde 6-0) ama Athletic San Mamés'te ligde son 5 derbide yenilmedi. Athletic'te Laporte cezadan dönüyor, Sancet'in yetişmesi bekleniyor; Guruzeta ve Ruiz de Galarreta yok. Sociedad'da Zakharyan, Odriozola ve Beitia eksik.",
+    "verdict": "San Mamés'te Athletic hafif favori ama Bask derbisinin dengeli doğası beraberliği güçlü kılıyor; Athletic DNB ve 2.5 Üst öne çıkıyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-basaksehir-samsunspor": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "MS1 %53, X %27, 2 %21; en olası seçim 1.5 Üst (%81)",
+      "site": "BankoZeka",
+      "url": "https://bankozeka.com/en/predictions/tomorrow"
+     },
+     {
+      "agree": "evet",
+      "prediction": "MS 1 (oran 1.68)",
+      "site": "İddaaTahmin11",
+      "url": "https://www.iddaatahmin11.com/tum-tahminler.html"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Başakşehir kazanma ihtimali %79, 2.5 üst %66, KG %45",
+      "site": "FutbolRadar",
+      "url": "https://www.futbolradar.com/mac/basaksehir-samsunspor-1-kasim-2026"
+     }
+    ],
+    "consensus": "Siteler Başakşehir galibiyetini öne çıkarıyor ve maçta en az 2 gol bekliyor; Samsunspor'un kötü gidişi ortak gerekçe.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Başakşehir iç sahada 5 maçta 11 gol attı, 5 gol yedi; tek yenilgisi Galatasaray'a karşı 2-3."
+     },
+     {
+      "side": "away",
+      "text": "Samsunspor ligde üst üste 7 maç kaybetti; 9 maçta 8 gol atıp 21 gol yedi (averaj -13)."
+     },
+     {
+      "side": "away",
+      "text": "Sakat Emre Kılınç ve Fatih Kaya ile cezalı Afonso Sousa'nın yokluğuna, Bjelica'nın kenarda olmaması da ekleniyor."
+     },
+     {
+      "side": "home",
+      "text": "Eldor Shomurodov 7 golle ligin en golcüleri arasında; Başakşehir geçen hafta Beşiktaş'a 2-0 yenilerek seriyi bozdu."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 5 karşılaşmada Başakşehir 4 galibiyet aldı; İstanbul'daki son 3 maçı 3-0, 4-0 ve 1-0 bitti."
+     },
+     {
+      "side": "neutral",
+      "text": "İki takımın da hafta içinde Avrupa maçı yok; yorgunluk belirleyici değil."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Samsunspor'da Emre Kılınç ve Fatih Kaya sakat, Afonso Sousa kart cezalı; teknik direktör Nenad Bjelica cezası nedeniyle maçı tribünden izleyecek.",
+      "url": "https://www.birgun.net/haber/samsunspor-basaksehir-deplasmaninda-cikis-ariyor-743646"
+     },
+     {
+      "impact": "orta",
+      "text": "Samsunspor üst üste 7. lig yenilgisini Amedspor'a 2-1 kaybederek aldı.",
+      "url": "https://www.habererk.com/haber/ilk-9-haftada-7-kulup-teknik-direktorunu-degistirdi_358365/"
+     },
+     {
+      "impact": "düşük",
+      "text": "Başakşehir'de Christopher Operi kas sakatlığı nedeniyle şüpheli; Umut Güneş ve Kemen sarı kart sınırında.",
+      "url": "https://ajansspor.com/haber/basaksehir-samsunspor-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-737682"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 55,
+      "market": "Başakşehir MS 1",
+      "prob": 0.55,
+      "reason": "Piyasada 1.68 civarında: Samsunspor'un 7 maçlık yenilgi serisi, eksik kadrosu ve kenarda olmayacak teknik direktörü karşısında Başakşehir iç sahada 5 maçta sadece Galatasaray'a yenildi.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 54,
+      "market": "2.5 Üst",
+      "prob": 0.55,
+      "reason": "Başakşehir'in iç saha maçlarında ortalama 3,2 gol çıktı (5 maçın 3'ü 2.5 üstü), Samsunspor maç başı 2,3 gol yiyor; FutbolRadar 2.5 üst ihtimalini %66 veriyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 55,
+      "market": "Başakşehir 1.5 Gol Üstü (takım toplamı)",
+      "prob": 0.57,
+      "reason": "Başakşehir iç sahada 5 maçın 4'ünde en az 2 gol attı; Samsunspor deplasmanda maç başı 2,3 gol yiyor ve savunması son haftalarda dağıldı (Kasımpaşa'ya 4-1).",
+      "risk": "orta"
+     }
+    ],
+    "risks": [
+     "Dibe vurmuş Samsunspor'un tepki maçı çıkarması ve Başakşehir'in kapanan rakibe karşı zorlanması puan kaybına yol açabilir.",
+     "Başakşehir'in hücum verimi dalgalı (Konyaspor deplasmanında 0-0); erken gol gelmezse düşük skorlu bir maç olabilir.",
+     "Tek bir duran top veya kontra gol, deplasmanda maç başı 0,9 gol atıp 2,3 gol yiyen Samsunspor'a beraberliği getirebilir."
+    ],
+    "sources": [
+     {
+      "title": "BirGün - Samsunspor, Başakşehir deplasmanında çıkış arıyor",
+      "url": "https://www.birgun.net/haber/samsunspor-basaksehir-deplasmaninda-cikis-ariyor-743646"
+     },
+     {
+      "title": "Ajansspor - Başakşehir-Samsunspor muhtemel 11'ler, sakat ve cezalılar",
+      "url": "https://ajansspor.com/haber/basaksehir-samsunspor-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-737682"
+     },
+     {
+      "title": "Haberler.com - Başakşehir-Samsunspor maç bilgisi ve son karşılaşmalar",
+      "url": "https://www.haberler.com/spor/canli-anlatim/basaksehir-samsunspor-1878375-mac-bilgisi/"
+     },
+     {
+      "title": "FutbolRadar - Başakşehir-Samsunspor",
+      "url": "https://www.futbolradar.com/mac/basaksehir-samsunspor-1-kasim-2026"
+     },
+     {
+      "title": "Goal.com - Süper Lig puan durumu",
+      "url": "https://www.goal.com/tr/ligler/super-lig/puan-durumu/482ofyysbdbeoxauk19yg7tdt"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Başakşehir 11 puanla 12. sırada; iç sahada 5 lig maçında 3 galibiyet, 1 beraberlik, 1 yenilgi aldı (2-0 Kocaelispor, 1-1 Kasımpaşa, 2-3 Galatasaray, 4-0 Gençlerbirliği, 2-1 Gaziantep). Samsunspor 4 puanla 17. sırada, ligde üst üste 7 maç kaybetti ve 9 maçta 21 gol yedi. Konuklarda Emre Kılınç, Fatih Kaya sakat, Afonso Sousa cezalı; teknik direktör Nenad Bjelica kırmızı kart cezası nedeniyle maçı tribünden izleyecek. Başakşehir'de Christopher Operi sakat. Son 5 karşılaşmanın 4'ünü Başakşehir kazandı ve iç sahadaki son 3 maçta Samsunspor'a gol yemedi.",
+    "verdict": "Üst üste 7 lig maçı kaybeden Samsunspor karşısında Başakşehir iç sahada favori; MS 1 ve gol çizgisi değerli görünüyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-como-venezia": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Venezia AH +1.75",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/como-vs-venezia-prediction-lineups-odds-2026-11-01"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Como 2-0, Como gol yemez",
+      "site": "Sportskeeda",
+      "url": "https://www.sportskeeda.com/football/como-vs-venezia-prediction-betting-tips-november-1st-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Como kazanır (%74), KG Yok %60, 2.5 Üst %52",
+      "site": "GoalStatsLab",
+      "url": "https://goalstatslab.com/prediction-analysis/como-vs-venezia-9097/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Como 3-1, KG Var, 2.5 Üst",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/como-vs-venezia-prediction-01-11-2026/"
+     }
+    ],
+    "consensus": "Tüm siteler Como galibiyeti bekliyor. Gol sayısı ve Venezia'nın gol atıp atamayacağı konusunda ise görüşler ayrışıyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Como'nun son 5 iç saha maçı: goalsForAvg 2.4, goalsAgainstAvg 0.6, cleanSheetPct %40; üst üste 4 galibiyet."
+     },
+     {
+      "side": "away",
+      "text": "Venezia dış sahada goalsForAvg 0.75, goalsAgainstAvg 2.25, failedToScorePct %50; 9 maçta 8 yenilgi ve 3 puanla son sırada."
+     },
+     {
+      "side": "home",
+      "text": "Como'da Kean (ameliyat), Diao, Jesús Rodríguez ve Addai yok; hücum hattı ciddi şekilde zayıfladı."
+     },
+     {
+      "side": "home",
+      "text": "Como, 21 Ekim'de Şampiyonlar Ligi'nde, 27 Ekim'de Torino deplasmanında oynadı; yoğun fikstür rotasyonu getirebilir."
+     },
+     {
+      "side": "neutral",
+      "text": "Son iki Serie A H2H berabere bitti (1-1, 2-2)."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Como'da Moise Kean milli takımda yaşadığı sakatlık sonrası ameliyat oldu, yaklaşık bir buçuk ay yok.",
+      "url": "https://www.gazzetta.it/Calcio/prob_form/como-venezia/2638214"
+     },
+     {
+      "impact": "orta",
+      "text": "Como'da Diao, Jesús Rodríguez ve Jayden Addai de sakat; Fabregas Liberali'nin döndüğünü açıkladı.",
+      "url": "https://football-italia.net/fabregas-venezia-will-be-difficult-for-como"
+     },
+     {
+      "impact": "düşük",
+      "text": "Gazzetta: Venezia teknik direktörü Nicola, Como karşısında tüm oyuncularından yararlanabilecek.",
+      "url": "https://www.gazzetta.it/Calcio/prob_form/como-venezia/2638214"
+     },
+     {
+      "impact": "düşük",
+      "text": "Fabregas: 'Venezia zor bir rakip olacak, bugün sonucu önceden tahmin etmek imkânsız.'",
+      "url": "https://football-italia.net/fabregas-venezia-will-be-difficult-for-como"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 55,
+      "market": "Karşılıklı Gol Yok",
+      "prob": 0.56,
+      "reason": "Venezia dış sahada failedToScorePct %50, goalsForAvg 0.75; Como iç sahada maç başına 0.6 gol yiyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 1.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 53,
+      "market": "Venezia +1.5 Handikap",
+      "prob": 0.55,
+      "reason": "Kean, Diao ve Addai'nin yokluğu Como'nun hücum derinliğini azaltıyor; Venezia'nın düşük blok planı ve favorilerin çoğunlukla tek farkla kazanma eğilimi 1-0 / 2-1 gibi skorları öne çıkarıyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 46,
+      "market": "2.5 Üst",
+      "prob": 0.52,
+      "reason": "Como iç sahada over25Pct %60 ve goalsForAvg 2.4; Venezia dış sahada 2.25 gol yiyor. Ancak Como'nun hücum eksikleri ve Venezia'nın kapalı oyunu riski artırıyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Como'nun Kean'siz bile 3-0 gibi rahat bir galibiyet alması handikap seçimini yakabilir.",
+     "Venezia'nın kontra ataklarla bulacağı tek gol KG Yok seçimini bozabilir.",
+     "Hücum eksikleri nedeniyle Como'nun tek golle yetinmesi 2.5 Üst seçimini tutmayabilir."
+    ],
+    "sources": [
+     {
+      "title": "Gazzetta – Probabile Formazione Como-Venezia",
+      "url": "https://www.gazzetta.it/Calcio/prob_form/como-venezia/2638214"
+     },
+     {
+      "title": "Football Italia – Fabregas: Venezia will be difficult",
+      "url": "https://football-italia.net/fabregas-venezia-will-be-difficult-for-como"
+     },
+     {
+      "title": "Gazzetta – Como injury alarm",
+      "url": "https://www.gazzetta.it/en/football/teams/como/news/29-10-2026/como-injury-alarm-addai-also-sidelined-as-kean-set-to-return-against-venezia.shtml"
+     },
+     {
+      "title": "Sportsgambler – Como vs Venezia",
+      "url": "https://www.sportsgambler.com/betting-tips/football/como-vs-venezia-prediction-lineups-odds-2026-11-01"
+     },
+     {
+      "title": "GoalStatsLab – Como vs Venezia",
+      "url": "https://goalstatslab.com/prediction-analysis/como-vs-venezia-9097/"
+     },
+     {
+      "title": "Sportskeeda – Como vs Venezia Prediction",
+      "url": "https://www.sportskeeda.com/football/como-vs-venezia-prediction-betting-tips-november-1st-2026"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "5. sıradaki Como iç sahada maç başına 2.4 gol atıp 0.6 yiyor ve üst üste 4 maç kazandı. Son sıradaki Venezia dış sahada 0.75 gol ortalamasında, maçların %50'sinde gol atamadı. Como'da Kean ameliyat oldu, Diao, Jesús Rodríguez ve Addai de yok; ayrıca Şampiyonlar Ligi temposu sürüyor. Venezia ise Nicola yönetiminde tam kadro ve kapalı oynaması bekleniyor.",
+    "verdict": "Como açık favori ama Kean'siz ve sakatlıklarla boğuşuyor; Venezia'nın gol bulması zor, fark ise sınırlı kalabilir."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-eintracht-frankfurt-hamburger-sv": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Frankfurt 2-0, Frankfurt 1.5 Üst gol",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/eintracht-frankfurt-vs-hamburger-sv-prediction-preview-01-11-2026/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Frankfurt %47, yaklaşık 3.5 gol beklentisi",
+      "site": "StakeVista",
+      "url": "https://stakevista.com/bundesliga/2026-27/eintracht-frankfurt-hamburger-sv"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Gol beklentisi 1.79-1.11, 2.5 Üst %59, KG Var %46",
+      "site": "Lineups Today",
+      "url": "https://lineupstoday.com/bundesliga/eintracht-frankfurt-hamburger-sv-01-11-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "En olası skor 2-1",
+      "site": "BetMines",
+      "url": "https://betmines.com/match-preview/eintracht-frankfurt-vs-hamburger-sv-prediction-match-preview-and-analysis-bundesliga-01-11-2026"
+     }
+    ],
+    "consensus": "Siteler Frankfurt'u favori görüyor ve gollü bir maç bekliyor. HSV'nin gol bulup bulamayacağı konusunda ise ayrışma var.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Frankfurt iç sahada (sample 3): goalsForAvg 1.33, goalsAgainstAvg 2.0, failedToScorePct %0, over25Pct %67; toplamda 2.43 gol yiyor."
+     },
+     {
+      "side": "away",
+      "text": "HSV dış sahada (sample 4): goalsForAvg 0.75, goalsAgainstAvg 2.5, failedToScorePct %75, bttsPct %25, cleanSheetPct %0."
+     },
+     {
+      "side": "away",
+      "text": "HSV'nin hücumunda Vieira, Nadir ve Poulsen yok; son 3 lig maçında sadece 1 gol attı."
+     },
+     {
+      "side": "home",
+      "text": "Frankfurt 5 gün önce aynı rakibi 3-1 yendi ve özgüven kazandı; ama 10 Ekim'de Leipzig'e 6-0 kaybetmesi savunma kırılganlığını gösteriyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Mayıs 2026'daki son lig maçında HSV Frankfurt'ta 2-1 kazandı; rövanş motivasyonu yüksek."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "HSV'de Fabio Vieira (arka adale yırtığı), Bilal Nadir ve Yussuf Poulsen (kalça) Frankfurt'a karşı oynanan iki maçta da yok.",
+      "url": "https://www.ndr.de/sport/fussball/hsv-schock-vor-pokalspiel-gegen-frankfurt-vieira-und-nadir-fehlen-lange,hsv-2276.html"
+     },
+     {
+      "impact": "orta",
+      "text": "HSV'de Sebastiaan Bornauw yüzüne aldığı darbe nedeniyle şüpheli; Jordan Torunarigha kadroya dönüyor.",
+      "url": "https://bulinews.com/eintracht-frankfurt-hamburger-preview-visitors-looking-for-revenge"
+     },
+     {
+      "impact": "düşük",
+      "text": "Frankfurt'ta sadece Jessic Ngankam sakat; Lilian Brassier küçük diz sorunu sonrası ilk 11'e dönüyor.",
+      "url": "https://bulinews.com/eintracht-frankfurt-hamburger-preview-visitors-looking-for-revenge"
+     },
+     {
+      "impact": "orta",
+      "text": "Frankfurt, 27 Ekim'de DFB-Pokal'da HSV'yi deplasmanda 3-1 yenerek tur atladı (Koch, Burkardt, Ebnoutalib).",
+      "url": "https://bulinews.com/eintracht-frankfurt-hamburger-preview-visitors-looking-for-revenge"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 55,
+      "market": "2.5 Üst",
+      "prob": 0.57,
+      "reason": "Frankfurt iç sahada over25Pct %67 (toplamda %71), HSV dış sahada maç başına 2.5 gol yiyor; iki takımın da toplam goalsAgainstAvg değeri 2.2'nin üzerinde.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 52,
+      "market": "Karşılıklı Gol Yok",
+      "prob": 0.55,
+      "reason": "HSV dış sahada failedToScorePct %75, bttsPct %25 ve goalsForAvg 0.75; Vieira, Nadir ve Poulsen yok.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 50,
+      "market": "Frankfurt Kazanır (MS 1)",
+      "prob": 0.54,
+      "reason": "Frankfurt iç sahada her maçta gol attı ve HSV'yi 5 gün önce 3-1 yendi; HSV dış sahada maç başına 2.5 gol yiyor ve hücumda üç önemli eksiği var.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 42,
+      "market": "Frankfurt 1.5 Üst Gol (takım toplamı)",
+      "prob": 0.47,
+      "reason": "HSV'nin dış saha goalsAgainstAvg değeri 2.5 ve dış saha cleanSheetPct %0; Ebnoutalib son 5 maçta 3 gol attı.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Frankfurt'un zayıf savunması (toplamda 2.43 gol yiyor) HSV'ye gol fırsatı verip KG Yok seçimini bozabilir.",
+     "Rövanş motivasyonundaki HSV'nin derin savunmasıyla maç 1-0 gibi düşük bir skora kilitlenebilir.",
+     "Kupa maçından 5 gün sonra iki takımda da yorgunluk ve rotasyon olabilir; Frankfurt'un iç saha örneklemi sadece 3 maç."
+    ],
+    "sources": [
+     {
+      "title": "Bulinews – Frankfurt vs HSV preview",
+      "url": "https://bulinews.com/eintracht-frankfurt-hamburger-preview-visitors-looking-for-revenge"
+     },
+     {
+      "title": "NDR – HSV: Vieira und Nadir fehlen lange",
+      "url": "https://www.ndr.de/sport/fussball/hsv-schock-vor-pokalspiel-gegen-frankfurt-vieira-und-nadir-fehlen-lange,hsv-2276.html"
+     },
+     {
+      "title": "Football Whispers – Frankfurt vs HSV",
+      "url": "https://footballwhispers.com/blog/eintracht-frankfurt-vs-hamburger-sv-prediction-preview-01-11-2026/"
+     },
+     {
+      "title": "StakeVista – Frankfurt vs HSV",
+      "url": "https://stakevista.com/bundesliga/2026-27/eintracht-frankfurt-hamburger-sv"
+     },
+     {
+      "title": "Sports Mole – Frankfurt vs HSV Preview",
+      "url": "https://www.sportsmole.co.uk/football/eintracht-frankfurt/preview/frankfurt-vs-hamburger-sv-prediction-team-news-lineups_608069.html"
+     },
+     {
+      "title": "BetMines – Frankfurt vs HSV",
+      "url": "https://betmines.com/match-preview/eintracht-frankfurt-vs-hamburger-sv-prediction-match-preview-and-analysis-bundesliga-01-11-2026"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Frankfurt 15. sırada, savunması zayıf (toplamda maç başına 2.43 gol yiyor) ama iç sahada her maçta gol buldu. HSV dış sahada maçların %75'inde gol atamadı ve Vieira, Nadir ile Poulsen'den yoksun. İki takım salı günü kupada karşılaştı, Frankfurt Hamburg'da 3-1 kazandı. Oranlar Frankfurt'u yaklaşık 1.57 ile favori gösteriyor.",
+    "verdict": "Frankfurt, kupada 3-1 yendiği ve hücum hattı eksik HSV karşısında hafif favori; savunma zaafları gollü ama tek taraflı gollerin olduğu bir maçı işaret ediyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-getafe-sevilla": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "0-0 (Sevilla %35, X %34, Getafe %31)",
+      "site": "Statz",
+      "url": "https://statz.ai/news/19732637-getafe-vs-sevilla-predictions-betting-tips"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Sevilla veya beraberlik + 3.5 Alt",
+      "site": "The Stats Zone",
+      "url": "https://www.thestatszone.com/getafe-vs-sevilla-preview-team-news-prediction-233843"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Getafe AH +0.25, skor 1-0",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-sevilla-prediction-lineups-odds-2026-11-01/"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Getafe 1-2 Sevilla, 2.5 Üst, KG Var",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/getafe-vs-sevilla-prediction-01-11-2026/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Getafe 0-1 Sevilla",
+      "site": "CSBN",
+      "url": "https://completesportsbreakingnews.com/preview-getafe-vs-sevilla-prediction-team-news-lineups-2"
+     }
+    ],
+    "consensus": "Siteler kazanan konusunda bölünmüş, Sevilla'yı hafif önde görüyor. Çoğunluk düşük skor (0-0, 1-1, 1-0 veya 0-1) bekliyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Getafe'nin son 5 iç saha maçı: goalsForAvg 1.0, goalsAgainstAvg 0.6, over25Pct %0; ligdeki iç saha maçlarının hepsi 1-0 veya 1-1 bitti."
+     },
+     {
+      "side": "away",
+      "text": "Sevilla dış sahada maç başına 1.8 gol atıp 1.8 yiyor (over25Pct %60, bttsPct %80) ve son iki maçını kazandı (Osasuna 2-0, kupada Hortaleza 3-0)."
+     },
+     {
+      "side": "home",
+      "text": "Getafe 10 maçta sadece 5 gol attı (ligin en azı) ve 18. sırada; deplasmanda hiç puanı yok ama evinde 7 maçtır yenilmiyor."
+     },
+     {
+      "side": "home",
+      "text": "Getafe'de iki cezalı (Mojica, Mario Martín) ve birkaç sakat var; Avrupa ve kupa yükü yorgunluk riski yaratıyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 5 H2H: 0-1, 1-2, 0-0, 1-0, 0-1; hiçbirinde 2'den fazla gol yok."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Getafe'de Johan Mojica ve Mario Martín cezalı; Djene Dakonam cezasını tamamlayıp dönüyor.",
+      "url": "https://completesportsbreakingnews.com/preview-getafe-vs-sevilla-prediction-team-news-lineups-2"
+     },
+     {
+      "impact": "orta",
+      "text": "Getafe'de Juanmi ve Christantus Uche diz sakatlığıyla yok; Zaid Romero ve Orel Mangala kas sakatlığıyla şüpheli.",
+      "url": "https://lineupstoday.com/laliga/getafe-sevilla-01-11-2026"
+     },
+     {
+      "impact": "düşük",
+      "text": "Sevilla'da Marcão ve Miguel Sierra sakat; bunun dışında kadroda yeni sorun yok.",
+      "url": "https://www.thestatszone.com/getafe-vs-sevilla-preview-team-news-prediction-233843"
+     },
+     {
+      "impact": "orta",
+      "text": "Getafe, Konferans Ligi ve Kral Kupası nedeniyle yoğun fikstürde; kadro rotasyonu gündemde.",
+      "url": "https://www.futbolfantasy.com/laliga/noticias/153791-posibles-alineaciones-y-previa-fantasy-del-getafe-sevilla"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 60,
+      "market": "2.5 Alt",
+      "prob": 0.62,
+      "reason": "Getafe'nin son 5 iç saha maçında over25Pct %0, iç saha goalsAgainstAvg 0.6; son 5 H2H'nin hiçbiri 3 gole ulaşmadı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "1X",
+       "type": "DC"
+      },
+      "confidence": 52,
+      "market": "Çifte Şans 1X (Getafe veya Beraberlik)",
+      "prob": 0.6,
+      "reason": "Getafe ligde iç sahada 7 maçtır yenilmiyor (iç saha failedToScorePct %0, cleanSheetPct %40); Sevilla deplasmanda maç başına 1.8 gol yiyor. Oran sınırda (yaklaşık 1.55-1.60) olabilir.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 38,
+      "market": "Beraberlik",
+      "prob": 0.31,
+      "reason": "Getafe'nin 5 iç saha maçının 3'ü beraberlik; Statz 0-0 ve 1-1'i en olası iki skor görüyor, beraberliğe %34 veriyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "sel": "yes",
+       "type": "BTTS"
+      },
+      "confidence": 42,
+      "market": "Karşılıklı Gol Var",
+      "prob": 0.47,
+      "reason": "İstatistikte iki taraf da ilgili sahada failedToScorePct %0 (Getafe iç saha bttsPct %60, Sevilla dış saha %80); ancak Getafe son 7 iç saha Sevilla maçının 6'sında gol atamadı, bu yüzden güven düşük.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Sevilla'nın dış sahadaki 1.8 gol ortalaması ve Getafe'nin deplasmanda gol yeme eğilimi 3+ gollü bir maça yol açabilir.",
+     "Getafe'nin cezalı ve sakat oyuncuları ile rotasyon savunma düzenini bozabilir.",
+     "Erken bir Sevilla golü, Getafe'yi açılmaya zorlayıp maçın temposunu değiştirebilir."
+    ],
+    "sources": [
+     {
+      "title": "Statz – Getafe vs Sevilla Predictions",
+      "url": "https://statz.ai/news/19732637-getafe-vs-sevilla-predictions-betting-tips"
+     },
+     {
+      "title": "The Stats Zone – Getafe vs Sevilla Preview",
+      "url": "https://www.thestatszone.com/getafe-vs-sevilla-preview-team-news-prediction-233843"
+     },
+     {
+      "title": "Lineups Today – Getafe vs Sevilla",
+      "url": "https://lineupstoday.com/laliga/getafe-sevilla-01-11-2026"
+     },
+     {
+      "title": "CSBN – Preview: Getafe vs Sevilla",
+      "url": "https://completesportsbreakingnews.com/preview-getafe-vs-sevilla-prediction-team-news-lineups-2"
+     },
+     {
+      "title": "Sportsgambler – Getafe vs Sevilla",
+      "url": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-sevilla-prediction-lineups-odds-2026-11-01/"
+     },
+     {
+      "title": "FútbolFantasy – Posibles alineaciones Getafe - Sevilla",
+      "url": "https://www.futbolfantasy.com/laliga/noticias/153791-posibles-alineaciones-y-previa-fantasy-del-getafe-sevilla"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Getafe sezonda yalnızca 5 gol attı ve bu gollerin hepsi iç sahada geldi; iç saha maçlarının tamamı 1-0 ya da 1-1 bitti (iç saha over25Pct %0). Sevilla deplasmanda maç başına 1.8 gol atıp 1.8 yiyor ve son iki maçını kazanarak geliyor. Getafe'de Mojica ve Mario Martín cezalı, Juanmi, Uche ve Zaid Romero sakat; ayrıca Konferans Ligi ve Kupa temposu var. Tahmin modelleri sonucu neredeyse üçe bölüyor ve skor beklentisi düşük.",
+    "verdict": "Düşük skorlu, dengeli bir maç bekleniyor; en mantıklı tercih 2.5 Alt."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-juventus-napoli": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "hayır",
+      "prediction": "Juventus 2-1 Napoli",
+      "site": "Khel Now",
+      "url": "https://khelnow.com/football/juventus-vs-napoli-preview-serie-a-202610"
+     },
+     {
+      "agree": "evet",
+      "prediction": "2.5 Üst %33, KG Var %43 olasılık",
+      "site": "Lineups Today",
+      "url": "https://lineupstoday.com/serie-a/juventus-napoli-01-11-2026"
+     }
+    ],
+    "consensus": "İstatistik tabanlı modeller düşük skor bekliyor; Khel Now ise Juventus'un dar galibiyetini öngörüyor, yani sonuç tarafında net bir uzlaşı yok.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Juventus iç sahada (son 4) over25Pct %25, bttsPct %25, cleanSheetPct %50; maç başı 1.25 gol atıp 1.0 yiyor."
+     },
+     {
+      "side": "away",
+      "text": "Napoli deplasmanda (son 5) 1.6 gol atıp 1.8 yiyor; over25Pct %60, bttsPct %80, cleanSheetPct %0."
+     },
+     {
+      "side": "home",
+      "text": "Juventus'ta Yıldız, Locatelli, Thuram ve Conceição dahil 8 eksik var; son maçta Genoa'ya 2-0 yenildi."
+     },
+     {
+      "side": "away",
+      "text": "Napoli'de orta saha motoru Lobotka ve savunmadan Buongiorno yok; Allegri cezalı."
+     },
+     {
+      "side": "neutral",
+      "text": "İki takım da 9 maçta 14 puanda; son 5 H2H'de Juventus iç sahada 3-0 ve 0-0 aldı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Juventus'ta Grabara, Thuram, Locatelli, Çelik, N. González, Conceição, Ekhator ve Yıldız sakat.",
+      "url": "https://football-legend.com/news/serie-a-team-news-injuries-suspensions-2026-10-31?lang=en"
+     },
+     {
+      "impact": "yüksek",
+      "text": "Napoli'de Lobotka (ayak bileği) da kadro dışı kaldı; Buongiorno, Badiashile, Spinazzola, Favasuli, Neres ve Alisson Santos ile birlikte 7 eksik.",
+      "url": "https://www.tuttojuve.com/l-avversario/juventus-napoli-probabile-formazione-azzurra-allegri-perde-lobotka-assenti-dubbi-difesa-798611"
+     },
+     {
+      "impact": "orta",
+      "text": "Napoli teknik direktörü Allegri cezası nedeniyle maçta kenarda olamayacak.",
+      "url": "https://www.goal.com/en/match/juventus-vs-ssc-napoli/lineups/rcVITHRhZIMPjjq_HVd9s"
+     },
+     {
+      "impact": "orta",
+      "text": "Juventus Genoa'da 2-0 kaybetti, takım kampa alındı ve Spalletti'nin geleceği sorgulanıyor.",
+      "url": "https://www.goal.com/en/news/juventus-napoli-serie-a-preview/blt15b3ea00deaa6d05"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 57,
+      "market": "2.5 Alt",
+      "prob": 0.57,
+      "reason": "Juventus iç saha over25Pct %25, goalsForAvg 1.25/goalsAgainstAvg 1.0; iki takımda da yaratıcı oyuncu eksikleri (Yıldız, Lobotka) skor üretimini düşürüyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X2",
+       "type": "DC"
+      },
+      "confidence": 48,
+      "market": "Çifte Şans X2 (beraberlik veya Napoli)",
+      "prob": 0.5,
+      "reason": "Juventus formsuz (son 6'da 3 yenilgi) ve 8 eksikli; Napoli toplamda 1.9 gol ortalamasıyla daha üretken ve son 4 lig maçının 3'ünde 3+ gol attı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 38,
+      "market": "Maç Sonucu Beraberlik",
+      "prob": 0.3,
+      "reason": "Puanları eşit, eksikleri bol iki takım; Juventus iç sahada %50 gol yemeden bitiriyor ve iki taraf da kaybetmemeyi önceleyebilir.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Napoli'nin son lig maçlarında gösterdiği yüksek gol üretkenliği (3/4 maçta 3+ gol) Alt'ı bozabilir.",
+     "Juventus'un iç saha disiplini ve baskı altındaki tepkisi X2'yi kaybettirebilir.",
+     "Napoli'nin deplasmanda hiç gol yemeden bitiremediği (%0 CS) açık bir maç senaryosu."
+    ],
+    "sources": [
+     {
+      "title": "Serie A team news - Football Legends",
+      "url": "https://football-legend.com/news/serie-a-team-news-injuries-suspensions-2026-10-31?lang=en"
+     },
+     {
+      "title": "Juventus-Napoli probabile formazione - TuttoJuve",
+      "url": "https://www.tuttojuve.com/l-avversario/juventus-napoli-probabile-formazione-azzurra-allegri-perde-lobotka-assenti-dubbi-difesa-798611"
+     },
+     {
+      "title": "Juventus vs Napoli Serie A preview - Goal.com",
+      "url": "https://www.goal.com/en/news/juventus-napoli-serie-a-preview/blt15b3ea00deaa6d05"
+     },
+     {
+      "title": "Preview | Juventus vs Napoli - Juventus.com",
+      "url": "https://www.juventus.com/en/news/articles/preview-juventus-vs-napoli-01-11-26"
+     },
+     {
+      "title": "Juventus vs Napoli predicted lineups - Lineups Today",
+      "url": "https://lineupstoday.com/serie-a/juventus-napoli-01-11-2026"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Juventus iç sahada son 4 maçta maç başı 1.25 gol atıp 1.0 yiyor, bu maçların sadece %25'i 2.5 Üst ve %25'i KG Var bitti. Napoli deplasmanda daha açık (1.6 attı, 1.8 yedi, over25 %60) ama Lobotka, Buongiorno dahil 7 eksikle ve cezalı Allegri olmadan geliyor. Juventus'ta Yıldız, Locatelli, Thuram, Conceição gibi 8 oyuncu yok ve takım Genoa'da 2-0 kaybetti. İki takım da 14 puanda; temkinli bir maç ve beraberlik ihtimali yüksek görünüyor.",
+    "verdict": "Sakatlıklarla zayıflamış iki takımın Torino'da düşük skorlu ve dengeli bir maç oynaması bekleniyor; 2.5 Alt en sağlam seçenek."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-kasimpasa-besiktas": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "hayır",
+      "prediction": "MS2 %66, X %21, 1 %13; 1.5 Üst (%82)",
+      "site": "BankoZeka",
+      "url": "https://bankozeka.com/en/predictions/tomorrow"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "MS 2 (oran 1.45)",
+      "site": "İddaaTahmin11",
+      "url": "https://www.iddaatahmin11.com/tum-tahminler.html"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Çekiliş topları 1:5 X:1 2:4; Kasımpaşa iç sahada yenilmiyor",
+      "site": "TotoCover",
+      "url": "https://totocover.com/mac-analiz/2026-12/8-kasimpasa-besiktas"
+     }
+    ],
+    "consensus": "Tahmin siteleri çoğunlukla Beşiktaş galibiyetinde birleşiyor; bizim analizimiz ise deplasman formu, sakatlıklar ve Avrupa yoğunluğu nedeniyle ev sahibi tarafında değer görüyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Kasımpaşa ligde evinde 4 maçta yenilmedi (1G 3B); iç sahada maç başı 1,75 attı, 1,0 yedi. Son 5 lig maçında 3 galibiyet, 1 beraberlik aldı."
+     },
+     {
+      "side": "away",
+      "text": "Beşiktaş lig deplasmanlarında 4 maçta 1 galibiyet, 3 yenilgi aldı (Alanyaspor 1-0, Amed 3-2, Trabzonspor 2-0 yenilgileri); 4 gol attı, 7 yedi."
+     },
+     {
+      "side": "away",
+      "text": "Kaptan Orkun Kökçü başta olmak üzere 5 sakat oyuncu ve 5 Kasım'daki Celtic maçı, rotasyon ve tempo riskini artırıyor."
+     },
+     {
+      "side": "home",
+      "text": "Rekabette son 5 maçta Kasımpaşa 2 galibiyet, 2 beraberlik aldı; evinde Beşiktaş'a son 3 maçta kaybetmedi."
+     },
+     {
+      "side": "away",
+      "text": "Beşiktaş genel kalite ve Vlahovic (6 gol) ile Avrupa'daki formuyla tek atakta maçı koparabilecek güçte."
+     },
+     {
+      "side": "neutral",
+      "text": "Kasımpaşa'nın golcüsü Adrian Benedyczak 6 golle Vlahovic'le aynı sayıda gol attı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Beşiktaş'ta Orkun Kökçü, Rashica, Miretti, Cerny ve Ümit Akdağ sakat; Can Keleş kadroda yok.",
+      "url": "https://ajansspor.com/haber/kasimpasa-besiktas-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-737684"
+     },
+     {
+      "impact": "orta",
+      "text": "Kasımpaşa'da Kamil Ahmet Çörekçi, Godfried Frimpong, Mortadha Ben Ouanes ve Fousseni Diabaté sakat.",
+      "url": "https://www.sporkolik.net/kasimpasa-besiktas-maci-ne-zaman-saat-kacta.html"
+     },
+     {
+      "impact": "orta",
+      "text": "Beşiktaş Avrupa Ligi'nde Marsilya'yı 4-1, Hoffenheim'ı 3-2 yendi, Crystal Palace ile 2-2 berabere kaldı; 5 Kasım'da Celtic deplasmanına gidecek.",
+      "url": "https://beinsports.com.tr/haber/hoffenheim-besiktas"
+     },
+     {
+      "impact": "düşük",
+      "text": "İddaa oranları: Kasımpaşa 4.68, beraberlik 3.86, Beşiktaş 1.40; 2.5 Üst 1.48, 2.5 Alt 1.95.",
+      "url": "https://ajansspor.com/haber/kasimpasa-besiktas-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-737684"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1X",
+       "type": "DC"
+      },
+      "confidence": 42,
+      "market": "Çifte Şans 1X (Kasımpaşa veya beraberlik)",
+      "prob": 0.42,
+      "reason": "Kasımpaşa evinde 4 lig maçında yenilmedi ve rakibine karşı son 3 iç saha maçında kaybetmedi; Beşiktaş ligde deplasmanda 4 maçın 3'ünü kaybetti. Piyasada 1.40 olan deplasman galibiyeti gerçek ihtimalin üzerinde fiyatlanmış görünüyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 45,
+      "market": "2.5 Alt",
+      "prob": 0.47,
+      "reason": "Kasımpaşa'nın 4 iç saha maçının 3'ü beraberlikle ve 2.5 altında bitti; Beşiktaş'ın lig deplasmanlarında attığı gol ortalaması 1,0. Oran 1.95 civarında olduğu için değerli bir seçenek.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 35,
+      "market": "Maç Sonucu Beraberlik",
+      "prob": 0.28,
+      "reason": "Kasımpaşa'nın evinde 3 beraberliği ve son iki iç saha karşılaşmasının 1-1 bitmesi, Celtic maçı öncesi Beşiktaş'ın temkinli oynama ihtimaliyle birleşince 3.86 civarındaki beraberlik oranı değerli görünüyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Beşiktaş'ın Avrupa'daki formu (3 maçta 7 puan) lige yansırsa piyasa haklı çıkabilir ve maç rahat bir deplasman galibiyetiyle biter.",
+     "Kasımpaşa'nın evinde 1,0 gol yemesi ve iki takımın da gol bulan hücumları maçı açık bir skora taşıyıp 2.5 Alt'ı yakabilir.",
+     "Sakatlık listesi kısa süreli; Rashica veya Ümit Akdağ'ın son anda yetişmesi Beşiktaş'ı güçlendirir."
+    ],
+    "sources": [
+     {
+      "title": "Ajansspor - Kasımpaşa-Beşiktaş muhtemel 11'ler, sakat ve cezalılar, oranlar",
+      "url": "https://ajansspor.com/haber/kasimpasa-besiktas-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-737684"
+     },
+     {
+      "title": "Haberler.com - Kasımpaşa-Beşiktaş maç bilgisi",
+      "url": "https://www.haberler.com/spor/canli-anlatim/kasimpasa-besiktas-1878380-mac-bilgisi/"
+     },
+     {
+      "title": "TotoCover - Kasımpaşa-Beşiktaş maç analizi",
+      "url": "https://totocover.com/mac-analiz/2026-12/8-kasimpasa-besiktas"
+     },
+     {
+      "title": "Yanpas - Beşiktaş fikstürü 2026-27",
+      "url": "https://www.yanpas.com/fikstur"
+     },
+     {
+      "title": "Liberal TR - Kasımpaşa ile Beşiktaş 47. kez karşılaşıyor",
+      "url": "https://liberaltr.com/kasimpasa-ile-besiktas-47-kez-karsilasiyor-mac-oncesi-son-durum/"
+     },
+     {
+      "title": "FootyStats - Kasımpaşa-Beşiktaş istatistikleri",
+      "url": "https://footystats.org/tr/turkey/besiktas-vs-kasimpasa-h2h-stats"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Beşiktaş 18 puanla 4., Kasımpaşa 16 puanla 6-7. sırada. Kasımpaşa ligde evinde yenilmiyor (4 maçta 1 galibiyet, 3 beraberlik) ve son 3 iç saha maçında Beşiktaş'a kaybetmedi (2-1, 1-1, 1-1). Beşiktaş Avrupa Ligi'nde başarılı olsa da ligde deplasmanda 4 maçta 1 galibiyet, 3 yenilgi aldı ve bu maçlarda yalnızca 4 gol attı; Orkun Kökçü, Miretti, Rashica, Cerny ve Ümit Akdağ sakat. 5 Kasım'da Celtic deplasmanı rotasyon ihtimalini artırıyor. Piyasa Beşiktaş'a 1.40 veriyor; bu oran deplasman formuna göre fazla iyimser görünüyor.",
+    "verdict": "Beşiktaş kağıt üzerinde favori ama deplasman karnesi zayıf, kadrosu eksik ve araya Celtic maçı giriyor; değer Kasımpaşa tarafında ve düşük skorda."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-lazio-cagliari": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "2.5 Üst, skor 3-0",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/lazio-vs-cagliari-prediction-lineups-odds-2026-11-01/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Lazio kazanır %54, KG Var %52",
+      "site": "GoalStatsLab",
+      "url": "https://goalstatslab.com/prediction-analysis/lazio-vs-cagliari-9088"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Lazio kazanır",
+      "site": "The Stats Zone",
+      "url": "https://www.thestatszone.com/lazio-vs-cagliari-preview-team-news-prediction-233628"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Lazio 3-1 Cagliari",
+      "site": "The Laziali",
+      "url": "https://thelaziali.com/2026/10/30/lazio-vs-cagliari-where-to-watch-insights-lineups-prediction-2"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Lazio %55, 2.5 Üst %56",
+      "site": "BetMines",
+      "url": "https://betmines.com/matches/predictions-lazio-cagliari_19713522"
+     }
+    ],
+    "consensus": "Siteler oybirliğiyle Lazio galibiyeti bekliyor. Çoğunluk 2.5 Üst ve 3-0 / 3-1 gibi skorlar öngörüyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Lazio'nun son 4 iç saha maçı: goalsForAvg 2.0, goalsAgainstAvg 1.0, over25Pct %75, failedToScorePct %0; sample küçük, toplamda maç başına 2.44 gol."
+     },
+     {
+      "side": "away",
+      "text": "Cagliari dış sahada goalsAgainstAvg 1.8, over25Pct %60; son 3 maçta 10 gol yiyerek üst üste 3 kez kaybetti."
+     },
+     {
+      "side": "home",
+      "text": "Lazio 9 maçta yenilgisiz lider; 27 Ekim'de Sassuolo'yu 6-2 yendi, araya Avrupa maçı girmiyor."
+     },
+     {
+      "side": "away",
+      "text": "Cagliari, Roma maçından sonra başkentte kaldı ve dinlenme süresi kısa; ancak Winks'in dönüşü orta sahaya denge katıyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 5 H2H: 0-0, 2-0, 2-1, 2-1, 3-1, hepsinde Lazio yenilmedi; Lazio son 22 karşılaşmanın 18'ini kazandı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Lazio'da Albert Gudmundsson omuz sakatlığı nedeniyle yok; Rovella ve Marusic sakatlıktan döndü ancak durumları takip ediliyor.",
+      "url": "https://www.sportsmole.co.uk/football/lazio/preview/lazio-vs-cagliari-prediction-team-news-lineups_608091.html"
+     },
+     {
+      "impact": "orta",
+      "text": "Cagliari'ye moral: Harry Winks Lazio karşısında ilk 11'de başlayabilecek durumda.",
+      "url": "https://thelaziali.com/2026/10/31/cagliari-harry-wings-start-lazio"
+     },
+     {
+      "impact": "düşük",
+      "text": "Gazzetta 10. hafta eksikler listesi: Cagliari'de Felici (32. haftaya kadar) ve Idrissi sakat; iki takımda da cezalı yok.",
+      "url": "https://www.gazzetta.it/en/football/italian-football/serie-a/31-10-2026/serie-team-news-injured-and-suspended-players-for-matchday-10.shtml"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 57,
+      "market": "2.5 Üst",
+      "prob": 0.58,
+      "reason": "Lazio iç saha over25Pct %75 (toplamda %67), Cagliari dış saha over25Pct %60 ve goalsAgainstAvg 1.8; Cagliari son 3 maçta 10 gol yedi.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 44,
+      "market": "Lazio Kazanır ve 2.5 Üst",
+      "prob": 0.42,
+      "reason": "Lazio Cagliari'ye 2013'ten beri yenilmiyor ve toplamda maç başına 2.44 gol atıyor; Cagliari'nin dış sahada 1.2 gol ortalaması Lazio'nun ağını da bulabileceğini gösteriyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "line": -1.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 40,
+      "market": "Lazio -1.5 Handikap",
+      "prob": 0.4,
+      "reason": "Somut gerekçe: Lazio toplamda maç başına 2.44 gol atıyor ve son 3 lig maçını 3-0, 2-1, 6-2 kazandı; Cagliari son 3 maçta 10 gol yiyip savunmada çözüldü. Yine de son 5 H2H'nin 2'si tek farkla, 1'i beraberlikle bitti.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "H2H'de Lazio galibiyetleri genelde 1-2 golle geldi ve son deplasman maçı 0-0 bitti; düşük skorlu bir Lazio galibiyeti mümkün.",
+     "Lazio'nun yoğun hücum temposundan sonra rotasyon yapması gol üretimini düşürebilir.",
+     "Cagliari'nin Winks'le birlikte derin savunması, maçı 1-0 gibi kontrollü bir skora çekebilir."
+    ],
+    "sources": [
+     {
+      "title": "Sports Mole – Lazio vs Cagliari Preview",
+      "url": "https://www.sportsmole.co.uk/football/lazio/preview/lazio-vs-cagliari-prediction-team-news-lineups_608091.html"
+     },
+     {
+      "title": "The Laziali – Winks fit to start against Lazio",
+      "url": "https://thelaziali.com/2026/10/31/cagliari-harry-wings-start-lazio"
+     },
+     {
+      "title": "Gazzetta – Serie A team news Matchday 10",
+      "url": "https://www.gazzetta.it/en/football/italian-football/serie-a/31-10-2026/serie-team-news-injured-and-suspended-players-for-matchday-10.shtml"
+     },
+     {
+      "title": "Sportsgambler – Lazio vs Cagliari",
+      "url": "https://www.sportsgambler.com/betting-tips/football/lazio-vs-cagliari-prediction-lineups-odds-2026-11-01/"
+     },
+     {
+      "title": "GoalStatsLab – Lazio vs Cagliari",
+      "url": "https://goalstatslab.com/prediction-analysis/lazio-vs-cagliari-9088"
+     },
+     {
+      "title": "Lineups Today – Lazio vs Cagliari",
+      "url": "https://lineupstoday.com/serie-a/lazio-cagliari-01-11-2026"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Lazio 9 maçta 8 galibiyet ve 1 beraberlikle zirvede, son haftada Sassuolo'yu deplasmanda 6-2 yendi. Cagliari üç maçtır kaybediyor ve bu üç maçta 10 gol yedi (Monza 4-0, Bologna 0-2, Roma 4-2). Lazio iç sahada maçlarının %75'inde 2.5 Üst gördü, Cagliari dış sahada %60. Lazio'da sadece Gudmundsson'un yokluğu kesin, Cagliari'de Winks oynayabilecek durumda.",
+    "verdict": "Lider Lazio net favori; Cagliari'nin savunma çöküşü gollü bir maçı öne çıkarıyor, en mantıklı seçenek 2.5 Üst."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-liverpool-arsenal": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Arsenal kazanır, 0-1",
+      "site": "Squawka",
+      "url": "https://www.squawka.com/ca/news/premier-league/match-preview-liverpool-vs-arsenal-01-11-26-premier-league/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Anfield üstünlüğünü korur (Liverpool lehine)",
+      "site": "Premier League News Now",
+      "url": "https://premierleaguenewsnow.com/2026/10/30/liverpool-arsenal-preview-team-news-lineups-prediction/"
+     }
+    ],
+    "consensus": "Tahmin siteleri bölünmüş: Squawka Arsenal'in dar galibiyetini, Premier League News Now Liverpool'u öne çıkarıyor; ortak nokta düşük skorlu, sıkı bir maç beklentisi.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Arsenal deplasmanda (son 6) maç başı 1.17 gol atıp 0.83 yiyor, cleanSheetPct %67, over25Pct %33."
+     },
+     {
+      "side": "home",
+      "text": "Liverpool iç sahada (son 6) 1.67 gol atıp 1.5 yiyor; over25Pct %67 ama failedToScorePct %33."
+     },
+     {
+      "side": "home",
+      "text": "Arsenal Premier Lig'de Anfield'da 2012'den bu yana 13 ziyarettir kazanamadı (5B 8M)."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 4 H2H: 0-0, 1-0, 2-2, 2-2 — üç beraberlik, iki maçta 2.5 Alt."
+     },
+     {
+      "side": "home",
+      "text": "Liverpool'da forvet ve sağ bek hattında ciddi eksikler var (Ekitike, Frimpong, Bradley); Szoboszlai şüpheli."
+     },
+     {
+      "side": "away",
+      "text": "Arsenal 8 lig maçında 7 galibiyet ve 5 yenilen golle tablonun 2. sırasında; ligin en az şut ve xG veren savunması."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Liverpool'da Ekitike (Aşil), Frimpong (hamstring), Bradley ve Leoni (diz) yok; Szoboszlai kas sorunu nedeniyle şüpheli.",
+      "url": "https://tips.gg/article/liverpool-injury-news"
+     },
+     {
+      "impact": "orta",
+      "text": "Arteta: Rice, Calafiori ve Tzolis antrenmana çıktı, cumartesi de çalışırlarsa kadroda olacaklar; Madueke'nin durumu belirsiz.",
+      "url": "https://www.aol.co.uk/articles/arsenal-mikel-arteta-reveals-triple-134538000.html"
+     },
+     {
+      "impact": "orta",
+      "text": "Arsenal, Lig Kupası'nda dördüncü lig ekibi Fleetwood'a penaltılarla elendi (9 değişiklikle); Liverpool ise Chelsea'yi penaltılarla geçti, Wirtz'in sakatlığı atlatıldı.",
+      "url": "https://premierleaguenewsnow.com/2026/10/30/liverpool-arsenal-preview-team-news-lineups-prediction/"
+     },
+     {
+      "impact": "düşük",
+      "text": "Liverpool resmi sitesi: Arsenal Madueke'nin durumunu kontrol ediyor; Iraola bazı oyuncuların dönebileceğini söyledi.",
+      "url": "https://www.liverpoolfc.com/news/liverpool-v-arsenal-team-news-premier-league"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 58,
+      "market": "2.5 Alt",
+      "prob": 0.56,
+      "reason": "Arsenal deplasmanda over25Pct %33, maç başı 0.83 gol yiyor ve %67 gol yemeden kapatıyor; Liverpool'un hücum rotasyonu (Ekitike yok, Szoboszlai şüpheli) eksik.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "1X",
+       "type": "DC"
+      },
+      "confidence": 56,
+      "market": "Çifte Şans 1X (Liverpool veya beraberlik)",
+      "prob": 0.58,
+      "reason": "Arsenal Anfield'da ligde 13 maçtır galibiyet alamadı (5B 8M); Liverpool son 4 lig maçının 3'ünü kazandı ve son haftalarda 4 gol yemeden maç çıkardı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 52,
+      "market": "KG Yok",
+      "prob": 0.53,
+      "reason": "Arsenal'in dış saha bttsPct'i sadece %17; Liverpool iç sahada maçların %33'ünde gol atamadı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 38,
+      "market": "Maç Sonucu Beraberlik",
+      "prob": 0.3,
+      "reason": "Son dört H2H'nin üçü berabere bitti; iki takımın da yenilmemeyi önceleyeceği dengeli bir maç bekleniyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Arsenal'in Rice/Calafiori dönüşüyle tam güç gelmesi ve Liverpool'un eksik hücumu, 1X seçeneğini zorlayabilir.",
+     "Liverpool iç sahada over25Pct %67; erken gol maçı açarsa Alt bozulabilir.",
+     "Kupa maçlarında yapılan rotasyonlar nedeniyle form verileri yanıltıcı olabilir."
+    ],
+    "sources": [
+     {
+      "title": "Liverpool v Arsenal: Team news - Liverpool FC",
+      "url": "https://www.liverpoolfc.com/news/liverpool-v-arsenal-team-news-premier-league"
+     },
+     {
+      "title": "Liverpool Injury News - Tips.GG",
+      "url": "https://tips.gg/article/liverpool-injury-news"
+     },
+     {
+      "title": "Arteta reveals triple injury boost - AOL/Evening Standard",
+      "url": "https://www.aol.co.uk/articles/arsenal-mikel-arteta-reveals-triple-134538000.html"
+     },
+     {
+      "title": "Preview: Liverpool v Arsenal - Arsenal.com",
+      "url": "https://www.arsenal.com/news/preview-liverpool-v-arsenal-aIdk94W0fxtN"
+     },
+     {
+      "title": "Liverpool vs Arsenal: EPL Lineups & Prediction - Squawka",
+      "url": "https://www.squawka.com/ca/news/premier-league/match-preview-liverpool-vs-arsenal-01-11-26-premier-league/"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Arsenal 8 maçta 21 puan ve sadece 5 yenilen golle ligin en sağlam savunmasına sahip; deplasmanda son 6 maçta maç başı 0.83 gol yiyip 1.17 gol atıyor ve bu maçların yalnızca %33'ü 2.5 Üst bitti. Liverpool iç sahada 1.67 gol atıp 1.5 yiyor ancak Ekitike, Frimpong, Bradley ve Leoni yok, Szoboszlai şüpheli. Arsenal Anfield'da ligde 13 ziyarettir kazanamıyor ve son dört H2H 0-0, 1-0, 2-2, 2-2 bitti. Arsenal'in kupada Fleetwood'a elenmesi ve Saka/Madueke belirsizliği dengeyi Liverpool'a hafif kaydırıyor.",
+    "verdict": "Anfield'da düşük tempolu, kontrollü bir zirve maçı bekleniyor; Liverpool'un kaybetmemesi ve 2.5 Alt öne çıkıyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-lyon-angers": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "hayır",
+      "prediction": "Angers Asya Handikap +1.25",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/lyon-vs-angers-prediction-lineups-odds-2026-11-01"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Beklenen gol 1.67-1.17, toplam 3.3; 2.5 Üst %71, KG Var %71",
+      "site": "Lineups Today",
+      "url": "https://lineupstoday.com/ligue-1/lyon-angers-01-11-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Lyon gol atar; Angers takım toplamı 1.5 Alt eğilimi",
+      "site": "Scores24",
+      "url": "https://scores24.live/en/soccer/m-31-10-2026-olympique-lyon-angers-prediction"
+     }
+    ],
+    "consensus": "Siteler Lyon'u net favori görüyor ve Lyon'un gol bulacağında birleşiyor; fark konusunda ise Sportsgambler gibi bazıları Lyon'un eksikleri nedeniyle dar skor bekliyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Lyon iç sahada 4 maçta maç başı 2.5 gol atıp 0.75 gol yedi; iç sahada gol atamadığı maç yok (%0) ve 2.5 üst oranı %75."
+     },
+     {
+      "side": "away",
+      "text": "Angers deplasmanda maç başı 2.0 gol yiyor (toplamda 1.88) ve 14. sırada 8 puanda; son 5 maçta Brest'e 5-1, Marseille'e 2-5 kaybetti."
+     },
+     {
+      "side": "away",
+      "text": "Lyon'un hücum hattı sakatlıklarla zayıfladı (Openda, Sulc, Kango yok); bu, beklenen gol üretimini düşüren en önemli unsur."
+     },
+     {
+      "side": "home",
+      "text": "Lyon, PSG (0-2) ve Hoffenheim (0-3) yenilgileriyle geliyor; tepki maçı motivasyonu var ama özgüven sorunu da olabilir."
+     },
+     {
+      "side": "neutral",
+      "text": "H2H'de Lyon son 5 maçta yenilmedi (4G 1B: 1-0, 2-0, 3-0, 3-1 ve 0-0); Angers bu 5 maçta sadece 1 gol attı."
+     },
+     {
+      "side": "away",
+      "text": "Angers'in deplasman gol atamama oranı %33, toplamda %38; Lyon'un iç saha kalesini gole kapatma oranı ise sadece %25."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Lyon'da Lois Openda (bacak), Pavel Sulc (diz/menisküs, uzun süre), Mohamed Ouedraogo (diz), Steeve Kango (sarsıntı) ve Tyler Morton (kasık) yok; Tagliafico da diz sakatlığıyla kadroda değil.",
+      "url": "https://lineupstoday.com/ligue-1/lyon-angers-01-11-2026"
+     },
+     {
+      "impact": "orta",
+      "text": "Keito Nakamura, PSG maçında kaçırdığı kırmızı kart cezasının ardından Angers maçında forma giyebilecek.",
+      "url": "https://www.sportsmole.co.uk/football/lyon/preview/lyon-vs-angers-prediction-team-news-lineups_607902.html"
+     },
+     {
+      "impact": "orta",
+      "text": "Angers'te forvet Amine El Ouazzani kasık sakatlığı nedeniyle yok; Bane Diatta ve Emmanuel Biumla şüpheli.",
+      "url": "https://www.thestatszone.com/lyon-vs-angers-preview-team-news-prediction-233218"
+     },
+     {
+      "impact": "düşük",
+      "text": "Fransa'daki protestolar nedeniyle OL-Angers maçı cumartesiden pazar 17:15'e (TSİ 19:15) alındı.",
+      "url": "https://www.onzemondial.com/ligue-1/ligue-1-des-reports-a-foison-tres-mauvaise-nouvelle-en-vue-des-droits-tv-1005597"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 57,
+      "market": "Lyon Takım Toplamı 1.5 Üst",
+      "prob": 0.58,
+      "reason": "Lyon iç sahada maç başı 2.5 gol ortalaması ve %0 gol atamama oranına sahip; Angers deplasmanda maç başı 2.0, toplamda 1.88 gol yiyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 52,
+      "market": "2.5 Üst",
+      "prob": 0.53,
+      "reason": "Lyon'un iç saha maçlarının %75'i, Angers'in deplasman maçlarının %67'si (3 maçlık küçük örnek; toplamda %50) 2.5 üst bitti; lineupstoday modeli 3.3 gol bekliyor. Lyon'un hücum eksikleri ana risk.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -1.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 38,
+      "market": "Lyon -1.5 Handikap (2+ farkla kazanır)",
+      "prob": 0.38,
+      "reason": "Somut gerekçe: Angers deplasmanda maç başı 2.0 gol yiyip Brest'e 5-1, iç sahada Marseille'e 5-2 kaybetti; Lyon iç saha gol ortalaması 2.5 ve H2H'de 3-0, 2-0, 5-0 gibi geniş farklar var. Yine de son iki H2H 1-0 ve 0-0 bitti ve Lyon'un hücumu eksik, bu yüzden yüksek risk.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Lyon'un hücumunda Openda, Sulc ve Kango'nun yokluğu gol üretimini beklenenden düşük tutabilir.",
+     "Son iki H2H maçı 1-0 ve 0-0 bitti; Angers kapanırsa düşük skorlu tek farklı bir maç çıkabilir.",
+     "Angers'in deplasman istatistikleri yalnızca 3 maçlık örneğe dayanıyor."
+    ],
+    "sources": [
+     {
+      "title": "Lineups Today - Lyon vs Angers",
+      "url": "https://lineupstoday.com/ligue-1/lyon-angers-01-11-2026"
+     },
+     {
+      "title": "The Stats Zone - Lyon vs Angers Preview",
+      "url": "https://www.thestatszone.com/lyon-vs-angers-preview-team-news-prediction-233218"
+     },
+     {
+      "title": "Sports Mole - Lyon vs Angers",
+      "url": "https://www.sportsmole.co.uk/football/lyon/preview/lyon-vs-angers-prediction-team-news-lineups_607902.html"
+     },
+     {
+      "title": "Sportsgambler - Lyon vs Angers",
+      "url": "https://www.sportsgambler.com/betting-tips/football/lyon-vs-angers-prediction-lineups-odds-2026-11-01"
+     },
+     {
+      "title": "Scores24 - Lyon vs Angers Prediction",
+      "url": "https://scores24.live/en/soccer/m-31-10-2026-olympique-lyon-angers-prediction"
+     },
+     {
+      "title": "Onze Mondial - Ligue 1 reportlar",
+      "url": "https://www.onzemondial.com/ligue-1/ligue-1-des-reports-a-foison-tres-mauvaise-nouvelle-en-vue-des-droits-tv-1005597"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Lyon iç sahada 4 maçta maç başı 2.5 gol atıp 0.75 yiyor ve iç sahada gol atamadığı maç yok; Angers ise deplasmanda maç başı 2.0 gol yiyor ve son haftalarda Brest'e 5-1 kaybetti. Buna karşın Lyon hücum hattında Openda, Sulc, Kango ve Morton yok; Nakamura cezası bitip dönüyor. Lyon, PSG'ye 2-0 yenilip ardından Hoffenheim'a da 3-0 kaybederek iki maçlık kötü seriyle geliyor. H2H tamamen Lyon lehine ama son iki maç 1-0 ve 0-0 bitti; bu yüzden ana yön Lyon'un gol bulması, fark ve toplam gol konusunda temkinli olmak.",
+    "verdict": "Lyon iç sahadaki hücum üretkenliği ve Angers'in deplasman savunma zaafı nedeniyle Lyon'un en az iki gol bulduğu bir ev sahibi galibiyeti öne çıkıyor; ancak hücumdaki sakatlıklar farkı sınırlayabilir."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-marseille-toulouse": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Marseille kazanır; skor 2-1/3-1",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/marseille-vs-toulouse-prediction-01-11-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Marseille kazanır (%47), 1.5 Üst; KG Var %66",
+      "site": "EagleEyeOdds",
+      "url": "https://eagleeyeodds.com/predictions/marseille-vs-toulouse-prediction-2026-11-01"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Beklenen 4.3 gol; 2.5 Üst %100, KG Var %75",
+      "site": "Lineups Today",
+      "url": "https://lineupstoday.com/ligue-1/marseille-toulouse-01-11-2026"
+     }
+    ],
+    "consensus": "Siteler Marseille'i hafif favori görüyor ve neredeyse tamamı gollü, iki tarafın da gol attığı bir maç bekliyor; bu analizle örtüşüyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Marseille iç sahada maç başı 2.75 gol atıp 2.0 yiyor; iç saha 2.5 üst oranı %100, KG Var oranı %75, gol atamama oranı %0."
+     },
+     {
+      "side": "away",
+      "text": "Toulouse deplasmanda maç başı 2.25 gol atıp 1.5 yiyor; deplasman 2.5 üst oranı %100, gol atamama oranı %0."
+     },
+     {
+      "side": "home",
+      "text": "Marseille ligde üç maçlık galibiyet serisinde; son maçta Le Havre'yi 4-3 yendi ama 4-0'dan 3 gol yedi."
+     },
+     {
+      "side": "away",
+      "text": "Toulouse 6 maçtır yenilmiyor ve ligde henüz deplasmanda kaybetmedi, her deplasmanda birden fazla gol attı."
+     },
+     {
+      "side": "home",
+      "text": "H2H'de 32 maçta Marseille 17 galibiyet, 14 beraberlik; Toulouse sadece 1 kez kazandı. Son 4 maç: 0-1, 2-2, 3-2, 1-3 (Marseille lehine)."
+     },
+     {
+      "side": "away",
+      "text": "Toulouse'un sağ beki Messali'nin yokluğu, iki maçtır gol atan Igor Paixao'nun kanadında savunma zaafı yaratabilir."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Toulouse'da 5 maçtır sağ bekte başlayan Rafik Messali uyluk sakatlığı nedeniyle birkaç hafta yok; Sion Oppong (baldır) şüpheli.",
+      "url": "https://lineupstoday.com/ligue-1/marseille-toulouse-01-11-2026"
+     },
+     {
+      "impact": "düşük",
+      "text": "Marseille'de sadece stoper Derek Cornelius (kalça) yok; yeni sakatlık bulunmuyor ve Genesio'nun Le Havre maçındaki 11'i koruması bekleniyor.",
+      "url": "https://www.thestatszone.com/marseille-vs-toulouse-preview-team-news-prediction-233262"
+     },
+     {
+      "impact": "düşük",
+      "text": "Genesio, Amine Gouiri'nin Toulouse maçında forma giyebileceğini doğruladı.",
+      "url": "https://www.footballclubdemarseille.fr/om-actualites/om-quel-onze-face-a-toulouse-1er-novembre-2026.html"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 62,
+      "market": "2.5 Üst",
+      "prob": 0.64,
+      "reason": "Marseille'in iç saha (4 maç) ve Toulouse'un deplasman (4 maç) maçlarının %100'ü 2.5 üst bitti; iki tarafın ilgili saha ortalamalarından beklenen toplam ~4 gol.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "yes",
+       "type": "BTTS"
+      },
+      "confidence": 58,
+      "market": "Karşılıklı Gol Var",
+      "prob": 0.6,
+      "reason": "KG şartı sağlanıyor: iki takımın ilgili sahada gol atamama oranı %0, KG Var oranı ikisinde de %75; Marseille iç sahada sadece %25 kalesini gole kapattı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 45,
+      "market": "Marseille Kazanır (MS 1)",
+      "prob": 0.46,
+      "reason": "Marseille iç sahada maç başı 2.75 gol atıyor, üç maçtır kazanıyor ve H2H'de Toulouse'a karşı ezici üstün; Toulouse'un sağ bekte Messali'yi kaybetmesi Paixao kanadında açık yaratabilir. Toulouse'un deplasman yenilmezliği nedeniyle güven sınırlı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 3.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 42,
+      "market": "3.5 Üst",
+      "prob": 0.43,
+      "reason": "Marseille iç sahada maç başı toplam 4.75 gollü maçlar oynuyor (2.75+2.0), Toulouse deplasmanda 3.75; Marseille'in son maçı 4-3, Angers deplasmanı 5-2 bitti. Yine de 4+ gol için çok şeyin yolunda gitmesi gerekir.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "İstatistikler her iki tarafta yalnızca 4 maçlık iç saha/deplasman örneğine dayanıyor; %100 oranlar sürdürülemeyebilir.",
+     "Toulouse son maçında Troyes ile 0-0 berabere kaldı ve kompakt bir blokla oynayabiliyor; temkinli bir maç alt sonucu doğurabilir.",
+     "Geçmiş karnede gollü beklenen maçlarda sık sık tek taraf gol attı; KG Var bu açıdan risk taşıyor."
+    ],
+    "sources": [
+     {
+      "title": "Lineups Today - Marseille vs Toulouse",
+      "url": "https://lineupstoday.com/ligue-1/marseille-toulouse-01-11-2026"
+     },
+     {
+      "title": "The Stats Zone - Marseille vs Toulouse Preview",
+      "url": "https://www.thestatszone.com/marseille-vs-toulouse-preview-team-news-prediction-233262"
+     },
+     {
+      "title": "Football Whispers - Marseille vs Toulouse",
+      "url": "https://footballwhispers.com/blog/marseille-vs-toulouse-prediction-01-11-2026"
+     },
+     {
+      "title": "EagleEyeOdds - Marseille vs Toulouse",
+      "url": "https://eagleeyeodds.com/predictions/marseille-vs-toulouse-prediction-2026-11-01"
+     },
+     {
+      "title": "RotoWire - Marseille vs Toulouse",
+      "url": "https://www.rotowire.com/soccer/article/marseille-vs-toulouse-prediction-predicted-lineups-team-news-ligue-1-gw8-144440"
+     },
+     {
+      "title": "Football Club de Marseille - OM quel onze",
+      "url": "https://www.footballclubdemarseille.fr/om-actualites/om-quel-onze-face-a-toulouse-1er-novembre-2026.html"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Marseille iç sahada maç başı 2.75 gol atıp 2.0 yiyor ve iç saha maçlarının tamamı 2.5 üst bitti; Toulouse da deplasmanda maç başı 2.25 gol atıp 1.5 yiyor ve deplasman maçlarının tamamı 2.5 üst bitti. İki takımın da ilgili sahada gol atamama oranı %0, KG Var oranı %75. Marseille üç maçlık galibiyet serisiyle (son maç Le Havre 4-3) geliyor, Toulouse ise 6 maçtır yenilmiyor ama sağ bek Messali sakat. H2H'de Marseille 32 maçta 17 galibiyetle çok üstün, Toulouse sadece 1 kez kazandı.",
+    "verdict": "İki takımın da ilgili sahada gol atamadığı maç olmaması ve 2.5 üst oranlarının %100 olması nedeniyle karşılıklı gollü, 3+ gollü bir maç bekleniyor; sonuç tarafında Marseille hafif önde."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-paris-fc-monaco": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Paris FC kazanır, 2.5 Üst; skor 2-1",
+      "site": "Football Whispers",
+      "url": "https://footballwhispers.com/blog/paris-fc-vs-monaco-prediction-01-11-2026/"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Paris FC kazanır, 2.5 Üst; skor 2-1",
+      "site": "Sportskeeda",
+      "url": "https://www.sportskeeda.com/football/paris-fc-vs-as-monaco-prediction-betting-tips-november-1st-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Paris FC Asya Handikap 0.0 (DNB)",
+      "site": "Sportsgambler",
+      "url": "https://www.sportsgambler.com/betting-tips/football/paris-fc-vs-monaco-prediction-lineups-odds-2026-11-01"
+     },
+     {
+      "agree": "evet",
+      "prediction": "1.4-1.3 beklenen gol; %39-%27-%34, 2.5 Üst %51, en olası skor 1-1",
+      "site": "Statz",
+      "url": "https://statz.ai/h2h/paris-vs-monaco/19715559"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "KG Var",
+      "site": "WhichBookie",
+      "url": "https://www.whichbookie.co.uk/previews/paris-fc-vs-monaco-prediction/"
+     }
+    ],
+    "consensus": "Tahmin sitelerinin çoğu Paris FC'yi hafif favori görüyor ve gollü bir maç bekliyor; modeller ise sonucu neredeyse dengede ve 2.5 üstü yaklaşık %50 olarak hesaplıyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Paris FC iç sahada maç başı 2.25 gol atıp 1.0 yiyor; iç saha kalesini gole kapatma oranı %50, 2.5 üst oranı %75."
+     },
+     {
+      "side": "away",
+      "text": "Monaco deplasmanda maç başı sadece 0.75 gol yiyor ama 1.0 gol atıyor; deplasman maçlarının yalnızca %25'i 2.5 üst bitti."
+     },
+     {
+      "side": "home",
+      "text": "H2H'de Paris FC iki maçı da kazandı (deplasmanda 1-0, iç sahada 4-1)."
+     },
+     {
+      "side": "away",
+      "text": "Monaco sezonda 12 resmi maçın 11'inde yenilmedi ve 4. sırada 15 puanla Paris FC'nin (14 puan) bir puan önünde."
+     },
+     {
+      "side": "home",
+      "text": "Paris FC son 3 lig maçında 2 yenilgi aldı (Lorient 0-1, Lens 1-2) ve savunmada birden fazla oyuncu şüpheli."
+     },
+     {
+      "side": "away",
+      "text": "Monaco 22 Ekim'de Konferans Ligi'nde oynadı ve Avrupa yükü taşıyor; ligde son 3 maçta galibiyet alamadı (Toulouse 2-2, Lorient 0-1, Lille 1-1)."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Paris FC'de Kevin Trapp, Samir Chergui, Ham Traore ve Luca Koleosho şüpheli; Jonathan Ikone formsuzluk/sakatlık nedeniyle muhtemelen yok, Nhoa Sangui sakat.",
+      "url": "https://www.thestatszone.com/paris-vs-monaco-preview-team-news-prediction-233266"
+     },
+     {
+      "impact": "orta",
+      "text": "Stoper Samir Chergui'nin diz tendiniti nedeniyle Monaco maçında oynaması şüpheli; yerine Moustapha Mbow başlayabilir.",
+      "url": "https://www.rotowire.com/soccer/headlines/samir-chergui-injury-doubtful-for-monaco-clash-542945"
+     },
+     {
+      "impact": "orta",
+      "text": "Monaco'da Ansu Fati, Lille maçında yaşadığı hamstring sakatlığı nedeniyle yok; golcü Paris Brunner ceza sonrası kadroya dönüyor.",
+      "url": "https://footballwhispers.com/blog/paris-fc-vs-monaco-prediction-01-11-2026/"
+     },
+     {
+      "impact": "düşük",
+      "text": "Protestolar nedeniyle yeniden düzenlenen programda maç pazar 17:15'te (TSİ 19:15) oynanacak.",
+      "url": "https://www.ouest-france.fr/sport/football/ligue-1/avec-les-manifestations-voici-les-nouvelles-programmations-de-la-9e-journee-de-ligue-1-et-la-11e-journee-de-ligue-2-68121bba-d221-11f1-af78-2d36ec019942"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "1",
+       "type": "DNB"
+      },
+      "confidence": 50,
+      "market": "Paris FC Beraberlikte İade (DNB 1)",
+      "prob": 0.42,
+      "reason": "Paris FC son 10 iç saha maçında 8G 1B 1M ve iç sahada %50 kalesini gole kapattı; geçen sezon Monaco'yu 1-0 ve 4-1 yendi. Beraberlik ihtimali yüksek (%27 civarı) olduğu için iade korumalı seçenek tercih edildi.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 47,
+      "market": "2.5 Üst",
+      "prob": 0.5,
+      "reason": "Paris FC iç saha maçlarının %75'i 2.5 üst bitti ve son 4 maçında hep gol yedi; ancak Monaco deplasmanda %25 üst oranıyla bunu dengeliyor, bu yüzden tahmin yazı-tura sınırında.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X",
+       "type": "1X2"
+      },
+      "confidence": 35,
+      "market": "Beraberlik (MS X)",
+      "prob": 0.27,
+      "reason": "Monaco son 6 maçta 3 beraberlik aldı (form WDWDLD), Statz'ın en olası skoru 1-1 (%13); iki takım da birbirini kilitleyebilecek seviyede.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Monaco'nun deplasmandaki düşük gol yeme ortalaması (0.75) Paris FC'nin iç saha gol üretimini frenleyebilir.",
+     "Paris FC'de kaleci Trapp ve stoper Chergui'nin yokluğu savunmayı zayıflatabilir.",
+     "Maç dengede olduğu için tek bir hata veya erken gol tüm seçenekleri belirleyebilir."
+    ],
+    "sources": [
+     {
+      "title": "The Stats Zone - Paris vs Monaco Preview",
+      "url": "https://www.thestatszone.com/paris-vs-monaco-preview-team-news-prediction-233266"
+     },
+     {
+      "title": "Football Whispers - Paris FC vs Monaco",
+      "url": "https://footballwhispers.com/blog/paris-fc-vs-monaco-prediction-01-11-2026/"
+     },
+     {
+      "title": "Statz - Paris vs Monaco",
+      "url": "https://statz.ai/h2h/paris-vs-monaco/19715559"
+     },
+     {
+      "title": "Sportsgambler - Paris FC vs Monaco",
+      "url": "https://www.sportsgambler.com/betting-tips/football/paris-fc-vs-monaco-prediction-lineups-odds-2026-11-01"
+     },
+     {
+      "title": "Sportskeeda - Paris FC vs AS Monaco",
+      "url": "https://www.sportskeeda.com/football/paris-fc-vs-as-monaco-prediction-betting-tips-november-1st-2026"
+     },
+     {
+      "title": "RotoWire - Samir Chergui",
+      "url": "https://www.rotowire.com/soccer/headlines/samir-chergui-injury-doubtful-for-monaco-clash-542945"
+     },
+     {
+      "title": "Ouest-France - 9. hafta yeni program",
+      "url": "https://www.ouest-france.fr/sport/football/ligue-1/avec-les-manifestations-voici-les-nouvelles-programmations-de-la-9e-journee-de-ligue-1-et-la-11e-journee-de-ligue-2-68121bba-d221-11f1-af78-2d36ec019942"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Paris FC iç sahada maç başı 2.25 gol atıp 1.0 yiyor, iç saha maçlarının %75'i 2.5 üst bitti ve geçen sezon Monaco'yu iki kez (1-0, 4-1) yendi. Monaco deplasmanda maç başı 1.0 gol atıp 0.75 yiyor, deplasman maçlarının sadece %25'i 2.5 üst bitti; sezonda 12 resmi maçın 11'inde yenilmedi. Paris FC'de Trapp, Chergui, Ikone, Koleosho gibi şüpheliler var; Monaco'da Ansu Fati hamstring sakatlığıyla yok, Brunner ceza sonrası dönüyor. Modeller maçı neredeyse dengede görüyor (Statz 39-27-34).",
+    "verdict": "Paris FC'nin güçlü iç saha formu ve H2H üstünlüğü hafif ev sahibi eğilimi doğuruyor, ancak Monaco'nun deplasmandaki sağlam savunması nedeniyle beraberlik korumalı seçenekler daha mantıklı."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-racing-santander-real-madrid": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Racing 1-3 Real Madrid; KG Var önerisi",
+      "site": "Khel Now",
+      "url": "https://khelnow.com/football/racing-santander-vs-real-madrid-preview-laliga-202610"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Real Madrid kazanır ve 2.5 Üst",
+      "site": "The Stats Zone",
+      "url": "https://www.thestatszone.com/racing-santander-vs-real-madrid-preview-team-news-prediction-233845"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Madrid %77; en olası 1-3; KG Var %65, 2.5 Üst %80",
+      "site": "StatsUltra",
+      "url": "https://statsultra.com/forecasts/clubs/real-madrid/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Beklenen gol 3.4, KG Var %90",
+      "site": "Lineups Today",
+      "url": "https://lineupstoday.com/laliga/racing-santander-real-madrid-01-11-2026"
+     }
+    ],
+    "consensus": "Siteler Real Madrid galibiyeti ve gollü bir maçta birleşiyor; çoğunluk Racing'in de gol bulacağını (1-3 / KG Var) öngörüyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Racing iç sahada (son 5) maç başı 2.2 gol atıyor; failedToScorePct %0, over25Pct %100, bttsPct %100."
+     },
+     {
+      "side": "away",
+      "text": "Real Madrid deplasmanda (son 5) 2.0 atıp 1.8 yiyor; cleanSheetPct %0, over25Pct %80, bttsPct %80."
+     },
+     {
+      "side": "away",
+      "text": "Madrid'de Vinícius cezalı, Rodrygo ve Asencio sakat; Courtois hastalık nedeniyle şüpheli."
+     },
+     {
+      "side": "neutral",
+      "text": "Racing'in ligdeki 10 maçında 41 gol çıktı (maç başı 4.1); Barcelona sonrası ligin en gollü takımı."
+     },
+     {
+      "side": "away",
+      "text": "Real Madrid tüm kulvarlarda son 5 maçını kazandı ve Racing'e karşı son 10 maçta 9 galibiyeti var."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Real Madrid'de Vinícius kırmızı kart cezası nedeniyle yok; Rodrygo (diz) ve Asencio (kırık) sakat; Mendy, Valverde ve Courtois şüpheli.",
+      "url": "https://lineupstoday.com/laliga/racing-santander-real-madrid-01-11-2026"
+     },
+     {
+      "impact": "orta",
+      "text": "Valverde'nin hamstring tetkiklerinde ciddi sakatlık çıkmadı, maça yetişmesi bekleniyor; Arda Güler cuma günü takımla tam antrenmana döndü.",
+      "url": "https://www.foxsports.com/soccer/la-liga-racing-sant-vs-real-madrid-nov-01-2026-game-boxscore-909058"
+     },
+     {
+      "impact": "düşük",
+      "text": "Racing'de Jorge Salinas kart cezalı; Simon Eriksson omuz sakatlığından dönüş sürecinde.",
+      "url": "https://tips.gg/article/racing-santander-vs-real-madrid-predicted-lineups-team-news-01-11-2026"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "yes",
+       "type": "BTTS"
+      },
+      "confidence": 62,
+      "market": "KG Var",
+      "prob": 0.62,
+      "reason": "Racing iç sahada failedToScorePct %0 ve bttsPct %100; Madrid deplasmanda failedToScorePct %20, bttsPct %80 ve cleanSheetPct %0 — KG Var şartları sağlanıyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 3.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 54,
+      "market": "3.5 Üst",
+      "prob": 0.55,
+      "reason": "İlgili sahalarda beklenen toplam ≈ (2.2+1.8)/2 + (2.0+1.6)/2 ≈ 3.8 gol; Racing'in ligdeki maçları ortalama 4.1 gol üretti.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 1.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 47,
+      "market": "Racing Santander +1.5 Handikap",
+      "prob": 0.5,
+      "reason": "Racing iç sahada hiç gol atmadan bitirmedi ve Madrid deplasmanda maç başı 1.8 gol yiyor; Vinícius'un cezası Madrid'in fark atma kapasitesini azaltıyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 42,
+      "market": "Real Madrid kazanır ve KG Var",
+      "prob": 0.42,
+      "reason": "Modeller Madrid'e ~%77 galibiyet şansı ve en olası skor olarak 1-3/1-2 veriyor; Racing'in iç saha gol sürekliliği ile birleşince bu kombinasyon değerli.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Madrid erken farkı açarsa Racing +1.5 kaybeder; Racing deplasmanda 3.6 gol yiyor ve geçmişte Madrid'e karşı ağır skorlar var.",
+     "Madrid'in hafta içi Şampiyonlar Ligi (AEK) öncesi rotasyonu ve Vinícius'suz hücum gol sayısını düşürebilir.",
+     "Racing'in iç saha istatistikleri 5 maçlık küçük örnekleme dayanıyor."
+    ],
+    "sources": [
+     {
+      "title": "Racing Santander vs Real Madrid predicted lineups - Lineups Today",
+      "url": "https://lineupstoday.com/laliga/racing-santander-real-madrid-01-11-2026"
+     },
+     {
+      "title": "Racing Sant. vs Real Madrid - FOX Sports",
+      "url": "https://www.foxsports.com/soccer/la-liga-racing-sant-vs-real-madrid-nov-01-2026-game-boxscore-909058"
+     },
+     {
+      "title": "Racing Santander vs Real Madrid Preview - The Stats Zone",
+      "url": "https://www.thestatszone.com/racing-santander-vs-real-madrid-preview-team-news-prediction-233845"
+     },
+     {
+      "title": "Real Madrid Predictions 2026/27 - StatsUltra",
+      "url": "https://statsultra.com/forecasts/clubs/real-madrid/"
+     },
+     {
+      "title": "Racing vs Real Madrid preview - Sports Mole",
+      "url": "https://www.sportsmole.co.uk/football/race-for-the-la-liga-title/preview/racing-vs-real-madrid-prediction-team-news-lineups_608064.html"
+     }
+    ],
+    "statsUsed": true,
+    "summary": "Racing iç sahada son 5 maçın hepsinde gol attı ve hepsi 2.5 Üst/KG Var bitti (maç başı 2.2 attı, 1.6 yedi). Real Madrid deplasmanda 2.0 atıp 1.8 yiyor, hiç gol yemeden bitirdiği maç yok ve %80 KG Var/2.5 Üst oranına sahip. Madrid'de Vinícius kırmızı kart cezalı, Rodrygo ve Asencio sakat, Courtois ile Valverde şüpheli. Racing'in sezon maçları ortalama 4.1 gol üretiyor; Madrid kazansa da Racing'in gol bulması muhtemel.",
+    "verdict": "Real Madrid favori ama iç sahada her maçta gol atan Racing'e karşı karşılıklı gollü bir maç bekleniyor; KG Var ve gol üstü öne çıkıyor."
+   },
+   "createdAt": 1793481443812
+  },
+  "futbol-2026-11-01-trabzonspor-gaziantep-fk": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "MS1 %74, en olası seçim 1.5 Üst (%88)",
+      "site": "BankoZeka",
+      "url": "https://bankozeka.com/en/predictions/tomorrow"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "MS 1 (oran 1.25)",
+      "site": "İddaaTahmin11",
+      "url": "https://www.iddaatahmin11.com/tum-tahminler.html"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "MS 1 (1.25, %69 güven)",
+      "site": "IddaaLens",
+      "url": "https://iddaalens.com/iddaa-tahminleri-bugun"
+     }
+    ],
+    "consensus": "Tahmin siteleri oybirliğiyle Trabzonspor galibiyeti bekliyor ve maçı gollü görüyor; bizim tercihimiz düşük oranlı MS yerine gol çizgisi.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Trabzonspor iç sahada 4 maçta 4 galibiyet aldı, maç başı 2,4 gol attı ve 0,9 gol yedi; ligde son 4 maçını kazandı (son maç Rizespor deplasmanında 4-3)."
+     },
+     {
+      "side": "away",
+      "text": "Gaziantep FK deplasmanda 4 maçta 2 galibiyet, 2 yenilgi aldı (maç başı 1,0 attı, 1,7 yedi); son maçında evinde Erzurumspor'a 1-3 kaybetti."
+     },
+     {
+      "side": "home",
+      "text": "7 eksik, özellikle Franculino ve Malinovskyi'nin yokluğu Trabzonspor'un hücum derinliğini azaltıyor."
+     },
+     {
+      "side": "home",
+      "text": "5 Kasım'da Freiburg ile Konferans Ligi maçı var; skor erken alınırsa rotasyon ve tempo düşüşü olası."
+     },
+     {
+      "side": "neutral",
+      "text": "Rekabette Trabzonspor iç sahada 6 galibiyet 1 beraberlik ve 19-8 gol averajına sahip."
+     },
+     {
+      "side": "away",
+      "text": "Abena cezası ve kaleci Tobiasz'ın şüpheli durumu Gaziantep savunmasını zayıflatıyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Trabzonspor'da Franculino Dju, Aral Şimşir, Okay Yokuşlu, Arseniy Batagov, Ruslan Malinovskyi, Cihan Çanak ve Onuralp Çevikkan sakatlıkları nedeniyle yok.",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/10/31/trabzonspor-yarin-gaziantep-fkyi-agirlayacak"
+     },
+     {
+      "impact": "orta",
+      "text": "Franculino Dju'nun Rizespor maçında yaşadığı sakatlık sonrası MR sonuçları çıktı; Gaziantep maçında forma giyemeyecek.",
+      "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/30/franculino-dju-gaziantep-macinda-yok"
+     },
+     {
+      "impact": "orta",
+      "text": "Gaziantep FK'da Myenty Abena 1 maç cezalı; Kacper Tobiasz, Ogün Özçiçek ve Ulrich Meleke kas sakatlığı nedeniyle şüpheli.",
+      "url": "https://sakat-ve-cezali.com/turkiye-super-lig.php"
+     },
+     {
+      "impact": "düşük",
+      "text": "Trabzonspor rakibine karşı 14 lig maçında 9 galibiyet 5 beraberlikle yenilmedi; evinde 7 maçta 6 galibiyet aldı.",
+      "url": "https://haberlesende.com/2026/10/31/trabzonspor-gaziantep-fk-macina-yenilmezlik-serisiyle-cikiyor/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 57,
+      "market": "2.5 Üst",
+      "prob": 0.58,
+      "reason": "Trabzonspor'un lig maçlarının %67'si, Gaziantep'in %56'sı 2.5 üstü bitti; ev sahibi iç sahada maç başı 2,4 atıyor, Gaziantep deplasmanda 1,7 gol yiyor. Bu rekabetin Trabzon'daki son 7 maçında 19 gol atıldı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 48,
+      "market": "Trabzonspor kazanır ve 2.5 Üst",
+      "prob": 0.47,
+      "reason": "Ev sahibinin kazandığı senaryoların çoğunda gol sayısı 3'e çıkıyor (iç sahada 2,4 gol ortalaması); düz MS oranı düşük olduğundan kombinasyon daha değerli.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -1.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 44,
+      "market": "Trabzonspor -1.5 Handikap (2+ farkla kazanır)",
+      "prob": 0.45,
+      "reason": "Somut gerekçe: Trabzonspor iç sahada maç başı +1,5 gol farkı üretiyor, Gaziantep son maçında evinde 3 gol yedi ve savunmada Abena cezalı. Ancak Franculino ile 6 oyuncunun daha eksik olması ve Freiburg maçı öncesi rotasyon riski güveni düşürüyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Hücumdaki eksikler nedeniyle Trabzonspor 1-0 veya 2-0 gibi kontrollü bir skorla yetinebilir.",
+     "Freiburg maçı öncesi rotasyon ikinci yarıda temponun düşmesine yol açabilir.",
+     "Gaziantep deplasmanda 2 galibiyet almış bir takım; kontra ataklarla sürpriz gol bulabilir."
+    ],
+    "sources": [
+     {
+      "title": "Sabah/AA - Trabzonspor yarın Gaziantep FK'yi ağırlayacak",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/10/31/trabzonspor-yarin-gaziantep-fkyi-agirlayacak"
+     },
+     {
+      "title": "TotoCover - Trabzonspor-Gaziantep FK maç analizi",
+      "url": "https://totocover.com/mac-analiz/2026-12/7-trabzonspor-gaziantep-fk"
+     },
+     {
+      "title": "Fotomaç - Franculino Dju Gaziantep maçında yok",
+      "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/30/franculino-dju-gaziantep-macinda-yok"
+     },
+     {
+      "title": "Skorjet - Trabzonspor fikstür ve eksikler",
+      "url": "https://www.skorjet.net/takim/trabzonspor/sakatliklar"
+     },
+     {
+      "title": "T24 - 9. hafta sonuçları ve puan durumu",
+      "url": "https://t24.com.tr/spor/trendyol-super-ligde-9-haftanin-ardindan-gorunum-puan-durumu-ve-10-hafta-programi,1355474"
+     },
+     {
+      "title": "Haberlesende - Trabzonspor-Gaziantep rekabet istatistikleri",
+      "url": "https://haberlesende.com/2026/10/31/trabzonspor-gaziantep-fk-macina-yenilmezlik-serisiyle-cikiyor/"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Trabzonspor 19 puanla üçüncü, Thomas Reis yönetiminde ligde 4 maçtır kazanıyor ve iç sahada 4'te 4 yaptı (maç başı 2,4 attı, 0,9 yedi). Gaziantep FK 8 puanla 14-15. sıralarda, son maçında evinde Erzurumspor'a 1-3 yenildi; deplasmanda 4 maçta 2 galibiyet ve 2 yenilgi aldı (maç başı 1,0 attı, 1,7 yedi). Trabzonspor'da Franculino Dju, Malinovskyi, Okay Yokuşlu dahil 7 eksik var ve 5 Kasım'da Freiburg ile Konferans Ligi maçı oynayacak. Gaziantep'te Abena cezalı, kaleci Tobiasz başta olmak üzere birkaç oyuncu şüpheli. Rekabette Trabzonspor 14 lig maçında hiç kaybetmedi; MS 1 piyasada 1.25 civarında olduğu için tercih gol marketlerinde.",
+    "verdict": "Trabzonspor iç saha serisi ve rakip üstünlüğüyle favori; değer gol çizgisinde ve galibiyet+üst kombinasyonunda, eksik kadro nedeniyle geniş fark temkinli."
+   },
+   "createdAt": 1793481443812
+  }
+ },
+ "futbol": {
+  "matches": [
+   {
+    "id": "futbol-2026-11-01-amedspor-eyupspor",
+    "league": "Trendyol Süper Lig",
+    "time": "13:30",
+    "home": "Amedspor",
+    "away": "Eyüpspor",
+    "venue": "Diyarbakır Stadyumu, Diyarbakır",
+    "note": "Üst sıralara tutunan Amedspor, evinde Eyüpspor'u ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-11-01-trabzonspor-gaziantep-fk",
+    "league": "Trendyol Süper Lig",
+    "time": "16:00",
+    "home": "Trabzonspor",
+    "away": "Gaziantep FK",
+    "venue": "Papara Park, Trabzon",
+    "note": "Lider Trabzonspor, zirvedeki yerini korumak için Gaziantep FK karşısında."
+   },
+   {
+    "id": "futbol-2026-11-01-basaksehir-samsunspor",
+    "league": "Trendyol Süper Lig",
+    "time": "16:00",
+    "home": "Başakşehir",
+    "away": "Samsunspor",
+    "venue": "Başakşehir Fatih Terim Stadyumu, İstanbul",
+    "note": "Son 5 maçta kazanamayan Samsunspor, Başakşehir deplasmanında çıkış arıyor."
+   },
+   {
+    "id": "futbol-2026-11-01-kasimpasa-besiktas",
+    "league": "Trendyol Süper Lig",
+    "time": "19:00",
+    "home": "Kasımpaşa",
+    "away": "Beşiktaş",
+    "venue": "Recep Tayyip Erdoğan Stadyumu, İstanbul",
+    "note": "Beşiktaş, haftayı Kasımpaşa deplasmanında kapatıyor; İstanbul derbisi havasında maç."
+   },
+   {
+    "id": "futbol-2026-11-01-liverpool-arsenal",
+    "league": "Premier Lig",
+    "time": "19:30",
+    "home": "Liverpool",
+    "away": "Arsenal",
+    "venue": "Anfield, Liverpool",
+    "note": "Haftanın dev maçı: 2. sıradaki Arsenal, 5. sıradaki Liverpool deplasmanında."
+   },
+   {
+    "id": "futbol-2026-11-01-getafe-sevilla",
+    "league": "La Liga",
+    "time": "16:00",
+    "home": "Getafe",
+    "away": "Sevilla",
+    "venue": "Coliseum, Getafe",
+    "note": "Alt sıralardaki Getafe, 6. sıradaki Sevilla'yı ağırlıyor; düşük skorlu bir rekabet."
+   },
+   {
+    "id": "futbol-2026-11-01-racing-santander-real-madrid",
+    "league": "La Liga",
+    "time": "18:15",
+    "home": "Racing Santander",
+    "away": "Real Madrid",
+    "venue": "El Sardinero, Santander",
+    "note": "Yeni yükselen Racing, son 5 maçını kazanan Real Madrid'i ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-11-01-athletic-bilbao-real-sociedad",
+    "league": "La Liga",
+    "time": "23:00",
+    "home": "Athletic Bilbao",
+    "away": "Real Sociedad",
+    "venue": "San Mamés, Bilbao",
+    "note": "Bask derbisi: formda Real Sociedad, San Mamés'te Athletic'e konuk."
+   },
+   {
+    "id": "futbol-2026-11-01-como-venezia",
+    "league": "Serie A",
+    "time": "14:30",
+    "home": "Como",
+    "away": "Venezia",
+    "venue": "Stadio Giuseppe Sinigaglia, Como",
+    "note": "5. sıradaki Como, ligin son sırasındaki Venezia'yı ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-11-01-lazio-cagliari",
+    "league": "Serie A",
+    "time": "17:00",
+    "home": "Lazio",
+    "away": "Cagliari",
+    "venue": "Stadio Olimpico, Roma",
+    "note": "Lider Lazio, yenilmezlik serisini Cagliari karşısında sürdürmek istiyor."
+   },
+   {
+    "id": "futbol-2026-11-01-juventus-napoli",
+    "league": "Serie A",
+    "time": "22:45",
+    "home": "Juventus",
+    "away": "Napoli",
+    "venue": "Allianz Stadium, Torino",
+    "note": "Eşit puanlı (14) iki dev; Juventus ile Napoli haftanın Serie A derbisinde."
+   },
+   {
+    "id": "futbol-2026-11-01-eintracht-frankfurt-hamburger-sv",
+    "league": "Bundesliga",
+    "time": "19:30",
+    "home": "Eintracht Frankfurt",
+    "away": "Hamburger SV",
+    "venue": "Deutsche Bank Park, Frankfurt",
+    "note": "Kötü gidişteki Frankfurt (15.), HSV'yi ağırlıyor; iki takım da puana muhtaç."
+   },
+   {
+    "id": "futbol-2026-11-01-lyon-angers",
+    "league": "Ligue 1",
+    "time": "19:15",
+    "home": "Lyon",
+    "away": "Angers",
+    "venue": "Groupama Stadium, Lyon",
+    "note": "İç sahada güçlü Lyon, alt sıralardaki Angers karşısında favori."
+   },
+   {
+    "id": "futbol-2026-11-01-paris-fc-monaco",
+    "league": "Ligue 1",
+    "time": "19:15",
+    "home": "Paris FC",
+    "away": "Monaco",
+    "venue": "Stade Jean-Bouin, Paris",
+    "note": "6. Paris FC ile 4. Monaco arasında üst sıra rekabeti."
+   },
+   {
+    "id": "futbol-2026-11-01-marseille-toulouse",
+    "league": "Ligue 1",
+    "time": "22:45",
+    "home": "Marseille",
+    "away": "Toulouse",
+    "venue": "Orange Vélodrome, Marsilya",
+    "note": "Üç maçlık galibiyet serisindeki Marseille, Toulouse'u ağırlıyor."
+   }
+  ]
+ },
+ "basketbol": {
+  "matches": [
+   {
+    "id": "basketbol-2026-11-01-esenler-erokspor-turk-telekom",
+    "league": "Basketbol Süper Ligi",
+    "time": "13:00",
+    "home": "Esenler Erokspor",
+    "away": "Türk Telekom",
+    "venue": "Sinan Erdem Spor Salonu, İstanbul",
+    "note": "BSL 6. hafta: Esenler Erokspor, Türk Telekom'u ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-11-01-fenerbahce-tofas",
+    "league": "Basketbol Süper Ligi",
+    "time": "15:30",
+    "home": "Fenerbahçe",
+    "away": "Tofaş",
+    "venue": "Ülker Spor ve Etkinlik Salonu, İstanbul",
+    "note": "EuroLeague temposundaki Fenerbahçe, evinde Tofaş'ı konuk ediyor."
+   },
+   {
+    "id": "basketbol-2026-11-01-bursaspor-karsiyaka",
+    "league": "Basketbol Süper Ligi",
+    "time": "18:00",
+    "home": "Bursaspor",
+    "away": "Karşıyaka",
+    "venue": "Tofaş Spor Salonu, Nilüfer/Bursa",
+    "note": "Bursaspor ile Karşıyaka arasında orta sıra mücadelesi."
+   },
+   {
+    "id": "basketbol-2026-11-01-charlotte-hornets-philadelphia-76ers",
+    "league": "NBA",
+    "time": "01:00",
+    "home": "Charlotte Hornets",
+    "away": "Philadelphia 76ers",
+    "venue": "Spectrum Center, Charlotte",
+    "note": "Hornets, 76ers'ı ağırlıyor; Doğu Konferansı'nda erken sezon sınavı."
+   },
+   {
+    "id": "basketbol-2026-11-01-milwaukee-bucks-cleveland-cavaliers",
+    "league": "NBA",
+    "time": "03:00",
+    "home": "Milwaukee Bucks",
+    "away": "Cleveland Cavaliers",
+    "venue": "Fiserv Forum, Milwaukee",
+    "note": "Merkez Bölgesi rekabeti: Bucks evinde Cavaliers'ı ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-11-01-san-antonio-spurs-minnesota-timberwolve",
+    "league": "NBA",
+    "time": "03:00",
+    "home": "San Antonio Spurs",
+    "away": "Minnesota Timberwolves",
+    "venue": "Frost Bank Center, San Antonio",
+    "note": "Wembanyama'lı Spurs, Edwards'lı Timberwolves'u konuk ediyor."
+   },
+   {
+    "id": "basketbol-2026-11-01-houston-rockets-oklahoma-city-thunder",
+    "league": "NBA",
+    "time": "03:30",
+    "home": "Houston Rockets",
+    "away": "Oklahoma City Thunder",
+    "venue": "Toyota Center, Houston",
+    "note": "Batı'nın iki iddialı takımı: Rockets, son şampiyon adaylarından Thunder'ı ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-11-01-joventut-badalona-surne-bilbao",
+    "league": "ACB",
+    "time": "14:00",
+    "home": "Joventut Badalona",
+    "away": "Surne Bilbao",
+    "venue": "Palau Olímpic de Badalona, Badalona",
+    "note": "Joventut ile Bilbao Basket arasında orta sıra mücadelesi."
+   },
+   {
+    "id": "basketbol-2026-11-01-real-madrid-san-pablo-burgos",
+    "league": "ACB",
+    "time": "14:30",
+    "home": "Real Madrid",
+    "away": "San Pablo Burgos",
+    "venue": "Movistar Arena, Madrid",
+    "note": "5'te 5 yapan lider Real Madrid, San Pablo Burgos'u ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-11-01-baskonia-manresa",
+    "league": "ACB",
+    "time": "19:00",
+    "home": "Baskonia",
+    "away": "Manresa",
+    "venue": "Fernando Buesa Arena, Vitoria",
+    "note": "Baskonia, 5 maçta galibiyeti olmayan Manresa'yı konuk ediyor."
+   },
+   {
+    "id": "basketbol-2026-11-01-morabanc-andorra-valencia-basket",
+    "league": "ACB",
+    "time": "20:00",
+    "home": "MoraBanc Andorra",
+    "away": "Valencia Basket",
+    "venue": "Poliesportiu d'Andorra, Andorra la Vella",
+    "note": "EuroLeague ekibi Valencia, Andorra deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-11-01-unicaja-barcelona",
+    "league": "ACB",
+    "time": "21:00",
+    "home": "Unicaja",
+    "away": "Barcelona",
+    "venue": "Palacio de los Deportes Martín Carpena, Málaga",
+    "note": "Tarihi rekabetin 150. maçı: 3-2'lik Unicaja ile 3-2'lik Barça karşı karşıya."
+   }
+  ]
+ }
+}
