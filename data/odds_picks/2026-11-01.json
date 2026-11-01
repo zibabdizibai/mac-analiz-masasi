@@ -387,7 +387,19 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.73,
+     "best": 1.78,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1793541034411
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-11-01-juventus-napoli": {
    "sportKey": "soccer_italy_serie_a",
@@ -572,5 +584,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793538200111
+ "updatedAt": 1793541034834
 }
