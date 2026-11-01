@@ -55,7 +55,12 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    null,
+    null
+   ]
   },
   "futbol-2026-11-01-basaksehir-samsunspor": {
    "sportKey": "soccer_turkey_super_league",
@@ -87,7 +92,26 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.77,
+     "best": 1.84,
+     "bestBook": "Betfair",
+     "pinnacle": 1.83,
+     "books": 21,
+     "at": 1793538199303
+    },
+    {
+     "median": 1.605,
+     "best": 1.78,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 10,
+     "at": 1793538199303
+    },
+    null
+   ]
   },
   "futbol-2026-11-01-kasimpasa-besiktas": {
    "sportKey": "soccer_turkey_super_league",
@@ -227,7 +251,34 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.51,
+     "best": 1.55,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 5,
+     "at": 1793538199303
+    },
+    {
+     "median": 1.617,
+     "best": 1.7,
+     "bestBook": "1xBet",
+     "pinnacle": 1.666,
+     "books": 20,
+     "at": 1793538199303
+    },
+    {
+     "median": 3.0,
+     "best": 3.14,
+     "bestBook": "Coolbet",
+     "pinnacle": 2.96,
+     "books": 20,
+     "at": 1793538199303
+    },
+    null
+   ]
   },
   "futbol-2026-11-01-racing-santander-real-madrid": {
    "sportKey": "soccer_spain_la_liga",
@@ -521,5 +572,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793535280229
+ "updatedAt": 1793538200111
 }
