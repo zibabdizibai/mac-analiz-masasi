@@ -301,7 +301,20 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.625,
+     "best": 1.67,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 4,
+     "at": 1793545222901
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-11-01-athletic-bilbao-real-sociedad": {
    "sportKey": "soccer_spain_la_liga",
@@ -584,5 +597,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793543149285
+ "updatedAt": 1793545223567
 }
