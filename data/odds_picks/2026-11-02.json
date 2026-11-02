@@ -42,7 +42,34 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.8,
+     "best": 1.9,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.86,
+     "books": 15,
+     "at": 1793637621405
+    },
+    {
+     "median": 1.801,
+     "best": 1.976,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.908,
+     "books": 21,
+     "at": 1793637621405
+    },
+    null,
+    {
+     "median": 3.25,
+     "best": 3.48,
+     "bestBook": "1xBet",
+     "pinnacle": 3.35,
+     "books": 21,
+     "at": 1793637621405
+    }
+   ]
   },
   "basketbol-2026-11-02-aliaga-petkimspor-anadolu-efes": {
    "sportKey": "soccer_turkey_super_league",
@@ -290,5 +317,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793633597384
+ "updatedAt": 1793637621646
 }
