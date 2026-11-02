@@ -205,7 +205,34 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.56,
+     "best": 1.71,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 6,
+     "at": 1793640793023
+    },
+    {
+     "median": 2.139,
+     "best": 2.383,
+     "bestBook": "Betfair",
+     "pinnacle": 2.292,
+     "books": 24,
+     "at": 1793640793023
+    },
+    {
+     "median": 2.29,
+     "best": 2.35,
+     "bestBook": "Unibet (NL)",
+     "pinnacle": null,
+     "books": 4,
+     "at": 1793640793023
+    }
+   ]
   },
   "futbol-2026-11-02-atalanta-parma": {
    "sportKey": "soccer_italy_serie_a",
@@ -317,5 +344,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793637621646
+ "updatedAt": 1793640793694
 }
