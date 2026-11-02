@@ -1,0 +1,294 @@
+{
+ "day": "2026-11-02",
+ "matches": {
+  "futbol-2026-11-02-genclerbirligi-alanyaspor": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "10a70d197a090f08183739878151539d",
+   "apiHome": "Genclerbirligi SK",
+   "apiAway": "Alanyaspor",
+   "open": [
+    {
+     "median": 1.77,
+     "best": 1.86,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.85,
+     "books": 15,
+     "at": 1793598563703,
+     "prob": 0.56,
+     "ev": -0.009,
+     "value": false
+    },
+    {
+     "median": 1.8,
+     "best": 1.964,
+     "bestBook": "Betfair",
+     "pinnacle": 1.913,
+     "books": 21,
+     "at": 1793598563703,
+     "prob": 0.38,
+     "ev": -0.316,
+     "value": false
+    },
+    null,
+    {
+     "median": 3.25,
+     "best": 3.42,
+     "bestBook": "1xBet",
+     "pinnacle": 3.37,
+     "books": 21,
+     "at": 1793598563703,
+     "prob": 0.29,
+     "ev": -0.058,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "basketbol-2026-11-02-aliaga-petkimspor-anadolu-efes": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-11-02-besiktas-glint-cayirova-belediyesi": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "futbol-2026-11-02-newcastle-everton": {
+   "sportKey": "soccer_epl",
+   "eventId": "0f552d9c6990c69474f50ff2fb54e9a3",
+   "apiHome": "Newcastle United",
+   "apiAway": "Everton",
+   "open": [
+    {
+     "median": 2.15,
+     "best": 2.22,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 15,
+     "at": 1793598563703,
+     "prob": 0.53,
+     "ev": 0.139,
+     "value": true
+    },
+    {
+     "median": 1.64,
+     "best": 1.733,
+     "bestBook": "Betfair",
+     "pinnacle": 1.683,
+     "books": 24,
+     "at": 1793598563703,
+     "prob": 0.47,
+     "ev": -0.229,
+     "value": false
+    },
+    null,
+    {
+     "median": 3.5,
+     "best": 3.74,
+     "bestBook": "1xBet",
+     "pinnacle": 3.6,
+     "books": 24,
+     "at": 1793598563703,
+     "prob": 0.28,
+     "ev": -0.02,
+     "value": false
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-02-deportivo-la-coruna-osasuna": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "7a2cd2744fdf15ea675423a6c23df46b",
+   "apiHome": "Deportivo La Coruña",
+   "apiAway": "CA Osasuna",
+   "open": [
+    {
+     "median": 1.67,
+     "best": 1.73,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 13,
+     "at": 1793598563703,
+     "prob": 0.52,
+     "ev": -0.132,
+     "value": false
+    },
+    {
+     "median": 1.497,
+     "best": 1.612,
+     "bestBook": "1xBet",
+     "pinnacle": 1.52,
+     "books": 20,
+     "at": 1793598563703,
+     "prob": 0.42,
+     "ev": -0.371,
+     "value": false
+    },
+    {
+     "median": 3.225,
+     "best": 3.45,
+     "bestBook": "1xBet",
+     "pinnacle": 3.27,
+     "books": 20,
+     "at": 1793598563703,
+     "prob": 0.29,
+     "ev": -0.065,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-02-sassuolo-fiorentina": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "66608b64d462d1d3deabe573c8456d86",
+   "apiHome": "Sassuolo",
+   "apiAway": "Fiorentina",
+   "open": [
+    null,
+    {
+     "median": 1.55,
+     "best": 1.57,
+     "bestBook": "Marathon Bet",
+     "pinnacle": null,
+     "books": 8,
+     "at": 1793598563703,
+     "prob": 0.61,
+     "ev": -0.054,
+     "value": false
+    },
+    {
+     "median": 2.069,
+     "best": 2.2,
+     "bestBook": "Matchbook",
+     "pinnacle": 2.153,
+     "books": 23,
+     "at": 1793598563703,
+     "prob": 0.39,
+     "ev": -0.193,
+     "value": false
+    },
+    {
+     "median": 2.33,
+     "best": 2.46,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 4,
+     "at": 1793598563703,
+     "prob": 0.38,
+     "ev": -0.115,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-02-atalanta-parma": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "2e488800d615a94e5377c195810303c0",
+   "apiHome": "Atalanta BC",
+   "apiAway": "Parma",
+   "open": [
+    {
+     "median": 1.61,
+     "best": 1.67,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793598563703,
+     "prob": 0.55,
+     "ev": -0.114,
+     "value": false
+    },
+    null,
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-02-lorient-brest": {
+   "sportKey": "soccer_france_ligue_one",
+   "eventId": "5118966f484adf525196d196a61bc5d6",
+   "apiHome": "Lorient",
+   "apiAway": "Brest",
+   "open": [
+    {
+     "median": 1.684,
+     "best": 1.805,
+     "bestBook": "1xBet",
+     "pinnacle": 1.747,
+     "books": 21,
+     "at": 1793598563703,
+     "prob": 0.42,
+     "ev": -0.293,
+     "value": false
+    },
+    null,
+    {
+     "median": 2.06,
+     "best": 2.2,
+     "bestBook": "BetOnline.ag",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1793598563703,
+     "prob": 0.47,
+     "ev": -0.032,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-02-benfica-alverca": {
+   "sportKey": "soccer_portugal_primeira_liga",
+   "eventId": "cdf1a22ce6d16f0903216518d909e02a",
+   "apiHome": "Benfica",
+   "apiAway": "Alverca",
+   "open": [
+    null,
+    {
+     "median": 1.89,
+     "best": 1.99,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.89,
+     "books": 11,
+     "at": 1793598563703,
+     "prob": 0.4,
+     "ev": -0.244,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-02-gil-vicente-vitoria-guimaraes": {
+   "sportKey": "soccer_portugal_primeira_liga",
+   "eventId": "97ce048d06fc45fc59e114548540828f",
+   "apiHome": "Gil Vicente",
+   "apiAway": "Vitória SC",
+   "open": [
+    {
+     "median": 1.64,
+     "best": 1.74,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1793598563703,
+     "prob": 0.6,
+     "ev": -0.016,
+     "value": false
+    },
+    null,
+    {
+     "median": 3.0,
+     "best": 3.2,
+     "bestBook": "Betfair",
+     "pinnacle": 3.08,
+     "books": 20,
+     "at": 1793598563703,
+     "prob": 0.3,
+     "ev": -0.1,
+     "value": false
+    }
+   ],
+   "pass": true
+  }
+ },
+ "updatedAt": 1793598563703
+}
