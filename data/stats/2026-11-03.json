@@ -1,0 +1,898 @@
+{
+ "day": "2026-11-03",
+ "generatedAt": 1793652866611,
+ "source": "football-data.org",
+ "statsWindow": "son 10 resmi maç (tüm kulvarlar)",
+ "matches": [
+  {
+   "league": "Şampiyonlar Ligi",
+   "fixtureId": 575377,
+   "kickoff": "2026-11-03T20:45:00+03:00",
+   "matchday": 4,
+   "home": {
+    "id": 1887,
+    "name": "Shaktar",
+    "fullName": "FK Shakhtar Donetsk",
+    "table": null,
+    "stats": {
+     "form": "DWL",
+     "sample": {
+      "home": 1,
+      "away": 2,
+      "total": 3
+     },
+     "goalsForAvg": {
+      "home": 3.0,
+      "away": 0.5,
+      "total": 1.33
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 1.0,
+      "total": 1.0
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 50,
+      "total": 33
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 0,
+      "total": 33
+     },
+     "bttsPct": {
+      "home": 100,
+      "away": 50,
+      "total": 67
+     }
+    }
+   },
+   "away": {
+    "id": 498,
+    "name": "Sporting CP",
+    "fullName": "Sporting Clube de Portugal",
+    "table": null,
+    "stats": {
+     "form": "DWWLLW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.0,
+      "away": 2.4,
+      "total": 2.2
+     },
+     "goalsAgainstAvg": {
+      "home": 1.6,
+      "away": 0.4,
+      "total": 1.0
+     },
+     "cleanSheetPct": {
+      "home": 20,
+      "away": 60,
+      "total": 40
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 80,
+      "away": 40,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 80,
+      "away": 40,
+      "total": 60
+     }
+    }
+   },
+   "h2h": [],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Şampiyonlar Ligi",
+   "fixtureId": 575378,
+   "kickoff": "2026-11-03T20:45:00+03:00",
+   "matchday": 4,
+   "home": {
+    "id": 610,
+    "name": "Galatasaray",
+    "fullName": "Galatasaray SK",
+    "table": null,
+    "stats": {
+     "form": "LLW",
+     "sample": {
+      "home": 1,
+      "away": 2,
+      "total": 3
+     },
+     "goalsForAvg": {
+      "home": 1.0,
+      "away": 2.5,
+      "total": 2.0
+     },
+     "goalsAgainstAvg": {
+      "home": 4.0,
+      "away": 2.5,
+      "total": 3.0
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 100,
+      "total": 100
+     },
+     "bttsPct": {
+      "home": 100,
+      "away": 100,
+      "total": 100
+     }
+    }
+   },
+   "away": {
+    "id": 10,
+    "name": "Stuttgart",
+    "fullName": "VfB Stuttgart",
+    "table": null,
+    "stats": {
+     "form": "WWLDLW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.0,
+      "away": 2.0,
+      "total": 2.0
+     },
+     "goalsAgainstAvg": {
+      "home": 1.4,
+      "away": 1.0,
+      "total": 1.2
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 40,
+      "total": 20
+     },
+     "failedToScorePct": {
+      "home": 20,
+      "away": 20,
+      "total": 20
+     },
+     "over25Pct": {
+      "home": 60,
+      "away": 60,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 80,
+      "away": 40,
+      "total": 60
+     }
+    }
+   },
+   "h2h": [],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Şampiyonlar Ligi",
+   "fixtureId": 575379,
+   "kickoff": "2026-11-03T23:00:00+03:00",
+   "matchday": 4,
+   "home": {
+    "id": 675,
+    "name": "Feyenoord",
+    "fullName": "Feyenoord Rotterdam",
+    "table": null,
+    "stats": {
+     "form": "WWWLDD",
+     "sample": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.75,
+      "away": 2.67,
+      "total": 2.7
+     },
+     "goalsAgainstAvg": {
+      "home": 0.75,
+      "away": 1.83,
+      "total": 1.4
+     },
+     "cleanSheetPct": {
+      "home": 50,
+      "away": 17,
+      "total": 30
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 17,
+      "total": 10
+     },
+     "over25Pct": {
+      "home": 50,
+      "away": 67,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 67,
+      "total": 60
+     }
+    }
+   },
+   "away": {
+    "id": 108,
+    "name": "Inter",
+    "fullName": "FC Internazionale Milano",
+    "table": null,
+    "stats": {
+     "form": "LWWWWL",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.8,
+      "away": 1.8,
+      "total": 2.3
+     },
+     "goalsAgainstAvg": {
+      "home": 1.6,
+      "away": 1.6,
+      "total": 1.6
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 20,
+      "total": 30
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 80,
+      "away": 80,
+      "total": 80
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 80,
+      "total": 70
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2025-03-11",
+     "home": "Inter",
+     "away": "Feyenoord",
+     "score": "2-1"
+    },
+    {
+     "date": "2025-03-05",
+     "home": "Feyenoord",
+     "away": "Inter",
+     "score": "0-2"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Şampiyonlar Ligi",
+   "fixtureId": 575380,
+   "kickoff": "2026-11-03T23:00:00+03:00",
+   "matchday": 4,
+   "home": {
+    "id": 81,
+    "name": "Barça",
+    "fullName": "FC Barcelona",
+    "table": null,
+    "stats": {
+     "form": "WWWLLW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 4.4,
+      "away": 3.6,
+      "total": 4.0
+     },
+     "goalsAgainstAvg": {
+      "home": 1.2,
+      "away": 2.0,
+      "total": 1.6
+     },
+     "cleanSheetPct": {
+      "home": 20,
+      "away": 0,
+      "total": 10
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 100,
+      "total": 100
+     },
+     "bttsPct": {
+      "home": 80,
+      "away": 100,
+      "total": 90
+     }
+    }
+   },
+   "away": {
+    "id": 58,
+    "name": "Aston Villa",
+    "fullName": "Aston Villa FC",
+    "table": null,
+    "stats": {
+     "form": "DWWWWD",
+     "sample": {
+      "home": 6,
+      "away": 4,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.5,
+      "away": 1.75,
+      "total": 2.2
+     },
+     "goalsAgainstAvg": {
+      "home": 1.17,
+      "away": 1.0,
+      "total": 1.1
+     },
+     "cleanSheetPct": {
+      "home": 17,
+      "away": 50,
+      "total": 30
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 25,
+      "total": 10
+     },
+     "over25Pct": {
+      "home": 83,
+      "away": 50,
+      "total": 70
+     },
+     "bttsPct": {
+      "home": 83,
+      "away": 50,
+      "total": 70
+     }
+    }
+   },
+   "h2h": [],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Şampiyonlar Ligi",
+   "fixtureId": 575381,
+   "kickoff": "2026-11-03T23:00:00+03:00",
+   "matchday": 4,
+   "home": {
+    "id": 78,
+    "name": "Atleti",
+    "fullName": "Club Atlético de Madrid",
+    "table": null,
+    "stats": {
+     "form": "WWWDWW",
+     "sample": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 2.25,
+      "away": 1.67,
+      "total": 1.9
+     },
+     "goalsAgainstAvg": {
+      "home": 0.25,
+      "away": 0.67,
+      "total": 0.5
+     },
+     "cleanSheetPct": {
+      "home": 75,
+      "away": 50,
+      "total": 60
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 50,
+      "away": 50,
+      "total": 50
+     },
+     "bttsPct": {
+      "home": 25,
+      "away": 50,
+      "total": 40
+     }
+    }
+   },
+   "away": {
+    "id": 5,
+    "name": "Bayern",
+    "fullName": "FC Bayern München",
+    "table": null,
+    "stats": {
+     "form": "DDWDWD",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 4.4,
+      "away": 2.0,
+      "total": 3.2
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 1.4,
+      "total": 1.2
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 20,
+      "total": 30
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 20,
+      "total": 10
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 80,
+      "total": 90
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 80,
+      "total": 70
+     }
+    }
+   },
+   "h2h": [
+    {
+     "date": "2020-12-01",
+     "home": "Atleti",
+     "away": "Bayern",
+     "score": "1-1"
+    },
+    {
+     "date": "2020-10-21",
+     "home": "Bayern",
+     "away": "Atleti",
+     "score": "4-0"
+    }
+   ],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Şampiyonlar Ligi",
+   "fixtureId": 575382,
+   "kickoff": "2026-11-03T23:00:00+03:00",
+   "matchday": 4,
+   "home": {
+    "id": 94,
+    "name": "Villarreal",
+    "fullName": "Villarreal CF",
+    "table": null,
+    "stats": {
+     "form": "LWDLWL",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.4,
+      "away": 2.0,
+      "total": 1.7
+     },
+     "goalsAgainstAvg": {
+      "home": 1.0,
+      "away": 2.0,
+      "total": 1.5
+     },
+     "cleanSheetPct": {
+      "home": 20,
+      "away": 0,
+      "total": 10
+     },
+     "failedToScorePct": {
+      "home": 40,
+      "away": 20,
+      "total": 30
+     },
+     "over25Pct": {
+      "home": 60,
+      "away": 80,
+      "total": 70
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 80,
+      "total": 70
+     }
+    }
+   },
+   "away": {
+    "id": 524,
+    "name": "PSG",
+    "fullName": "Paris Saint-Germain FC",
+    "table": null,
+    "stats": {
+     "form": "WWWWWW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 3.2,
+      "away": 3.0,
+      "total": 3.1
+     },
+     "goalsAgainstAvg": {
+      "home": 1.2,
+      "away": 1.0,
+      "total": 1.1
+     },
+     "cleanSheetPct": {
+      "home": 20,
+      "away": 20,
+      "total": 20
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "over25Pct": {
+      "home": 80,
+      "away": 80,
+      "total": 80
+     },
+     "bttsPct": {
+      "home": 80,
+      "away": 80,
+      "total": 80
+     }
+    }
+   },
+   "h2h": [],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Şampiyonlar Ligi",
+   "fixtureId": 575383,
+   "kickoff": "2026-11-03T23:00:00+03:00",
+   "matchday": 4,
+   "home": {
+    "id": 66,
+    "name": "Man United",
+    "fullName": "Manchester United FC",
+    "table": null,
+    "stats": {
+     "form": "DLDLLL",
+     "sample": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.25,
+      "away": 0.83,
+      "total": 1.0
+     },
+     "goalsAgainstAvg": {
+      "home": 1.25,
+      "away": 2.0,
+      "total": 1.7
+     },
+     "cleanSheetPct": {
+      "home": 25,
+      "away": 0,
+      "total": 10
+     },
+     "failedToScorePct": {
+      "home": 50,
+      "away": 33,
+      "total": 40
+     },
+     "over25Pct": {
+      "home": 50,
+      "away": 33,
+      "total": 40
+     },
+     "bttsPct": {
+      "home": 25,
+      "away": 67,
+      "total": 50
+     }
+    }
+   },
+   "away": {
+    "id": 100,
+    "name": "Roma",
+    "fullName": "AS Roma",
+    "table": null,
+    "stats": {
+     "form": "LWWDWW",
+     "sample": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 3.0,
+      "away": 2.2,
+      "total": 2.6
+     },
+     "goalsAgainstAvg": {
+      "home": 1.6,
+      "away": 1.2,
+      "total": 1.4
+     },
+     "cleanSheetPct": {
+      "home": 40,
+      "away": 40,
+      "total": 40
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 20,
+      "total": 10
+     },
+     "over25Pct": {
+      "home": 80,
+      "away": 40,
+      "total": 60
+     },
+     "bttsPct": {
+      "home": 60,
+      "away": 60,
+      "total": 60
+     }
+    }
+   },
+   "h2h": [],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Şampiyonlar Ligi",
+   "fixtureId": 575384,
+   "kickoff": "2026-11-03T23:00:00+03:00",
+   "matchday": 4,
+   "home": {
+    "id": 5721,
+    "name": "Bodø/Glimt",
+    "fullName": "FK Bodø/Glimt",
+    "table": null,
+    "stats": {
+     "form": "LWL",
+     "sample": {
+      "home": 1,
+      "away": 2,
+      "total": 3
+     },
+     "goalsForAvg": {
+      "home": 1.0,
+      "away": 1.5,
+      "total": 1.33
+     },
+     "goalsAgainstAvg": {
+      "home": 0.0,
+      "away": 4.5,
+      "total": 3.0
+     },
+     "cleanSheetPct": {
+      "home": 100,
+      "away": 0,
+      "total": 33
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 50,
+      "total": 33
+     },
+     "over25Pct": {
+      "home": 0,
+      "away": 100,
+      "total": 67
+     },
+     "bttsPct": {
+      "home": 0,
+      "away": 50,
+      "total": 33
+     }
+    }
+   },
+   "away": {
+    "id": 521,
+    "name": "Lille",
+    "fullName": "Lille OSC",
+    "table": null,
+    "stats": {
+     "form": "WLDLDW",
+     "sample": {
+      "home": 6,
+      "away": 4,
+      "total": 10
+     },
+     "goalsForAvg": {
+      "home": 1.5,
+      "away": 0.75,
+      "total": 1.2
+     },
+     "goalsAgainstAvg": {
+      "home": 1.33,
+      "away": 1.5,
+      "total": 1.4
+     },
+     "cleanSheetPct": {
+      "home": 50,
+      "away": 25,
+      "total": 40
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 25,
+      "total": 10
+     },
+     "over25Pct": {
+      "home": 33,
+      "away": 50,
+      "total": 40
+     },
+     "bttsPct": {
+      "home": 50,
+      "away": 50,
+      "total": 50
+     }
+    }
+   },
+   "h2h": [],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  },
+  {
+   "league": "Şampiyonlar Ligi",
+   "fixtureId": 575385,
+   "kickoff": "2026-11-03T23:00:00+03:00",
+   "matchday": 4,
+   "home": {
+    "id": 2016,
+    "name": "LASK",
+    "fullName": "LASK Linz",
+    "table": null,
+    "stats": {
+     "form": "LLW",
+     "sample": {
+      "home": 1,
+      "away": 2,
+      "total": 3
+     },
+     "goalsForAvg": {
+      "home": 3.0,
+      "away": 1.5,
+      "total": 2.0
+     },
+     "goalsAgainstAvg": {
+      "home": 6.0,
+      "away": 1.5,
+      "total": 3.0
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 0,
+      "away": 50,
+      "total": 33
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 50,
+      "total": 67
+     },
+     "bttsPct": {
+      "home": 100,
+      "away": 50,
+      "total": 67
+     }
+    }
+   },
+   "away": {
+    "id": 7509,
+    "name": "Sl. Bratislava",
+    "fullName": "ŠK Slovan Bratislava",
+    "table": null,
+    "stats": {
+     "form": "LLL",
+     "sample": {
+      "home": 1,
+      "away": 2,
+      "total": 3
+     },
+     "goalsForAvg": {
+      "home": 0.0,
+      "away": 0.5,
+      "total": 0.33
+     },
+     "goalsAgainstAvg": {
+      "home": 3.0,
+      "away": 5.0,
+      "total": 4.33
+     },
+     "cleanSheetPct": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+     },
+     "failedToScorePct": {
+      "home": 100,
+      "away": 50,
+      "total": 67
+     },
+     "over25Pct": {
+      "home": 100,
+      "away": 100,
+      "total": 100
+     },
+     "bttsPct": {
+      "home": 0,
+      "away": 50,
+      "total": 33
+     }
+    }
+   },
+   "h2h": [],
+   "note": "Sakatlık verisi bu kaynakta yok; haberlerden kontrol edin."
+  }
+ ]
+}
