@@ -255,7 +255,20 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.5,
+     "best": 1.52,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793648050626
+    },
+    null,
+    null,
+    null
+   ]
   },
   "futbol-2026-11-02-lorient-brest": {
    "sportKey": "soccer_france_ligue_one",
@@ -287,7 +300,26 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.633,
+     "best": 1.77,
+     "bestBook": "Betfair",
+     "pinnacle": 1.689,
+     "books": 21,
+     "at": 1793648050626
+    },
+    null,
+    {
+     "median": 2.135,
+     "best": 2.24,
+     "bestBook": "Coolbet",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1793648050626
+    }
+   ]
   },
   "futbol-2026-11-02-benfica-alverca": {
    "sportKey": "soccer_portugal_primeira_liga",
@@ -344,5 +376,5 @@
    "pass": true
   }
  },
- "updatedAt": 1793640793694
+ "updatedAt": 1793648050626
 }
