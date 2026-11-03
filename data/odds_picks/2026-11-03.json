@@ -32,7 +32,27 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 2.2,
+     "best": 2.28,
+     "bestBook": "Matchbook",
+     "pinnacle": 2.26,
+     "books": 22,
+     "at": 1793726498878
+    },
+    {
+     "median": 2.07,
+     "best": 2.25,
+     "bestBook": "BetAnything",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793726498878
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-11-03-galatasaray-stuttgart": {
    "sportKey": "soccer_uefa_champs_league",
@@ -74,7 +94,33 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.27,
+     "best": 1.29,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793726498878
+    },
+    {
+     "median": 1.522,
+     "best": 1.592,
+     "bestBook": "Betfair",
+     "pinnacle": 1.541,
+     "books": 22,
+     "at": 1793726498878
+    },
+    {
+     "median": 1.68,
+     "best": 1.76,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 8,
+     "at": 1793726498878
+    }
+   ]
   },
   "futbol-2026-11-03-atletico-madrid-bayern-munih": {
    "sportKey": "soccer_uefa_champs_league",
@@ -441,5 +487,5 @@
    "pass": false
   }
  },
- "updatedAt": 1793722851949
+ "updatedAt": 1793726499283
 }
