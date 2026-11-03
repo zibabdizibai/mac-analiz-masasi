@@ -1,0 +1,1314 @@
+{
+ "day": "2026-11-03",
+ "updatedAt": 1793745626695,
+ "summary": {
+  "genel": {
+   "tuttu": 46,
+   "tutmadı": 38,
+   "iade": 0,
+   "belirsiz": 0
+  },
+  "risk": {
+   "orta": {
+    "tuttu": 30,
+    "tutmadı": 26,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "yüksek": {
+    "tuttu": 16,
+    "tutmadı": 12,
+    "iade": 0,
+    "belirsiz": 0
+   }
+  },
+  "spor": {
+   "futbol": {
+    "tuttu": 28,
+    "tutmadı": 20,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "basketbol": {
+    "tuttu": 18,
+    "tutmadı": 18,
+    "iade": 0,
+    "belirsiz": 0
+   }
+  },
+  "verdict": {
+   "tuttu": 11,
+   "toplam": 23
+  },
+  "roi": {
+   "tümü": {
+    "bets": 27,
+    "profit": 5.74,
+    "roi": 21.3
+   },
+   "değerli": {
+    "bets": 8,
+    "profit": 3.56,
+    "roi": 44.5
+   },
+   "orta": {
+    "bets": 19,
+    "profit": 0.84,
+    "roi": 4.4
+   },
+   "yüksek": {
+    "bets": 8,
+    "profit": 4.89,
+    "roi": 61.2
+   },
+   "düşük": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "futbol": {
+    "bets": 27,
+    "profit": 5.74,
+    "roi": 21.3
+   },
+   "basketbol": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   }
+  },
+  "clv": {
+   "n": 27,
+   "avg": 0.2,
+   "beatPct": 48
+  },
+  "calib": {
+   "n": 84,
+   "avgProb": 49,
+   "hitRate": 55
+  }
+ },
+ "matches": {
+  "futbol-2026-11-03-sahtar-donetsk-sporting-cp": {
+   "score": "0-1",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Sporting kontrollü oyunla tek golle kazandı.",
+   "picks": [
+    {
+     "market": "Maç Sonucu: Sporting CP (2)",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.45,
+     "odds": 1.98,
+     "close": 2.2,
+     "ev": -0.109,
+     "value": false,
+     "profit": 0.98
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 2.175,
+     "close": 2.07,
+     "ev": 0.087,
+     "value": true,
+     "profit": 1.175
+    },
+    {
+     "market": "KG Var: Hayır",
+     "risk": "orta",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.46,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Sporting CP 1.5 Üst (takım golü)",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı",
+     "prob": 0.44,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-03-galatasaray-stuttgart": {
+   "score": "2-0",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Beklenen açık maç yerine Galatasaray gol yemeden kazandı.",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tutmadı",
+     "prob": 0.6,
+     "odds": 1.33,
+     "close": 1.27,
+     "ev": -0.202,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Galatasaray Beraberlikte İade",
+     "risk": "orta",
+     "confidence": 46,
+     "result": "tuttu",
+     "prob": 0.45,
+     "odds": 1.603,
+     "close": 1.522,
+     "ev": -0.279,
+     "value": false,
+     "profit": 0.603
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.38,
+     "odds": 1.865,
+     "close": 1.68,
+     "ev": -0.291,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-03-atletico-madrid-bayern-munih": {
+   "score": "0-2",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Eksik Bayern deplasmanda gol yemeden kazandı.",
+   "picks": [
+    {
+     "market": "Çifte Şans 1X (Atlético kaybetmez)",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı",
+     "prob": 0.6,
+     "odds": 1.595,
+     "close": 1.774,
+     "ev": -0.043,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "3.5 Alt",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.62,
+     "odds": 1.74,
+     "close": 1.775,
+     "ev": 0.079,
+     "value": true,
+     "profit": 0.74
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.4,
+     "odds": 2.8,
+     "close": 2.85,
+     "ev": 0.12,
+     "value": true,
+     "profit": 1.8
+    }
+   ]
+  },
+  "futbol-2026-11-03-barcelona-aston-villa": {
+   "score": "3-0",
+   "detail": "İY 1-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Yamal ve Raphinha (2) ile Barça farklı kazandı.",
+   "picks": [
+    {
+     "market": "Aston Villa +1.5 Handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Barcelona 2.5 Üst (takım golü)",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-03-birmingham-city-millwall": {
+   "score": "3-0",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Birmingham kazanır, beraberlikte iade (DNB 1)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.48,
+     "odds": 1.408,
+     "close": 1.393,
+     "ev": -0.324,
+     "value": false,
+     "profit": 0.408
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 1.75,
+     "close": 1.75,
+     "ev": -0.125,
+     "value": false,
+     "profit": 0.75
+    },
+    {
+     "market": "Birmingham 1.5 Üst takım golü",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.44,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "KG Yok",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.45,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-03-bod-glimt-lille": {
+   "score": "0-0",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Düşük skor senaryosu tuttu, Bodø galibiyeti gelmedi.",
+   "picks": [
+    {
+     "market": "Maç Sonucu: Bodø/Glimt (1)",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": 1.75,
+     "close": 1.555,
+     "ev": -0.125,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "KG Var: Hayır",
+     "risk": "orta",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.46,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.44,
+     "odds": 2.7,
+     "close": 2.9,
+     "ev": 0.188,
+     "value": true,
+     "profit": 1.7
+    }
+   ]
+  },
+  "futbol-2026-11-03-feyenoord-inter": {
+   "score": "0-3",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Inter rahat kazandı, Feyenoord gol atamadı.",
+   "picks": [
+    {
+     "market": "Inter Kazanır (MS 2)",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 1.94,
+     "close": 1.83,
+     "ev": -0.03,
+     "value": false,
+     "profit": 0.94
+    },
+    {
+     "market": "KG Var & 2.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.49,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Inter Takım 1.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 41,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": 2.02,
+     "close": 1.97,
+     "ev": -0.152,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-03-lask-slovan-bratislava": {
+   "score": "4-0",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "3.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 1.91,
+     "close": 1.99,
+     "ev": -0.045,
+     "value": false,
+     "profit": 0.91
+    },
+    {
+     "market": "LASK Takım 2.5 Üst",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "LASK -1.5 Handikap (2+ farkla kazanır)",
+     "risk": "orta",
+     "confidence": 46,
+     "result": "tuttu",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "KG Yok",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-03-manchester-united-roma": {
+   "score": "3-2",
+   "detail": "İY 0-2",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "İlk yarıyı 2-0 önde kapatan Roma'ya United geri dönüşle kazandı.",
+   "picks": [
+    {
+     "market": "Roma veya Beraberlik (Çifte Şans X2)",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tutmadı",
+     "prob": 0.61,
+     "odds": 1.688,
+     "close": 1.743,
+     "ev": 0.03,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": 2.62,
+     "close": 2.75,
+     "ev": 0.389,
+     "value": true,
+     "profit": -1.0
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Roma Kazanır (MS 2)",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.4,
+     "odds": 2.895,
+     "close": 3.025,
+     "ev": 0.158,
+     "value": true,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-03-preston-north-end-sheffield-united": {
+   "score": "2-3",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Taraf doğru, ancak maç düşük skorlu değil 5 gollü bitti.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı",
+     "prob": 0.58,
+     "odds": 2.01,
+     "close": 1.99,
+     "ev": 0.166,
+     "value": true,
+     "profit": -1.0
+    },
+    {
+     "market": "Sheffield United kazanır (MS 2)",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.47,
+     "odds": 1.965,
+     "close": 1.955,
+     "ev": -0.076,
+     "value": false,
+     "profit": 0.965
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Sheffield United gol yemeden kazanır",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tutmadı",
+     "prob": 0.3,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-03-qpr-burnley": {
+   "score": "1-1",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": 1.65,
+     "close": 1.725,
+     "ev": -0.076,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "QPR kazanır (MS 1)",
+     "risk": "orta",
+     "confidence": 47,
+     "result": "tutmadı",
+     "prob": 0.46,
+     "odds": 1.985,
+     "close": 1.93,
+     "ev": -0.087,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "QPR 1.5 Üst takım golü",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tutmadı",
+     "prob": 0.32,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-03-west-bromwich-albion-southampton": {
+   "score": "1-1",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Beraberlik veya Southampton (X2)",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.63,
+     "odds": 1.502,
+     "close": 1.594,
+     "ev": -0.054,
+     "value": false,
+     "profit": 0.502
+    },
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.57,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 2.145,
+     "close": 1.9,
+     "ev": 0.073,
+     "value": true,
+     "profit": 1.145
+    },
+    {
+     "market": "Beraberlik (MS X)",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tuttu",
+     "prob": 0.29,
+     "odds": 3.5,
+     "close": 3.35,
+     "ev": 0.015,
+     "value": false,
+     "profit": 2.5
+    }
+   ]
+  },
+  "futbol-2026-11-03-villarreal-paris-saint-germain": {
+   "score": "0-6",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "PSG deplasmanda 6-0'lık farkla kazandı.",
+   "picks": [
+    {
+     "market": "PSG Kazanır (MS 2)",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.57,
+     "odds": 1.73,
+     "close": 1.74,
+     "ev": -0.014,
+     "value": false,
+     "profit": 0.73
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "orta",
+     "confidence": 47,
+     "result": "tuttu",
+     "prob": 0.47,
+     "odds": 1.89,
+     "close": 2.04,
+     "ev": -0.112,
+     "value": false,
+     "profit": 0.89
+    },
+    {
+     "market": "PSG Takım 2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.43,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "PSG -1.5 Handikap (2+ farkla kazanır)",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.38,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-03-buducnost-voli-niners-chemnitz": {
+   "score": "96-84",
+   "detail": "1. periyot 23-22",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Yüksek skor tuttu, Chemnitz 12 farkla kaybetti.",
+   "picks": [
+    {
+     "market": "Chemnitz +6.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 172.5 Üst",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Chemnitz MS",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.38,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Budućnost Takım Toplamı 86.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-03-cleveland-cavaliers-oklahoma-city-thund": {
+   "score": "112-117",
+   "detail": "İY 48-59",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Gilgeous-Alexander 43 sayı ve galibiyet üçlüğüyle Thunder'ı taşıdı.",
+   "picks": [
+    {
+     "market": "Cleveland -4.5 Handikap",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tutmadı",
+     "prob": 0.57,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Cleveland Takım Toplamı 116.5 Üst",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Maç Toplamı 227.5 Üst",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Cleveland -8.5 Alternatif Handikap",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-03-golden-state-warriors-phoenix-suns": {
+   "score": "116-113",
+   "detail": "İY 51-57",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Warriors kazandı ama sadece 3 farkla.",
+   "picks": [
+    {
+     "market": "Golden State -4.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Maç Toplamı 227.5 Üst",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Golden State Takım Toplamı 115.5 Üst",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Golden State -8.5 Alternatif Handikap",
+     "risk": "yüksek",
+     "confidence": 41,
+     "result": "tutmadı",
+     "prob": 0.41,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-03-houston-rockets-boston-celtics": {
+   "score": "109-93",
+   "detail": "İY 57-50",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Rockets 16 farkla kazandı, maç beklenenden düşük skorlu (202) geçti.",
+   "picks": [
+    {
+     "market": "Houston -4.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Maç Toplamı 218.5 Üst",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Houston Takım Toplamı 112.5 Üst",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Houston -8.5 Alternatif Handikap",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-03-los-angeles-lakers-miami-heat": {
+   "score": "138-117",
+   "detail": "İY 79-72",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Maç Toplamı 236.5 Üst",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Lakers MS",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Lakers Takım Toplamı 119.5 Üst",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tuttu",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Lakers -5.5 Alternatif Handikap",
+     "risk": "yüksek",
+     "confidence": 41,
+     "result": "tuttu",
+     "prob": 0.41,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-03-napoli-basketball-trento": {
+   "score": "90-79",
+   "detail": "İY 37-39",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Napoli ilk yarıyı geride kapatıp ikinci yarıda açıldı.",
+   "picks": [
+    {
+     "market": "Napoli -8.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Napoli 1. Yarı -4.5",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 166.5 Üst",
+     "risk": "yüksek",
+     "confidence": 49,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-03-paok-roma-basketball": {
+   "score": "113-111",
+   "detail": "İY 61-60",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "PAOK, Ben Moore'un son saniye basketiyle kazandı.",
+   "picks": [
+    {
+     "market": "PAOK -11.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "PAOK 1. Yarı -6.5",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 164.5 Üst",
+     "risk": "orta",
+     "confidence": 51,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-03-ratiopharm-ulm-bahcesehir-koleji": {
+   "score": "80-89",
+   "detail": "İY 36-54",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Bahçeşehir 2. çeyreği 35-17 alarak maçı kopardı.",
+   "picks": [
+    {
+     "market": "Ulm +4.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 165.5 Üst",
+     "risk": "orta",
+     "confidence": 51,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Ulm MS",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-03-tofas-neptunas-klaipeda": {
+   "score": "94-79",
+   "detail": "1. periyot 19-29, İY 43-49",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Toplam 173 ile 173.5 çizgisinin yarım sayı altında kaldı.",
+   "picks": [
+    {
+     "market": "Toplam Sayı 173.5 Üst",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Tofaş -10.5 Handikap",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Tofaş Takım Toplamı 89.5 Üst",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tuttu",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "1. Çeyrek Toplam 41.5 Üst",
+     "risk": "yüksek",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-03-unicaja-reggiana": {
+   "score": "99-94",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Beklenen düşük skor yerine 193 sayılık maç oldu.",
+   "picks": [
+    {
+     "market": "Reggiana Takım Toplamı 74.5 Alt",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 161.5 Alt",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Unicaja -14.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  }
+ },
+ "notes": [
+  "Nerede yanıldık: Basketbolda ev sahibi handikapları (Cleveland -4.5, PAOK -11.5, Unicaja -14.5, Chemnitz/Ulm artı handikapları) çöktü; futbolda Man Utd–Roma ve QPR–Burnley'de tüm öneriler kaybetti.",
+  "İyi giden: Birmingham, LASK, West Brom–Southampton, PSG ve Lakers maçlarında tüm öneriler tuttu; Atlético–Bayern ve Bodø–Lille'de alt tahminleri doğru çıktı.",
+  "Değerli işaretli 8 önerinin 5'i tuttu (Şahtar 2.5 Alt, Atlético 3.5/2.5 Alt, Bodø 2.5 Alt, WBA 2.5 Alt); Man Utd–Roma'daki iki değerli öneri ile Preston 2.5 Alt kaybetti.",
+  "Yarın için ders: Geniş basketbol handikaplarında (10+) favori fark atamazsa toplam/takım toplamı pazarları daha güvenli; NBA'de yıldız oyuncu formu (SGA) eksik kadro avantajını silebiliyor."
+ ]
+}
