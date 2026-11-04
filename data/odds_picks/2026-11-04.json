@@ -32,7 +32,27 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.32,
+     "best": 1.32,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793813471544
+    },
+    null,
+    null,
+    {
+     "median": 1.79,
+     "best": 1.93,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793813471544
+    }
+   ]
   },
   "futbol-2026-11-04-fenerbahce-liverpool": {
    "sportKey": "soccer_uefa_champs_league",
@@ -55,7 +75,20 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.43,
+     "best": 1.44,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793813471544
+    },
+    null,
+    null,
+    null
+   ]
   },
   "futbol-2026-11-04-rb-leipzig-manchester-city": {
    "sportKey": "soccer_uefa_champs_league",
@@ -415,5 +448,5 @@
    "pass": false
   }
  },
- "updatedAt": 1793810204731
+ "updatedAt": 1793813471870
 }
