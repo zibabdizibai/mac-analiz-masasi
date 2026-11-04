@@ -130,7 +130,33 @@
      "value": false
     }
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.26,
+     "best": 1.26,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793821196464
+    },
+    {
+     "median": 2.416,
+     "best": 2.575,
+     "bestBook": "Betfair",
+     "pinnacle": 2.476,
+     "books": 22,
+     "at": 1793821196464
+    },
+    {
+     "median": 1.72,
+     "best": 1.78,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 8,
+     "at": 1793821196464
+    }
+   ]
   },
   "futbol-2026-11-04-slavia-prag-arsenal": {
    "sportKey": "soccer_uefa_champs_league",
@@ -153,7 +179,20 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 2.075,
+     "best": 2.11,
+     "bestBook": "Coolbet",
+     "pinnacle": 2.1,
+     "books": 16,
+     "at": 1793821196464
+    },
+    null,
+    null,
+    null
+   ]
   },
   "futbol-2026-11-04-psv-club-brugge": {
    "sportKey": "soccer_uefa_champs_league",
@@ -185,7 +224,26 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.32,
+     "best": 1.33,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793821196464
+    },
+    {
+     "median": 1.918,
+     "best": 2.045,
+     "bestBook": "Betfair",
+     "pinnacle": 1.983,
+     "books": 22,
+     "at": 1793821196464
+    }
+   ]
   },
   "futbol-2026-11-04-borussia-dortmund-real-betis": {
    "sportKey": "soccer_uefa_champs_league",
@@ -217,7 +275,26 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.575,
+     "best": 1.58,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 4,
+     "at": 1793821196464
+    },
+    {
+     "median": 2.373,
+     "best": 2.546,
+     "bestBook": "Betfair",
+     "pinnacle": 2.471,
+     "books": 22,
+     "at": 1793821196464
+    }
+   ]
   },
   "futbol-2026-11-04-porto-napoli": {
    "sportKey": "soccer_uefa_champs_league",
@@ -260,7 +337,34 @@
     },
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.438,
+     "best": 1.518,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.503,
+     "books": 22,
+     "at": 1793821196464
+    },
+    {
+     "median": 2.02,
+     "best": 2.06,
+     "bestBook": "1xBet",
+     "pinnacle": 2.06,
+     "books": 15,
+     "at": 1793821196464
+    },
+    {
+     "median": 1.98,
+     "best": 2.08,
+     "bestBook": "Betfair",
+     "pinnacle": 2.07,
+     "books": 22,
+     "at": 1793821196464
+    },
+    null
+   ]
   },
   "futbol-2026-11-04-lens-como": {
    "sportKey": "soccer_uefa_champs_league",
@@ -302,7 +406,33 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.421,
+     "best": 1.493,
+     "bestBook": "Betfair",
+     "pinnacle": 1.463,
+     "books": 22,
+     "at": 1793821196464
+    },
+    {
+     "median": 1.565,
+     "best": 1.6,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 8,
+     "at": 1793821196464
+    },
+    {
+     "median": 1.925,
+     "best": 2.0,
+     "bestBook": "1xBet",
+     "pinnacle": 1.96,
+     "books": 22,
+     "at": 1793821196464
+    }
+   ]
   },
   "futbol-2026-11-04-viking-sabah": {
    "sportKey": "soccer_uefa_champs_league",
@@ -335,7 +465,27 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.85,
+     "best": 1.93,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.9,
+     "books": 13,
+     "at": 1793821196464
+    },
+    {
+     "median": 1.33,
+     "best": 1.33,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793821196464
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-11-04-cardiff-city-west-ham": {
    "sportKey": "soccer_efl_champ",
@@ -377,7 +527,33 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.446,
+     "best": 1.561,
+     "bestBook": "Betfair",
+     "pinnacle": 1.525,
+     "books": 22,
+     "at": 1793821196464
+    },
+    {
+     "median": 1.39,
+     "best": 1.39,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793821196464
+    },
+    {
+     "median": 1.94,
+     "best": 2.02,
+     "bestBook": "Betfair",
+     "pinnacle": 2.0,
+     "books": 22,
+     "at": 1793821196464
+    }
+   ]
   },
   "futbol-2026-11-04-wrexham-middlesbrough": {
    "sportKey": "soccer_efl_champ",
@@ -419,7 +595,33 @@
      "value": false
     }
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.28,
+     "best": 1.388,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.34,
+     "books": 22,
+     "at": 1793821196464
+    },
+    {
+     "median": 1.97,
+     "best": 2.06,
+     "bestBook": "Matchbook",
+     "pinnacle": 2.06,
+     "books": 16,
+     "at": 1793821196464
+    },
+    {
+     "median": 1.755,
+     "best": 1.85,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.81,
+     "books": 22,
+     "at": 1793821196464
+    }
+   ]
   },
   "futbol-2026-11-04-bristol-city-wolves": {
    "sportKey": "soccer_efl_champ",
@@ -445,8 +647,20 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 2.06,
+     "best": 2.2,
+     "bestBook": "BetOnline.ag",
+     "pinnacle": 2.05,
+     "books": 21,
+     "at": 1793821196464
+    },
+    null,
+    null
+   ]
   }
  },
- "updatedAt": 1793817038586
+ "updatedAt": 1793821197788
 }
