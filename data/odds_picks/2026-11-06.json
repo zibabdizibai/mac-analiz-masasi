@@ -74,7 +74,27 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 2.18,
+     "best": 2.3,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1793994224304
+    },
+    {
+     "median": 1.65,
+     "best": 1.72,
+     "bestBook": "GTbets",
+     "pinnacle": 1.69,
+     "books": 25,
+     "at": 1793994224304
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-11-06-sevilla-alaves": {
    "sportKey": "soccer_spain_la_liga",
@@ -107,7 +127,27 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.93,
+     "best": 2.06,
+     "bestBook": "Betfair",
+     "pinnacle": 2.01,
+     "books": 21,
+     "at": 1793994224304
+    },
+    {
+     "median": 2.3,
+     "best": 2.4,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793994224304
+    },
+    null
+   ]
   },
   "futbol-2026-11-06-venezia-udinese": {
    "sportKey": "soccer_italy_serie_a",
@@ -150,7 +190,34 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.573,
+     "best": 1.65,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 1.603,
+     "books": 24,
+     "at": 1793994224304
+    },
+    null,
+    {
+     "median": 2.09,
+     "best": 2.28,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 2.166,
+     "books": 24,
+     "at": 1793994224304
+    },
+    {
+     "median": 1.91,
+     "best": 2.04,
+     "bestBook": "Coolbet",
+     "pinnacle": 1.93,
+     "books": 17,
+     "at": 1793994224304
+    }
+   ]
   },
   "futbol-2026-11-06-hamburger-sv-borussia-monchengladbach": {
    "sportKey": "soccer_germany_bundesliga",
@@ -236,7 +303,34 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.658,
+     "best": 1.75,
+     "bestBook": "Coolbet",
+     "pinnacle": 1.715,
+     "books": 22,
+     "at": 1793994224304
+    },
+    {
+     "median": 1.685,
+     "best": 1.79,
+     "bestBook": "Coolbet",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1793994224304
+    },
+    {
+     "median": 2.25,
+     "best": 2.408,
+     "bestBook": "Betfair",
+     "pinnacle": 2.355,
+     "books": 22,
+     "at": 1793994224304
+    },
+    null
+   ]
   },
   "futbol-2026-11-06-willem-ii-pec-zwolle": {
    "sportKey": "soccer_netherlands_eredivisie",
@@ -348,7 +442,33 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.941,
+     "best": 2.164,
+     "bestBook": "Betfair",
+     "pinnacle": 2.029,
+     "books": 22,
+     "at": 1793994224304
+    },
+    {
+     "median": 2.75,
+     "best": 2.98,
+     "bestBook": "Betfair",
+     "pinnacle": 2.84,
+     "books": 22,
+     "at": 1793994224304
+    },
+    {
+     "median": 1.99,
+     "best": 2.08,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 15,
+     "at": 1793994224304
+    }
+   ]
   },
   "basketbol-2026-11-06-besiktas-zalgiris-kaunas": {
    "sportKey": "basketball_euroleague",
@@ -440,8 +560,13 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    null,
+    null,
+    null
+   ]
   }
  },
- "updatedAt": 1793991394810
+ "updatedAt": 1793994224304
 }
