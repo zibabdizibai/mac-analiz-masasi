@@ -1,0 +1,1029 @@
+{
+ "day": "2026-11-06",
+ "updatedAt": 1794004517431,
+ "summary": {
+  "genel": {
+   "tuttu": 20,
+   "tutmadı": 37,
+   "iade": 2,
+   "belirsiz": 5
+  },
+  "risk": {
+   "orta": {
+    "tuttu": 13,
+    "tutmadı": 21,
+    "iade": 2,
+    "belirsiz": 3
+   },
+   "yüksek": {
+    "tuttu": 7,
+    "tutmadı": 16,
+    "iade": 0,
+    "belirsiz": 2
+   }
+  },
+  "spor": {
+   "basketbol": {
+    "tuttu": 15,
+    "tutmadı": 12,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "futbol": {
+    "tuttu": 5,
+    "tutmadı": 25,
+    "iade": 2,
+    "belirsiz": 5
+   }
+  },
+  "verdict": {
+   "tuttu": 8,
+   "toplam": 17
+  },
+  "roi": {
+   "tümü": {
+    "bets": 23,
+    "profit": -11.72,
+    "roi": -51.0
+   },
+   "değerli": {
+    "bets": 1,
+    "profit": -1.0,
+    "roi": -100.0
+   },
+   "orta": {
+    "bets": 12,
+    "profit": -6.92,
+    "roi": -57.7
+   },
+   "yüksek": {
+    "bets": 11,
+    "profit": -4.8,
+    "roi": -43.6
+   },
+   "düşük": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "futbol": {
+    "bets": 18,
+    "profit": -10.18,
+    "roi": -56.6
+   },
+   "basketbol": {
+    "bets": 5,
+    "profit": -1.54,
+    "roi": -30.8
+   }
+  },
+  "clv": {
+   "n": 16,
+   "avg": -0.2,
+   "beatPct": 44
+  },
+  "calib": {
+   "n": 57,
+   "avgProb": 50,
+   "hitRate": 35
+  }
+ },
+ "matches": {
+  "basketbol-2026-11-06-alba-berlin-phoenix-hagen": {
+   "score": "102-72",
+   "detail": "İY 56-47, 3. periyot sonu 80-53",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Hagen ilk periyotta denk gitti, ALBA ikinci yarıda farkı 30'a açtı.",
+   "picks": [
+    {
+     "market": "ALBA -9.5 handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "ALBA -14.5 handikap",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.43,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam 170.5 Üst",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-06-besiktas-zalgiris-kaunas": {
+   "score": "67-83",
+   "detail": "1. periyot 17-20, İY 31-45, 3. periyot sonu 44-62",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Beşiktaş sadece 6 üçlük buldu; Valančiūnas double-double yaptı.",
+   "picks": [
+    {
+     "market": "Beşiktaş +1.5 handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": 1.88,
+     "close": null,
+     "ev": -0.022,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Toplam 174.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.54,
+     "odds": 1.89,
+     "close": null,
+     "ev": 0.021,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Beşiktaş kazanır (MS 1)",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.48,
+     "odds": 1.98,
+     "close": null,
+     "ev": -0.05,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Beşiktaş takım toplamı 86.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-06-boulazac-gravelines": {
+   "score": "83-69",
+   "detail": "Gravelines 7. maçında da kazanamadı",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Boulazac -5.5 handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Boulazac -9.5 handikap",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu",
+     "prob": 0.44,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Gravelines takım toplamı 79.5 Alt",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-06-golden-state-warriors-miami-heat": {
+   "score": "120-100",
+   "detail": "İY 53-53, 3. periyot 38-23 Warriors",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Curry 29 sayı attı; back-to-back oynayan Heat ikinci yarıda düştü.",
+   "picks": [
+    {
+     "market": "Warriors -6.5 handikap",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam 235.5 Üst",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.51,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Warriors -10.5 handikap",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.36,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Stephen Curry 26.5 sayı Üst",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-06-olympiakos-kizilyildiz": {
+   "score": "57-62",
+   "detail": "Kızılyıldız devreye 18 sayı önde girdi",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Olympiakos hiçbir periyotta 20 sayıya ulaşamadı; Vezenkov 27 sayı.",
+   "picks": [
+    {
+     "market": "Toplam 168.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Olympiakos -5.5 handikap",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.51,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Olympiakos -10.5 handikap",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tutmadı",
+     "prob": 0.3,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-06-partizan-maccabi-tel-aviv": {
+   "score": "88-67",
+   "detail": "Partizan ilk yarıda 15 sayı öne geçti",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Partizan -3.5 handikap",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Partizan -7.5 handikap",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Partizan takım toplamı 82.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-06-phoenix-suns-orlando-magic": {
+   "score": "117-104",
+   "detail": "İY 63-51 Suns",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Booker 30 sayı; Magic 25 top kaybı yaptı.",
+   "picks": [
+    {
+     "market": "Magic +1.5 handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam 223.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Magic kazanır (MS 2)",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.49,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-06-virtus-bologna-dubai-basketball": {
+   "score": "75-93",
+   "detail": "Dubai ilk dakikalarda çift haneli fark yakaladı",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Virtus evinde 4. kez üst üste kaybetti.",
+   "picks": [
+    {
+     "market": "Dubai kazanır (MS 2)",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tuttu",
+     "prob": 0.56,
+     "odds": 1.53,
+     "close": null,
+     "ev": -0.143,
+     "value": false,
+     "profit": 0.53
+    },
+    {
+     "market": "Toplam 173.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Dubai -4.5 handikap",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu",
+     "prob": 0.44,
+     "odds": 1.93,
+     "close": null,
+     "ev": -0.151,
+     "value": false,
+     "profit": 0.93
+    },
+    {
+     "market": "Dubai takım toplamı 88 Üst",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-06-antalyaspor-bursaspor": {
+   "score": "1-1",
+   "detail": "İY 1-1",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Iheanacho 26' attı, Bursasporlu Bayramov 45'te kendi kalesine gol attı.",
+   "picks": [
+    {
+     "market": "Bursaspor kazanır (MS 2)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Bursaspor 1.5 Üst (takım golü)",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tutmadı",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-06-derby-county-bolton-wanderers": {
+   "score": "2-1",
+   "detail": "İY 0-1",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Bolton önde kapattı; Nyambe ve Robinson'ın golleriyle Derby geri döndü.",
+   "picks": [
+    {
+     "market": "Bolton beraberlikte iade",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": 1.88,
+     "close": 1.941,
+     "ev": -0.022,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Bolton kazanır (MS 2)",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.38,
+     "odds": 2.62,
+     "close": 2.75,
+     "ev": -0.004,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.46,
+     "odds": 2.12,
+     "close": 1.99,
+     "ev": -0.025,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-06-everton-coventry-city": {
+   "score": "3-1",
+   "detail": "Coventry öne geçti, Everton ikinci yarıda döndü",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Barry 2 (biri 61'), Dewsbury-Hall 81' attı.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tutmadı",
+     "prob": 0.62,
+     "odds": 2.12,
+     "close": 2.18,
+     "ev": 0.314,
+     "value": true,
+     "profit": -1.0
+    },
+    {
+     "market": "Everton kazanır (MS 1)",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tuttu",
+     "prob": 0.54,
+     "odds": 1.7,
+     "close": 1.65,
+     "ev": -0.082,
+     "value": false,
+     "profit": 0.7
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Everton kazanır ve 2.5 Alt",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.34,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-06-gaziantep-fk-kasimpasa": {
+   "score": "0-2",
+   "detail": "İY 0-2",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Goller ilk yarıda geldi, ikinci yarı golsüz.",
+   "picks": [
+    {
+     "market": "Kasımpaşa beraberlikte iade",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": 1.847,
+     "close": null,
+     "ev": -0.021,
+     "value": false,
+     "profit": 0.847
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.51,
+     "odds": 1.84,
+     "close": null,
+     "ev": -0.062,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Kasımpaşa kazanır (MS 2)",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tuttu",
+     "prob": 0.38,
+     "odds": 2.65,
+     "close": null,
+     "ev": 0.007,
+     "value": false,
+     "profit": 1.65
+    }
+   ]
+  },
+  "futbol-2026-11-06-hamburger-sv-borussia-monchengladbach": {
+   "score": "",
+   "detail": "Sonuç güvenilir kaynakta bulunamadı",
+   "status": "belirsiz",
+   "verdictHit": false,
+   "note": "Final skor bu çalışmada doğrulanamadı.",
+   "picks": [
+    {
+     "market": "Çifte şans X2",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "belirsiz",
+     "prob": 0.6,
+     "odds": 1.586,
+     "close": null,
+     "ev": -0.048,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "belirsiz",
+     "prob": 0.54,
+     "odds": 1.615,
+     "close": null,
+     "ev": -0.128,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Beraberlik (MS X)",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "belirsiz",
+     "prob": 0.29,
+     "odds": 3.5,
+     "close": null,
+     "ev": 0.015,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "HSV 1.5 Alt (takım golü)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "belirsiz",
+     "prob": 0.66,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-06-sariyer-igdir-fk": {
+   "score": "1-1",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Korkmazoğlu 67', Serdar Gürler 72'; 85'te verilen penaltı VAR ile iptal edildi.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tuttu",
+     "prob": 0.63,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Iğdır FK beraberlikte iade",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "iade",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.57,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Iğdır FK kazanır (MS 2)",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-06-sevilla-alaves": {
+   "score": "0-0",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Sivera, Sevilla'nın penaltısını kurtardı.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Sevilla kazanır (MS 1)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": 1.91,
+     "close": 1.93,
+     "ev": -0.045,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.48,
+     "odds": 2.15,
+     "close": 2.3,
+     "ev": 0.032,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Sevilla kazanır ve KG Var",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tutmadı",
+     "prob": 0.27,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-06-toulouse-strasbourg": {
+   "score": "3-1",
+   "detail": "Hidalgo 45+1', McKenzie 56', Jørgensen 76'; Reyna (dakika bulunamadı)",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Reyna golünün dakikası bulunamadığı için 'ikinci yarı daha gollü' belirsiz.",
+   "picks": [
+    {
+     "market": "Çifte şans X2",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": 1.731,
+     "close": 1.658,
+     "ev": -0.048,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 1.62,
+     "close": 1.685,
+     "ev": -0.19,
+     "value": false,
+     "profit": 0.62
+    },
+    {
+     "market": "Strasbourg beraberlikte iade",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.38,
+     "odds": 2.401,
+     "close": 2.25,
+     "ev": -0.088,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "İkinci yarı daha gollü",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "belirsiz",
+     "prob": 0.45,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-06-venezia-udinese": {
+   "score": "2-1",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Tüm goller ikinci yarıda; Venezia geri dönüp kazandı (Kike Pérez 70').",
+   "picks": [
+    {
+     "market": "Çifte şans X2",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tutmadı",
+     "prob": 0.58,
+     "odds": 1.623,
+     "close": 1.573,
+     "ev": -0.059,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Venezia 1.5 Alt (takım golü)",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tutmadı",
+     "prob": 0.66,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Udinese beraberlikte iade",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.45,
+     "odds": 2.199,
+     "close": 2.09,
+     "ev": -0.01,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": 2.05,
+     "close": 1.91,
+     "ev": 0.025,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-06-willem-ii-pec-zwolle": {
+   "score": "1-1",
+   "detail": "Goller ilk dakikalarda (ter Avest, van Hooijdonk)",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tutmadı",
+     "prob": 0.63,
+     "odds": 1.575,
+     "close": 1.67,
+     "ev": -0.008,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "PEC Zwolle beraberlikte iade",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "iade",
+     "prob": 0.6,
+     "odds": 1.575,
+     "close": 1.661,
+     "ev": -0.055,
+     "value": false,
+     "profit": 0.0
+    },
+    {
+     "market": "PEC Zwolle kazanır (MS 2)",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.48,
+     "odds": 2.17,
+     "close": 2.345,
+     "ev": 0.042,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Zwolle 1.5 Üst (takım golü)",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  }
+ },
+ "notes": [
+  "Nerede yanıldık: 'Kaybetmeme' (X2/DNB) ve deplasman favorisi kurguları çöktü — Bursaspor, Bolton, Udinese, Strasbourg ve Zwolle'nin hiçbiri kazanamadı; futbolda alt/üst okumaları da ters gitti (Everton 2.5 Alt, Venezia 1.5 Alt, Sevilla KG Var).",
+  "İyi giden: Net favorilerin handikapları yine tuttu — ALBA (-9.5/-14.5), Boulazac (-5.5/-9.5), Partizan (-3.5/-7.5), Warriors (-6.5/-10.5) ve Dubai (-4.5) hepsi karşılandı; takım toplamı önerileri de 4/5.",
+  "Basketbolda 'başa baş' denen maçlar (Beşiktaş–Žalgiris, Suns–Magic) tek taraflı bitti ve maç toplamı Üst'leri 0/6 kaldı; tek 'değerli' işaretli öneri Everton 2.5 Alt da 3-1 ile kaybetti.",
+  "Yarın için ders: Basketbolda toplam Üst yerine favori handikapına ağırlık ver; futbolda zayıf deplasman takımlarına DNB/X2 önermeden önce son haftaların iç saha sonuçlarını ayrıca tart."
+ ]
+}
