@@ -279,7 +279,34 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.67,
+     "best": 1.74,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793991394012
+    },
+    {
+     "median": 1.661,
+     "best": 1.833,
+     "bestBook": "Betfair",
+     "pinnacle": 1.782,
+     "books": 22,
+     "at": 1793991394012
+    },
+    {
+     "median": 2.345,
+     "best": 2.5,
+     "bestBook": "Betfair",
+     "pinnacle": 2.47,
+     "books": 22,
+     "at": 1793991394012
+    },
+    null
+   ]
   },
   "futbol-2026-11-06-derby-county-bolton-wanderers": {
    "sportKey": "soccer_efl_champ",
@@ -416,5 +443,5 @@
    "pass": false
   }
  },
- "updatedAt": 1793988569668
+ "updatedAt": 1793991394810
 }
