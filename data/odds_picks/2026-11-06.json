@@ -1,0 +1,420 @@
+{
+ "day": "2026-11-06",
+ "matches": {
+  "futbol-2026-11-06-gaziantep-fk-kasimpasa": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "51baab3ec98943f452377895491bfd6a",
+   "apiHome": "Gazişehir Gaziantep",
+   "apiAway": "Kasimpasa SK",
+   "open": [
+    {
+     "median": 1.847,
+     "best": 1.986,
+     "bestBook": "Betfair",
+     "pinnacle": 1.969,
+     "books": 21,
+     "at": 1793944383560,
+     "prob": 0.53,
+     "ev": -0.021,
+     "value": false
+    },
+    {
+     "median": 1.84,
+     "best": 1.93,
+     "bestBook": "1xBet",
+     "pinnacle": 1.84,
+     "books": 15,
+     "at": 1793944383560,
+     "prob": 0.51,
+     "ev": -0.062,
+     "value": false
+    },
+    {
+     "median": 2.65,
+     "best": 2.79,
+     "bestBook": "1xBet",
+     "pinnacle": 2.75,
+     "books": 21,
+     "at": 1793944383560,
+     "prob": 0.38,
+     "ev": 0.007,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-06-everton-coventry-city": {
+   "sportKey": "soccer_epl",
+   "eventId": "586bec023ee8ac2f0645d963bd2c9d25",
+   "apiHome": "Everton",
+   "apiAway": "Coventry City",
+   "open": [
+    {
+     "median": 2.12,
+     "best": 2.22,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 17,
+     "at": 1793944383560,
+     "prob": 0.62,
+     "ev": 0.314,
+     "value": true
+    },
+    {
+     "median": 1.7,
+     "best": 1.74,
+     "bestBook": "1xBet",
+     "pinnacle": 1.7,
+     "books": 25,
+     "at": 1793944383560,
+     "prob": 0.54,
+     "ev": -0.082,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-06-sevilla-alaves": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "9dd0014685fd62d9b2890d7c33a8c9ab",
+   "apiHome": "Sevilla",
+   "apiAway": "Alavés",
+   "open": [
+    null,
+    {
+     "median": 1.91,
+     "best": 1.98,
+     "bestBook": "1xBet",
+     "pinnacle": 1.91,
+     "books": 21,
+     "at": 1793944383560,
+     "prob": 0.5,
+     "ev": -0.045,
+     "value": false
+    },
+    {
+     "median": 2.15,
+     "best": 2.27,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 13,
+     "at": 1793944383560,
+     "prob": 0.48,
+     "ev": 0.032,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-06-venezia-udinese": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "fa069801a5c9b49143447a1a1d173fd1",
+   "apiHome": "Venezia",
+   "apiAway": "Udinese",
+   "open": [
+    {
+     "median": 1.623,
+     "best": 1.744,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 1.664,
+     "books": 24,
+     "at": 1793944383560,
+     "prob": 0.58,
+     "ev": -0.059,
+     "value": false
+    },
+    null,
+    {
+     "median": 2.199,
+     "best": 2.408,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 2.269,
+     "books": 24,
+     "at": 1793944383560,
+     "prob": 0.45,
+     "ev": -0.01,
+     "value": false
+    },
+    {
+     "median": 2.05,
+     "best": 2.12,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 16,
+     "at": 1793944383560,
+     "prob": 0.5,
+     "ev": 0.025,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-06-hamburger-sv-borussia-monchengladbach": {
+   "sportKey": "soccer_germany_bundesliga",
+   "eventId": "295076c39e49863cb54db085ac3cd340",
+   "apiHome": "Hamburger SV",
+   "apiAway": "Borussia Monchengladbach",
+   "open": [
+    {
+     "median": 1.586,
+     "best": 1.671,
+     "bestBook": "1xBet",
+     "pinnacle": 1.636,
+     "books": 23,
+     "at": 1793944383560,
+     "prob": 0.6,
+     "ev": -0.048,
+     "value": false
+    },
+    {
+     "median": 1.615,
+     "best": 1.74,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793944383560,
+     "prob": 0.54,
+     "ev": -0.128,
+     "value": false
+    },
+    {
+     "median": 3.5,
+     "best": 3.82,
+     "bestBook": "1xBet",
+     "pinnacle": 3.64,
+     "books": 23,
+     "at": 1793944383560,
+     "prob": 0.29,
+     "ev": 0.015,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-06-toulouse-strasbourg": {
+   "sportKey": "soccer_france_ligue_one",
+   "eventId": "5e7d141f719835de18877ed95bedcb32",
+   "apiHome": "Toulouse",
+   "apiAway": "Strasbourg",
+   "open": [
+    {
+     "median": 1.731,
+     "best": 1.847,
+     "bestBook": "LeoVegas (SE)",
+     "pinnacle": 1.79,
+     "books": 22,
+     "at": 1793944383560,
+     "prob": 0.55,
+     "ev": -0.048,
+     "value": false
+    },
+    {
+     "median": 1.62,
+     "best": 1.72,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1793944383560,
+     "prob": 0.5,
+     "ev": -0.19,
+     "value": false
+    },
+    {
+     "median": 2.401,
+     "best": 2.628,
+     "bestBook": "LeoVegas (SE)",
+     "pinnacle": 2.518,
+     "books": 22,
+     "at": 1793944383560,
+     "prob": 0.38,
+     "ev": -0.088,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-06-willem-ii-pec-zwolle": {
+   "sportKey": "soccer_netherlands_eredivisie",
+   "eventId": "926c11a6b5d1773d9024296a215d0f71",
+   "apiHome": "Willem II",
+   "apiAway": "FC Zwolle",
+   "open": [
+    {
+     "median": 1.575,
+     "best": 1.64,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 6,
+     "at": 1793944383560,
+     "prob": 0.63,
+     "ev": -0.008,
+     "value": false
+    },
+    {
+     "median": 1.575,
+     "best": 1.717,
+     "bestBook": "Unibet (NL)",
+     "pinnacle": 1.637,
+     "books": 22,
+     "at": 1793944383560,
+     "prob": 0.6,
+     "ev": -0.055,
+     "value": false
+    },
+    {
+     "median": 2.17,
+     "best": 2.32,
+     "bestBook": "Unibet (NL)",
+     "pinnacle": 2.21,
+     "books": 22,
+     "at": 1793944383560,
+     "prob": 0.48,
+     "ev": 0.042,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-06-derby-county-bolton-wanderers": {
+   "sportKey": "soccer_efl_champ",
+   "eventId": "af665449ac9e2c4e1f183376e85fc936",
+   "apiHome": "Derby County",
+   "apiAway": "Bolton Wanderers",
+   "open": [
+    {
+     "median": 1.88,
+     "best": 2.094,
+     "bestBook": "LeoVegas (SE)",
+     "pinnacle": 1.903,
+     "books": 22,
+     "at": 1793944383560,
+     "prob": 0.52,
+     "ev": -0.022,
+     "value": false
+    },
+    {
+     "median": 2.62,
+     "best": 2.9,
+     "bestBook": "LeoVegas (SE)",
+     "pinnacle": 2.61,
+     "books": 22,
+     "at": 1793944383560,
+     "prob": 0.38,
+     "ev": -0.004,
+     "value": false
+    },
+    {
+     "median": 2.12,
+     "best": 2.15,
+     "bestBook": "GTbets",
+     "pinnacle": null,
+     "books": 13,
+     "at": 1793944383560,
+     "prob": 0.46,
+     "ev": -0.025,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "basketbol-2026-11-06-besiktas-zalgiris-kaunas": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "5e8b44f529547b9df687dd99d6957088",
+   "apiHome": "Beşiktaş J.K.",
+   "apiAway": "Žalgiris",
+   "open": [
+    {
+     "median": 1.88,
+     "best": 1.93,
+     "bestBook": "Pinnacle",
+     "pinnacle": 1.93,
+     "books": 14,
+     "at": 1793944383560,
+     "prob": 0.52,
+     "ev": -0.022,
+     "value": false
+    },
+    {
+     "median": 1.89,
+     "best": 1.96,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1793944383560,
+     "prob": 0.54,
+     "ev": 0.021,
+     "value": false
+    },
+    {
+     "median": 1.98,
+     "best": 2.1,
+     "bestBook": "Betfair",
+     "pinnacle": 2.03,
+     "books": 21,
+     "at": 1793944383560,
+     "prob": 0.48,
+     "ev": -0.05,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-11-06-olympiakos-kizilyildiz": {
+   "sportKey": "basketball_euroleague",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-11-06-virtus-bologna-dubai-basketball": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "855aff1a6ed84f3f095ca7ba9913caee",
+   "apiHome": "Virtus Segafredo Bologna",
+   "apiAway": "Dubai Basketball",
+   "open": [
+    {
+     "median": 1.53,
+     "best": 1.61,
+     "bestBook": "Betfair",
+     "pinnacle": 1.58,
+     "books": 21,
+     "at": 1793944383560,
+     "prob": 0.56,
+     "ev": -0.143,
+     "value": false
+    },
+    null,
+    {
+     "median": 1.93,
+     "best": 2.04,
+     "bestBook": "Pinnacle",
+     "pinnacle": 2.04,
+     "books": 5,
+     "at": 1793944383560,
+     "prob": 0.44,
+     "ev": -0.151,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-11-06-partizan-maccabi-tel-aviv": {
+   "sportKey": "basketball_euroleague",
+   "eventId": "62b12649632fd5af4e9c78d6cfeff421",
+   "apiHome": "KK Partizan NIS",
+   "apiAway": "Maccabi Tel Aviv",
+   "open": [
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  }
+ },
+ "updatedAt": 1793944383560
+}
