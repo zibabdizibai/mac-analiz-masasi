@@ -460,7 +460,20 @@
     null,
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    {
+     "median": 1.97,
+     "best": 2.08,
+     "bestBook": "1xBet",
+     "pinnacle": 2.07,
+     "books": 14,
+     "at": 1794079964421
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-11-07-dortmund-elversberg": {
    "sportKey": "soccer_germany_bundesliga",
@@ -601,5 +614,5 @@
    "pass": true
   }
  },
- "updatedAt": 1794070893053
+ "updatedAt": 1794079964421
 }
