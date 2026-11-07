@@ -375,7 +375,26 @@
     },
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.88,
+     "best": 1.99,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.97,
+     "books": 17,
+     "at": 1794058843019
+    },
+    {
+     "median": 1.78,
+     "best": 1.86,
+     "bestBook": "1xBet",
+     "pinnacle": 1.8,
+     "books": 24,
+     "at": 1794058843019
+    },
+    null
+   ]
   },
   "futbol-2026-11-07-roma-sassuolo": {
    "sportKey": "soccer_italy_serie_a",
@@ -513,5 +532,5 @@
    "pass": true
   }
  },
- "updatedAt": 1794056075309
+ "updatedAt": 1794058843453
 }
