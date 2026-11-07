@@ -121,7 +121,19 @@
     null,
     null
    ],
-   "pass": false
+   "pass": false,
+   "close": [
+    {
+     "median": 1.73,
+     "best": 1.8,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1794066236825
+    },
+    null,
+    null
+   ]
   },
   "futbol-2026-11-07-goztepe-basaksehir": {
    "sportKey": "soccer_turkey_super_league",
@@ -153,7 +165,26 @@
     },
     null
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.89,
+     "best": 2.1,
+     "bestBook": "Matchbook",
+     "pinnacle": 2.06,
+     "books": 21,
+     "at": 1794066236825
+    },
+    {
+     "median": 1.67,
+     "best": 1.78,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 9,
+     "at": 1794066236825
+    },
+    null
+   ]
   },
   "basketbol-2026-11-07-glint-cayirova-belediyesi-pizzabulls-bo": {
    "sportKey": "soccer_turkey_super_league",
@@ -570,5 +601,5 @@
    "pass": true
   }
  },
- "updatedAt": 1794063795864
+ "updatedAt": 1794066237084
 }
