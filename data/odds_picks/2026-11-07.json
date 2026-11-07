@@ -73,7 +73,33 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    {
+     "median": 1.535,
+     "best": 1.622,
+     "bestBook": "Betfair",
+     "pinnacle": 1.582,
+     "books": 21,
+     "at": 1794056074809
+    },
+    {
+     "median": 1.91,
+     "best": 2.02,
+     "bestBook": "Pinnacle",
+     "pinnacle": 2.02,
+     "books": 15,
+     "at": 1794056074809
+    },
+    {
+     "median": 1.98,
+     "best": 2.188,
+     "bestBook": "Betfair",
+     "pinnacle": 2.1,
+     "books": 21,
+     "at": 1794056074809
+    }
+   ]
   },
   "futbol-2026-11-07-galatasaray-amed-sportif": {
    "sportKey": "soccer_turkey_super_league",
@@ -487,5 +513,5 @@
    "pass": true
   }
  },
- "updatedAt": 1794052905433
+ "updatedAt": 1794056075309
 }
