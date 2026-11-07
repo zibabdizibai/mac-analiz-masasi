@@ -1,0 +1,1473 @@
+{
+ "day": "2026-11-07",
+ "updatedAt": 1794090922758,
+ "summary": {
+  "genel": {
+   "tuttu": 47,
+   "tutmadı": 47,
+   "iade": 1,
+   "belirsiz": 0
+  },
+  "risk": {
+   "orta": {
+    "tuttu": 29,
+    "tutmadı": 23,
+    "iade": 0,
+    "belirsiz": 0
+   },
+   "yüksek": {
+    "tuttu": 18,
+    "tutmadı": 24,
+    "iade": 1,
+    "belirsiz": 0
+   }
+  },
+  "spor": {
+   "futbol": {
+    "tuttu": 23,
+    "tutmadı": 30,
+    "iade": 1,
+    "belirsiz": 0
+   },
+   "basketbol": {
+    "tuttu": 24,
+    "tutmadı": 17,
+    "iade": 0,
+    "belirsiz": 0
+   }
+  },
+  "verdict": {
+   "tuttu": 16,
+   "toplam": 26
+  },
+  "roi": {
+   "tümü": {
+    "bets": 28,
+    "profit": -2.88,
+    "roi": -10.3
+   },
+   "değerli": {
+    "bets": 7,
+    "profit": 0.24,
+    "roi": 3.4
+   },
+   "orta": {
+    "bets": 18,
+    "profit": -2.3,
+    "roi": -12.8
+   },
+   "yüksek": {
+    "bets": 10,
+    "profit": -0.58,
+    "roi": -5.8
+   },
+   "düşük": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "futbol": {
+    "bets": 28,
+    "profit": -2.88,
+    "roi": -10.3
+   },
+   "basketbol": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   }
+  },
+  "clv": {
+   "n": 12,
+   "avg": 1.7,
+   "beatPct": 67
+  },
+  "calib": {
+   "n": 94,
+   "avgProb": 50,
+   "hitRate": 50
+  }
+ },
+ "matches": {
+  "futbol-2026-11-07-eyupspor-kocaelispor": {
+   "score": "0-2",
+   "detail": "İY 0-2",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Goller ilk yarıda geldi (Agyei 5', Berkan Kutlu 28'); fark tek değil iki oldu.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tuttu",
+     "prob": 0.62,
+     "odds": 1.725,
+     "close": null,
+     "ev": 0.07,
+     "value": true,
+     "profit": 0.725
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "MS 2 (Kocaelispor)",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.47,
+     "odds": 1.91,
+     "close": null,
+     "ev": -0.102,
+     "value": false,
+     "profit": 0.91
+    }
+   ]
+  },
+  "futbol-2026-11-07-samsunspor-konyaspor": {
+   "score": "1-0",
+   "detail": "İY 1-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Samsunspor 8 maçlık yenilgi serisini Sekongo'nun ilk yarı golüyle bitirdi.",
+   "picks": [
+    {
+     "market": "Çifte Şans X2",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": 1.552,
+     "close": 1.535,
+     "ev": -0.131,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": 1.86,
+     "close": 1.91,
+     "ev": -0.033,
+     "value": false,
+     "profit": 0.86
+    },
+    {
+     "market": "Beraberlikte İade - Konyaspor",
+     "risk": "yüksek",
+     "confidence": 43,
+     "result": "tutmadı",
+     "prob": 0.43,
+     "odds": 2.042,
+     "close": 1.98,
+     "ev": -0.122,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-07-galatasaray-amed-sportif": {
+   "score": "4-3",
+   "detail": "İY 2-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "GS 3-0'dan 4-3'e geriledi; Amed'in üçüncü golü 90+2'de geldi.",
+   "picks": [
+    {
+     "market": "3.5 Alt",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tutmadı",
+     "prob": 0.64,
+     "odds": 1.72,
+     "close": 1.73,
+     "ev": 0.101,
+     "value": true,
+     "profit": -1.0
+    },
+    {
+     "market": "Amed Asya Handikap +1",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "iade",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "KG Var",
+     "risk": "yüksek",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-07-goztepe-basaksehir": {
+   "score": "1-2",
+   "detail": "İY 1-1",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Başakşehir galibiyet golünü 83'te Visca ile buldu.",
+   "picks": [
+    {
+     "market": "MS 1 (Göztepe)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.48,
+     "odds": 2.0,
+     "close": 1.89,
+     "ev": -0.04,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": 1.625,
+     "close": 1.67,
+     "ev": -0.139,
+     "value": false,
+     "profit": 0.625
+    },
+    {
+     "market": "Göztepe 1.5 Üst Takım Golü",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tutmadı",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-07-arsenal-hull-city": {
+   "score": "1-0",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Tek gol Ødegaard'dan; Arsenal farkı açamadı.",
+   "picks": [
+    {
+     "market": "Arsenal kazanır ve gol yemez",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Arsenal -1.5 Handikap",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": 1.5,
+     "close": 1.405,
+     "ev": -0.25,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-07-leeds-united-tottenham": {
+   "score": "1-0",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Okafor 79'da yedekten girip galibiyeti getirdi.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu",
+     "prob": 0.6,
+     "odds": 1.86,
+     "close": null,
+     "ev": 0.116,
+     "value": true,
+     "profit": 0.86
+    },
+    {
+     "market": "Tottenham Takım Toplamı 1.5 Alt",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.64,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Beraberlik Durumunda İade - Leeds",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 1.946,
+     "close": null,
+     "ev": -0.027,
+     "value": false,
+     "profit": 0.946
+    },
+    {
+     "market": "Maç Sonucu Beraberlik",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.3,
+     "odds": 3.3,
+     "close": null,
+     "ev": -0.01,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-07-nottingham-forest-manchester-city": {
+   "score": "3-1",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Gol kısırı denen Forest, City'ye üç gol attı.",
+   "picks": [
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tutmadı",
+     "prob": 0.6,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": 2.24,
+     "close": null,
+     "ev": 0.12,
+     "value": true,
+     "profit": -1.0
+    },
+    {
+     "market": "Man City kazanır ve KG Yok",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Çifte Şans 1X (Forest veya beraberlik)",
+     "risk": "yüksek",
+     "confidence": 36,
+     "result": "tuttu",
+     "prob": 0.37,
+     "odds": 2.162,
+     "close": null,
+     "ev": -0.2,
+     "value": false,
+     "profit": 1.162
+    }
+   ]
+  },
+  "futbol-2026-11-07-dortmund-elversberg": {
+   "score": "2-1",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "3.5 Alt",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu",
+     "prob": 0.6,
+     "odds": 1.91,
+     "close": 1.88,
+     "ev": 0.146,
+     "value": true,
+     "profit": 0.91
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Dortmund Kazanır & KG Yok",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Dortmund -1.5 Asya Handikap",
+     "risk": "yüksek",
+     "confidence": 43,
+     "result": "tutmadı",
+     "prob": 0.45,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-07-mainz-bayern-munih": {
+   "score": "1-2",
+   "detail": "İY 0-1",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Kimmich 14'te öne geçirdi; maç 3 golde kaldı.",
+   "picks": [
+    {
+     "market": "3.5 Üst",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": 1.67,
+     "close": 1.57,
+     "ev": -0.082,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Bayern Kazanır & KG Var",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tuttu",
+     "prob": 0.45,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Bayern -1.5 Asya Handikap",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Bayern 2.5 Gol Üstü (takım toplamı)",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-07-stuttgart-werder-bremen": {
+   "score": "1-0",
+   "detail": "İY 1-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Tek gol Mittelstädt'tan, 7. dakikada.",
+   "picks": [
+    {
+     "market": "3.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.46,
+     "odds": 1.86,
+     "close": null,
+     "ev": -0.144,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Stuttgart Kazanır (MS 1)",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.48,
+     "odds": 1.77,
+     "close": null,
+     "ev": -0.15,
+     "value": false,
+     "profit": 0.77
+    },
+    {
+     "market": "Çifte Şans X2",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": 2.017,
+     "close": null,
+     "ev": -0.153,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Stuttgart Kazanır & KG Var",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.33,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-07-osasuna-athletic-bilbao": {
+   "score": "1-1",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Nico Williams 84'te attı, Catena 90'da eşitledi.",
+   "picks": [
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tuttu",
+     "prob": 0.64,
+     "odds": 1.745,
+     "close": null,
+     "ev": 0.117,
+     "value": true,
+     "profit": 0.745
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Çifte Şans 1X (Osasuna veya beraberlik)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": 1.769,
+     "close": null,
+     "ev": -0.08,
+     "value": false,
+     "profit": 0.769
+    },
+    {
+     "market": "Maç Sonucu Beraberlik",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.3,
+     "odds": 3.4,
+     "close": null,
+     "ev": 0.02,
+     "value": false,
+     "profit": 2.4
+    }
+   ]
+  },
+  "futbol-2026-11-07-valencia-real-madrid": {
+   "score": "0-3",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tuttu",
+     "prob": 0.6,
+     "odds": 1.44,
+     "close": null,
+     "ev": -0.136,
+     "value": false,
+     "profit": 0.44
+    },
+    {
+     "market": "Real Madrid -1.5 Handikap",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "KG Yok",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu",
+     "prob": 0.45,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı",
+     "prob": 0.4,
+     "odds": 2.12,
+     "close": null,
+     "ev": -0.152,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-07-torino-lecce": {
+   "score": "1-1",
+   "detail": "İY 0-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "İki gol de kendi kalesine; başlama 16 dakika gecikti.",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": 1.91,
+     "close": 1.88,
+     "ev": 0.07,
+     "value": true,
+     "profit": -1.0
+    },
+    {
+     "market": "Torino Kazanır (MS 1)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.47,
+     "odds": 1.815,
+     "close": 1.78,
+     "ev": -0.147,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Torino 1.5 Gol Üstü (takım toplamı)",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.46,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-07-roma-sassuolo": {
+   "score": "3-0",
+   "detail": "İY 2-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Sassuolo gol bulamadı; Roma'nın bir golü kendi kalesine.",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tutmadı",
+     "prob": 0.6,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": 1.93,
+     "close": 1.97,
+     "ev": -0.035,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Roma -1.5 Asya Handikap",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tuttu",
+     "prob": 0.46,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Roma Kazanır & KG Var",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-07-psg-troyes": {
+   "score": "1-0",
+   "detail": "İY 1-0",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Tek gol Zabarnyi 39'; eksik PSG farkı açamadı.",
+   "picks": [
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "PSG Kazanır & KG Yok",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.45,
+     "odds": 1.805,
+     "close": null,
+     "ev": -0.188,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "PSG -2.5 Asya Handikap",
+     "risk": "yüksek",
+     "confidence": 43,
+     "result": "tutmadı",
+     "prob": 0.45,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-charlotte-hornets-boston-celtics": {
+   "score": "80-119",
+   "detail": "İY 39-70",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Tatum 34 sayı; toplam 199'da kaldı.",
+   "picks": [
+    {
+     "market": "Boston Celtics -8.5 handikap",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Boston Celtics 1. yarı -4.5",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.51,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam 209.5 Üst",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Boston Celtics -12.5 handikap (alternatif)",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.4,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-cleveland-cavaliers-philadelphia-76ers": {
+   "score": "119-95",
+   "detail": "İY 62-54",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Eksik Cleveland 24 farkla kazandı; LeBron 8 sayıda kaldı.",
+   "picks": [
+    {
+     "market": "Philadelphia 76ers kazanır (MS 2)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Philadelphia 76ers -2.5 handikap",
+     "risk": "orta",
+     "confidence": 51,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam 228.5 Üst",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Philadelphia 76ers -6.5 handikap (alternatif)",
+     "risk": "yüksek",
+     "confidence": 37,
+     "result": "tutmadı",
+     "prob": 0.38,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-memphis-grizzlies-oklahoma-city-thunder": {
+   "score": "97-128",
+   "detail": "İY 49-71",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Ajay Mitchell 35 sayı attı.",
+   "picks": [
+    {
+     "market": "Oklahoma City Thunder kazanır (MS 2)",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tuttu",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Oklahoma City Thunder -3.5 handikap",
+     "risk": "orta",
+     "confidence": 51,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Thunder 1. yarı -1.5",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tuttu",
+     "prob": 0.49,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-los-angeles-lakers-portland-trail-blaze": {
+   "score": "124-118",
+   "detail": "1. periyot 20-29",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Dončić 53 sayı attı.",
+   "picks": [
+    {
+     "market": "Toplam 231.5 Üst",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Los Angeles Lakers kazanır (MS 1)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.57,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Los Angeles Lakers -2.5 handikap",
+     "risk": "orta",
+     "confidence": 51,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Luka Dončić 34.5 sayı üstü",
+     "risk": "yüksek",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-glint-cayirova-belediyesi-pizzabulls-bo": {
+   "score": "95-78",
+   "detail": "İY 48-49, 3. periyot sonu 75-66",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Crawford 28 sayı attı.",
+   "picks": [
+    {
+     "market": "Çayırova DNB (beraberlikte iade)",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 170.5 Alt",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Çayırova -2.5",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Bandırma takım toplamı 82.5 Alt",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-turk-telekom-biotekno-korfez-basket": {
+   "score": "94-82",
+   "detail": "İY 40-36",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Davis eksik denmişti ama Jonathan Davis 21 sayıyla oynadı.",
+   "picks": [
+    {
+     "market": "Türk Telekom -10.5",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.56,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 160.5 Alt",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "İlk Yarı Türk Telekom -5.5",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Körfez takım toplamı 73.5 Alt",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-trabzonspor-aliaga-petkimspor": {
+   "score": "81-91",
+   "detail": "İY 36-40",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "",
+   "picks": [
+    {
+     "market": "Trabzonspor -3.5",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 168.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Trabzonspor -6.5",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Trabzonspor takım toplamı 85.5 Üst",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-bursaspor-basketbol-fenerbahce": {
+   "score": "59-78",
+   "detail": "İY 36-43",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Toplam 137 sayıda kaldı.",
+   "picks": [
+    {
+     "market": "Toplam Sayı 164.5 Üst",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı",
+     "prob": 0.57,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Fenerbahçe -8.5",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Fenerbahçe takım toplamı 85.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "İlk Yarı Fenerbahçe -4.5",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-fiatc-girona-surne-bilbao": {
+   "score": "92-87",
+   "detail": "İY 46-44",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Son 32 saniyeye eşit girildi; toplam 179'da kaldı.",
+   "picks": [
+    {
+     "market": "Toplam Sayı 181.5 Üst",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Girona MS1 (uzatmalar dahil)",
+     "risk": "orta",
+     "confidence": 49,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Girona -3.5",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.44,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-ilerna-lleida-baskonia": {
+   "score": "93-98",
+   "detail": "İY 37-49",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Simmons 25 sayı attı; Baskonia -4.5'i 5 farkla geçti.",
+   "picks": [
+    {
+     "market": "Baskonia MS2",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu",
+     "prob": 0.63,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Baskonia -4.5",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 188.5 Üst",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Baskonia takım toplamı 94.5 Üst",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-07-fmp-buducnost": {
+   "score": "73-76",
+   "detail": "İY 38-44, 3. periyot sonu 61-59",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Budućnost son bölümde geri dönüp 3 farkla kazandı; toplam 149.",
+   "picks": [
+    {
+     "market": "Budućnost -7.5",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 166.5 Üst",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "İlk Yarı Budućnost -3.5",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  }
+ },
+ "notes": [
+  "Nerede yanıldık: Gollü maç beklediğimiz Roma, Stuttgart, Torino ve Mainz'da 3.5/2.5 Üst ile KG Var hep tutmadı. Gol kısırlığına güvendiğimiz Forest-City ve Galatasaray-Amed ise gollü bitti.",
+  "İyi giden: Alt ve düşük skor önerileri (Eyüp, Leeds, Osasuna, Dortmund) ile NBA ve ACB favori handikapları (Celtics, Thunder, Lakers, Baskonia) iyi gitti.",
+  "Değerli işaretli 7 önerinin 4'ü tuttu (Eyüpspor 2.5 Alt, Leeds 2.5 Alt, Osasuna 2.5 Alt, Dortmund 3.5 Alt). GS-Amed 3.5 Alt, Forest-City 2.5 Alt ve Torino 2.5 Üst tutmadı.",
+  "Yarın için ders: Basketbolda maç toplamı önerilerinin yalnızca 10'da 3'ü tuttu. Ayrıca 'eksik' dediğimiz Körfez'in Davis'i 21 sayıyla oynadı, kadro haberleri maç saatine yakın yeniden kontrol edilmeli."
+ ]
+}
