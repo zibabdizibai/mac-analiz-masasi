@@ -234,7 +234,19 @@
      "value": false
     }
    ],
-   "pass": true
+   "pass": true,
+   "close": [
+    null,
+    null,
+    {
+     "median": 1.405,
+     "best": 1.41,
+     "bestBook": "Nordic Bet",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1794063794737
+    }
+   ]
   },
   "futbol-2026-11-07-nottingham-forest-manchester-city": {
    "sportKey": "soccer_epl",
@@ -558,5 +570,5 @@
    "pass": true
   }
  },
- "updatedAt": 1794061443014
+ "updatedAt": 1794063795864
 }
