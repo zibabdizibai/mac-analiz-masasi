@@ -1,0 +1,491 @@
+{
+ "day": "2026-11-07",
+ "matches": {
+  "futbol-2026-11-07-eyupspor-kocaelispor": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "a3dad1ddaa98a6ff741be7f63250f2ee",
+   "apiHome": "Eyüpspor",
+   "apiAway": "Kocaelispor",
+   "open": [
+    {
+     "median": 1.725,
+     "best": 1.84,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1794030510071,
+     "prob": 0.62,
+     "ev": 0.07,
+     "value": true
+    },
+    null,
+    {
+     "median": 1.91,
+     "best": 1.97,
+     "bestBook": "GTbets",
+     "pinnacle": 1.92,
+     "books": 21,
+     "at": 1794030510071,
+     "prob": 0.47,
+     "ev": -0.102,
+     "value": false
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-07-samsunspor-konyaspor": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "605767f0e7114a23442d92831c12c767",
+   "apiHome": "Samsunspor",
+   "apiAway": "Torku Konyaspor",
+   "open": [
+    {
+     "median": 1.552,
+     "best": 1.662,
+     "bestBook": "Betfair",
+     "pinnacle": 1.612,
+     "books": 21,
+     "at": 1794030510071,
+     "prob": 0.56,
+     "ev": -0.131,
+     "value": false
+    },
+    {
+     "median": 1.86,
+     "best": 1.94,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.93,
+     "books": 15,
+     "at": 1794030510071,
+     "prob": 0.52,
+     "ev": -0.033,
+     "value": false
+    },
+    {
+     "median": 2.042,
+     "best": 2.294,
+     "bestBook": "Betfair",
+     "pinnacle": 2.169,
+     "books": 21,
+     "at": 1794030510071,
+     "prob": 0.43,
+     "ev": -0.122,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-07-galatasaray-amed-sportif": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "e300554369b00b495db88afb743c95ab",
+   "apiHome": "Galatasaray",
+   "apiAway": "Amed SK",
+   "open": [
+    {
+     "median": 1.72,
+     "best": 1.78,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1794030510071,
+     "prob": 0.64,
+     "ev": 0.101,
+     "value": true
+    },
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-07-goztepe-basaksehir": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "c7ad58db2278db2259846b11c28ae1c2",
+   "apiHome": "Goztepe",
+   "apiAway": "Basaksehir",
+   "open": [
+    {
+     "median": 2.0,
+     "best": 2.12,
+     "bestBook": "Betfair",
+     "pinnacle": 2.11,
+     "books": 21,
+     "at": 1794030510071,
+     "prob": 0.48,
+     "ev": -0.04,
+     "value": false
+    },
+    {
+     "median": 1.625,
+     "best": 1.68,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 8,
+     "at": 1794030510071,
+     "prob": 0.53,
+     "ev": -0.139,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "basketbol-2026-11-07-glint-cayirova-belediyesi-pizzabulls-bo": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-11-07-turk-telekom-biotekno-korfez-basket": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-11-07-trabzonspor-aliaga-petkimspor": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-11-07-bursaspor-basketbol-fenerbahce": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "futbol-2026-11-07-leeds-united-tottenham": {
+   "sportKey": "soccer_epl",
+   "eventId": "5c87852253fd11eea5d34ad723356607",
+   "apiHome": "Leeds United",
+   "apiAway": "Tottenham Hotspur",
+   "open": [
+    {
+     "median": 1.86,
+     "best": 1.96,
+     "bestBook": "Matchbook",
+     "pinnacle": 1.86,
+     "books": 18,
+     "at": 1794030510071,
+     "prob": 0.6,
+     "ev": 0.116,
+     "value": true
+    },
+    null,
+    {
+     "median": 1.946,
+     "best": 2.074,
+     "bestBook": "Coolbet",
+     "pinnacle": 1.985,
+     "books": 25,
+     "at": 1794030510071,
+     "prob": 0.5,
+     "ev": -0.027,
+     "value": false
+    },
+    {
+     "median": 3.3,
+     "best": 3.57,
+     "bestBook": "1xBet",
+     "pinnacle": 3.32,
+     "books": 25,
+     "at": 1794030510071,
+     "prob": 0.3,
+     "ev": -0.01,
+     "value": false
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-07-arsenal-hull-city": {
+   "sportKey": "soccer_epl",
+   "eventId": "842fcc5b9feb8c63054a661ad1fc8926",
+   "apiHome": "Arsenal",
+   "apiAway": "Hull City",
+   "open": [
+    null,
+    null,
+    {
+     "median": 1.5,
+     "best": 1.51,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 7,
+     "at": 1794030510071,
+     "prob": 0.5,
+     "ev": -0.25,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-07-nottingham-forest-manchester-city": {
+   "sportKey": "soccer_epl",
+   "eventId": "59c5f635cfe11613c07e9a5520ced5c1",
+   "apiHome": "Nottingham Forest",
+   "apiAway": "Manchester City",
+   "open": [
+    null,
+    {
+     "median": 2.24,
+     "best": 2.34,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1794030510071,
+     "prob": 0.5,
+     "ev": 0.12,
+     "value": true
+    },
+    null,
+    {
+     "median": 2.162,
+     "best": 2.273,
+     "bestBook": "Betfair",
+     "pinnacle": 2.212,
+     "books": 25,
+     "at": 1794030510071,
+     "prob": 0.37,
+     "ev": -0.2,
+     "value": false
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-07-osasuna-athletic-bilbao": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "71ca5141a1c532e390c6fa14e080d8bd",
+   "apiHome": "CA Osasuna",
+   "apiAway": "Athletic Bilbao",
+   "open": [
+    {
+     "median": 1.745,
+     "best": 1.81,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 14,
+     "at": 1794030510071,
+     "prob": 0.64,
+     "ev": 0.117,
+     "value": true
+    },
+    null,
+    {
+     "median": 1.769,
+     "best": 1.897,
+     "bestBook": "Betfair",
+     "pinnacle": 1.829,
+     "books": 21,
+     "at": 1794030510071,
+     "prob": 0.52,
+     "ev": -0.08,
+     "value": false
+    },
+    {
+     "median": 3.4,
+     "best": 3.65,
+     "bestBook": "Betfair",
+     "pinnacle": 3.59,
+     "books": 21,
+     "at": 1794030510071,
+     "prob": 0.3,
+     "ev": 0.02,
+     "value": false
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-07-valencia-real-madrid": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "5b386dfdf6f76705116fbb4120ee8493",
+   "apiHome": "Valencia",
+   "apiAway": "Real Madrid",
+   "open": [
+    {
+     "median": 1.44,
+     "best": 1.44,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1794030510071,
+     "prob": 0.6,
+     "ev": -0.136,
+     "value": false
+    },
+    null,
+    null,
+    {
+     "median": 2.12,
+     "best": 2.22,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1794030510071,
+     "prob": 0.4,
+     "ev": -0.152,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-07-torino-lecce": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "0d53a5dbd9d4f4716e923b97e92dfb0d",
+   "apiHome": "Torino",
+   "apiAway": "Lecce",
+   "open": [
+    {
+     "median": 1.91,
+     "best": 2.01,
+     "bestBook": "1xBet",
+     "pinnacle": 1.93,
+     "books": 17,
+     "at": 1794030510071,
+     "prob": 0.56,
+     "ev": 0.07,
+     "value": true
+    },
+    {
+     "median": 1.815,
+     "best": 1.87,
+     "bestBook": "1xBet",
+     "pinnacle": 1.84,
+     "books": 24,
+     "at": 1794030510071,
+     "prob": 0.47,
+     "ev": -0.147,
+     "value": false
+    },
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-07-roma-sassuolo": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "f110107bca066ac1a598c89661c88fa3",
+   "apiHome": "AS Roma",
+   "apiAway": "Sassuolo",
+   "open": [
+    null,
+    {
+     "median": 1.93,
+     "best": 2.0,
+     "bestBook": "LeoVegas (SE)",
+     "pinnacle": 1.89,
+     "books": 14,
+     "at": 1794030510071,
+     "prob": 0.5,
+     "ev": -0.035,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-07-dortmund-elversberg": {
+   "sportKey": "soccer_germany_bundesliga",
+   "eventId": "3ef62ef56758041178c5280225fe5db7",
+   "apiHome": "Borussia Dortmund",
+   "apiAway": "Elversberg",
+   "open": [
+    {
+     "median": 1.91,
+     "best": 1.97,
+     "bestBook": "1xBet",
+     "pinnacle": 1.92,
+     "books": 13,
+     "at": 1794030510071,
+     "prob": 0.6,
+     "ev": 0.146,
+     "value": true
+    },
+    null,
+    null,
+    null
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-07-mainz-bayern-munih": {
+   "sportKey": "soccer_germany_bundesliga",
+   "eventId": "fe97f5adf397dd6b0a8a9e0a5272f307",
+   "apiHome": "FSV Mainz 05",
+   "apiAway": "Bayern Munich",
+   "open": [
+    {
+     "median": 1.67,
+     "best": 1.74,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 9,
+     "at": 1794030510071,
+     "prob": 0.55,
+     "ev": -0.082,
+     "value": false
+    },
+    null,
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-07-stuttgart-werder-bremen": {
+   "sportKey": "soccer_germany_bundesliga",
+   "eventId": "716d6e3f3e91c47a6efaa2e93d570533",
+   "apiHome": "VfB Stuttgart",
+   "apiAway": "Werder Bremen",
+   "open": [
+    {
+     "median": 1.86,
+     "best": 1.94,
+     "bestBook": "1xBet",
+     "pinnacle": 1.92,
+     "books": 13,
+     "at": 1794030510071,
+     "prob": 0.46,
+     "ev": -0.144,
+     "value": false
+    },
+    {
+     "median": 1.77,
+     "best": 1.88,
+     "bestBook": "Betfair",
+     "pinnacle": 1.85,
+     "books": 23,
+     "at": 1794030510071,
+     "prob": 0.48,
+     "ev": -0.15,
+     "value": false
+    },
+    {
+     "median": 2.017,
+     "best": 2.212,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 2.031,
+     "books": 23,
+     "at": 1794030510071,
+     "prob": 0.42,
+     "ev": -0.153,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-07-psg-troyes": {
+   "sportKey": "soccer_france_ligue_one",
+   "eventId": "f7b240389fa5ec055c58a48ab153dcdd",
+   "apiHome": "Paris Saint Germain",
+   "apiAway": "Troyes",
+   "open": [
+    null,
+    null,
+    {
+     "median": 1.805,
+     "best": 1.93,
+     "bestBook": "1xBet",
+     "pinnacle": 1.92,
+     "books": 12,
+     "at": 1794030510071,
+     "prob": 0.45,
+     "ev": -0.188,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  }
+ },
+ "updatedAt": 1794030510071
+}
