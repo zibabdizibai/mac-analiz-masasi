@@ -1,0 +1,1374 @@
+{
+ "day": "2026-11-08",
+ "updatedAt": 1794177257145,
+ "summary": {
+  "genel": {
+   "tuttu": 41,
+   "tutmadı": 37,
+   "iade": 4,
+   "belirsiz": 4
+  },
+  "risk": {
+   "orta": {
+    "tuttu": 27,
+    "tutmadı": 20,
+    "iade": 2,
+    "belirsiz": 1
+   },
+   "yüksek": {
+    "tuttu": 14,
+    "tutmadı": 17,
+    "iade": 2,
+    "belirsiz": 3
+   }
+  },
+  "spor": {
+   "futbol": {
+    "tuttu": 22,
+    "tutmadı": 24,
+    "iade": 4,
+    "belirsiz": 0
+   },
+   "basketbol": {
+    "tuttu": 19,
+    "tutmadı": 13,
+    "iade": 0,
+    "belirsiz": 4
+   }
+  },
+  "verdict": {
+   "tuttu": 20,
+   "toplam": 26
+  },
+  "roi": {
+   "tümü": {
+    "bets": 32,
+    "profit": -5.99,
+    "roi": -18.7
+   },
+   "değerli": {
+    "bets": 3,
+    "profit": -1.02,
+    "roi": -34.0
+   },
+   "orta": {
+    "bets": 17,
+    "profit": 1.21,
+    "roi": 7.1
+   },
+   "yüksek": {
+    "bets": 15,
+    "profit": -7.2,
+    "roi": -48.0
+   },
+   "düşük": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   },
+   "futbol": {
+    "bets": 32,
+    "profit": -5.99,
+    "roi": -18.7
+   },
+   "basketbol": {
+    "bets": 0,
+    "profit": 0.0,
+    "roi": null
+   }
+  },
+  "clv": {
+   "n": 0,
+   "avg": null,
+   "beatPct": null
+  },
+  "calib": {
+   "n": 78,
+   "avgProb": 50,
+   "hitRate": 53
+  }
+ },
+ "matches": {
+  "futbol-2026-11-08-caykur-rizespor-erzurumspor-fk": {
+   "score": "2-1",
+   "detail": "İY 1-1",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Evinde 4 maçtır puan alamayan Rize ilk iç saha galibiyetini aldı.",
+   "picks": [
+    {
+     "market": "Çifte Şans X2 (Erzurumspor FK veya beraberlik)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "MS X (Beraberlik)",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tutmadı",
+     "prob": 0.29,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-08-corum-fk-fenerbahce": {
+   "score": "0-5",
+   "detail": "İY 0-2",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Emre Belözoğlu'nun ilk maçı; Greenwood ve İrfan Can ikişer gol attı.",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.57,
+     "odds": 1.54,
+     "close": null,
+     "ev": -0.122,
+     "value": false,
+     "profit": 0.54
+    },
+    {
+     "market": "MS 2 (Fenerbahçe)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": 1.68,
+     "close": null,
+     "ev": -0.126,
+     "value": false,
+     "profit": 0.68
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.37,
+     "odds": 2.3,
+     "close": null,
+     "ev": -0.149,
+     "value": false,
+     "profit": 1.3
+    }
+   ]
+  },
+  "futbol-2026-11-08-alanyaspor-trabzonspor": {
+   "score": "0-2",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Trabzon kazandı ama maç 2 golde kaldı; Üst seçenekleri yattı.",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": 1.67,
+     "close": null,
+     "ev": -0.082,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "MS 2 (Trabzonspor)",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": 1.62,
+     "close": null,
+     "ev": -0.158,
+     "value": false,
+     "profit": 0.62
+    },
+    {
+     "market": "Trabzonspor 1.5 Üst (takım golü)",
+     "risk": "orta",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 34,
+     "result": "tutmadı",
+     "prob": 0.3,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-08-besiktas-genclerbirligi": {
+   "score": "3-0",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Vlahovic 2, Poku 1 gol.",
+   "picks": [
+    {
+     "market": "KG Yok",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Handikap Beşiktaş -1.5",
+     "risk": "orta",
+     "confidence": 47,
+     "result": "tuttu",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 37,
+     "result": "tutmadı",
+     "prob": 0.36,
+     "odds": 1.88,
+     "close": null,
+     "ev": -0.323,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-08-crystal-palace-liverpool": {
+   "score": "1-3",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 58,
+     "result": "tuttu",
+     "prob": 0.58,
+     "odds": 1.48,
+     "close": null,
+     "ev": -0.142,
+     "value": false,
+     "profit": 0.48
+    },
+    {
+     "market": "Liverpool kazanır (MS 2)",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": 1.56,
+     "close": null,
+     "ev": -0.189,
+     "value": false,
+     "profit": 0.56
+    },
+    {
+     "market": "Liverpool takım toplamı 1.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Liverpool -1.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tuttu",
+     "prob": 0.33,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-08-brighton-brentford": {
+   "score": "2-0",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı",
+     "prob": 0.57,
+     "odds": 1.57,
+     "close": null,
+     "ev": -0.105,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Brighton kazanır (MS 1)",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 1.91,
+     "close": null,
+     "ev": -0.045,
+     "value": false,
+     "profit": 0.91
+    },
+    {
+     "market": "KG Yok",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "futbol-2026-11-08-manchester-united-aston-villa": {
+   "score": "4-4",
+   "detail": "İY 2-2",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Villa iki kez iki farklı öne geçti; United uzatma dakikalarında 4-4'ü buldu.",
+   "picks": [
+    {
+     "market": "Aston Villa kaybetmez (X2)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.56,
+     "odds": 1.704,
+     "close": null,
+     "ev": -0.046,
+     "value": false,
+     "profit": 0.704
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.56,
+     "odds": 1.55,
+     "close": null,
+     "ev": -0.132,
+     "value": false,
+     "profit": 0.55
+    },
+    {
+     "market": "Aston Villa DNB",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "iade",
+     "prob": 0.42,
+     "odds": 2.301,
+     "close": null,
+     "ev": -0.034,
+     "value": false,
+     "profit": 0.0
+    }
+   ]
+  },
+  "futbol-2026-11-08-napoli-lazio": {
+   "score": "1-1",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Napoli'nin golü Pedraza'nın kendi kalesine attığı gol.",
+   "picks": [
+    {
+     "market": "Lazio beraberlikte iade (DNB 2)",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "iade",
+     "prob": 0.57,
+     "odds": 2.048,
+     "close": null,
+     "ev": 0.167,
+     "value": true,
+     "profit": 0.0
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": 1.615,
+     "close": null,
+     "ev": -0.16,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "MS 2 (Lazio kazanır)",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": 2.865,
+     "close": null,
+     "ev": 0.203,
+     "value": true,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-08-inter-como": {
+   "score": "2-0",
+   "detail": "İY 2-0",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "İki gol ilk 20 dakikada geldi, sonrasında gol çıkmadı.",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tutmadı",
+     "prob": 0.62,
+     "odds": 1.46,
+     "close": null,
+     "ev": -0.095,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tutmadı",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.42,
+     "odds": 2.195,
+     "close": null,
+     "ev": -0.078,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Çifte şans X2",
+     "risk": "yüksek",
+     "confidence": 40,
+     "result": "tutmadı",
+     "prob": 0.44,
+     "odds": 1.827,
+     "close": null,
+     "ev": -0.196,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-08-fiorentina-juventus": {
+   "score": "2-2",
+   "detail": "İY 1-1",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Juventus beraberlikte iade (DNB 2)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "iade",
+     "prob": 0.61,
+     "odds": 1.495,
+     "close": null,
+     "ev": -0.088,
+     "value": false,
+     "profit": 0.0
+    },
+    {
+     "market": "2.5 Alt",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": 2.0,
+     "close": null,
+     "ev": 0.0,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "MS 2 (Juventus kazanır)",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tutmadı",
+     "prob": 0.45,
+     "odds": 2.1,
+     "close": null,
+     "ev": -0.055,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-08-atletico-madrid-barcelona": {
+   "score": "1-2",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Atlético öne geçti, Fermín López'in iki golüyle Barça geri döndü.",
+   "picks": [
+    {
+     "market": "3.5 Alt",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": 1.98,
+     "close": null,
+     "ev": 0.089,
+     "value": true,
+     "profit": 0.98
+    },
+    {
+     "market": "Atlético kaybetmez (1X)",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tutmadı",
+     "prob": 0.48,
+     "odds": 1.776,
+     "close": null,
+     "ev": -0.148,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Beraberlik (MS X)",
+     "risk": "yüksek",
+     "confidence": 35,
+     "result": "tutmadı",
+     "prob": 0.26,
+     "odds": 4.2,
+     "close": null,
+     "ev": 0.092,
+     "value": true,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-08-real-sociedad-rayo-vallecano": {
+   "score": "1-0",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Tek gol Óskarsson'dan; Remiro Rayo'nun pozisyonlarını kurtardı.",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 60,
+     "result": "tutmadı",
+     "prob": 0.62,
+     "odds": 1.57,
+     "close": null,
+     "ev": -0.027,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "Rayo kaybetmez (X2)",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.47,
+     "odds": 2.049,
+     "close": null,
+     "ev": -0.037,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 38,
+     "result": "tutmadı",
+     "prob": 0.37,
+     "odds": 2.35,
+     "close": null,
+     "ev": -0.13,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-08-koln-bayer-leverkusen": {
+   "score": "1-2",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "KG Var",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.6,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "MS 2 (Leverkusen kazanır)",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.47,
+     "odds": 1.8,
+     "close": null,
+     "ev": -0.154,
+     "value": false,
+     "profit": 0.8
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 43,
+     "result": "tutmadı",
+     "prob": 0.45,
+     "odds": 2.11,
+     "close": null,
+     "ev": -0.05,
+     "value": false,
+     "profit": -1.0
+    }
+   ]
+  },
+  "futbol-2026-11-08-rennes-lille": {
+   "score": "1-2",
+   "detail": "İY 1-1",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "",
+   "picks": [
+    {
+     "market": "Rennes beraberlikte iade (DNB 1)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.6,
+     "odds": 1.588,
+     "close": null,
+     "ev": -0.047,
+     "value": false,
+     "profit": -1.0
+    },
+    {
+     "market": "KG Yok",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tutmadı",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "2.5 Üst",
+     "risk": "yüksek",
+     "confidence": 44,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": 1.66,
+     "close": null,
+     "ev": -0.17,
+     "value": false,
+     "profit": 0.66
+    }
+   ]
+  },
+  "futbol-2026-11-08-twente-ajax": {
+   "score": "2-2",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "2.5 Üst",
+     "risk": "orta",
+     "confidence": 62,
+     "result": "tuttu",
+     "prob": 0.64,
+     "odds": 1.43,
+     "close": null,
+     "ev": -0.085,
+     "value": false,
+     "profit": 0.43
+    },
+    {
+     "market": "Ajax kaybetmez (X2)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.57,
+     "odds": 1.758,
+     "close": null,
+     "ev": 0.002,
+     "value": false,
+     "profit": 0.758
+    },
+    {
+     "market": "3.5 Üst",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.43,
+     "odds": 2.035,
+     "close": null,
+     "ev": -0.125,
+     "value": false,
+     "profit": 1.035
+    },
+    {
+     "market": "Ajax DNB",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "iade",
+     "prob": 0.42,
+     "odds": 2.393,
+     "close": null,
+     "ev": 0.005,
+     "value": false,
+     "profit": 0.0
+    }
+   ]
+  },
+  "basketbol-2026-11-08-anadolu-efes-tofas": {
+   "score": "87-93",
+   "detail": "İY 38-46; periyotlar 21-21, 17-25, 31-21, 18-26",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "TOFAŞ son periyodu 26-18 alarak deplasmanda kazandı.",
+   "picks": [
+    {
+     "market": "Toplam Sayı 169.5 Alt",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tutmadı",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Anadolu Efes -10.5 Handikap",
+     "risk": "orta",
+     "confidence": 51,
+     "result": "tutmadı",
+     "prob": 0.51,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Anadolu Efes İlk Yarı -5.5",
+     "risk": "yüksek",
+     "confidence": 46,
+     "result": "tutmadı",
+     "prob": 0.47,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-bahcesehir-koleji-yukatel-denizli-baske": {
+   "score": "97-86",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Bahçeşehir 11 farkla kazandı; -13.5'e 3 sayı eksik kaldı.",
+   "picks": [
+    {
+     "market": "Bahçeşehir Koleji -13.5 Handikap",
+     "risk": "orta",
+     "confidence": 54,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 173.5 Alt",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tutmadı",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Bahçeşehir Koleji Takım Toplamı 89.5 Üst",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tuttu",
+     "prob": 0.49,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-barcelona-rio-breogan": {
+   "score": "99-91",
+   "detail": "İY 39-40; periyotlar 23-20, 16-20, 30-30, 30-21",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Barça'da Punter ve Evbuomwan sakatlanarak oyundan çıktı.",
+   "picks": [
+    {
+     "market": "187.5 Üst",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Breogán takım toplamı 88.5 Üst",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "tuttu",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Breogán +10.5 (Handikap)",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "tuttu",
+     "prob": 0.49,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-bertram-derthona-tortona-nutribullet-tr": {
+   "score": "87-76",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": false,
+   "note": "Tortona 5 maçlık yenilgi serisini bitirdi; toplam 163'te kaldı.",
+   "picks": [
+    {
+     "market": "Toplam Sayı 175.5 Üst",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tutmadı",
+     "prob": 0.58,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Nutribullet Treviso +1.5 Handikap",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tutmadı",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Treviso Takım Toplamı 87.5 Üst",
+     "risk": "yüksek",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-cleveland-cavaliers-new-york-knicks": {
+   "score": "97-109",
+   "detail": "İY 53-63; periyotlar 27-26, 26-37, 17-25, 27-21",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "",
+   "picks": [
+    {
+     "market": "Knicks -4.5 (Handikap)",
+     "risk": "orta",
+     "confidence": 57,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Knicks ilk yarı -2.5",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Knicks -7.5 (Alternatif handikap)",
+     "risk": "yüksek",
+     "confidence": 42,
+     "result": "tuttu",
+     "prob": 0.41,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-galatasaray-mct-technic-esenler-erokspo": {
+   "score": "90-81",
+   "detail": "1. periyot 24-13; 3. periyot sonu 59-59",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Son periyoda eşitlikle girildi, Galatasaray son çeyrekte 31-22 üstün oynadı.",
+   "picks": [
+    {
+     "market": "Galatasaray -5.5 Handikap",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.55,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 166.5 Üst",
+     "risk": "yüksek",
+     "confidence": 49,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Galatasaray -9.5 Handikap",
+     "risk": "yüksek",
+     "confidence": 43,
+     "result": "tutmadı",
+     "prob": 0.43,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-indiana-pacers-denver-nuggets": {
+   "score": "102-114",
+   "detail": "İY 41-64; periyotlar 19-27, 22-37, 37-26, 24-24",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Maç Mexico City'de oynandı.",
+   "picks": [
+    {
+     "market": "Nuggets -7.5 (Handikap)",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Nuggets takım toplamı 117.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Nuggets -10.5 (Alternatif handikap)",
+     "risk": "yüksek",
+     "confidence": 43,
+     "result": "tuttu",
+     "prob": 0.42,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-olimpia-milano-dolomiti-energia-trento": {
+   "score": "88-86",
+   "detail": "İlk yarı skoru bulunamadı",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Son dakikaya eşitlikle girildi; Milano son saniyelerde kazandı.",
+   "picks": [
+    {
+     "market": "Olimpia Milano -9.5 Handikap",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tutmadı",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 168.5 Alt",
+     "risk": "orta",
+     "confidence": 49,
+     "result": "tutmadı",
+     "prob": 0.51,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Olimpia Milano İlk Yarı -4.5",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "belirsiz",
+     "prob": 0.46,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-partizan-sc-derby": {
+   "score": "",
+   "detail": "Sonuç doğrulanamadı",
+   "status": "belirsiz",
+   "verdictHit": false,
+   "note": "Güvenilir kaynakta skor bulunamadı.",
+   "picks": [
+    {
+     "market": "Partizan -19.5 Handikap",
+     "risk": "orta",
+     "confidence": 52,
+     "result": "belirsiz",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Toplam Sayı 164.5 Üst",
+     "risk": "yüksek",
+     "confidence": 48,
+     "result": "belirsiz",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Partizan Takım Toplamı 89.5 Üst",
+     "risk": "yüksek",
+     "confidence": 49,
+     "result": "belirsiz",
+     "prob": 0.51,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-portland-trail-blazers-san-antonio-spur": {
+   "score": "103-125",
+   "detail": "",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Wembanyama 29 sayı.",
+   "picks": [
+    {
+     "market": "Spurs -5.5 (Handikap)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Spurs takım toplamı 116.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "226.5 Üst",
+     "risk": "yüksek",
+     "confidence": 47,
+     "result": "tuttu",
+     "prob": 0.48,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-real-madrid-ucam-murcia": {
+   "score": "90-71",
+   "detail": "İY 47-39",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Madrid maçı sondaki 20-0'lık seriyle kopardı; toplam 161'de kaldı.",
+   "picks": [
+    {
+     "market": "Real Madrid -11.5 (Handikap)",
+     "risk": "orta",
+     "confidence": 56,
+     "result": "tuttu",
+     "prob": 0.54,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "185.5 Üst",
+     "risk": "orta",
+     "confidence": 53,
+     "result": "tutmadı",
+     "prob": 0.52,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Real Madrid ilk yarı -6.5",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.45,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  },
+  "basketbol-2026-11-08-san-pablo-burgos-valencia-basket": {
+   "score": "93-100",
+   "detail": "İY 52-41; periyotlar 27-22, 25-19, 20-30, 21-29",
+   "status": "bitti",
+   "verdictHit": true,
+   "note": "Valencia ilk yarıdaki 11 sayılık farkı ikinci yarıda kapattı.",
+   "picks": [
+    {
+     "market": "Valencia -6.5 (Handikap)",
+     "risk": "orta",
+     "confidence": 55,
+     "result": "tuttu",
+     "prob": 0.53,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "Valencia takım toplamı 92.5 Üst",
+     "risk": "orta",
+     "confidence": 50,
+     "result": "tuttu",
+     "prob": 0.5,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    },
+    {
+     "market": "183.5 Üst",
+     "risk": "yüksek",
+     "confidence": 45,
+     "result": "tuttu",
+     "prob": 0.46,
+     "odds": null,
+     "close": null,
+     "ev": null,
+     "value": false,
+     "profit": null
+    }
+   ]
+  }
+ },
+ "notes": [
+  "Nerede yanıldık: Alt/üst çizgileri iki yönde de kaçtı; Inter-Como, Sociedad-Rayo ve Tortona-Treviso'da beklenen gollü/sayılı maç gelmedi, Rize ve Efes-TOFAŞ'ta ise Alt beklentisi patladı. Rize-Erzurum ile Efes-TOFAŞ'ta favoriye karşı/lehine okumalar tamamen ters döndü.",
+  "İyi giden: Fenerbahçe, Liverpool, Knicks, Spurs ve Valencia maçlarında tüm öneriler tuttu; NBA'de deplasman favorisi handikapları (5/5) ve maç sonucu yönü genel olarak isabetliydi.",
+  "Değerli işaretli öneriler: Atlético-Barça 3.5 Alt tuttu, MS X tutmadı; Napoli-Lazio'da Lazio DNB iade oldu, MS 2 tutmadı.",
+  "Yarın için ders: Yorgun/kriz dönemindeki büyük favorilerde (Efes, Bahçeşehir, Milano) büyük handikap yerine maç sonucu veya daha düşük çizgi tercih edilmeli."
+ ]
+}
