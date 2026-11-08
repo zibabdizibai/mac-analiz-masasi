@@ -1,0 +1,554 @@
+{
+ "day": "2026-11-08",
+ "matches": {
+  "futbol-2026-11-08-caykur-rizespor-erzurumspor-fk": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "futbol-2026-11-08-corum-fk-fenerbahce": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "6692a3ca274d09ffbfabd943320d62f5",
+   "apiHome": "Çorum FK",
+   "apiAway": "Fenerbahce",
+   "open": [
+    {
+     "median": 1.54,
+     "best": 1.66,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 11,
+     "at": 1794116921887,
+     "prob": 0.57,
+     "ev": -0.122,
+     "value": false
+    },
+    {
+     "median": 1.68,
+     "best": 1.77,
+     "bestBook": "Betfair",
+     "pinnacle": 1.75,
+     "books": 21,
+     "at": 1794116921887,
+     "prob": 0.52,
+     "ev": -0.126,
+     "value": false
+    },
+    {
+     "median": 2.3,
+     "best": 2.3,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 1,
+     "at": 1794116921887,
+     "prob": 0.37,
+     "ev": -0.149,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-08-alanyaspor-trabzonspor": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "a85eafd97e49ac329956fa1022be891d",
+   "apiHome": "Alanyaspor",
+   "apiAway": "Trabzonspor",
+   "open": [
+    {
+     "median": 1.67,
+     "best": 1.75,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 13,
+     "at": 1794116921887,
+     "prob": 0.55,
+     "ev": -0.082,
+     "value": false
+    },
+    {
+     "median": 1.62,
+     "best": 1.68,
+     "bestBook": "1xBet",
+     "pinnacle": 1.62,
+     "books": 21,
+     "at": 1794116921887,
+     "prob": 0.52,
+     "ev": -0.158,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-08-besiktas-genclerbirligi": {
+   "sportKey": "soccer_turkey_super_league",
+   "eventId": "1fa78d1150755a8ec1d24cc1e19eeb0a",
+   "apiHome": "Besiktas JK",
+   "apiAway": "Genclerbirligi SK",
+   "open": [
+    null,
+    null,
+    {
+     "median": 1.88,
+     "best": 1.9,
+     "bestBook": "1xBet",
+     "pinnacle": 1.85,
+     "books": 13,
+     "at": 1794116921887,
+     "prob": 0.36,
+     "ev": -0.323,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "basketbol-2026-11-08-bahcesehir-koleji-yukatel-denizli-baske": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-11-08-anadolu-efes-tofas": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "basketbol-2026-11-08-galatasaray-mct-technic-esenler-erokspo": {
+   "sportKey": "soccer_turkey_super_league",
+   "note": "Oran sağlayıcısında maç bulunamadı"
+  },
+  "futbol-2026-11-08-crystal-palace-liverpool": {
+   "sportKey": "soccer_epl",
+   "eventId": "0cfbab01e152f81e34f9014e02c7eb79",
+   "apiHome": "Crystal Palace",
+   "apiAway": "Liverpool",
+   "open": [
+    {
+     "median": 1.48,
+     "best": 1.49,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1794116921887,
+     "prob": 0.58,
+     "ev": -0.142,
+     "value": false
+    },
+    {
+     "median": 1.56,
+     "best": 1.61,
+     "bestBook": "1xBet",
+     "pinnacle": 1.58,
+     "books": 25,
+     "at": 1794116921887,
+     "prob": 0.52,
+     "ev": -0.189,
+     "value": false
+    },
+    null,
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-08-brighton-brentford": {
+   "sportKey": "soccer_epl",
+   "eventId": "8e3ca98e29be84dd4a882ed05f50fa79",
+   "apiHome": "Brighton and Hove Albion",
+   "apiAway": "Brentford",
+   "open": [
+    {
+     "median": 1.57,
+     "best": 1.59,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 7,
+     "at": 1794116921887,
+     "prob": 0.57,
+     "ev": -0.105,
+     "value": false
+    },
+    {
+     "median": 1.91,
+     "best": 1.98,
+     "bestBook": "1xBet",
+     "pinnacle": 1.95,
+     "books": 25,
+     "at": 1794116921887,
+     "prob": 0.5,
+     "ev": -0.045,
+     "value": false
+    },
+    null
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-08-manchester-united-aston-villa": {
+   "sportKey": "soccer_epl",
+   "eventId": "b0a4b5448a7e02d9ad1eaa817599fff0",
+   "apiHome": "Manchester United",
+   "apiAway": "Aston Villa",
+   "open": [
+    {
+     "median": 1.704,
+     "best": 1.787,
+     "bestBook": "Betfair",
+     "pinnacle": 1.736,
+     "books": 25,
+     "at": 1794116921887,
+     "prob": 0.56,
+     "ev": -0.046,
+     "value": false
+    },
+    {
+     "median": 1.55,
+     "best": 1.56,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": null,
+     "books": 7,
+     "at": 1794116921887,
+     "prob": 0.56,
+     "ev": -0.132,
+     "value": false
+    },
+    {
+     "median": 2.301,
+     "best": 2.454,
+     "bestBook": "Betfair",
+     "pinnacle": 2.344,
+     "books": 25,
+     "at": 1794116921887,
+     "prob": 0.42,
+     "ev": -0.034,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-08-real-sociedad-rayo-vallecano": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "339a6465fa5153fd8f31e487cf557cf0",
+   "apiHome": "Real Sociedad",
+   "apiAway": "Rayo Vallecano",
+   "open": [
+    {
+     "median": 1.57,
+     "best": 1.64,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 9,
+     "at": 1794116921887,
+     "prob": 0.62,
+     "ev": -0.027,
+     "value": false
+    },
+    {
+     "median": 2.049,
+     "best": 2.243,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 2.095,
+     "books": 21,
+     "at": 1794116921887,
+     "prob": 0.47,
+     "ev": -0.037,
+     "value": false
+    },
+    {
+     "median": 2.35,
+     "best": 2.45,
+     "bestBook": "Tipico",
+     "pinnacle": null,
+     "books": 2,
+     "at": 1794116921887,
+     "prob": 0.37,
+     "ev": -0.13,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-08-atletico-madrid-barcelona": {
+   "sportKey": "soccer_spain_la_liga",
+   "eventId": "dd247b356d8fc53e4b4f9bfcfe09c924",
+   "apiHome": "Atlético Madrid",
+   "apiAway": "Barcelona",
+   "open": [
+    {
+     "median": 1.98,
+     "best": 2.06,
+     "bestBook": "1xBet",
+     "pinnacle": 2.03,
+     "books": 12,
+     "at": 1794116921887,
+     "prob": 0.55,
+     "ev": 0.089,
+     "value": true
+    },
+    {
+     "median": 1.776,
+     "best": 1.894,
+     "bestBook": "1xBet",
+     "pinnacle": 1.827,
+     "books": 20,
+     "at": 1794116921887,
+     "prob": 0.48,
+     "ev": -0.148,
+     "value": false
+    },
+    {
+     "median": 4.2,
+     "best": 4.4,
+     "bestBook": "Betfair",
+     "pinnacle": 4.31,
+     "books": 20,
+     "at": 1794116921887,
+     "prob": 0.26,
+     "ev": 0.092,
+     "value": true
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-08-napoli-lazio": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "23bf8ea47358ef82f65aa7398a2b3921",
+   "apiHome": "Napoli",
+   "apiAway": "Lazio",
+   "open": [
+    {
+     "median": 2.048,
+     "best": 2.237,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 2.117,
+     "books": 24,
+     "at": 1794116921887,
+     "prob": 0.57,
+     "ev": 0.167,
+     "value": true
+    },
+    {
+     "median": 1.615,
+     "best": 1.67,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1794116921887,
+     "prob": 0.52,
+     "ev": -0.16,
+     "value": false
+    },
+    {
+     "median": 2.865,
+     "best": 3.05,
+     "bestBook": "Unibet (SE)",
+     "pinnacle": 2.89,
+     "books": 24,
+     "at": 1794116921887,
+     "prob": 0.42,
+     "ev": 0.203,
+     "value": true
+    }
+   ],
+   "pass": false
+  },
+  "futbol-2026-11-08-inter-como": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "657fd1ac35832f65fcc6feba93970e10",
+   "apiHome": "Inter Milan",
+   "apiAway": "Como",
+   "open": [
+    {
+     "median": 1.46,
+     "best": 1.47,
+     "bestBook": "Betsson",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1794116921887,
+     "prob": 0.62,
+     "ev": -0.095,
+     "value": false
+    },
+    null,
+    {
+     "median": 2.195,
+     "best": 2.3,
+     "bestBook": "LeoVegas (SE)",
+     "pinnacle": null,
+     "books": 10,
+     "at": 1794116921887,
+     "prob": 0.42,
+     "ev": -0.078,
+     "value": false
+    },
+    {
+     "median": 1.827,
+     "best": 1.978,
+     "bestBook": "1xBet",
+     "pinnacle": 1.882,
+     "books": 24,
+     "at": 1794116921887,
+     "prob": 0.44,
+     "ev": -0.196,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-08-fiorentina-juventus": {
+   "sportKey": "soccer_italy_serie_a",
+   "eventId": "7f50eb7deaebfbcd45c3f4e7cd3724e4",
+   "apiHome": "Fiorentina",
+   "apiAway": "Juventus",
+   "open": [
+    {
+     "median": 1.495,
+     "best": 1.632,
+     "bestBook": "Betfair",
+     "pinnacle": 1.555,
+     "books": 24,
+     "at": 1794116921887,
+     "prob": 0.61,
+     "ev": -0.088,
+     "value": false
+    },
+    {
+     "median": 2.0,
+     "best": 2.12,
+     "bestBook": "Coolbet",
+     "pinnacle": null,
+     "books": 16,
+     "at": 1794116921887,
+     "prob": 0.5,
+     "ev": 0.0,
+     "value": false
+    },
+    {
+     "median": 2.1,
+     "best": 2.26,
+     "bestBook": "Betfair",
+     "pinnacle": 2.17,
+     "books": 24,
+     "at": 1794116921887,
+     "prob": 0.45,
+     "ev": -0.055,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-08-koln-bayer-leverkusen": {
+   "sportKey": "soccer_germany_bundesliga",
+   "eventId": "c70f9f21f48464daa93973147502e183",
+   "apiHome": "1. FC Köln",
+   "apiAway": "Bayer Leverkusen",
+   "open": [
+    null,
+    {
+     "median": 1.8,
+     "best": 1.88,
+     "bestBook": "1xBet",
+     "pinnacle": 1.85,
+     "books": 23,
+     "at": 1794116921887,
+     "prob": 0.47,
+     "ev": -0.154,
+     "value": false
+    },
+    {
+     "median": 2.11,
+     "best": 2.22,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 12,
+     "at": 1794116921887,
+     "prob": 0.45,
+     "ev": -0.05,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-08-rennes-lille": {
+   "sportKey": "soccer_france_ligue_one",
+   "eventId": "4288fbe018e6e6fb223e389bcf3e57dd",
+   "apiHome": "Rennes",
+   "apiAway": "Lille",
+   "open": [
+    {
+     "median": 1.588,
+     "best": 1.708,
+     "bestBook": "Betfair",
+     "pinnacle": 1.638,
+     "books": 21,
+     "at": 1794116921887,
+     "prob": 0.6,
+     "ev": -0.047,
+     "value": false
+    },
+    null,
+    {
+     "median": 1.66,
+     "best": 1.75,
+     "bestBook": "1xBet",
+     "pinnacle": null,
+     "books": 13,
+     "at": 1794116921887,
+     "prob": 0.5,
+     "ev": -0.17,
+     "value": false
+    }
+   ],
+   "pass": true
+  },
+  "futbol-2026-11-08-twente-ajax": {
+   "sportKey": "soccer_netherlands_eredivisie",
+   "eventId": "b71f32fbba046e08d4cc26e2a8e1d5a6",
+   "apiHome": "FC Twente Enschede",
+   "apiAway": "Ajax",
+   "open": [
+    {
+     "median": 1.43,
+     "best": 1.44,
+     "bestBook": "William Hill",
+     "pinnacle": null,
+     "books": 3,
+     "at": 1794116921887,
+     "prob": 0.64,
+     "ev": -0.085,
+     "value": false
+    },
+    {
+     "median": 1.758,
+     "best": 1.874,
+     "bestBook": "Betfair",
+     "pinnacle": 1.874,
+     "books": 22,
+     "at": 1794116921887,
+     "prob": 0.57,
+     "ev": 0.002,
+     "value": false
+    },
+    {
+     "median": 2.035,
+     "best": 2.2,
+     "bestBook": "Matchbook",
+     "pinnacle": null,
+     "books": 10,
+     "at": 1794116921887,
+     "prob": 0.43,
+     "ev": -0.125,
+     "value": false
+    },
+    {
+     "median": 2.393,
+     "best": 2.609,
+     "bestBook": "Betfair",
+     "pinnacle": 2.599,
+     "books": 22,
+     "at": 1794116921887,
+     "prob": 0.42,
+     "ev": 0.005,
+     "value": false
+    }
+   ],
+   "pass": true
+  }
+ },
+ "updatedAt": 1794116921887
+}
