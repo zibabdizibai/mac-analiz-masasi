@@ -1,0 +1,1454 @@
+{
+ "day": "2026-11-09",
+ "updatedAt": 1794203334497,
+ "analyses": {
+  "basketbol-2026-11-09-crvena-zvezda-slovan-bratislava": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "hayır",
+      "prediction": "Slovan +20.5 (1.78)",
+      "site": "Basketball Sphere",
+      "url": "https://basketballsphere.com/en/crvena-zvezda-vs-slovan-prediction-odds-aba-league-november-9-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Zvezda net favori",
+      "site": "data4basket",
+      "url": "https://data4basket.com/en/crvena-zvezda-slovan-bratislava-aba-preview"
+     }
+    ],
+    "consensus": "Zvezda'nın kazanması bekleniyor; geniş handikapta görüşler ayrılıyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Zvezda ABA'da 93.6 sayı atıp 84.2 yiyor (+9.4); evinde son 6 maçı kazandı."
+     },
+     {
+      "side": "away",
+      "text": "Slovan tüm kulvarlarda 5 maçlık galibiyet serisinde; 82.6 atıp 83.2 yiyor."
+     },
+     {
+      "side": "home",
+      "text": "Zvezda'nın net rating'i +13.5, Slovan'ınki -2.4 (data4basket)."
+     },
+     {
+      "side": "home",
+      "text": "Zvezda Perşembe Real Madrid deplasmanına gidecek; rotasyon riski."
+     },
+     {
+      "side": "neutral",
+      "text": "İki takım ilk kez karşılaşıyor."
+     }
+    ],
+    "news": [
+     {
+      "impact": "düşük",
+      "text": "Zvezda'da Stefan Miljenović sakat.",
+      "url": "https://basketballsphere.com/en/crvena-zvezda-vs-slovan-prediction-odds-aba-league-november-9-2026"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 171.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 54,
+      "market": "Toplam Sayı 171.5 Üst",
+      "prob": 0.54,
+      "reason": "Zvezda maçlarında ortalama toplam 177.8, Slovan maçlarında 165.8; Zvezda ABA'da hücum temposunu yüksek tutuyor (77.8 pozisyon).",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -20.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 47,
+      "market": "Crvena Zvezda -20.5 Handikap",
+      "prob": 0.48,
+      "reason": "Zvezda'nın net rating farkı 16 puan/100 pozisyon; Bayern'i 30, Maccabi'yi 22 farkla geçti. Ancak Slovan formda olduğu için risk yüksek.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 47,
+      "market": "Crvena Zvezda 1. Yarı -10.5",
+      "prob": 0.48,
+      "reason": "Zvezda iç sahada ilk yarıları genelde dominasyonla kapatıyor; Real Madrid öncesi farkı erken açmak isteyecek.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Zvezda'nın Real Madrid maçı öncesi yıldızlarını dinlendirmesi.",
+     "Slovan'ın formuyla farkı 20'nin altında tutması."
+    ],
+    "sources": [
+     {
+      "title": "Basketball Sphere",
+      "url": "https://basketballsphere.com/en/crvena-zvezda-vs-slovan-prediction-odds-aba-league-november-9-2026"
+     },
+     {
+      "title": "ABA Liga",
+      "url": "https://www.aba-liga.com/match/61/26/1/Overview/q1/1/home/crvena-zvezda-meridianbet-slovan-bratislava"
+     },
+     {
+      "title": "365Scores",
+      "url": "https://www.365scores.com/en-us/basketball/match/aba-league-548/crvena-zvezda-inter-bratislava-5528-8656-548"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Zvezda ABA'da 4-1, maç başı 93.6 atıp 84.2 yiyor ve son EuroLeague maçında Olympiacos'u deplasmanda 62-57 yendi; Perşembe Real Madrid deplasmanı var. Slovan 3-2 ve tüm kulvarlarda 5 maçlık galibiyet serisinde. Piyasa Zvezda'yı -20.5 favori görüyor; Basketball Sphere Slovan +20.5 öneriyor. Zvezda'da Stefan Miljenović yok.",
+    "verdict": "Evinde 6/6 yapan Zvezda net favori; handikap geniş ama yüksek skorlu bir maç daha güvenli görünüyor."
+   },
+   "createdAt": 1794172640884
+  },
+  "basketbol-2026-11-09-dallas-mavericks-brooklyn-nets": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Dallas -9.5, Üst 220.5",
+      "site": "iHeart/Data Skrive",
+      "url": "https://sports.iheart.com/content/2026-11-08-nets-vs-mavericks-predictions-odds-stats-nov-8/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Dallas kazanır (%73)",
+      "site": "numberFire (FanDuel)",
+      "url": "https://fanduel.com/research/mavericks-vs-nets-prediction-nba-odds-spread-best-bets-for-11-8-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Dallas %65.9",
+      "site": "Prediction Lab",
+      "url": "https://predictionlab.io/blog/nba/nets-vs-mavericks-prediction-2026-11-08"
+     }
+    ],
+    "consensus": "Kaynaklar Dallas galibiyetinde birleşiyor; toplamda görüşler bölünmüş.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Nets 7 Kasım'da Atlanta'da 121-124 kaybetti; back-to-back'in ikinci gecesi."
+     },
+     {
+      "side": "home",
+      "text": "Dallas 6-3 ATS ve son 10'da O/U 3-7."
+     },
+     {
+      "side": "away",
+      "text": "Nets büyük underdog olduğu 3 maçta da handikapı geçti (3-0 ATS)."
+     },
+     {
+      "side": "home",
+      "text": "Flagg 23.9 sayı/6.4 asist, Irving 21.4 sayı."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 7 H2H'de Dallas 6 galibiyet aldı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Nets'te Egor Demin yok, Mikel Brown Jr. dinlenme nedeniyle belirsiz.",
+      "url": "https://sports.iheart.com/content/2026-11-08-nets-vs-mavericks-injury-report-nov-8/"
+     },
+     {
+      "impact": "orta",
+      "text": "Dallas'ta Dereck Lively II, Tarik Biberović ve Sergio De Larrea oynamayacak.",
+      "url": "https://deepmetricanalytics.com/nba/game/401909948"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -9.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 52,
+      "market": "Dallas Mavericks -9.5 Handikap",
+      "prob": 0.52,
+      "reason": "Nets back-to-back'in ikinci gecesinde ve -5.9 averajlı; Dallas 6-3 ATS. Modeller 112-100 çizgisinde Dallas galibiyeti bekliyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 220.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "Toplam Sayı 220.5 Alt",
+      "prob": 0.52,
+      "reason": "Dallas maçlarının 9'da 7'si alt bitti; son 10'da O/U 3-7. Gerekçe sadece yorgunluk değil, Dallas'ın sezon boyu düşük toplamları.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 45,
+      "market": "Cooper Flagg 24.5+ Sayı",
+      "prob": 0.47,
+      "reason": "Flagg maç başı 23.9 sayı atıyor; Lively'nin yokluğunda hücum yükü artıyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Nets'in büyük underdog olarak sürekli handikap karşılaması.",
+     "Dallas'ın ertesi gece Indiana maçı nedeniyle son çeyrekte rotasyonu kısması."
+    ],
+    "sources": [
+     {
+      "title": "ESPN maç önü",
+      "url": "https://www.espn.com/nba/preview?gameId=401909948"
+     },
+     {
+      "title": "DeepMetric",
+      "url": "https://deepmetricanalytics.com/nba/game/401909948"
+     },
+     {
+      "title": "StatsBench",
+      "url": "https://blog.statsbench.com/nets-vs-mavericks-prediction-props-2026-11-08"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Dallas -9.5 favori, toplam 218.5-220.5. Nets bir gece önce Atlanta'da 121-124 kaybetti ve back-to-back oynuyor; Demin yok, Mikel Brown Jr. dinlendirilebilir. Dallas'ta Lively, Biberović ve De Larrea yok ama Flagg (23.9) ve Irving (21.4) formda. Dallas maçlarının 9'da sadece 2'si üst bitti. Nets ise büyük underdog olduğu 3 maçta da handikapı karşıladı.",
+    "verdict": "Back-to-back'teki Nets'e karşı Dallas'ın -9.5'i karşılaması bekleniyor; Dallas maçları çoğunlukla alt bitiyor."
+   },
+   "createdAt": 1794172640884
+  },
+  "basketbol-2026-11-09-detroit-pistons-los-angeles-lakers": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Pistons -4.5",
+      "site": "TheSpread",
+      "url": "https://www.thespread.com/nba-articles/lakers-vs-pistons-prediction-november-8-2026/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Pistons kazanır (%71.5)",
+      "site": "numberFire (FanDuel)",
+      "url": "https://www.fanduel.com/research/pistons-vs-lakers-prediction-nba-odds-spread-best-bets-for-11-8-2026"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Lakers +4.5, Üst 221.5",
+      "site": "Covers topluluğu",
+      "url": "https://www.covers.com/sport/basketball/nba/matchup/388683/picks"
+     }
+    ],
+    "consensus": "Modeller ve profesyonel para Detroit'i destekliyor; topluluk tahminleri Lakers +4.5 ve üste yöneliyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Detroit maç başı 101.8 sayıyla ligin en az sayı yiyen takımlarından; 6-2 ATS."
+     },
+     {
+      "side": "away",
+      "text": "Lakers 8-2 ve 4 maçlık galibiyet serisinde; ATS'de 7-3."
+     },
+     {
+      "side": "away",
+      "text": "Lakers ertesi gece Atlanta'da oynayacak; back-to-back'in ilk ayağı ve uzun deplasman."
+     },
+     {
+      "side": "home",
+      "text": "Cade Cunningham maç başı 24.0 sayı, 7.6 asist."
+     },
+     {
+      "side": "neutral",
+      "text": "Moneyline'da paranın %96'sı Detroit'te."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Luka Dončić bel sıkışması nedeniyle 'questionable'.",
+      "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_11_15AM.pdf"
+     },
+     {
+      "impact": "orta",
+      "text": "Pistons'ta Jalen Duren (hamstring) ve Isaiah Joe (kalça) oynamayacak.",
+      "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_11_15AM.pdf"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -4.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 55,
+      "market": "Detroit Pistons -4.5 Handikap",
+      "prob": 0.55,
+      "reason": "Detroit 6-2 ATS, maç başı 101.8 sayı yiyor; Lakers deplasmanda yorgun ve Dončić belirsiz. Modeller %70 civarında Detroit diyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 222,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "Toplam Sayı 222 Alt",
+      "prob": 0.51,
+      "reason": "Pistons maçlarında 10'da 3 üst; Lakers deplasman maçlarının sadece 1/4'ü üst bitti. Gerekçe eksik kadro değil, Detroit'in savunma temposu.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 52,
+      "market": "Detroit Pistons 1. Yarı -2.5",
+      "prob": 0.52,
+      "reason": "Detroit son 45 maçta 2. yarı handikapını 30 kez geçti; iyi başlayan ev sahibi farkı erken açabilir.",
+      "risk": "orta"
+     }
+    ],
+    "risks": [
+     "Dončić'in oynayıp yüksek skorlu bir performans çıkarması.",
+     "Lakers'ın ligin en iyi hücumuyla toplamı kolayca aşması."
+    ],
+    "sources": [
+     {
+      "title": "NBA injury report",
+      "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_11_15AM.pdf"
+     },
+     {
+      "title": "TheSpread",
+      "url": "https://www.thespread.com/nba-articles/lakers-vs-pistons-prediction-november-8-2026/"
+     },
+     {
+      "title": "FanDuel Research",
+      "url": "https://www.fanduel.com/research/pistons-vs-lakers-prediction-nba-odds-spread-best-bets-for-11-8-2026"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Pistons -4.5 favori, toplam 221.5-222. Detroit maç başı 101.8 sayı yiyor ve 6-2 ATS; Duren ve Isaiah Joe yok. Lakers ligin en üretken hücumlarından (122 sayı) ama Dončić bel sıkışması nedeniyle 'questionable' ve takım ertesi gece Atlanta'da oynayacak. numberFire Pistons'a %71.5 kazanma ihtimali veriyor; sharp para da Detroit'te.",
+    "verdict": "Dinlenmiş ve ligin en iyi savunmalarından Pistons, Dončić'in sırtı belirsizken -4.5'i karşılamaya aday."
+   },
+   "createdAt": 1794172640884
+  },
+  "basketbol-2026-11-09-karsiyaka-besiktas": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Beşiktaş hücumda üstün, Karşıyaka savunma ve top kontrolünde iyi",
+      "site": "data4basket",
+      "url": "https://data4basket.com/en/karsiyaka-besiktas-preview-turkish-super-league"
+     }
+    ],
+    "consensus": "Ön analizler Beşiktaş'ın hücum gücünü öne çıkarıyor, Karşıyaka'nın savunmasını ise maçı yakın tutabilecek etken olarak görüyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Beşiktaş'ın hücum verimliliği 107.9, Karşıyaka'nınki 101.5."
+     },
+     {
+      "side": "home",
+      "text": "Karşıyaka maç başı 79.8 atıyor, 82.4 yiyor; iç sahada 2-1."
+     },
+     {
+      "side": "away",
+      "text": "Geçen sezon iki maçta da Beşiktaş kazandı: 86-73 (İzmir) ve 92-86."
+     },
+     {
+      "side": "home",
+      "text": "Karşıyaka son maçında Bursaspor'u deplasmanda 86-83 yendi."
+     },
+     {
+      "side": "neutral",
+      "text": "Beşiktaş hafta içi EuroLeague maçı oynadı; yorgunluk ve rotasyon belirsizliği var."
+     }
+    ],
+    "news": [],
+    "picks": [
+     {
+      "bet": {
+       "line": -3.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 53,
+      "market": "Beşiktaş -3.5 Handikap",
+      "prob": 0.53,
+      "reason": "Beşiktaş'ın hücum verimi 107.9'a karşı Karşıyaka 101.5; geçen sezon İzmir'de 13 farkla kazandı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 162.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 51,
+      "market": "Toplam Sayı 162.5 Üst",
+      "prob": 0.51,
+      "reason": "Karşıyaka maçlarında ortalama toplam 162.2; Beşiktaş EuroLeague'de yüksek tempolu oynuyor ve lig maçlarında 90+ sayı buluyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 48,
+      "market": "Beşiktaş 1. Yarı -1.5",
+      "prob": 0.5,
+      "reason": "Karşıyaka bu sezon evde ilk yarılarda direnç gösterse de Beşiktaş'ın rotasyon derinliği erken farkı destekliyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "EuroLeague yorgunluğu nedeniyle Beşiktaş'ın rotasyonu kısaltması.",
+     "Karşıyaka'nın iç saha atmosferiyle maçı son çeyreğe yakın taşıması."
+    ],
+    "sources": [
+     {
+      "title": "data4basket",
+      "url": "https://data4basket.com/en/karsiyaka-besiktas-preview-turkish-super-league"
+     },
+     {
+      "title": "SportyTrader",
+      "url": "https://www.sportytrader.com/en/results-live/pinar-karsiyaka-besiktas-jk-8931815"
+     },
+     {
+      "title": "Haberci TV",
+      "url": "https://www.habercitv.com.tr/karsiyaka-besiktas-basketbol-maci-9-kasim-saat-1900da"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "İki takım da ligde 3-3. Karşıyaka maç başı 79.8 sayı atıp 82.4 yiyor ve son iç saha maçında Fenerbahçe'ye 72-97 kaybetti. Beşiktaş hücum verimliliğinde (107.9) önde ve EuroLeague'de Bayern, Galatasaray, Virtus gibi rakipleri yendi. Geçen sezonki iki maçı da Beşiktaş kazandı (86-73 deplasmanda, 92-86 evde). EuroLeague yorgunluğu Beşiktaş için tek soru işareti.",
+    "verdict": "Kadro derinliği ve hücum verimi Beşiktaş'tan yana; deplasman takımını dar handikapla tercih ediyoruz."
+   },
+   "createdAt": 1794172640884
+  },
+  "basketbol-2026-11-09-los-angeles-clippers-new-orleans-pelica": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "hayır",
+      "prediction": "Clippers kazanır (%73.5)",
+      "site": "numberFire (FanDuel)",
+      "url": "https://www.fanduel.com/research/clippers-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-8-2026"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Clippers +1.5, Üst 230.5",
+      "site": "iHeart/Data Skrive",
+      "url": "https://sports.iheart.com/content/2026-11-08-pelicans-vs-clippers-predictions-odds-stats-nov-8/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Pelicans %53.5",
+      "site": "WagerBeasts piyasa",
+      "url": "https://wagerbeasts.com/basketball/nba/event/los-angeles-clippers-vs-new-orleans-pelicans-2026-11-09"
+     }
+    ],
+    "consensus": "Modeller ikiye bölünmüş: numberFire ve Prediction Lab Clippers'ı, piyasa ve form verisi Pelicans'ı öne çıkarıyor; toplamda üst ağırlıkta.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Pelicans 120.2 sayıyla ligin 3. hücumu; son 5 maçta 4-1."
+     },
+     {
+      "side": "home",
+      "text": "Clippers son 5 maçın hepsini kaybetti; evinde 3 maçlık yenilgi serisi."
+     },
+     {
+      "side": "home",
+      "text": "Clippers 5 oyuncudan yoksun; Garland (20.9) tek başına hücumu taşıyor."
+     },
+     {
+      "side": "away",
+      "text": "Pelicans ertesi gece Golden State'te; back-to-back'in ilk ayağı."
+     },
+     {
+      "side": "neutral",
+      "text": "Pelicans maçlarının 8'de 5'i üst bitti."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Clippers'ta Bradley Beal, Brandon Ingram, Isaiah Jackson, Jordan Miller ve Niederhäuser oynamayacak.",
+      "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_11_15AM.pdf"
+     },
+     {
+      "impact": "düşük",
+      "text": "Pelicans'ta Yves Missi diz nedeniyle yok.",
+      "url": "https://sports.iheart.com/content/2026-11-08-pelicans-vs-clippers-injury-report-nov-8/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "sel": "2",
+       "type": "1X2"
+      },
+      "confidence": 55,
+      "market": "MS 2 (Pelicans)",
+      "prob": 0.56,
+      "reason": "Clippers son 5 maçta 106.8 atıp 119.2 yedi ve Beal, Ingram, Jackson, Miller yok; Pelicans 4-1 formda.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 229.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 52,
+      "market": "Toplam Sayı 229.5 Üst",
+      "prob": 0.52,
+      "reason": "Pelicans maçlarında toplam ortalama 239 (120.2+118.8) ve 8'de 5 üst; Clippers'ın savunması son 5 maçta 119 sayı yedi.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -5.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 42,
+      "market": "Pelicans -5.5 Handikap",
+      "prob": 0.42,
+      "reason": "Pelicans'ın son 5 maçtaki galibiyetlerinin üçü 7+ farklı; Clippers'ın kısalan rotasyonu ikinci yarıda çözülebilir.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 45,
+      "market": "Zion Williamson 21.5+ Sayı",
+      "prob": 0.46,
+      "reason": "Zion maç başı 20.6 sayı atıyor; Clippers'ın iç savunmasında Jackson ve Niederhäuser yok.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Pelicans'ın ertesi gün GSW maçı nedeniyle temposunu düşürmesi.",
+     "Modellerin işaret ettiği Clippers iç saha toparlanması."
+    ],
+    "sources": [
+     {
+      "title": "NBA injury report",
+      "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_11_15AM.pdf"
+     },
+     {
+      "title": "iHeart maç önü",
+      "url": "https://sports.iheart.com/content/2026-11-08-pelicans-vs-clippers-predictions-odds-stats-nov-8/"
+     },
+     {
+      "title": "Lines.com",
+      "url": "https://www.lines.com/prediction-markets/sports/nba/nba-nop-lac-2026-11-08"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Pelicans -1.5 hafif favori, toplam 228.5-230.5. Clippers 1-7, son 5 maçın hepsini kaybetti ve 5 oyuncusu yok. Pelicans son 5 maçta 4-1, maç başı 120.2 sayıyla ligin 3. hücumu ama 118.8 sayı yiyor. Pelicans ertesi gece Golden State'te oynayacak. Bazı modeller (numberFire) Clippers'ı öne çıkarsa da piyasa Pelicans'a yöneldi.",
+    "verdict": "Beal, Ingram ve Jackson'sız Clippers'a karşı formdaki Pelicans kazanmaya daha yakın; maçın gollü (yüksek skorlu) geçmesi bekleniyor."
+   },
+   "createdAt": 1794172640884
+  },
+  "basketbol-2026-11-09-mega-superbet-dubai-basketball": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Mega +15.5 (1.71)",
+      "site": "Basketball Sphere",
+      "url": "https://basketballsphere.com/en/mega-vs-dubai-prediction-odds-aba-league-november-9-2026"
+     }
+    ],
+    "consensus": "Dubai'nin kazanması bekleniyor; Basketball Sphere farkın 15.5'in altında kalacağını düşünüyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Dubai ABA'da 5-0, maç başı 93.4 atıp 80.6 yiyor."
+     },
+     {
+      "side": "home",
+      "text": "Mega 81.4 atıp 91.6 yiyor; son maçta 104-109 uzatmada kaybetti."
+     },
+     {
+      "side": "away",
+      "text": "Dubai Cuma Bologna'da EuroLeague oynadı; seyahat yorgunluğu olabilir."
+     },
+     {
+      "side": "neutral",
+      "text": "İki takımın ABA'daki 2 maçında birer galibiyet var."
+     }
+    ],
+    "news": [
+     {
+      "impact": "düşük",
+      "text": "Mega hocası Avdalović: 'Dubai ABA ve EuroLeague'in en iyilerinden, rekabetçi olabiliriz'.",
+      "url": "https://www.bcmegabasket.net/en/2026/11/08/mega-superbet-docekuje-dubai-avdalovic-verujem-da-mozemo-da-budemo-konkurentni"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 171.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 54,
+      "market": "Toplam Sayı 171.5 Üst",
+      "prob": 0.54,
+      "reason": "Mega maçlarında ortalama toplam 173, Dubai maçlarında 174; Mega maç başı 91.6 sayı yiyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": -12.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 52,
+      "market": "Dubai Basketball -12.5 Handikap",
+      "prob": 0.52,
+      "reason": "Dubai ABA'da maç başı +12.8 averajlı; Mega'nın savunması ligin en kötülerinden. Geniş -15.5 yerine daha dar çizgi tercih edildi.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 47,
+      "market": "Dubai 1. Yarı -6.5",
+      "prob": 0.48,
+      "reason": "Kabengele ve Shengelia'nın iç sahada Mega'yı zorlaması bekleniyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Dubai'nin EuroLeague yorgunluğuyla rotasyon yapması.",
+     "Mega'nın genç kadrosunun iç sahada yüksek enerjiyle farkı kapatması."
+    ],
+    "sources": [
+     {
+      "title": "Basketball Sphere",
+      "url": "https://basketballsphere.com/en/mega-vs-dubai-prediction-odds-aba-league-november-9-2026"
+     },
+     {
+      "title": "Mega Superbet",
+      "url": "https://www.bcmegabasket.net/en/2026/11/08/mega-superbet-docekuje-dubai-avdalovic-verujem-da-mozemo-da-budemo-konkurentni"
+     },
+     {
+      "title": "ABA Liga takvim",
+      "url": "https://www.aba-liga.com/calendar"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Dubai ABA'da 5-0, 467 atıp 403 yedi (+64) ve EuroLeague'in iyi takımlarından. Mega 1-4, maç başı 81.4 atıp 91.6 yiyor; son maçta Spartak'a uzatmada 104-109 kaybetti. Piyasa Dubai'yi -15.5 favori görüyor; Basketball Sphere Mega +15.5 öneriyor. Dubai Cuma günü Bologna'da EuroLeague oynadı.",
+    "verdict": "ABA'da yenilgisiz Dubai favori; Mega'nın zayıf savunması yüksek skor işaret ediyor."
+   },
+   "createdAt": 1794172640884
+  },
+  "basketbol-2026-11-09-milwaukee-bucks-boston-celtics": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Celtics -12.5",
+      "site": "Covers",
+      "url": "https://www.covers.com/nba/celtics-vs-bucks-prediction-picks-odds-nov-8-2026"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Celtics -12.5, Alt 222.5 (118-99)",
+      "site": "Dunkel Index",
+      "url": "https://www.dunkelindex.com/news/boston-celtics-milwaukee-bucks-11-8-2026-dunkel-nba-betting-picks"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Bucks +12.5, Üst 222.5",
+      "site": "iHeart/Data Skrive",
+      "url": "https://sports.iheart.com/content/2026-11-08-celtics-vs-bucks-predictions-odds-stats-nov-8/"
+     }
+    ],
+    "consensus": "Uzman tahminlerinin çoğu Celtics'in geniş farkla kazanacağını söylüyor; bazı modeller Bucks'ın handikabı alacağını düşünüyor.",
+    "factors": [
+     {
+      "side": "away",
+      "text": "Celtics maç başı 114.8 atıyor, 105.1 yiyor (ligin 2.'si); +9.7 averaj."
+     },
+     {
+      "side": "home",
+      "text": "Bucks 1-8 ve -12.4 averajlı; 5 maçtır kazanamıyor."
+     },
+     {
+      "side": "home",
+      "text": "Bucks bu sezon 12.5+ underdog olduğu 2 maçta da handikabı geçti."
+     },
+     {
+      "side": "away",
+      "text": "Tatum 27.9 sayı ve 8 asistle dönüyor; 4 Kasım'daki 109-102'lik maçta yoktu."
+     },
+     {
+      "side": "neutral",
+      "text": "Celtics'in son 5 maçı alt bitti."
+     }
+    ],
+    "news": [
+     {
+      "impact": "yüksek",
+      "text": "Jayson Tatum geri dönüyor; Devin Carter hastalık nedeniyle yok.",
+      "url": "https://www.covers.com/nba/celtics-vs-bucks-prediction-picks-odds-nov-8-2026"
+     },
+     {
+      "impact": "düşük",
+      "text": "Bucks'ta Kam Jones gün gün takipte.",
+      "url": "https://sports.iheart.com/content/2026-11-08-celtics-vs-bucks-injury-report-nov-8"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -12.5,
+       "sel": "away",
+       "type": "AH"
+      },
+      "confidence": 52,
+      "market": "Boston Celtics -12.5 Handikap",
+      "prob": 0.52,
+      "reason": "Tatum dönüyor; Bucks -12.4 averajlı ve evinde 3 maçtır kaybediyor. Covers ve Dunkel Celtics -12.5 diyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 222.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "Toplam Sayı 222.5 Alt",
+      "prob": 0.52,
+      "reason": "Celtics'in son 5 maçı alt bitti ve sezonda 9'da 3 üst; Celtics 105.1 sayı yiyor. Dunkel 118-99 tahmin ediyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 50,
+      "market": "Boston Celtics 1. Yarı -6.5",
+      "prob": 0.51,
+      "reason": "Celtics'in savunma kalitesi ve Bucks'ın düşük hücum verimi erken farkı destekliyor.",
+      "risk": "orta"
+     }
+    ],
+    "risks": [
+     "Celtics'in farkı açınca son çeyrekte rotasyonu boşaltması.",
+     "Bucks'ın büyük underdog olarak bu sezon iki kez handikabı geçmiş olması."
+    ],
+    "sources": [
+     {
+      "title": "Covers",
+      "url": "https://www.covers.com/nba/celtics-vs-bucks-prediction-picks-odds-nov-8-2026"
+     },
+     {
+      "title": "Dunkel Index",
+      "url": "https://www.dunkelindex.com/news/boston-celtics-milwaukee-bucks-11-8-2026-dunkel-nba-betting-picks"
+     },
+     {
+      "title": "iHeart sakatlık raporu",
+      "url": "https://sports.iheart.com/content/2026-11-08-celtics-vs-bucks-injury-report-nov-8"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Celtics -12.5 favori, toplam 221.5-223.5. Bucks 1-8 ve 5 maçlık yenilgi serisinde; maç başı -12.4 averajlı. Çarşamba Boston'da 102-109 kaybedip handikabı karşıladılar ama o maçta Tatum yoktu. Tatum (27.9 sayı, 8 asist) dönüyor; Celtics ligin ikinci en iyi savunması (105.1). Celtics'in son 5 maçı alt bitti.",
+    "verdict": "Tatum dönüşüyle Celtics'in geniş handikapı karşılaması bekleniyor; Celtics maçları son 5'te alt bitti."
+   },
+   "createdAt": 1794172640884
+  },
+  "basketbol-2026-11-09-science-city-jena-hamburg-towers": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Jena kazanır (%50.8)",
+      "site": "Wincomparator",
+      "url": "https://www.wincomparator.com/it-it/pronostici/science-city-jena-hamburg-towers-8709658/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Jena -3.5, MS 1.60",
+      "site": "Sportingbet piyasa",
+      "url": "https://www.sportingbet.co.za/en/sports/events/science-city-jena-hamburg-towers-20070453"
+     }
+    ],
+    "consensus": "Piyasa ve modeller Jena'yı hafif favori görüyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Jena iç sahada 2-1 (243:240); deplasmanda 0-4."
+     },
+     {
+      "side": "away",
+      "text": "Hamburg deplasmanda 0-4 ve 301:356 (-55)."
+     },
+     {
+      "side": "home",
+      "text": "Jena son 6 H2H'nin 5'ini kazandı; son iki maç 106-95 ve 84-82."
+     },
+     {
+      "side": "away",
+      "text": "Hamburg ligde 7 maçta 568 atıp 646 yedi (-78)."
+     },
+     {
+      "side": "neutral",
+      "text": "Piyasa toplamı 168.5 olarak açtı."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Jena'da kaptan Robin Christen yine forma giyemeyecek.",
+      "url": "https://www.baskets-jena.de/news/tickets/jenaer-jenga-gegen-die-towers-science-city-empfaengt-das-bbl-schlusslicht-aus-hamburg-am-montagabend"
+     },
+     {
+      "impact": "orta",
+      "text": "Hamburg, Pau'dan forvet Juwan Gary'yi transfer etti.",
+      "url": "https://www.baskets-jena.de/news/tickets/jenaer-jenga-gegen-die-towers-science-city-empfaengt-das-bbl-schlusslicht-aus-hamburg-am-montagabend"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -3.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 54,
+      "market": "Science City Jena -3.5 Handikap",
+      "prob": 0.54,
+      "reason": "Hamburg deplasmanda 4 maçta 0-4 ve -55 averaj (maç başı -13.8); Jena evinde 2-1 ve son 6 H2H'nin 5'ini aldı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 58,
+      "market": "MS 1 (Jena)",
+      "prob": 0.6,
+      "reason": "Oran 1.60 civarında; Hamburg'un deplasman performansı ve H2H üstünlüğü Jena'yı destekliyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 48,
+      "market": "Jena 1. Yarı -1.5",
+      "prob": 0.5,
+      "reason": "Jena iç sahada maçlara güçlü başlıyor; Hamburg'un yeni transferi henüz uyum sürecinde.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Hamburg'un yeni transferle ani bir çıkış yapması.",
+     "Jena'nın kaptansız ve -82 averajlı olması; maç son saniyelere kalabilir."
+    ],
+    "sources": [
+     {
+      "title": "Science City Jena",
+      "url": "https://www.baskets-jena.de/news/tickets/jenaer-jenga-gegen-die-towers-science-city-empfaengt-das-bbl-schlusslicht-aus-hamburg-am-montagabend"
+     },
+     {
+      "title": "MDR BBL tablosu",
+      "url": "https://www.mdr.de/sport/ergebnisse/Ergebnisse-BBL-Basketball-Bundesliga-2026-2027,basketballmaenner-116.html"
+     },
+     {
+      "title": "Sportingbet",
+      "url": "https://www.sportingbet.co.za/en/sports/events/science-city-jena-hamburg-towers-20070453"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Jena 2-5 ile 14. sırada; iç sahada 2-1, deplasmanda 0-4. Kaptan Robin Christen yine yok. Hamburg 1-6 ile son sırada, deplasmanda 0-4 (-55) ve bu hafta forvet Juwan Gary'yi kadroya kattı. Jena son 6 H2H'nin 5'ini kazandı. Piyasa Jena -3.5 (MS 1.60), toplam 168.5.",
+    "verdict": "Evinde 2-1 olan ve H2H'de üstün Jena, deplasmanda galibiyetsiz Hamburg karşısında favori."
+   },
+   "createdAt": 1794172640884
+  },
+  "basketbol-2026-11-09-siroki-cibona": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "169.5 Alt (1.72)",
+      "site": "Basketball Sphere",
+      "url": "https://basketballsphere.com/en/tag/siroki-brijeg-vs-cibona-prediction"
+     }
+    ],
+    "consensus": "Tek bulunan uzman tahmini düşük toplam yönünde; taraf için belirgin bir görüş yok.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Široki 5 maçta 408-414; ortalama 81.6 atıp 82.8 yiyor."
+     },
+     {
+      "side": "away",
+      "text": "Cibona 1-4 ve -27 averaj; 89.4 sayı yiyor."
+     },
+     {
+      "side": "away",
+      "text": "Cibona maçlarında ortalama toplam 173.4."
+     },
+     {
+      "side": "home",
+      "text": "Široki son maçında Zvezda'ya 100-82 kaybetti; yorgunluk yok, bir hafta dinlendi."
+     }
+    ],
+    "news": [
+     {
+      "impact": "düşük",
+      "text": "Široki, Cibona maçı için tam katılım ve taraftar desteği çağrısı yaptı.",
+      "url": "https://hkksiroki.com/en/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -4.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 54,
+      "market": "Široki -4.5 Handikap",
+      "prob": 0.54,
+      "reason": "Cibona -27 averajla 1-4; maç başı 89.4 sayı yiyor. Široki iç sahada daha dengeli.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 169.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 50,
+      "market": "Toplam Sayı 169.5 Alt",
+      "prob": 0.51,
+      "reason": "Široki maçlarında ortalama toplam 164.4; Pecara'daki maçlar daha düşük tempolu geçiyor.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 48,
+      "market": "Široki 1. Yarı -2.5",
+      "prob": 0.5,
+      "reason": "Ev sahibi avantajı ve Cibona'nın deplasmandaki zayıf başlangıçları.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Cibona'nın köklü kadrosuyla deplasmanda sürpriz yapması.",
+     "Toplamın iki takımın ortalaması (≈169) civarında olması nedeniyle alt/üstün yazı-tura olması."
+    ],
+    "sources": [
+     {
+      "title": "Basketball Sphere",
+      "url": "https://basketballsphere.com/en/tag/siroki-brijeg-vs-cibona-prediction"
+     },
+     {
+      "title": "Mega Superbet ABA tablosu",
+      "url": "https://www.bcmegabasket.net/en/"
+     },
+     {
+      "title": "HKK Široki",
+      "url": "https://hkksiroki.com/en/"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Široki ABA'da 3-3 (son maçta Zvezda'ya 100-82 kaybetti); 5 maçta 408 atıp 414 yedi. Cibona 1-4 ve -27 averajlı; maç başı 84 atıp 89.4 yiyor. Maç Pecara Salonu'nda; Široki teknik direktörü Bagarić taraftar desteğini öne çıkardı. Basketball Sphere 169.5 Alt öneriyor.",
+    "verdict": "Evinde daha istikrarlı Široki, 1-4'lük Cibona karşısında dar farkla öne çıkıyor."
+   },
+   "createdAt": 1794172640884
+  },
+  "basketbol-2026-11-09-virtus-bologna-tezenis-verona": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "Virtus %85",
+      "site": "Kalshi piyasası",
+      "url": "https://kalshi.com/markets/kxbbserieagame/scaligera-basket-verona-vs-virtus-bologna/kxbbserieagame-26nov091400vervib"
+     },
+     {
+      "agree": "evet",
+      "prediction": "Virtus kazanır (%80.7)",
+      "site": "Wincomparator",
+      "url": "https://www.wincomparator.com/predictions/granarolo-bologna-tezenis-verona-8705727"
+     }
+    ],
+    "consensus": "Kaynaklar Virtus galibiyetinde birleşiyor; farkın büyüklüğü Virtus'un Avrupa yorgunluğuna bağlı.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Virtus 6 lig maçında 580 sayı atıp 521 yedi (+59); ribaund ve serbest atışta ligin 1.'si."
+     },
+     {
+      "side": "away",
+      "text": "Verona rakiplere %51.8 saha içi ve %40.8 üçlük isabeti bırakıyor (15. sıra)."
+     },
+     {
+      "side": "home",
+      "text": "Virtus tüm kulvarlarda 3 maçtır kaybediyor; Trieste'ye evinde 93-100 yenildi."
+     },
+     {
+      "side": "home",
+      "text": "Son 9 H2H'yi Virtus kazandı; evinde Verona'ya karşı 16-4."
+     },
+     {
+      "side": "neutral",
+      "text": "Virtus Perşembe Efes deplasmanına gidecek; rotasyon yönetimi olabilir."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Virtus'ta Tommaso Baldasso kas sakatlığı nedeniyle yok; Verona'da CJ Massinburg baldır yırtığıyla yok.",
+      "url": "https://sportando.basketball/virtus-bologna-tezenis-verona-la-situazione-e-dove-vederla-in-tv/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": -10.5,
+       "sel": "home",
+       "type": "AH"
+      },
+      "confidence": 53,
+      "market": "Virtus Bologna -10.5 Handikap",
+      "prob": 0.53,
+      "reason": "Verona rakiplere %51.8 saha içi isabet bırakıyor ve Massinburg yok; Virtus ligde maç başı +9.8 averajlı ve son 9 H2H'yi kazandı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "line": 172.5,
+       "sel": "over",
+       "type": "OU"
+      },
+      "confidence": 54,
+      "market": "Toplam Sayı 172.5 Üst",
+      "prob": 0.54,
+      "reason": "Virtus maçlarında ortalama toplam 183.5, Verona maçlarında 180; Verona'nın savunması ligin en kötülerinden.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "type": "OTHER"
+      },
+      "confidence": 48,
+      "market": "Virtus Bologna 1. Yarı -5.5",
+      "prob": 0.49,
+      "reason": "Üç maçlık yenilgi serisinden sonra Virtus'un maça sert başlaması bekleniyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Virtus'un EuroLeague temposu nedeniyle son çeyrekte rotasyonu genişletmesi.",
+     "Eurosport'un 'tehlikeli' dediği Verona hücumunun üçlüklerle maçı yakın tutması."
+    ],
+    "sources": [
+     {
+      "title": "Sportando",
+      "url": "https://sportando.basketball/virtus-bologna-tezenis-verona-la-situazione-e-dove-vederla-in-tv/"
+     },
+     {
+      "title": "Eurosport",
+      "url": "https://www.eurosport.it/basket/serie-a/2026-2027/7a-giornata-con-milano-trento-scafati-napoli-e-virtus-bologna-verona-quando-si-giocano-le-partite-e-dove-vederle-in-diretta-tv-e-live-streaming_sto23352783/story.shtml"
+     },
+     {
+      "title": "GlobalScoreX",
+      "url": "https://www.globalscorex.com/basketball/team/732/virtus-bologna"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Virtus ligde 5-1 ile lider ama tüm kulvarlarda üst üste 3 maç kaybetti (Zalgiris, Beşiktaş, Trieste). Verona 3-3, son maçında Varese'ye 88-99 kaybetti, rakiplerine %51.8 saha içi ve %40.8 üçlük isabeti bırakıyor; CJ Massinburg sakat. Virtus'ta Baldasso yok. Virtus son 9 H2H'yi kazandı; Kalshi piyasası Virtus'a %85 veriyor.",
+    "verdict": "Kötü seriyi bitirmek isteyen Virtus net favori; Verona'nın zayıf savunması yüksek skor ve geniş fark işaret ediyor."
+   },
+   "createdAt": 1794172640884
+  },
+  "futbol-2026-11-09-sabadell-real-sociedad-b": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "kısmen",
+      "prediction": "Sabadell favori (1.72)",
+      "site": "Mightytips",
+      "url": "https://www.mightytips.com/football-predictions/sabadell-vs-real-sociedad-b-prediction-09-11-2026/"
+     },
+     {
+      "agree": "evet",
+      "prediction": "%57 Sabadell, 2.5 Alt %60",
+      "site": "LiveScore365 modeli",
+      "url": "https://www.ownedcore.com/livescore/match/sabadell-vs-real-sociedad-b-799328"
+     },
+     {
+      "agree": "hayır",
+      "prediction": "Sürpriz: Real Sociedad B kazanır",
+      "site": "Trivela",
+      "url": "https://trivela.com.br/apostas/palpites-de-futebol/palpites-de-amanha-de-futebol/"
+     }
+    ],
+    "consensus": "Kaynakların çoğu Sabadell'i hafif favori görüyor ve düşük gollü maç bekliyor; Trivela ise eksikler nedeniyle deplasman sürprizine işaret ediyor.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Sabadell 12 maçta 12-11 gol averajıyla 17 puanda; maç başı 1.0 gol atıyor."
+     },
+     {
+      "side": "away",
+      "text": "Real Sociedad B son 5 maçta 1G-4M, 6 atıp 12 yedi; 11 puanla düşme hattında."
+     },
+     {
+      "side": "neutral",
+      "text": "Modeller 2.5 Alt'ı %60, KG Var'ı %41 olarak hesaplıyor."
+     },
+     {
+      "side": "neutral",
+      "text": "Son 4 karşılaşmada toplam 9 gol; Real Sociedad B 2, Sabadell 1 galibiyet aldı."
+     },
+     {
+      "side": "home",
+      "text": "Sabadell iç sahada bu sezon yenilmedi ancak 0-0 ve 1-1 gibi düşük skorlar ağırlıkta."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Sabadell'in en az üç önemli eksikle sahaya çıkacağı belirtiliyor.",
+      "url": "https://trivela.com.br/apostas/palpites-de-futebol/palpites-de-amanha-de-futebol/"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 60,
+      "market": "2.5 Alt",
+      "prob": 0.6,
+      "reason": "Sabadell 12 lig maçında toplam 23 gol (maç başı 1.9); son 5 maçının 3'ü 2.5 altında bitti ve ev sahibi gol üretmekte zorlanıyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 55,
+      "market": "KG Yok",
+      "prob": 0.55,
+      "reason": "Sabadell son 5 maçta sadece 4 gol attı; Real Sociedad B'nin ise son 5'te 4 maçta en fazla 1 gol bulduğu görülüyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "1",
+       "type": "1X2"
+      },
+      "confidence": 50,
+      "market": "MS 1",
+      "prob": 0.52,
+      "reason": "Rakip son 5'te 4 yenilgi ve 12 gol yedi; Sabadell iç sahada bu sezon kaybetmedi. Oran 1.70 civarında ve eksikler nedeniyle risk yüksek.",
+      "risk": "yüksek"
+     },
+     {
+      "bet": {
+       "sel": "2",
+       "type": "DNB"
+      },
+      "confidence": 35,
+      "market": "Beraberlikte İade 2",
+      "prob": 0.3,
+      "reason": "Son 4 H2H'nin 2'sini Real Sociedad B kazandı ve Sabadell'in eksikleri sürpriz kapısını aralıyor; küçük paylı sürpriz seçeneği.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "Sabadell'in eksiklerinin hücumu daha da zayıflatması ya da tam tersine maçı açması.",
+     "Real Sociedad B'nin genç ve hızlı yapısıyla geç gollerin toplamı aşması."
+    ],
+    "sources": [
+     {
+      "title": "Goal.com maç önü",
+      "url": "https://www.goal.com/en/match/sabadell-vs-real-sociedad-b/wsM4sOLgv-sbST1Zik1DO"
+     },
+     {
+      "title": "Vavel fikstür",
+      "url": "https://www.vavel.com/es/data/segunda-division/calendario"
+     },
+     {
+      "title": "Mightytips",
+      "url": "https://www.mightytips.com/football-predictions/sabadell-vs-real-sociedad-b-prediction-09-11-2026/"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Sabadell 12 maçta 12 atıp 11 yiyerek ligin en az gollü takımlarından; son 5 maçında sadece 4 gol attı. Real Sociedad B son 5 maçın 4'ünü kaybetti ve bu sürede 12 gol yedi, ancak deplasmanda puan çıkarabilen genç bir takım. Bahis piyasası Sabadell'e ~1.70 veriyor; istatistik modelleri 2.5 Altı %60 civarında görüyor. Sabadell'de birkaç önemli eksik olduğuna dair haberler sonucu dengeleyebilir.",
+    "verdict": "Düşük tempolu bir maç bekleniyor; Sabadell hafif favori ama net değil, en mantıklı yol 2.5 Alt."
+   },
+   "createdAt": 1794172640884
+  },
+  "futbol-2026-11-09-torreense-uniao-de-leiria": {
+   "result": {
+    "comparisons": [
+     {
+      "agree": "evet",
+      "prediction": "1-2 Leiria",
+      "site": "Dia de Jogo",
+      "url": "https://diadejogo.pt/arquivo/2026-11-06"
+     },
+     {
+      "agree": "kısmen",
+      "prediction": "Torreense ilk yarıda gol atar",
+      "site": "Trivela",
+      "url": "https://trivela.com.br/apostas/palpites-de-futebol/palpites-de-amanha-de-futebol/"
+     }
+    ],
+    "consensus": "Oranlar Torreense'yi %44 ile hafif favori görse de Dia de Jogo Leiria galibiyeti bekliyor; H2H ise ev sahibinden yana.",
+    "factors": [
+     {
+      "side": "home",
+      "text": "Torreense iç sahada maç başı 0.8 gol atıyor, 1.3 yiyor; ligde 12. sırada 10 puan."
+     },
+     {
+      "side": "away",
+      "text": "Leiria deplasmanda maç başı 1.8 gol atıyor, 1.5 yiyor; 14 puanla 9. sırada."
+     },
+     {
+      "side": "home",
+      "text": "H2H'de Torreense son 5 maçın 4'ünü kazandı (3-1, 3-1, 3-1, 2-1)."
+     },
+     {
+      "side": "away",
+      "text": "Leiria 9 gün dinlenmiş; Torreense Perşembe Avrupa maçı oynadı."
+     },
+     {
+      "side": "neutral",
+      "text": "Leiria ilk yarıları son 6 maçın 5'inde geride kapattı; yavaş başlayan bir takım."
+     }
+    ],
+    "news": [
+     {
+      "impact": "orta",
+      "text": "Torreense'de João Nuno 31 Ekim'den beri teknik direktör; takım 5 Kasım'da Ararat-Armenia'yı 3-2 yendi.",
+      "url": "https://pitchlabstats.com/match/2026-11-09-torreense-uniao-de-leiria"
+     },
+     {
+      "impact": "orta",
+      "text": "Leiria 9, Torreense 4 gün dinlenmiş olarak maça çıkıyor.",
+      "url": "https://diadejogo.pt/arquivo/2026-11-06"
+     }
+    ],
+    "picks": [
+     {
+      "bet": {
+       "line": 2.5,
+       "sel": "under",
+       "type": "OU"
+      },
+      "confidence": 56,
+      "market": "2.5 Alt",
+      "prob": 0.56,
+      "reason": "Torreense'nin 9 lig maçında toplam 18 gol var (maç başı 2.0); iç sahadaki 4 maçın 2'si 3+ golle bitti, son iki lig maçı 0-0 ve 1-0.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "X2",
+       "type": "DC"
+      },
+      "confidence": 54,
+      "market": "Çifte Şans X2",
+      "prob": 0.53,
+      "reason": "Leiria son 5 resmi maçta 3G-1B-1M ve 9 gün dinlenmiş; Torreense iç sahada maç başı 0.8 gol atıyor ve Perşembe Avrupa'da oynadı.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "no",
+       "type": "BTTS"
+      },
+      "confidence": 54,
+      "market": "KG Yok",
+      "prob": 0.54,
+      "reason": "Torreense'nin iç saha maçlarının sadece 1/4'ünde karşılıklı gol oldu; ev sahibi bu sezon sık sık gol bulamıyor.",
+      "risk": "orta"
+     },
+     {
+      "bet": {
+       "sel": "2",
+       "type": "DNB"
+      },
+      "confidence": 40,
+      "market": "Beraberlikte İade 2",
+      "prob": 0.4,
+      "reason": "Dia de Jogo 1-2 Leiria tahmini veriyor; dinlenme avantajı ve deplasman gol ortalaması (1.8) bu seçeneği destekliyor.",
+      "risk": "yüksek"
+     }
+    ],
+    "risks": [
+     "H2H'de Torreense'nin Leiria'ya karşı istikrarlı üstünlüğü.",
+     "Yeni hocanın etkisiyle Torreense'nin beklenenden açık oynaması."
+    ],
+    "sources": [
+     {
+      "title": "Goal.com maç önü",
+      "url": "https://www.goal.com/en-gb/match/torreense-vs-uniao-de-leiria/Znf_Db5lLN0XjuqH6ukTL"
+     },
+     {
+      "title": "PitchLab",
+      "url": "https://pitchlabstats.com/match/2026-11-09-torreense-uniao-de-leiria"
+     },
+     {
+      "title": "Dia de Jogo",
+      "url": "https://diadejogo.pt/torreense/09-11-2026-uniao-de-leiria-liga-2"
+     }
+    ],
+    "statsUsed": false,
+    "summary": "Torreense ligde 9 maçta 8 gol attı ve iç sahada maç başı sadece 0.8 gol buluyor; 5 Kasım'da Avrupa'da Ararat'ı 3-2 yendikten sonra 4 gün dinlenebildi. Yeni teknik direktör João Nuno ikinci haftasında. Leiria 9 gün dinlenmiş geliyor ve deplasmanda maç başı 1.8 gol atıyor. H2H Torreense lehine (son 5'te 4 galibiyet) ama form ve dinlenme farkı Leiria'dan yana.",
+    "verdict": "Gol üretmekte zorlanan ve Avrupa dönüşü yorgun Torreense karşısında Leiria kaybetmeyen taraf olarak değerli; düşük skor bekleniyor."
+   },
+   "createdAt": 1794172640884
+  }
+ },
+ "futbol": {
+  "matches": [
+   {
+    "id": "futbol-2026-11-09-sabadell-real-sociedad-b",
+    "league": "La Liga 2",
+    "time": "22:30",
+    "home": "Sabadell",
+    "away": "Real Sociedad B",
+    "venue": "Estadi de la Nova Creu Alta, Sabadell",
+    "note": "Milli arada oynanan nadir maçlardan; orta sıradaki Sabadell, 4 maçtır kaybeden Real Sociedad B'yi ağırlıyor."
+   },
+   {
+    "id": "futbol-2026-11-09-torreense-uniao-de-leiria",
+    "league": "Liga Portugal 2",
+    "time": "23:15",
+    "home": "Torreense",
+    "away": "União de Leiria",
+    "venue": "Estádio Manuel Marques, Torres Vedras",
+    "note": "Yeni hocası João Nuno'yla Avrupa dönüşü Torreense, dinlenmiş Leiria'yı konuk ediyor."
+   }
+  ]
+ },
+ "basketbol": {
+  "matches": [
+   {
+    "id": "basketbol-2026-11-09-karsiyaka-besiktas",
+    "league": "Basketbol Süper Ligi",
+    "time": "19:00",
+    "home": "Karşıyaka",
+    "away": "Beşiktaş",
+    "venue": "Mustafa Kemal Atatürk Karşıyaka Spor Salonu, İzmir",
+    "note": "3-3'lük iki takımın haftayı kapatan maçı; EuroLeague temposundaki Beşiktaş İzmir deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-11-09-detroit-pistons-los-angeles-lakers",
+    "league": "NBA",
+    "time": "02:00",
+    "home": "Detroit Pistons",
+    "away": "Los Angeles Lakers",
+    "venue": "Little Caesars Arena, Detroit",
+    "note": "Batı lideri Lakers (8-2), ligin en iyi savunmalarından Pistons'a (6-2) konuk; Dončić'in durumu belirsiz."
+   },
+   {
+    "id": "basketbol-2026-11-09-dallas-mavericks-brooklyn-nets",
+    "league": "NBA",
+    "time": "03:30",
+    "home": "Dallas Mavericks",
+    "away": "Brooklyn Nets",
+    "venue": "American Airlines Center, Dallas",
+    "note": "Cooper Flagg'li Dallas, üst üste ikinci gecesindeki Nets'i ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-11-09-milwaukee-bucks-boston-celtics",
+    "league": "NBA",
+    "time": "04:00",
+    "home": "Milwaukee Bucks",
+    "away": "Boston Celtics",
+    "venue": "Fiserv Forum, Milwaukee",
+    "note": "Tatum'un döndüğü Celtics (7-2), 5 maçtır kaybeden Bucks (1-8) deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-11-09-los-angeles-clippers-new-orleans-pelica",
+    "league": "NBA",
+    "time": "05:00",
+    "home": "Los Angeles Clippers",
+    "away": "New Orleans Pelicans",
+    "venue": "Intuit Dome, Inglewood",
+    "note": "Eksik kadrolu Clippers (1-7), son 5 maçta 4 galibiyetli Pelicans'a karşı seriyi kırmaya çalışıyor."
+   },
+   {
+    "id": "basketbol-2026-11-09-virtus-bologna-tezenis-verona",
+    "league": "LBA",
+    "time": "22:00",
+    "home": "Virtus Bologna",
+    "away": "Tezenis Verona",
+    "venue": "Bologna",
+    "note": "Lider Virtus, tüm kulvarlarda 3 maçlık yenilgi serisini yeni çıkan Verona karşısında bitirmek istiyor."
+   },
+   {
+    "id": "basketbol-2026-11-09-crvena-zvezda-slovan-bratislava",
+    "league": "ABA Ligi",
+    "time": "20:00",
+    "home": "Crvena Zvezda",
+    "away": "Slovan Bratislava",
+    "venue": "Aleksandar Nikolić Salonu, Belgrad",
+    "note": "Olympiacos'u deplasmanda yenen Zvezda, 5 maçlık galibiyet serisindeki Slovan'ı ilk kez ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-11-09-siroki-cibona",
+    "league": "ABA Ligi",
+    "time": "21:00",
+    "home": "Široki",
+    "away": "Cibona",
+    "venue": "Pecara Spor Salonu, Široki Brijeg",
+    "note": "Evinde güçlü Široki, 1-4'lük Cibona'yı ağırlıyor."
+   },
+   {
+    "id": "basketbol-2026-11-09-mega-superbet-dubai-basketball",
+    "league": "ABA Ligi",
+    "time": "22:00",
+    "home": "Mega Superbet",
+    "away": "Dubai Basketball",
+    "venue": "Ranko Žeravica Salonu, Belgrad",
+    "note": "ABA'da 5'te 5 yapan Dubai, genç Mega deplasmanında."
+   },
+   {
+    "id": "basketbol-2026-11-09-science-city-jena-hamburg-towers",
+    "league": "BBL",
+    "time": "22:00",
+    "home": "Science City Jena",
+    "away": "Hamburg Towers",
+    "venue": "Sparkassen-Arena, Jena",
+    "note": "Alt sıraların 'dört puanlık' maçı: Jena, ligin sonuncusu Hamburg'u ağırlıyor."
+   }
+  ]
+ }
+}
