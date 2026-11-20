@@ -1,17 +1,15 @@
 {
- "at": 1795122071887,
- "day": "2026-11-20",
+ "at": 1795208817443,
+ "day": "2026-11-21",
  "source": "football-data.org",
- "matches": 3,
+ "matches": 25,
  "perLeague": {
-  "Premier Lig": 0,
-  "Eredivisie": 0,
-  "La Liga": 1,
-  "Serie A": 0,
-  "Bundesliga": 1,
-  "Ligue 1": 1,
-  "Şampiyonlar Ligi": 0
+  "Premier Lig": 7,
+  "Eredivisie": 5,
+  "La Liga": 4,
+  "Serie A": 4,
+  "Bundesliga": 6
  },
- "calls": 19,
+ "calls": 85,
  "errors": []
 }
