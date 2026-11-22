@@ -1,19 +1,17 @@
 {
- "at": 1795294664067,
- "day": "2026-11-22",
+ "at": 1795380789990,
+ "day": "2026-11-23",
  "source": "football-data.org",
- "matches": 20,
+ "matches": 3,
  "perLeague": {
-  "Premier Lig": 2,
-  "Eredivisie": 4,
-  "La Liga": 4,
-  "Serie A": 5,
-  "Bundesliga": 2,
-  "Ligue 1": 3,
+  "Premier Lig": 1,
+  "Eredivisie": 0,
+  "La Liga": 1,
+  "Serie A": 1,
+  "Bundesliga": 0,
+  "Ligue 1": 0,
   "Şampiyonlar Ligi": 0
  },
- "calls": 73,
- "errors": [
-  "/competitions/SA/standings HTTP 404 {\"message\":\"The resource you are looking for does not exist.\",\"error\":404}"
- ]
+ "calls": 19,
+ "errors": []
 }
